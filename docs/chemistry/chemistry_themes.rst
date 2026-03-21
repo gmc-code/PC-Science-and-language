@@ -3,14 +3,107 @@ Information Report: Types of Physical Changes
 
 Read the following information report about physical changes. Notice how the text opener and paragraph openers set the Theme for the whole report and each section.
 
+PEEL is a paragraph structure used to help students write clear, logical, well‑developed paragraphs.
+Each letter stands for a different part of the paragraph:
 
-Physical changes are changes that alter the form or appearance of a substance without creating anything new. In all physical changes, the particles remain the same even if their arrangement shifts. These changes can be grouped into several categories, but three of the most common involve changes in state, size, and shape. Each type can be understood by considering how particles behave during the change.
+P - Point
+    The first sentence makes the main point of the paragraph.
+    It tells the reader exactly what the paragraph will be about.
 
-Changes of state occur when a substance moves between solid, liquid, and gas. These changes happen because particles gain or lose energy, causing them to move closer together or further apart. Even though the substance may melt, freeze, or evaporate, its particles remain the same. This means the material keeps its identity, even when it looks different.
+E - Explanation
+    The next sentence explains the point in more detail.
+    It answers: How does it work? Why does it happen? What does it mean?
 
-Changes in size happen when a material is cut, broken, shredded, or divided into smaller pieces. These actions rearrange the particles but do not alter what they are made of. Although the material may appear very different after being reduced in size, it is still the same substance. Because no new material forms, the total amount of matter stays the same.
+E - Evidence / Example
+    This sentence gives a concrete example, observation, or piece of evidence.
+    It shows the idea in action.
 
-Changes in shape involve bending, folding, stretching, or inflating a material. These changes affect how the particles are arranged but do not change the particles themselves. A substance may look dramatically different after being reshaped, yet it remains the same material. Some shape changes can be reversed, while others cannot, but in all cases the substance itself does not change.
+L - Link
+    The final sentence links back to the main idea or topic.
+    It wraps up the paragraph and reinforces the key message.
+
+The SFG pattern:
+    HyperTheme (Topic sentence / Point)
+    Explanation (How the process works)
+    Elaboration (Clarifying detail)
+    Generalisation (Link)
+
+---
+
+Physical changes are changes that alter the form or appearance of a substance without creating anything new. In these changes, the particles remain the same even though their arrangement may shift, meaning the substance keeps its identity. These changes can be grouped into several categories, and three common examples are changes in state, size, and shape. These categories show that physical changes can look different on the surface, but they all involve the same particles being rearranged rather than transformed into something new.
+
+Changes of state occur when a substance moves between solid, liquid, and gas. These changes happen because particles gain or lose energy, causing them to move closer together or further apart. For example, when ice melts into water, the particles gain energy and move more freely, even though they remain the same type of particles. This shows that during state changes, the substance keeps its identity because only the arrangement of particles changes, not the particles themselves.
+
+Changes in size happen when a material is cut, broken, shredded, or divided into smaller pieces. These actions rearrange the particles but do not alter what they are made of. For instance, when a piece of chalk is snapped in half, both pieces are still made of the same material even though they are smaller. This demonstrates that size changes do not create new substances, because the particles remain unchanged.
+
+Changes in shape involve bending, folding, stretching, or inflating a material. These changes affect how the particles are arranged but do not change the particles themselves. For example, when a balloon is inflated, the rubber stretches into a new shape, yet the material remains rubber. This confirms that shape changes alter appearance only, not the substance itself.
+
+----
+
+PEEL Paragraphs on Types of Physical Changes
+============================================
+
+Introduction
+------------
+**Point:**
+Physical changes are changes that alter the form or appearance of a substance without creating anything new.
+
+**Explanation:**
+In all physical changes, the particles remain the same even if their arrangement shifts, meaning the substance keeps its identity.
+
+**Example:**
+These changes can be grouped into several categories, and three common examples are changes in state, size, and shape.
+
+**Link:**
+These categories show that physical changes can look different on the surface, but they all involve the same particles being rearranged rather than transformed into something new.
+
+
+Changes of State
+----------------
+**Point:**
+Changes of state occur when a substance moves between solid, liquid, and gas.
+
+**Explanation:**
+These changes happen because particles gain or lose energy, causing them to move closer together or further apart.
+
+**Example:**
+For example, when ice melts into water, the particles gain energy and move more freely, even though they remain the same type of particles.
+
+**Link:**
+This shows that during state changes, the substance keeps its identity because only the arrangement of particles changes, not the particles themselves.
+
+
+Changes in Size
+---------------
+**Point:**
+Changes in size happen when a material is cut, broken, shredded, or divided into smaller pieces.
+
+**Explanation:**
+These actions rearrange the particles but do not alter what they are made of.
+
+**Example:**
+For instance, when a piece of chalk is snapped in half, both pieces are still made of the same material even though they are smaller.
+
+**Link:**
+This demonstrates that size changes do not create new substances, because the particles remain unchanged.
+
+
+Changes in Shape
+----------------
+**Point:**
+Changes in shape involve bending, folding, stretching, or inflating a material.
+
+**Explanation:**
+These changes affect how the particles are arranged but do not change the particles themselves.
+
+**Example:**
+For example, when a balloon is inflated, the rubber stretches into a new shape, yet the material remains rubber.
+
+**Link:**
+This confirms that shape changes alter appearance only, not the substance itself.
+
+
+---
 
 Structure Explained Simply
 ==========================
@@ -48,8 +141,11 @@ These openers keep the reader oriented, maintain a clear Theme pattern, and buil
 3. Why This Matters
 -------------------
 
-The text opener sets the overall Theme of the whole report.
-The paragraph openers set the Theme for each section.
+| The text opener sets the overall Theme of the whole report.
+| The paragraph openers set the Theme for each section.
+| This structure helps the reader understand the main ideas and how they connect. It makes the report easier to follow and more engaging to read.
+
+----
 
 Information Report: Four Signs of a Chemical Reaction
 =====================================================
