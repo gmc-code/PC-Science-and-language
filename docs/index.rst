@@ -18,6 +18,6 @@ PC-science-SFG
     :caption: 📚 Chemistry
     :numbered:
 
+    chemistry/chemistry_PEEL.rst
     chemistry/chemistry_themes.rst
-
-    start chrome C:\Users\gmccarthy\Documents\PC_RTD_GITHUB_resources\PC-science-SFG\docs\_build\html\index.html
+    chemistry/chemistry_PRO.rst
