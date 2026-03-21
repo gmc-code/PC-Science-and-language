@@ -1,34 +1,47 @@
-Information Report: Types of Physical Changes
-======================================================
+=====================
+Information Reports
+=====================
 
-Read the following information report about physical changes. Notice how the text opener and paragraph openers set the Theme for the whole report and each section.
+Peel and SFG Paragraph Structures for Writing Information Reports in Chemistry are explained in this section. The examples focus on physical and chemical changes, but the structures can be applied to any topic  of science more broadly. The information reports are designed to help students understand how to organise their writing clearly and logically, using the PEEL and SFG patterns to structure their paragraphs effectively.
 
-PEEL is a paragraph structure used to help students write clear, logical, well‑developed paragraphs.
-Each letter stands for a different part of the paragraph:
+PEEL Paragraph Structure
+---------------------------
+
+| PEEL is a paragraph structure used to help students write clear, logical, well‑developed paragraphs.
+| Each letter stands for a different part of the paragraph:
 
 P - Point
-    The first sentence makes the main point of the paragraph.
-    It tells the reader exactly what the paragraph will be about.
+    | The first sentence makes the main point of the paragraph.
+    | It tells the reader exactly what the paragraph will be about.
 
 E - Explanation
-    The next sentence explains the point in more detail.
-    It answers: How does it work? Why does it happen? What does it mean?
+    | The next sentence explains the point in more detail.
+    | It answers: How does it work? Why does it happen? What does it mean?
 
 E - Evidence / Example
-    This sentence gives a concrete example, observation, or piece of evidence.
-    It shows the idea in action.
+    | This sentence gives a concrete example, observation, or piece of evidence.
+    | It shows the idea in action.
 
 L - Link
-    The final sentence links back to the main idea or topic.
-    It wraps up the paragraph and reinforces the key message.
+    | The final sentence links back to the main idea or topic.
+    | It wraps up the paragraph and reinforces the key message.
+
+SFG Paragraph Structure
+---------------------------
 
 The SFG pattern:
-    HyperTheme (Topic sentence / Point)
-    Explanation (How the process works)
-    Elaboration (Clarifying detail)
-    Generalisation (Link)
+    | HyperTheme (Topic sentence / Point)
+    | Explanation (How the process works)
+    | Elaboration (Clarifying detail)
+    | Generalisation (Link)
 
----
+----
+
+Information Report: Types of Physical Changes
+------------------------------------------------
+
+| Read the following information report about physical changes.
+| Notice how the text opener and paragraph openers set the Theme for the whole report and each section.
 
 Physical changes are changes that alter the form or appearance of a substance without creating anything new. In these changes, the particles remain the same even though their arrangement may shift, meaning the substance keeps its identity. These changes can be grouped into several categories, and three common examples are changes in state, size, and shape. These categories show that physical changes can look different on the surface, but they all involve the same particles being rearranged rather than transformed into something new.
 
@@ -41,7 +54,7 @@ Changes in shape involve bending, folding, stretching, or inflating a material. 
 ----
 
 PEEL Paragraphs on Types of Physical Changes
-============================================
+-----------------------------------------------
 
 Introduction
 ------------
