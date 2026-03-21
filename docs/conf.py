@@ -5,7 +5,7 @@
 # import os
 # import sys
 import sphinx_rtd_theme
-project = 'PC-science-SFG'
+project = 'PC-Science-and-language'
 copyright = '2026, GMC'
 author = 'GMC'
 
