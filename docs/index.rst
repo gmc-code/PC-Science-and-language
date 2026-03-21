@@ -1,9 +1,9 @@
-.. PC-science-SFG documentation master file.
+.. PC-Science-and-language documentation master file.
 .. Use https://emojipedia.org/repeat-button/ for icons/emojis
 .. https://emojidb.org/maths-emojis
 
 ====================================================
-PC-science-SFG
+PC-Science-and-language
 ====================================================
 
 .. toctree::
