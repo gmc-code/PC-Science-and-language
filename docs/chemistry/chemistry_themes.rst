@@ -7,11 +7,12 @@ Peel and SFG Paragraph Structures for Writing Information Reports in Chemistry a
 PEEL Paragraph Structure
 ---------------------------
 
-| PEEL is a paragraph structure used to help students write clear, logical, well‑developed paragraphs.
+| PEEL is a paragraph structure used to help students write clear, logical, well-developed paragraphs.
 | Each letter stands for a different part of the paragraph:
 
 P - Point
     | The first sentence makes the main point of the paragraph.
+    | It introduces the topic or idea that will be explained in the rest of the paragraph.
     | It tells the reader exactly what the paragraph will be about.
 
 E - Explanation
@@ -29,7 +30,7 @@ L - Link
 SFG Paragraph Structure
 ---------------------------
 
-The SFG pattern:
+In SFG, this pattern is staged structure of an explanatory paragraph:
     | HyperTheme (Topic sentence / Point)
     | Explanation (How the process works)
     | Elaboration (Clarifying detail)
@@ -41,6 +42,8 @@ Information Report: Types of Physical Changes
 ------------------------------------------------
 
 | Read the following information report about physical changes.
+| This information report uses a PEEL-style paragraph structure, which aligns closely with the SFG stages of HyperTheme, Explanation, Elaboration, and Generalisation.
+| Each paragraph begins with a clear topic sentence, explains the scientific idea, provides an example, and finishes by linking back to the main concept of physical change.
 | Notice how the text opener and paragraph openers set the Theme for the whole report and each section.
 
 Physical changes are changes that alter the form or appearance of a substance without creating anything new. In these changes, the particles remain the same even though their arrangement may shift, meaning the substance keeps its identity. These changes can be grouped into several categories, and three common examples are changes in state, size, and shape. These categories show that physical changes can look different on the surface, but they all involve the same particles being rearranged rather than transformed into something new.
@@ -118,22 +121,22 @@ This confirms that shape changes alter appearance only, not the substance itself
 
 ---
 
-Structure Explained Simply
-==========================
+Text and Paragraph openers
+============================
 
 1. The Text Opener (General Statement)
 --------------------------------------
 
 The text opener is the first sentence or first short paragraph. Its job is to tell the reader what the whole report is about. It introduces the topic in a clear, general way. It uses a topic sentence that comes first in the paragraph.
 
-Example pattern::
+Example pattern:
 
    Physical changes are changes that alter a substance without forming something new.
 
 This opener gives the reader the big idea before any details appear.
 
 2. Paragraph Openers
---------------------
+-----------------------
 
 Each paragraph begins with a hyperTheme — a sentence that tells the reader what that paragraph will focus on.
 
@@ -143,11 +146,11 @@ A good paragraph opener:
 - Signals what kind of information will follow
 - Keeps the text cohesive by linking back to the main topic
 
-Example patterns::
+Example patterns:
 
-   Changes of state occur when a substance moves between solid, liquid, and gas.
-   Changes in size happen when a material is cut or broken.
-   Changes in shape involve bending, folding, or stretching a material.
+   | Changes of state occur when a substance moves between solid, liquid, and gas.
+   | Changes in size happen when a material is cut or broken.
+   | Changes in shape involve bending, folding, or stretching a material.
 
 These openers keep the reader oriented, maintain a clear Theme pattern, and build the report in a logical, predictable way.
 
