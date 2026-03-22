@@ -25,6 +25,15 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
+    :caption: 📚 Explanations
+    :numbered:
+
+    language/Sequential_explanations.rst
+
+
+
+.. toctree::
+    :maxdepth: 2
     :caption: 📚 Chemistry
     :numbered:
 
