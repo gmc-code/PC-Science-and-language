@@ -1,12 +1,23 @@
 ================================================
-Chemistry -- PRO Paragraph Structures
+PRO Paragraph Structures
 ================================================
 
-PRO (Premise-Reasoning-Outcome) Paragraph Structures
--------------------------------------------------------------
-
 Worked Example: PRO Paragraph
-=============================
+-----------------------------
+
+Consider the following questions that might be posed in a chemistry context:
+
+- “Why does the pressure inside a container increase when a gas is heated?”
+- “Explain why heating a gas causes an increase in pressure.”
+- “Why does a gas exert more pressure when its temperature rises?”
+- “Describe the effect of heating on the pressure of a gas in a sealed container.”
+- “How does particle motion explain the increase in pressure when a gas is heated?”
+
+All of these invite the same PRO structure:
+
+- Premise: Heating increases particle kinetic energy.
+- Reasoning: Faster particles collide more often and with more force.
+- Outcome: Therefore, pressure increases.
 
 The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) structure operates in a scientific explanation.
 
