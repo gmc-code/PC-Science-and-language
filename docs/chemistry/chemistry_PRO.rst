@@ -83,7 +83,7 @@ Therefore, the clay changes shape but remains the same substance.
                 :O:`Outcome (O):`
                 ``____________________________________________________________``
 
-                .. code::
+                .. container:: pro-answer
 
                     :P:`Premise (P):`
                     Boiling provides enough heat energy for liquid particles to move rapidly and

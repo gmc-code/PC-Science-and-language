@@ -318,3 +318,10 @@ span.O, .O {
     color: #2ca02c;      /* green */
     font-weight: bold;
 }
+
+.pro-answer {
+    background: #f5f5f5;
+    padding: 1em;
+    border-radius: 6px;
+    font-family: monospace;
+}
