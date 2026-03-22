@@ -9,47 +9,47 @@ PRO Questions and Responses: Physical Changes
 1. Why does ice melt when it is heated?
 ---------------------------------------
 
-
-**Premise (P):**
+**:p:`Premise (P):`**
 Heating a solid increases the kinetic energy of its particles.
 
-**Reasoning (R):**
-As the particles gain energy, they vibrate more strongly and eventually
-overcome the forces holding them in fixed positions.
 
-**Outcome (O):**
+**:r:`Reasoning (R):`**
+As the particles gain energy, they vibrate more strongly and eventually overcome the forces holding them in fixed positions.
+
+
+**:o:`Outcome (O):`**
 Therefore, the solid changes state into a liquid.
 
 ----
 
 
-2. Why does a metal rod become longer when heated?
+1. Why does a metal rod become longer when heated?
 --------------------------------------------------
 
-**Premise (P):**
+**:p:`Premise (P):`**
 When a material is heated, its particles gain kinetic energy and move further apart.
 
-**Reasoning (R):**
+**:r:`Reasoning (R):`**
 Because the particles vibrate more and push against each other with greater
 force, the spacing between them increases.
 
-**Outcome (O):**
+**:o:`Outcome (O):`**
 Therefore, the metal rod expands and becomes longer.
 
 ----
 
-3. Why does modelling clay change shape when you press it?
+1. Why does modelling clay change shape when you press it?
 ----------------------------------------------------------
 
-**Premise (P):**
+**:p:`Premise (P):`**
 Modelling clay is a soft solid whose particles can slide past each other when
 a force is applied.
 
-**Reasoning (R):**
+**:r:`Reasoning (R):`**
 When you press the clay, the applied force causes the particles to shift into
 new positions without breaking the material.
 
-**Outcome (O):**
+**:o:`Outcome (O):`**
 Therefore, the clay changes shape but remains the same substance.
 
 ----
@@ -71,28 +71,28 @@ Therefore, the clay changes shape but remains the same substance.
 
                 Why does water turn into water vapour when it is boiled?
 
-                **Premise (P):**
+                **:p:`Premise (P):`**
                 Boiling provides enough heat energy for liquid particles to move rapidly and
                 break free from the forces holding them together.
 
-                **Reasoning (R):**
+                **:r:`Reasoning (R):`**
                 As the particles gain more kinetic energy, they move far apart and escape the
                 surface of the liquid.
 
-                **Outcome (O):**
-                Therefore, the liquid changes state into a gas.
+                **:o:`Outcome (O):`**
+                ``____________________________________________________________``
 
-                .. code-block::
+                .. code::
 
-                    **Premise (P):**
+                    **:p:`Premise (P):`**
                     Boiling provides enough heat energy for liquid particles to move rapidly and
                     break free from the forces holding them together.
 
-                    **Reasoning (R):**
+                    **:r:`Reasoning (R):`**
                     As the particles gain more kinetic energy, they move far apart and escape the
                     surface of the liquid.
 
-                    **Outcome (O):**
+                    **:o:`Outcome (O):`**
                     Therefore, the liquid changes state into a gas.
 
 
@@ -100,29 +100,29 @@ Therefore, the clay changes shape but remains the same substance.
 1. Why does a rubber band stretch when you pull it?
 ---------------------------------------------------
 
-**Premise (P):**
+**:p:`Premise (P):`**
 Rubber is made of long, coiled polymer chains that can uncoil when a force is
 applied.
 
-**Reasoning (R):**
+**:r:`Reasoning (R):`**
 When you pull the rubber band, the force straightens and extends these chains
 without breaking them.
 
-**Outcome (O):**
+**:o:`Outcome (O):`**
 Therefore, the rubber band becomes longer but remains the same material.
 
 
 6. Why does a piece of chalk break when you bend it?
 ----------------------------------------------------
 
-**Premise (P):**
+**:p:`Premise (P):`**
 Chalk is a brittle solid whose particles are held together in a rigid, inflexible
 structure.
 
-**Reasoning (R):**
+**:r:`Reasoning (R):`**
 When a bending force is applied, the rigid structure cannot adjust or bend, so
 the particles separate instead of shifting.
 
-**Outcome (O):**
+**:o:`Outcome (O):`**
 Therefore, the chalk breaks into smaller pieces without changing its substance.
 

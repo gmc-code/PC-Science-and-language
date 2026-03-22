@@ -43,8 +43,8 @@ Consider the following questions that might be posed in a chemistry context:
 
 All of these invite the same PRO structure:
 
-- :p:`Premise: Heating increases particle kinetic energy.``
-- :r:`Reasoning: Faster particles collide more often and with more force.``
+- :p:`Premise: Heating increases particle kinetic energy.`
+- :r:`Reasoning: Faster particles collide more often and with more force.`
 - :o:`Outcome: Therefore, pressure increases.`
 
 The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) structure operates in a scientific explanation.
