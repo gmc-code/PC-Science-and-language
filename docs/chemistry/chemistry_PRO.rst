@@ -9,8 +9,9 @@ PRO Physical Changes
 .. role:: R
 .. role:: O
 
-1. Why does ice melt when it is heated?
----------------------------------------
+Examine the following examples of PRO (Premise-Reasoning-Outcome) structures in scientific explanations:
+
+.. rubric::  Why does ice melt when it is heated?
 
 :P:`Premise (P):`
 Heating a solid increases the kinetic energy of its particles.
@@ -23,9 +24,7 @@ Therefore, the solid changes state into a liquid.
 
 ----
 
-
-1. Why does a metal rod become longer when heated?
---------------------------------------------------
+.. rubric::  Why does a metal rod become longer when heated?
 
 :P:`Premise (P):`
 When a material is heated, its particles gain kinetic energy and move further apart.
@@ -39,8 +38,7 @@ Therefore, the metal rod expands and becomes longer.
 
 ----
 
-3. Why does modelling clay change shape when you press it?
-----------------------------------------------------------
+.. rubric::  Why does modelling clay change shape when you press it?
 
 :P:`Premise (P):`
 Modelling clay is a soft solid whose particles can slide past each other when
@@ -59,7 +57,7 @@ Therefore, the clay changes shape but remains the same substance.
 
     Complete the Outcome (O).
 
-    #. Why does water turn into water vapour when it is boiled?
+    1. Why does water turn into water vapour when it is boiled?
 
         :P:`Premise (P):`
         Boiling provides enough heat energy for liquid particles to move rapidly and
@@ -99,7 +97,7 @@ Therefore, the clay changes shape but remains the same substance.
 
     Complete the Reasoning (R).
 
-    #. Why does a rubber band stretch when you pull it?
+    2. Why does a rubber band stretch when you pull it?
 
         :P:`Premise (P):`
         Rubber is made of long, coiled polymer chains that can uncoil when a force is
@@ -138,7 +136,7 @@ Therefore, the clay changes shape but remains the same substance.
 
     Complete the Premise (P).
 
-    #. Why does a piece of chalk break when you bend it?
+    3. Why does a piece of chalk break when you bend it?
 
         :P:`Premise (P):`
         Chalk is a ``__________________`` solid whose ``__________________`` are held together in a rigid, inflexible
@@ -181,7 +179,7 @@ Therefore, the clay changes shape but remains the same substance.
     **Word list (A → Z):**  are • deform • flow • has • is applied • keeps • move • packed • spread • held
 
 
-    #. Why does a solid keep its shape?
+    4. Why does a solid keep its shape?
 
         :P:`Premise (P):`
         A solid ``__________`` particles that ``__________`` tightly ``__________`` and ``__________`` in fixed positions.
@@ -218,7 +216,7 @@ Therefore, the clay changes shape but remains the same substance.
 
     **Word list (A → Z):** energy • force • liquid • particles • positions • solid • state
 
-    #. Why does butter melt when it is heated?
+    5. Why does butter melt when it is heated?
 
         :P:`Premise (P):`
         Heating a ``__________`` increases the kinetic ``__________`` of its ``__________``.
@@ -255,7 +253,7 @@ Therefore, the clay changes shape but remains the same substance.
 
     **Word list (A → Z):** flexible • high • rigid • soft • strong • tightly
 
-    #. Why does a sponge compress when you squeeze it?
+    6. Why does a sponge compress when you squeeze it?
 
         :P:`Premise (P):`
         A sponge is a ``__________`` material whose particles are not ``__________`` packed.
@@ -292,7 +290,7 @@ Therefore, the clay changes shape but remains the same substance.
 
     **Word list (A → Z):** because • consequently • when
 
-    #. Why does steam form on a bathroom mirror?
+    7. Why does steam form on a bathroom mirror?
 
         :P:`Premise (P):`
         Water vapour in the air condenses ``______________`` it touches the cooler mirror surface.
@@ -329,7 +327,7 @@ Therefore, the clay changes shape but remains the same substance.
 
     **Word list (A → Z):** because • once • therefore
 
-    #. Why does frost form on grass overnight?
+    8. Why does frost form on grass overnight?
 
         :P:`Premise (P):`
         Water vapour in the air condenses ``____________`` the temperature drops below freezing.
@@ -366,7 +364,7 @@ Therefore, the clay changes shape but remains the same substance.
 
     **Word list (A → Z):** because • therefore • while
 
-    #. Why does a metal spoon feel cold in winter?
+    9. Why does a metal spoon feel cold in winter?
 
         :P:`Premise (P):`
         Metal conducts heat quickly ``______________`` it allows energy to move from your hand into the spoon.
@@ -403,7 +401,7 @@ Therefore, the clay changes shape but remains the same substance.
 
     **Word list (A → Z):** as • because • consequently
 
-    #. Why does wet clothing dry on a windy day?
+    10. Why does wet clothing dry on a windy day?
 
         :P:`Premise (P):`
         Water evaporates more quickly ``____________`` moving air carries water vapour away.
@@ -440,7 +438,7 @@ Therefore, the clay changes shape but remains the same substance.
 
     **Word list (A → Z):** absorbs • changes • evaporate • gain • rise
 
-    #. Why does a puddle disappear on a sunny day?
+    11. Why does a puddle disappear on a sunny day?
 
         :P:`Premise (P):`
         The water ``_____________`` heat energy from the Sun.
@@ -473,7 +471,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 .. admonition:: Tasks
 
-    Explain the following phenomena using the PRO structure
+    12. Explain the following phenomena using the PRO structure
 
     .. dropdown::
         :icon: codescan
