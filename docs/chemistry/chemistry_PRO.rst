@@ -20,7 +20,7 @@ Heating a solid increases the kinetic energy of its particles.
 As the particles gain energy, they vibrate more strongly and eventually overcome the forces holding them in fixed positions.
 
 :O:`Outcome (O):`
-Therefore, the solid changes state into a liquid.
+Therefore, the ice changes state into a liquid.
 
 ----
 
@@ -471,7 +471,9 @@ Therefore, the clay changes shape but remains the same substance.
 
 .. admonition:: Tasks
 
-    12. Explain the following phenomena using the PRO structure
+    Explain the following phenomena using the PRO structure
+
+    12. Why does a balloon shrink when placed in the freezer?
 
     .. dropdown::
         :icon: codescan
@@ -480,7 +482,7 @@ Therefore, the clay changes shape but remains the same substance.
 
         .. tab-set::
 
-            .. tab-item:: Why does a balloon shrink when placed in the freezer?
+            .. tab-item::
 
                 :P:`Premise (P):`
                 Cold temperatures reduce the energy of air particles inside the balloon.
@@ -496,7 +498,9 @@ Therefore, the clay changes shape but remains the same substance.
 
 .. admonition:: Tasks
 
-    Explain the following phenomena using the PRO structure
+    Explain the following phenomena using the PRO structure:
+
+    13. Why does a wet towel dry when left in the sun?
 
     .. dropdown::
         :icon: codescan
@@ -505,7 +509,7 @@ Therefore, the clay changes shape but remains the same substance.
 
         .. tab-set::
 
-            .. tab-item:: Why does a wet towel dry when left in the sun?
+            .. tab-item::
 
                 :P:`Premise (P):`
                 The Sun provides heat that increases the energy of water particles in the towel.
