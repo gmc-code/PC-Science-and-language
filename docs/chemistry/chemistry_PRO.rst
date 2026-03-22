@@ -29,22 +29,24 @@ Therefore, the solid changes state into a liquid.
 ----
 
 
-1. Why does a metal rod become longer when heated?
+2. Why does a metal rod become longer when heated?
 --------------------------------------------------
 
-**:p:`Premise (P):`**
+:p:`Premise (P):`
 When a material is heated, its particles gain kinetic energy and move further apart.
 
-**:r:`Reasoning (R):`**
+:r:`Reasoning (R):`
+
 Because the particles vibrate more and push against each other with greater
 force, the spacing between them increases.
 
-**:o:`Outcome (O):`**
+:o:`Outcome (O):`
+
 Therefore, the metal rod expands and becomes longer.
 
 ----
 
-1. Why does modelling clay change shape when you press it?
+3. Why does modelling clay change shape when you press it?
 ----------------------------------------------------------
 
 **:p:`Premise (P):`**
