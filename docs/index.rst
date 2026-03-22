@@ -20,4 +20,11 @@ PC-Science-and-language
 
     chemistry/chemistry_PEEL.rst
     chemistry/chemistry_themes.rst
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 📚 PRO
+    :numbered:
+
+    language/PRO.rst
     chemistry/chemistry_PRO.rst

@@ -1,155 +1,123 @@
-================================================
-PRO Paragraph Structures
-================================================
+==============================================
+PRO Questions and Responses: Physical Changes
+==============================================
 
-Brief Explanation of PRO Structure
------------------------------------
-
-PRO (Premise-Reasoning-Outcome) paragraph structures are a common organizational pattern in scientific explanations. They consist of three main components:
-
-
-.. rubric:: Premise (P)
-
-States the accepted scientific principle or idea that applies to the situation. This is the factual foundation of the explanation.
-
-.. rubric:: Reasoning (R)
-
-Explains how the premise connects to the specific context through cause-and-effect. This is the logical chain that links the idea to the outcome.
-
-.. rubric:: Outcome (O)
-
-States the final effect or result that follows from the reasoning. This completes the explanation and answers the question directly.
-
-
-Worked Example: PRO Paragraph
------------------------------
-
-Consider the following questions that might be posed in a chemistry context:
-
-- “Why does the pressure inside a container increase when a gas is heated?”
-- “Explain why heating a gas causes an increase in pressure.”
-- “Why does a gas exert more pressure when its temperature rises?”
-- “Describe the effect of heating on the pressure of a gas in a sealed container.”
-- “How does particle motion explain the increase in pressure when a gas is heated?”
-
-All of these invite the same PRO structure:
-
-- Premise: Heating increases particle kinetic energy.
-- Reasoning: Faster particles collide more often and with more force.
-- Outcome: Therefore, pressure increases.
-
-The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) structure operates in a scientific explanation.
-
-.. rubric:: Example PRO Paragraph
-
-When a gas is heated, the particles gain kinetic energy and move faster. Because the particles move more rapidly, they collide with the walls of the container more frequently and with greater force. Therefore, the pressure inside the container increases.
-
-.. rubric:: PRO Breakdown
+1. Why does ice melt when it is heated?
+---------------------------------------
 
 **Premise (P):**
-"When a gas is heated, the particles gain kinetic energy and move faster."
-
-- Declarative clause stating accepted scientific knowledge
-- Relational and material processes (*gain*, *move*)
-- Technical noun groups (*kinetic energy*, *particles*)
+Heating a solid increases the kinetic energy of its particles.
 
 **Reasoning (R):**
-"Because the particles move more rapidly, they collide with the walls of the
-container more frequently and with greater force."
-
-- Causal conjunction (*because*)
-- Material processes (*move*, *collide*)
-- Circumstances of manner (*more rapidly*, *more frequently*)
+As the particles gain energy, they vibrate more strongly and eventually
+overcome the forces holding them in fixed positions.
 
 **Outcome (O):**
-"Therefore, the pressure inside the container increases."
-
-- Concluding textual Theme (*Therefore*)
-- Relational/material process (*increases*)
-- Cohesive closure signalling completion
-
+Therefore, the solid changes state into a liquid.
 
 ----
 
 
+2. Why does a metal rod become longer when heated?
+--------------------------------------------------
 
-PRO Method and Required SFG Resources
----------------------------------------------
+**Premise (P):**
+When a material is heated, its particles gain kinetic energy and move further apart.
 
-This section outlines the Systemic Functional Grammar (SFG) linguistic resources required for each stage of the PRO (Premise-Reasoning-Outcome) explanation structure.
+**Reasoning (R):**
+Because the particles vibrate more and push against each other with greater
+force, the spacing between them increases.
 
-Premise (P)
------------
+**Outcome (O):**
+Therefore, the metal rod expands and becomes longer.
 
-**Function:** State accepted scientific knowledge.
+----
 
-**Required SFG Resources:**
+3. Why does modelling clay change shape when you press it?
+----------------------------------------------------------
 
-- Relational processes
-  (e.g., *is, are, consists of, represents*)
-- Technical noun groups
-  (e.g., *thermal equilibrium, gravitational force*)
-- Generalised participants
-  (e.g., *objects, systems, particles*)
-- Declarative clause structure stating scientific facts
-  (e.g., *Heat flows from hotter objects to cooler objects.*)
-- Nominalisation
-  (e.g., *heat transfer, energy conservation*)
+**Premise (P):**
+Modelling clay is a soft solid whose particles can slide past each other when
+a force is applied.
 
-Reasoning (R)
--------------
+**Reasoning (R):**
+When you press the clay, the applied force causes the particles to shift into
+new positions without breaking the material.
 
-**Function:** Link the premise to the specific situation through
-cause-and-effect.
+**Outcome (O):**
+Therefore, the clay changes shape but remains the same substance.
 
-**Required SFG Resources:**
+----
 
-- Causal conjunctions
-  (e.g., *because, therefore, as a result, consequently*)
-- Material processes
-  (e.g., *collide, expand, accelerate, transfer*)
-- Circumstances of cause, condition, or manner
-  (e.g., *when heated, under pressure, due to increased mass*)
-- Logical connectors
-  (e.g., *this means that…, resulting in…*)
-- Thematic choices that foreground reasoning
-  (e.g., *Because the object is hotter…*)
+.. admonition:: Tasks
 
-Outcome (O)
------------
+    Comlete the following by adding the Outcome (O) for each question:
 
-**Function:** State the final effect or phenomenon.
+    #. Why does water turn into water vapour when it is boiled?
 
-**Required SFG Resources:**
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
 
-- Concluding textual Themes
-  (e.g., *therefore, thus, hence*)
-- Summarising nominal groups
-  (e.g., *this increase in pressure…*)
-- Relational or material processes
-  (e.g., *the balloon expands, the block cools*)
-- Cohesive closure signalling completion
-  (e.g., *in conclusion, to summarise, overall*)
+        .. tab-set::
 
-Summary Table
--------------
+            .. tab-item:: Q1
 
-.. list-table::
-   :header-rows: 1
-   :widths: 20 30 50
+                Why does water turn into water vapour when it is boiled?
 
-   * - PRO Stage
-     - Purpose
-     - Required SFG Resources
-   * - Premise
-     - State accepted scientific principle
-     - Relational processes; technical noun groups; generalised participants;
-       declarative clauses; nominalisation
-   * - Reasoning
-     - Explain cause-and-effect using the premise
-     - Causal conjunctions; material processes; circumstances; logical connectors;
-       thematic choices
-   * - Outcome
-     - State the final effect or phenomenon
-     - Concluding Themes; summarising nominal groups; relational/material processes;
-       cohesive closure
+                **Premise (P):**
+                Boiling provides enough heat energy for liquid particles to move rapidly and
+                break free from the forces holding them together.
+
+                **Reasoning (R):**
+                As the particles gain more kinetic energy, they move far apart and escape the
+                surface of the liquid.
+
+                **Outcome (O):**
+                Therefore, the liquid changes state into a gas.
+
+                .. code-block::
+
+                    **Premise (P):**
+                    Boiling provides enough heat energy for liquid particles to move rapidly and
+                    break free from the forces holding them together.
+
+                    **Reasoning (R):**
+                    As the particles gain more kinetic energy, they move far apart and escape the
+                    surface of the liquid.
+
+                    **Outcome (O):**
+                    Therefore, the liquid changes state into a gas.
+
+
+
+1. Why does a rubber band stretch when you pull it?
+---------------------------------------------------
+
+**Premise (P):**
+Rubber is made of long, coiled polymer chains that can uncoil when a force is
+applied.
+
+**Reasoning (R):**
+When you pull the rubber band, the force straightens and extends these chains
+without breaking them.
+
+**Outcome (O):**
+Therefore, the rubber band becomes longer but remains the same material.
+
+
+6. Why does a piece of chalk break when you bend it?
+----------------------------------------------------
+
+**Premise (P):**
+Chalk is a brittle solid whose particles are held together in a rigid, inflexible
+structure.
+
+**Reasoning (R):**
+When a bending force is applied, the rigid structure cannot adjust or bend, so
+the particles separate instead of shifting.
+
+**Outcome (O):**
+Therefore, the chalk breaks into smaller pieces without changing its substance.
+
