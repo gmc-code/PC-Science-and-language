@@ -71,7 +71,8 @@ Stages and Phases of a Sequential Explanation
 
 .. rubric:: Stage 1: Title
 
-:rubricsmall:`Phase: Topic Label`
+.. rubric:: Phase: Topic Label
+   :class: rubricsmall
 
 - Names the topic or process.
 - Usually a short noun group.

@@ -328,12 +328,16 @@ span.O, .O {
     font-family: monospace;
 }
 
-.rubricsmall {
-    font-size: 1.em;
+/* Scope to Sphinx content area to outrank base theme selectors */
+.rst-content p.rubric.rubricsmall {
+  font-size: 12pt;
+  font-weight: bold;
+  margin-top: 1.0em;
+  margin-bottom: 0.4em;
+}
+
+/* Optional: default rubric style */
+.rst-content p.rubric {
+    font-size: 16pt;
     font-weight: bold;
-    margin-top: 1.0em;
-    margin-bottom: 0.4em;
-    color: #444444;
-    border-bottom: 2px solid #cccccc;
-    padding-bottom: 4px;
 }
