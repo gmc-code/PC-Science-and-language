@@ -79,7 +79,7 @@ PRO Method and Useful SFG Resources
 This section outlines the Systemic Functional Grammar (SFG) linguistic resources that are useful for each stage of the PRO (Premise-Reasoning-Outcome) explanation structure.
 
 Premise (P)
------------
+~~~~~~~~~~~~~~~~~~
 
 **Function:** State accepted scientific knowledge.
 
@@ -97,7 +97,7 @@ Premise (P)
   (e.g., *heat transfer, energy conservation*)
 
 Reasoning (R)
--------------
+~~~~~~~~~~~~~~~~~~~
 
 **Function:** Link the premise to the specific situation through
 cause-and-effect.
@@ -116,7 +116,7 @@ cause-and-effect.
   (e.g., *Because the object is hotter…*)
 
 Outcome (O)
------------
+~~~~~~~~~~~~~~~~~~~~~
 
 **Function:** State the final effect or phenomenon.
 
@@ -132,7 +132,7 @@ Outcome (O)
   (e.g., *in conclusion, to summarise, overall*)
 
 Summary Table
--------------
+~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :header-rows: 1
