@@ -340,4 +340,5 @@ span.O, .O {
 .rst-content p.rubric {
     font-size: 16pt;
     font-weight: bold;
+    border-bottom: 2px solid gold;
 }
