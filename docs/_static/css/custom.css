@@ -330,15 +330,16 @@ span.O, .O {
 
 /* Scope to Sphinx content area to outrank base theme selectors */
 .rst-content p.rubric.rubricsmall {
-  font-size: 12pt;
-  font-weight: bold;
-  margin-top: 1.0em;
-  margin-bottom: 0.4em;
+    font-size: 12pt;
+    font-weight: bold;
+    margin-top: 1.0em;
+    margin-bottom: 0.4em;
+    border-bottom: 1px dotted lightgray;
 }
 
 /* Optional: default rubric style */
 .rst-content p.rubric {
     font-size: 16pt;
     font-weight: bold;
-    border-bottom: 2px solid gold;
+    border-bottom: 1px dotted silver;
 }
