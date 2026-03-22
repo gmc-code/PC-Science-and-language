@@ -2,6 +2,10 @@
 PRO Paragraph Structures
 ================================================
 
+.. role:: p
+.. role:: r
+.. role:: o
+
 Brief Explanation of PRO Structure
 -----------------------------------
 
@@ -10,15 +14,15 @@ PRO (Premise-Reasoning-Outcome) paragraph structures are a common organizational
 
 .. rubric:: Premise (P)
 
-States the accepted scientific principle or idea that applies to the situation. This is the factual foundation of the explanation.
+:p:`States the accepted scientific principle or idea that applies to the situation. This is the factual foundation of the explanation.`
 
 .. rubric:: Reasoning (R)
 
-Explains how the premise connects to the specific context through cause-and-effect. This is the logical chain that links the idea to the outcome.
+:r:`Explains how the premise connects to the specific context through cause-and-effect. This is the logical chain that links the idea to the outcome.`
 
 .. rubric:: Outcome (O)
 
-States the final effect or result that follows from the reasoning. This completes the explanation and answers the question directly.
+:o:`States the final effect or result that follows from the reasoning. This completes the explanation and answers the question directly.`
 
 
 Worked Example: PRO Paragraph
@@ -44,25 +48,25 @@ The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) str
 
 When a gas is heated, the particles gain kinetic energy and move faster. Because the particles move more rapidly, they collide with the walls of the container more frequently and with greater force. Therefore, the pressure inside the container increases.
 
+
 .. rubric:: PRO Breakdown
 
 **Premise (P):**
-"When a gas is heated, the particles gain kinetic energy and move faster."
+:p:`When a gas is heated, the particles gain kinetic energy and move faster.`
 
 - Declarative clause stating accepted scientific knowledge
 - Relational and material processes (*gain*, *move*)
 - Technical noun groups (*kinetic energy*, *particles*)
 
 **Reasoning (R):**
-"Because the particles move more rapidly, they collide with the walls of the
-container more frequently and with greater force."
+:r:`Because the particles move more rapidly, they collide with the walls of the container more frequently and with greater force.`
 
 - Causal conjunction (*because*)
 - Material processes (*move*, *collide*)
 - Circumstances of manner (*more rapidly*, *more frequently*)
 
 **Outcome (O):**
-"Therefore, the pressure inside the container increases."
+:o:`Therefore, the pressure inside the container increases.`
 
 - Concluding textual Theme (*Therefore*)
 - Relational/material process (*increases*)

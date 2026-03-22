@@ -286,4 +286,23 @@ div.highlight-default div.highlight {
 .wy-table-responsive th p {
     margin-bottom: unset;
 }
-n 12th and 19th March
+
+/* ========================================== */
+/**  pro colours using roles directive */
+/* ========================================== */
+
+
+span.p {
+    color: #1f77b4;      /* blue */
+    font-weight: 600;
+}
+
+span.r {
+    color: #d62728;      /* red */
+    font-weight: 600;
+}
+
+span.o {
+    color: #2ca02c;      /* green */
+    font-weight: 600;
+}

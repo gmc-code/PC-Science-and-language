@@ -2,8 +2,13 @@
 PRO Questions and Responses: Physical Changes
 ==============================================
 
+.. role:: p
+.. role:: r
+.. role:: o
+
 1. Why does ice melt when it is heated?
 ---------------------------------------
+
 
 **Premise (P):**
 Heating a solid increases the kinetic energy of its particles.
