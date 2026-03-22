@@ -292,14 +292,15 @@ div.highlight-default div.highlight {
 /* ========================================== */
 
 
-span.p {
+span.p, .p  {
     color: #1f77b4;      /* blue */
 }
 
-span.r {
+span.r, .r {
     color: #d62728;      /* red */
 }
 
-span.o {
+span.o, .o {
     color: #2ca02c;      /* green */
 }
+
