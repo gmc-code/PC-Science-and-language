@@ -327,3 +327,13 @@ span.O, .O {
     border-radius: 6px;
     font-family: monospace;
 }
+
+.rubricsmall {
+    font-size: 1.em;
+    font-weight: bold;
+    margin-top: 1.0em;
+    margin-bottom: 0.4em;
+    color: #444444;
+    border-bottom: 2px solid #cccccc;
+    padding-bottom: 4px;
+}

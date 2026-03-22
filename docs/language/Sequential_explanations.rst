@@ -2,6 +2,8 @@
 Sequential explanations
 ================================================
 
+.. role:: rubricsmall
+
 Example
 ----------------------------------------------
 
@@ -21,62 +23,98 @@ The molecules can now move freely, forming a liquid.
 
 ----
 
+Stages and Phases in Systemic Functional Grammar (SFG)
+------------------------------------------------------------------
+
+.. rubric:: Stages
+
+| Stages are the major, compulsory sections of a genre.
+| They function as the large building blocks of the text.
+| Characteristics:
+- Each stage serves a distinct purpose.
+- The genre will not work properly if a compulsory stage is missing.
+- Stages structure the whole text.
+
+| Examples of stages in school science genres:
+- **Sequential Explanation:** Title → General Statement → Explanation Sequence
+- **Procedure:** Goal → Materials → Steps
+- **Information Report:** General classification → Description
+
+.. rubric:: Phases
+
+| Phases are the smaller functional units within each stage.
+| They organise how meaning unfolds *inside* a stage.
+
+| Characteristics:
+- Phases are sub-moves that contribute to the purpose of the stage.
+- They help guide the reader step-by-step through the meaning.
+
+Example: Phases within a Sequential Explanation
+
+**In the General Statement stage**
+- Phenomenon Identification
+- Optional Definition or Classification
+
+**In the Explanation Sequence stage**
+- Temporal Staging (e.g., "first", "next", "then")
+- Description of Actions/Events
+- Cause and Effect
+- Final Outcome
+
+----
+
 Stages and Phases of a Sequential Explanation
 -------------------------------------------------
 
 | A Sequential Explanation describes how a process unfolds over time.
 | It presents events in a linear, temporal sequence.
 
-Stage 1: Title
-~~~~~~~~~~~~~~~~~~
+.. rubric:: Stage 1: Title
 
-**Phase: Topic Label**
+:rubricsmall:`Phase: Topic Label`
 
 - Names the topic or process.
 - Usually a short noun group.
 - Example: "How Evaporation Occurs"
 
-Stage 2: General Statement
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Stage 2: General Statement
 
-**Phase 1: Phenomenon Identification**
+:rubricsmall:`Phase 1: Phenomenon Identification`
 
 - Introduces the phenomenon being explained.
 - States what it is in general terms.
 
-**Phase 2: Classification or Definition (optional)**
+:rubricsmall:`Phase 2: Classification or Definition (optional)`
 
 - May define the type of process.
 - May explain why the process is important.
 
-Stage 3: Explanation Sequence
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Stage 3: Explanation Sequence
 
 | This is the main stage of the text.
 | It explains the process step-by-step in time order.
 
-**Phase 1: Temporal Staging**
+:rubricsmall:`Phase 1: Temporal Staging`
 
 - Uses time connectors such as: "first", "next", "then", "after that", "finally".
 
-**Phase 2: Description of Actions or Events**
+:rubricsmall:`Phase 2: Description of Actions or Events`
 
 - Describes what happens in each step.
 - Uses material processes (e.g. "heats", "vibrates", "breaks", "forms").
 
-**Phase 3: Cause and Effect (embedded)**
+:rubricsmall:`Phase 3: Cause and Effect (embedded)`
 
 - Shows how each step leads to the next.
 - Connectors include: "because", "therefore", "as a result".
 
-**Phase 4: Final Outcome**
+:rubricsmall:`Phase 4: Final Outcome`
 
 - Describes the end state of the process.
 
-Optional Stage: Concluding Statement
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Optional Stage: Concluding Statement
 
-**Phase: Summary or Significance**
+:rubricsmall:`Phase: Summary or Significance`
 
 - May restate the outcome.
 - May explain the importance of the process.
@@ -88,20 +126,17 @@ Optional Stage: Concluding Statement
 How Ice Changes from Solid to Liquid
 ----------------------------------
 
-Title
-~~~~~~~~~~~~~~
+.. rubric:: Title
 
 How Ice Changes from Solid to Liquid
 
 
-General Statement
-~~~~~~~~~~~~~~~~~
+.. rubric:: General Statement
 
 | Melting is a physical change in which a solid becomes a liquid.
 | This explanation describes the sequence of events that occur when ice melts.
 
-Explanation Sequence
-~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Explanation Sequence
 
 .. rubric:: Step 1: Heat Is Applied
 
