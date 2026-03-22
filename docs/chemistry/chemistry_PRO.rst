@@ -2,7 +2,48 @@
 Chemistry -- PRO Paragraph Structures
 ================================================
 
-PPRO Method and Required SFG Resources
+PRO (Premise-Reasoning-Outcome) Paragraph Structures
+-------------------------------------------------------------
+
+Worked Example: PRO Paragraph
+=============================
+
+The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) structure operates in a scientific explanation.
+
+.. rubric:: Example PRO Paragraph
+
+When a gas is heated, the particles gain kinetic energy and move faster. Because the particles move more rapidly, they collide with the walls of the container more frequently and with greater force. Therefore, the pressure inside the container increases.
+
+.. rubric:: PRO Breakdown
+
+**Premise (P):**
+"When a gas is heated, the particles gain kinetic energy and move faster."
+
+- Declarative clause stating accepted scientific knowledge
+- Relational and material processes (*gain*, *move*)
+- Technical noun groups (*kinetic energy*, *particles*)
+
+**Reasoning (R):**
+"Because the particles move more rapidly, they collide with the walls of the
+container more frequently and with greater force."
+
+- Causal conjunction (*because*)
+- Material processes (*move*, *collide*)
+- Circumstances of manner (*more rapidly*, *more frequently*)
+
+**Outcome (O):**
+"Therefore, the pressure inside the container increases."
+
+- Concluding textual Theme (*Therefore*)
+- Relational/material process (*increases*)
+- Cohesive closure signalling completion
+
+
+----
+
+
+
+PRO Method and Required SFG Resources
 ---------------------------------------------
 
 This section outlines the Systemic Functional Grammar (SFG) linguistic resources required for each stage of the PRO (Premise-Reasoning-Outcome) explanation structure.
