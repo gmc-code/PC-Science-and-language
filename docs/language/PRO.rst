@@ -56,21 +56,30 @@ When a gas is heated, the particles gain kinetic energy and move faster. Because
 
 .. rubric:: PRO Breakdown
 
-**Premise (P):**
+.. container:: p
+
+   .. rubric:: **Premise (P)**
+
 :p:`When a gas is heated, the particles gain kinetic energy and move faster.`
 
 - Declarative clause stating accepted scientific knowledge
 - Relational and material processes (*gain*, *move*)
 - Technical noun groups (*kinetic energy*, *particles*)
 
-**Reasoning (R):**
+.. container:: r
+
+   .. rubric:: **Reasoning (R):**
+
 :r:`Because the particles move more rapidly, they collide with the walls of the container more frequently and with greater force.`
 
 - Causal conjunction (*because*)
 - Material processes (*move*, *collide*)
 - Circumstances of manner (*more rapidly*, *more frequently*)
 
-**Outcome (O):**
+.. container:: o
+
+   .. rubric:: **Outcome (O):**
+
 :o:`Therefore, the pressure inside the container increases.`
 
 - Concluding textual Theme (*Therefore*)
@@ -87,8 +96,9 @@ PRO Method and Useful SFG Resources
 
 This section outlines the Systemic Functional Grammar (SFG) linguistic resources that are useful for each stage of the PRO (Premise-Reasoning-Outcome) explanation structure.
 
-Premise (P)
-~~~~~~~~~~~~~~~~~~
+.. container:: p
+
+   .. rubric:: **Premise (P)**
 
 **Function:** State accepted scientific knowledge.
 
@@ -105,8 +115,9 @@ Premise (P)
 - Nominalisation
   (e.g., *heat transfer, energy conservation*)
 
-Reasoning (R)
-~~~~~~~~~~~~~~~~~~~
+.. container:: r
+
+   .. rubric:: **Reasoning (R):**
 
 **Function:** Link the premise to the specific situation through
 cause-and-effect.
@@ -124,8 +135,9 @@ cause-and-effect.
 - Thematic choices that foreground reasoning
   (e.g., *Because the object is hotter…*)
 
-Outcome (O)
-~~~~~~~~~~~~~~~~~~~~~
+.. container:: o
+
+   .. rubric:: **Outcome (O):**
 
 **Function:** State the final effect or phenomenon.
 
