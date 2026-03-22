@@ -4,13 +4,13 @@ Sequential explanations
 
 
 Stages and Phases of a Sequential Explanation
-===============================================
+-------------------------------------------------
 
 A Sequential Explanation describes how a process unfolds over time.
 It presents events in a linear, temporal sequence.
 
 Stage 1: Title
---------------
+~~~~~~~~~~~~~~~~~~
 
 **Phase: Topic Label**
 
@@ -19,7 +19,7 @@ Stage 1: Title
 - Example: "How Evaporation Occurs"
 
 Stage 2: General Statement
---------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Phase 1: Phenomenon Identification**
 
@@ -32,10 +32,10 @@ Stage 2: General Statement
 - May explain why the process is important.
 
 Stage 3: Explanation Sequence
------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This is the main stage of the text.
-It explains the process step-by-step in time order.
+| This is the main stage of the text.
+| It explains the process step-by-step in time order.
 
 **Phase 1: Temporal Staging**
 
@@ -56,7 +56,7 @@ It explains the process step-by-step in time order.
 - Describes the end state of the process.
 
 Optional Stage: Concluding Statement
-------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Phase: Summary or Significance**
 
@@ -68,23 +68,22 @@ Optional Stage: Concluding Statement
 
 
 How Ice Changes from Solid to Liquid
-==============================================
+----------------------------------
 
 Title
------------------
+~~~~~~~~~~~~~~
 
 How Ice Changes from Solid to Liquid
 
 
 General Statement
------------------
+~~~~~~~~~~~~~~~~~
 
-Melting is a physical change in which a solid becomes a liquid.
-
-This explanation describes the sequence of events that occur when ice melts.
+| Melting is a physical change in which a solid becomes a liquid.
+| This explanation describes the sequence of events that occur when ice melts.
 
 Explanation Sequence
---------------------
+~~~~~~~~~~~~~~~~~~~~~
 
 .. rubric:: Step 1: Heat Is Applied
 
