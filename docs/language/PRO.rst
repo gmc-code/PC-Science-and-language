@@ -9,9 +9,6 @@ PRO Paragraph Structures
 .. role:: R
 .. role:: O
 
-Brief Explanation of PRO Structure
------------------------------------
-
 PRO (Premise-Reasoning-Outcome) paragraph structures are a common organizational pattern in scientific explanations. They consist of three main components:
 
 .. container:: P
