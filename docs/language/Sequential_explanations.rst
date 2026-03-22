@@ -80,12 +80,14 @@ Stages and Phases of a Sequential Explanation
 
 .. rubric:: Stage 2: General Statement
 
-:rubricsmall:`Phase 1: Phenomenon Identification`
+.. rubric:: Phase 1: Phenomenon Identification
+   :class: rubricsmall
 
 - Introduces the phenomenon being explained.
 - States what it is in general terms.
 
-:rubricsmall:`Phase 2: Classification or Definition (optional)`
+.. rubric:: Phase 2: Classification or Definition (optional)
+   :class: rubricsmall
 
 - May define the type of process.
 - May explain why the process is important.
@@ -95,27 +97,32 @@ Stages and Phases of a Sequential Explanation
 | This is the main stage of the text.
 | It explains the process step-by-step in time order.
 
-:rubricsmall:`Phase 1: Temporal Staging`
+.. rubric:: Phase 1: Temporal Staging
+   :class: rubricsmall
 
 - Uses time connectors such as: "first", "next", "then", "after that", "finally".
 
-:rubricsmall:`Phase 2: Description of Actions or Events`
+.. rubric:: Phase 2: Description of Actions or Events
+   :class: rubricsmall
 
 - Describes what happens in each step.
 - Uses material processes (e.g. "heats", "vibrates", "breaks", "forms").
 
-:rubricsmall:`Phase 3: Cause and Effect (embedded)`
+.. rubric:: Phase 3: Cause and Effect
+   :class: rubricsmall
 
 - Shows how each step leads to the next.
 - Connectors include: "because", "therefore", "as a result".
 
-:rubricsmall:`Phase 4: Final Outcome`
+.. rubric:: Phase 4: Final Outcome
+   :class: rubricsmall
 
 - Describes the end state of the process.
 
 .. rubric:: Optional Stage: Concluding Statement
 
-:rubricsmall:`Phase: Summary or Significance`
+.. rubric:: Phase: Summary or Significance
+   :class: rubricsmall
 
 - May restate the outcome.
 - May explain the importance of the process.
@@ -140,21 +147,25 @@ How Ice Changes from Solid to Liquid
 .. rubric:: Explanation Sequence
 
 .. rubric:: Step 1: Heat Is Applied
+   :class: rubricsmall
 
 First, heat energy from the surroundings is absorbed by the ice.
 This increases the movement of particles in the solid.
 
 .. rubric:: Step 2: Particles Begin to Vibrate Faster
+   :class: rubricsmall
 
 Next, as more heat is absorbed, the water molecules vibrate more quickly.
 They start to move out of their fixed positions in the solid structure.
 
 .. rubric:: Step 3: Structure Breaks Down
+   :class: rubricsmall
 
 Then, the strong bonds holding the ice molecules in a rigid lattice weaken.
 The structure begins to collapse as the particles loosen.
 
 .. rubric:: Step 4: Solid Turns into Liquid
+   :class: rubricsmall
 
 Finally, once the temperature reaches 0°C, the solid ice becomes liquid water.
 The molecules can now move freely, forming a liquid.
