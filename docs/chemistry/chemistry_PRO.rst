@@ -10,17 +10,20 @@ PRO Physical Changes
 ---------------------------------------
 
 .. container:: p
-    **Premise (P)`**
-Heating a solid increases the kinetic energy of its particles.
+
+    **Premise (P):**
+    Heating a solid increases the kinetic energy of its particles.
 
 
 .. container:: r
-    **Reasoning (R)`**
+    **Reasoning (R):**
+
 As the particles gain energy, they vibrate more strongly and eventually overcome the forces holding them in fixed positions.
 
 
 .. container:: o
-    **Outcome (O)**
+    **Outcome (O):**
+
 Therefore, the solid changes state into a liquid.
 
 ----
