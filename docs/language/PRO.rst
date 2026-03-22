@@ -73,7 +73,7 @@ container more frequently and with greater force."
 
 
 
-PRO Method and typical SFG Resources
+PRO Method and Useful SFG Resources
 ---------------------------------------------
 
 This section outlines the Systemic Functional Grammar (SFG) linguistic resources that are useful for each stage of the PRO (Premise-Reasoning-Outcome) explanation structure.
@@ -83,7 +83,7 @@ Premise (P)
 
 **Function:** State accepted scientific knowledge.
 
-**Required SFG Resources:**
+**Useful SFG Resources:**
 
 - Relational processes
   (e.g., *is, are, consists of, represents*)
@@ -102,7 +102,7 @@ Reasoning (R)
 **Function:** Link the premise to the specific situation through
 cause-and-effect.
 
-**Required SFG Resources:**
+**Useful SFG Resources:**
 
 - Causal conjunctions
   (e.g., *because, therefore, as a result, consequently*)
@@ -120,7 +120,7 @@ Outcome (O)
 
 **Function:** State the final effect or phenomenon.
 
-**Required SFG Resources:**
+**Useful SFG Resources:**
 
 - Concluding textual Themes
   (e.g., *therefore, thus, hence*)
@@ -140,7 +140,7 @@ Summary Table
 
    * - PRO Stage
      - Purpose
-     - Required SFG Resources
+     - Useful SFG Resources
    * - Premise
      - State accepted scientific principle
      - Relational processes; technical noun groups; generalised participants;

@@ -13,13 +13,6 @@ PC-Science-and-language
 
     introduction/introduction.rst
 
-.. toctree::
-    :maxdepth: 2
-    :caption: 📚 Chemistry
-    :numbered:
-
-    chemistry/chemistry_PEEL.rst
-    chemistry/chemistry_themes.rst
 
 .. toctree::
     :maxdepth: 2
@@ -28,3 +21,13 @@ PC-Science-and-language
 
     language/PRO.rst
     chemistry/chemistry_PRO.rst
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 📚 Chemistry
+    :numbered:
+
+    chemistry/chemistry_PEEL.rst
+    chemistry/chemistry_themes.rst
+
