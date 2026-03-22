@@ -5,25 +5,28 @@ PRO Paragraph Structures
 .. role:: p
 .. role:: r
 .. role:: o
+.. role:: P
+.. role:: R
+.. role:: O
 
 Brief Explanation of PRO Structure
 -----------------------------------
 
 PRO (Premise-Reasoning-Outcome) paragraph structures are a common organizational pattern in scientific explanations. They consist of three main components:
 
-.. container:: p
+.. container:: P
 
    .. rubric:: Premise (P)
 
 :p:`States the accepted scientific principle or idea that applies to the situation. This is the factual foundation of the explanation.`
 
-.. container:: r
+.. container:: R
 
    .. rubric:: Reasoning (R)
 
 :r:`Explains how the premise connects to the specific context through cause-and-effect. This is the logical chain that links the idea to the outcome.`
 
-.. container:: o
+.. container:: O
 
    .. rubric:: Outcome (O)
 

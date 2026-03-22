@@ -304,3 +304,17 @@ span.o, .o {
     color: #2ca02c;      /* green */
 }
 
+span.P {
+    color: #1f77b4;      /* blue */
+    font-weight: bold;
+}
+
+span.R, .R {
+    color: #d62728;      /* red */
+    font-weight: bold;
+}
+
+span.O, .O {
+    color: #2ca02c;      /* green */
+    font-weight: bold;
+}
