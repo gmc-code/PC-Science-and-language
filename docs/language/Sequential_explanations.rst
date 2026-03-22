@@ -2,12 +2,30 @@
 Sequential explanations
 ================================================
 
+Example
+----------------------------------------------
+
+.. rubric:: How Ice Changes from Solid to Liquid
+
+Melting is a physical change in which a solid becomes a liquid.
+This explanation describes the sequence of events that occur when ice melts.
+
+First, heat energy from the surroundings is absorbed by the ice.
+This increases the movement of particles in the solid.
+Next, as more heat is absorbed, the water molecules vibrate more quickly.
+They start to move out of their fixed positions in the solid structure.
+Then, the strong bonds holding the ice molecules in a rigid lattice weaken.
+The structure begins to collapse as the particles loosen.
+Finally, once the temperature reaches 0°C, the solid ice becomes liquid water.
+The molecules can now move freely, forming a liquid.
+
+----
 
 Stages and Phases of a Sequential Explanation
 -------------------------------------------------
 
-A Sequential Explanation describes how a process unfolds over time.
-It presents events in a linear, temporal sequence.
+| A Sequential Explanation describes how a process unfolds over time.
+| It presents events in a linear, temporal sequence.
 
 Stage 1: Title
 ~~~~~~~~~~~~~~~~~~
