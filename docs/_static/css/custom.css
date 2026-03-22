@@ -289,6 +289,7 @@ div.highlight-default div.highlight {
 
 /* ========================================== */
 /**  pro colours using roles directive */
+/** .pro-answer is for container with class pro-answer */
 /* ========================================== */
 
 
@@ -321,6 +322,7 @@ span.O, .O {
 
 .pro-answer {
     background: #f5f5f5;
+    background-color: lightyellow!important;
     padding: 1em;
     border-radius: 6px;
     font-family: monospace;

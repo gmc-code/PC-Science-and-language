@@ -61,6 +61,17 @@ Therefore, the clay changes shape but remains the same substance.
 
     #. Why does water turn into water vapour when it is boiled?
 
+        :P:`Premise (P):`
+        Boiling provides enough heat energy for liquid particles to move rapidly and
+        break free from the forces holding them together.
+
+        :R:`Reasoning (R):`
+        As the particles gain more kinetic energy, they move far apart and escape the
+        surface of the liquid.
+
+        :O:`Outcome (O):`
+        ``____________________________________________________________``
+
     .. dropdown::
         :icon: codescan
         :color: primary
