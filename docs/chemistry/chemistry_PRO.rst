@@ -57,9 +57,9 @@ Therefore, the clay changes shape but remains the same substance.
 
 .. admonition:: Tasks
 
-    Comlete the following by adding the Outcome (O) for each question:
+    Complete the explanation by adding the Outcome (O).
 
-    #. Why does water turn into water vapour when it is boiled? X
+    #. Why does water turn into water vapour when it is boiled?
 
         :P:`Premise (P):`
         Boiling provides enough heat energy for liquid particles to move rapidly and
@@ -79,9 +79,7 @@ Therefore, the clay changes shape but remains the same substance.
 
         .. tab-set::
 
-            .. tab-item:: Q1
-
-                Why does water turn into water vapour when it is boiled?
+            .. tab-item:: Why does water turn into water vapour when it is boiled?
 
                 :P:`Premise (P):`
                 Boiling provides enough heat energy for liquid particles to move rapidly and
@@ -92,49 +90,83 @@ Therefore, the clay changes shape but remains the same substance.
                 surface of the liquid.
 
                 :O:`Outcome (O):`
-                ``____________________________________________________________``
-
-                .. container:: pro-answer
-
-                    :P:`Premise (P):`
-                    Boiling provides enough heat energy for liquid particles to move rapidly and
-                    break free from the forces holding them together.
-
-                    :R:`Reasoning (R):`
-                    As the particles gain more kinetic energy, they move far apart and escape the
-                    surface of the liquid.
-
-                    :O:`Outcome (O):`
-                    Therefore, the liquid changes state into a gas.
+                Therefore, the liquid changes state into a gas.
 
 
+----
 
-1. Why does a rubber band stretch when you pull it?
----------------------------------------------------
+.. admonition:: Tasks
 
-:P:`Premise (P):`
-Rubber is made of long, coiled polymer chains that can uncoil when a force is
-applied.
+    Complete the explanation by adding the Reasoning (R).
 
-:R:`Reasoning (R):`
-When you pull the rubber band, the force straightens and extends these chains
-without breaking them.
+    #. Why does a rubber band stretch when you pull it?
 
-:O:`Outcome (O):`
-Therefore, the rubber band becomes longer but remains the same material.
+        :P:`Premise (P):`
+        Rubber is made of long, coiled polymer chains that can uncoil when a force is
+        applied.
 
+        :R:`Reasoning (R):`
+        When you pull the rubber ``__________________``, the force straightens and extends these ``__________________``
+        without breaking ``__________________``.
 
-6. Why does a piece of chalk break when you bend it?
-----------------------------------------------------
+        :O:`Outcome (O):`
+        Therefore, the rubber band becomes longer but remains the same material.
 
-:P:`Premise (P):`
-Chalk is a brittle solid whose particles are held together in a rigid, inflexible
-structure.
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
 
-:R:`Reasoning (R):`
-When a bending force is applied, the rigid structure cannot adjust or bend, so
-the particles separate instead of shifting.
+        .. tab-set::
 
-:O:`Outcome (O):`
-Therefore, the chalk breaks into smaller pieces without changing its substance.
+            .. tab-item:: Why does a rubber band stretch when you pull it?
 
+                :P:`Premise (P):`
+                Rubber is made of long, coiled polymer chains that can uncoil when a force is
+                applied.
+
+                :R:`Reasoning (R):`
+                When you pull the rubber band, the force straightens and extends these chains
+                without breaking them.
+
+                :O:`Outcome (O):`
+                Therefore, the rubber band becomes longer but remains the same material.
+
+----
+
+.. admonition:: Tasks
+
+    Complete the explanation by adding the Premise (P).
+
+    #. Why does a piece of chalk break when you bend it?
+
+        :P:`Premise (P):`
+        Chalk is a ``__________________`` solid whose ``__________________`` are held together in a rigid, inflexible
+        structure.
+
+        :R:`Reasoning (R):`
+        When a bending force is applied, the rigid structure cannot adjust or bend, so
+        the particles separate instead of shifting.
+
+        :O:`Outcome (O):`
+        Therefore, the chalk breaks into smaller pieces without changing its substance.
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Why does a piece of chalk break when you bend it?
+
+                :P:`Premise (P):`
+                Chalk is a brittle solid whose particles are held together in a rigid, inflexible
+                structure.
+
+                :R:`Reasoning (R):`
+                When a bending force is applied, the rigid structure cannot adjust or bend, so
+                the particles separate instead of shifting.
+
+                :O:`Outcome (O):`
+                Therefore, the chalk breaks into smaller pieces without changing its substance.
