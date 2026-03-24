@@ -166,18 +166,17 @@ Therefore, a solid (precipitate) forms.
 
     Complete the Explanation by filling in the missing verbs (chemical processes).
 
-    **Word list (A → Z):**  combine • decomposes • form • produces • reacts • releases
+    **Word list (A → Z):**  combine • decomposes • forms • observed
 
-    1. Why does an acid and carbonate mixture fizz?
+     1. Why does an acid and carbonate mixture fizz?
 
-        :P:`Premise (P):`
-        The carbonate solid ``__________`` with the acid, allowing hydrogen ions to ``__________`` with carbonate ions.
+     :P:`Premise (P):`
+     In acid-carbonate reactions, hydrogen ions (H⁺) ``__________`` with carbonate ions (CO₃²⁻).
+     :R:`Reasoning (R):`
+     This ``__________`` carbonic acid (H₂CO₃), which rapidly ``_____________`` into carbon dioxide (CO₂) and water (H₂O).
+     :O:`Outcome (O):`
+     Therefore, fizzing (carbon dioxide bubbles) is ``__________``.
 
-        :R:`Reasoning (R):`
-        The hydrogen ions and carbonate ions ``__________`` carbonic acid (H₂CO₃), which ``__________`` into carbon dioxide (CO₂) and water (H₂O).
-
-        :O:`Outcome (O):`
-        Therefore, the reaction ``__________`` and ``__________`` carbon dioxide gas, causing fizzing.
 
 .. dropdown::
     :icon: codescan
@@ -201,7 +200,7 @@ Therefore, a solid (precipitate) forms.
 
     Complete the Premise (P).
 
-    1. Why does copper carbonate break down when it is heated?
+    2. Why does copper carbonate break down when it is heated?
 
         :P:`Premise (P):`
         Copper carbonate ``__________________`` only when enough ``__________________`` is supplied to decompose it.
@@ -210,7 +209,7 @@ Therefore, a solid (precipitate) forms.
         The added heat causes the compound to break apart into copper oxide and carbon dioxide gas.
 
         :O:`Outcome (O):`
-        Therefore, copper carbonate decomposes because heating provides the energy needed for the reaction.
+        Therefore, copper carbonate decomposes.
 
 .. dropdown::
     :icon: codescan
@@ -227,41 +226,7 @@ Therefore, a solid (precipitate) forms.
             The added heat causes the compound to break into copper oxide and carbon dioxide gas.
 
             :O:`Outcome (O):`
-            Therefore, copper carbonate decomposes because heating provides the energy needed for the reaction.
-
-----
-----
-.. admonition:: Tasks
-
-    Complete the Premise (P).
-
-    10. Why do plants form glucose during photosynthesis?
-
-        :P:`Premise (P):`
-        Carbon dioxide ``__________________`` with water only when light ``__________________`` energy to the plant.
-
-        :R:`Reasoning (R):`
-        The light energy allows atoms to rearrange to form glucose and oxygen.
-
-        :O:`Outcome (O):`
-        Therefore, glucose forms because a combination reaction builds a new substance from simpler ones.
-
-.. dropdown::
-    :icon: codescan
-    :color: primary
-
-    .. tab-set::
-
-        .. tab-item:: Why do plants make glucose?
-
-            :P:`Premise (P):`
-            Carbon dioxide reacts with water only when light supplies energy to the plant.
-
-            :R:`Reasoning (R):`
-            The energy allows atoms to rearrange to form glucose and oxygen.
-
-            :O:`Outcome (O):`
-            Therefore, glucose forms because a combination reaction builds a new substance.
+            Therefore, copper carbonate decomposes.
 
 ----
 
@@ -269,16 +234,17 @@ Therefore, a solid (precipitate) forms.
 
     Complete the Premise (P).
 
-    9. Why does magnesium fizz when placed in hydrochloric acid?
+    3. How do plants make glucose?
 
         :P:`Premise (P):`
-        Magnesium ``__________________`` with acid only when the metal ``__________________`` the solution.
+        In ``__________________``, chlorophyll in leaves absorbs ``__________________`` energy.
 
         :R:`Reasoning (R):`
-        The magnesium atoms react with hydrogen ions to form hydrogen gas and magnesium chloride.
+        The plant uses this energy to change carbon dioxide and water into glucose; oxygen is released.
+        (word equation: carbon dioxide + water → glucose + oxygen)
 
         :O:`Outcome (O):`
-        Therefore, fizzing occurs because a new gas is produced in the reaction.
+        Therefore, glucose is made.
 
 .. dropdown::
     :icon: codescan
@@ -286,32 +252,36 @@ Therefore, a solid (precipitate) forms.
 
     .. tab-set::
 
-        .. tab-item:: Why does magnesium fizz?
+        .. tab-item:: How do plants make glucose?
 
             :P:`Premise (P):`
-            Magnesium reacts with acid only when the metal contacts the solution.
+            In photosynthesis, chlorophyll in leaves absorbs light energy.
 
             :R:`Reasoning (R):`
-            The magnesium atoms react with hydrogen ions to form hydrogen gas and magnesium chloride.
+            The plant uses this energy to change carbon dioxide and water into glucose; oxygen is released.
+            (word equation: carbon dioxide + water → glucose + oxygen)
 
             :O:`Outcome (O):`
-            Therefore, fizzing occurs because a new gas is produced.
+            Therefore, glucose is made.
 
+
+----
 
 .. admonition:: Tasks
 
     Complete the Premise (P).
 
-    8. Why does copper develop a green coating outdoors?
+    4. Why does magnesium fizz when placed in hydrochloric acid?
 
         :P:`Premise (P):`
-        Copper ``__________________`` with oxygen and moisture only when ``__________________`` exposed over time.
+        ``__________________`` reacts with ``__________________`` acid.
 
         :R:`Reasoning (R):`
-        The surface reacts to form copper carbonate, a green compound.
+        Magnesium reacts with hydrogen ions to make hydrogen gas (H₂) and magnesium chloride (MgCl₂).
 
         :O:`Outcome (O):`
-        Therefore, copper changes colour because a corrosion reaction produces new substances.
+        Therefore, fizzing (hydrogen gas bubbles) is observed.
+
 
 .. dropdown::
     :icon: codescan
@@ -319,16 +289,16 @@ Therefore, a solid (precipitate) forms.
 
     .. tab-set::
 
-        .. tab-item:: Why does copper turn green?
+        .. tab-item:: Why does magnesium fizz when placed in hydrochloric acid?
 
             :P:`Premise (P):`
-            Copper reacts with oxygen and moisture only when it is exposed over time.
+            Magnesium reacts with hydrochloric acid.
 
             :R:`Reasoning (R):`
-            The surface forms copper carbonate, which is green.
+            Magnesium reacts with hydrogen ions to make hydrogen gas (H₂) and magnesium chloride (MgCl₂).
 
             :O:`Outcome (O):`
-            Therefore, copper changes colour because corrosion creates new substances.
+            Therefore, fizzing (hydrogen gas bubbles) is observed.
 
 
 
@@ -336,16 +306,50 @@ Therefore, a solid (precipitate) forms.
 
     Complete the Premise (P).
 
-    7. Why is mixing bleach and ammonia dangerous?
+    5. Why does copper develop a green coating outdoors?
 
         :P:`Premise (P):`
-        Bleach ``__________________`` with ammonia only when the two ``__________________``.
+        Copper slowly ``__________________`` with oxygen, water (moisture), and carbon dioxide in air.
+
+        :R:`Reasoning (R):`
+        A green layer (patina) forms on the surface called copper carbonate.
+
+        :O:`Outcome (O):`
+        Therefore, a green patina is observed.
+
+.. dropdown::
+    :icon: codescan
+    :color: primary
+
+    .. tab-set::
+
+        .. tab-item:: Why does copper develop a green coating outdoors?
+
+            :P:`Premise (P):`
+            Copper slowly reacts with oxygen, water (moisture), and carbon dioxide in air.
+
+            :R:`Reasoning (R):`
+            A green layer (patina) forms on the surface called copper carbonate.
+
+            :O:`Outcome (O):`
+            Therefore, a green patina is observed.
+
+
+
+.. admonition:: Tasks
+
+    Complete the Premise (P).
+
+    6. Why is mixing bleach and ammonia dangerous?
+
+        :P:`Premise (P):`
+        Bleach ``__________________`` with ammonia when the two ``__________________``.
 
         :R:`Reasoning (R):`
         Their particles rearrange to form chloramine gases, which are toxic.
 
         :O:`Outcome (O):`
-        Therefore, the mixture becomes dangerous because poisonous gases are produced.
+        Therefore, the mixture is dangerous.
 
 .. dropdown::
     :icon: codescan
@@ -356,29 +360,29 @@ Therefore, a solid (precipitate) forms.
         .. tab-item:: Why is mixing bleach and ammonia dangerous?
 
             :P:`Premise (P):`
-            Bleach reacts with ammonia only when the two are mixed.
+            Bleach reacts with ammonia when the two are mixed.
 
             :R:`Reasoning (R):`
             Their particles rearrange to form chloramine gases, which are toxic.
 
             :O:`Outcome (O):`
-            Therefore, the mixture becomes dangerous because poisonous gases are produced.
+            Therefore, the mixture is dangerous.
 
 
  .. admonition:: Tasks
 
     Complete the Premise (P).
 
-    6. Why does sodium form salt when it reacts with chlorine gas?
+    1. Why does sodium form salt when it reacts with chlorine gas?
 
         :P:`Premise (P):`
-        Sodium ``__________________`` with chlorine only when enough ``__________________`` is provided to allow bonding.
+        Sodium ``__________________`` with chlorine when enough ``__________________`` is provided to allow bonding.
 
         :R:`Reasoning (R):`
         The sodium atoms transfer electrons to chlorine atoms, forming sodium chloride.
 
         :O:`Outcome (O):`
-        Therefore, salt forms because the atoms combine to make a new compound.
+        Therefore, salt forms.
 
 .. dropdown::
     :icon: codescan
@@ -389,13 +393,13 @@ Therefore, a solid (precipitate) forms.
         .. tab-item:: Why does sodium form salt?
 
             :P:`Premise (P):`
-            Sodium reacts with chlorine only when enough energy is provided to allow bonding.
+            Sodium reacts with chlorine when enough energy is provided to allow bonding.
 
             :R:`Reasoning (R):`
             The sodium atoms transfer electrons to chlorine atoms, forming sodium chloride.
 
             :O:`Outcome (O):`
-            Therefore, salt forms because the atoms combine into a new compound.
+            Therefore, salt forms.
 
 
 
@@ -403,40 +407,7 @@ Therefore, a solid (precipitate) forms.
 
     Complete the Premise (P).
 
-    5. Why does hydrogen peroxide break down into water and oxygen?
-
-        :P:`Premise (P):`
-        Hydrogen peroxide ``__________________`` when enough ``__________________`` or catalysts such as enzymes are present.
-
-        :R:`Reasoning (R):`
-        The molecules split into water and oxygen gas during decomposition.
-
-        :O:`Outcome (O):`
-        Therefore, hydrogen peroxide decomposes because its particles break apart into new substances.
-
-.. dropdown::
-    :icon: codescan
-    :color: primary
-
-    .. tab-set::
-
-        .. tab-item:: Why does hydrogen peroxide break down?
-
-            :P:`Premise (P):`
-            Hydrogen peroxide decomposes when enough energy or catalysts are present.
-
-            :R:`Reasoning (R):`
-            The molecules split into water and oxygen gas.
-
-            :O:`Outcome (O):`
-            Therefore, hydrogen peroxide decomposes because its particles break apart into new substances.
-
-
-.. admonition:: Tasks
-
-    Complete the Premise (P).
-
-    4. Why does a white solid form when silver nitrate and sodium chloride are mixed?
+    1. Why does a white solid, silver chloride, form when silver nitrate and sodium chloride are mixed?
 
         :P:`Premise (P):`
         Silver ions ``__________________`` with chloride ions only when the two solutions ``__________________``.
@@ -453,32 +424,32 @@ Therefore, a solid (precipitate) forms.
 
     .. tab-set::
 
-        .. tab-item:: Why does a white solid form?
+        .. tab-item:: Why does a white solid, silver chloride, form when silver nitrate and sodium chloride are mixed?
 
             :P:`Premise (P):`
-            Silver ions react with chloride ions only when the two solutions are combined.
+            Silver ions react with chloride ions when the two solutions are combined.
 
             :R:`Reasoning (R):`
             The ions rearrange to form silver chloride, which is insoluble.
 
             :O:`Outcome (O):`
-            Therefore, a precipitate forms because a new substance is created.
+            Therefore, a precipitate forms.
 
 
 .. admonition:: Tasks
 
     Complete the Premise (P).
 
-    3. Why does ethanol burn when it is ignited?
+    1.  Why does ethanol burn when it is ignited?
 
         :P:`Premise (P):`
-        Ethanol ``__________________`` with oxygen only when enough ``__________________`` is supplied to start the reaction.
+        Ethanol is a fuel that reacts with oxygen when sufficient heat is applied to initiate the reaction.
 
         :R:`Reasoning (R):`
-        Heating gives the particles enough energy to react, forming carbon dioxide and water.
+        The reaction produces carbon dioxide and water rapidly, releasing heat and light energy.
 
         :O:`Outcome (O):`
-        Therefore, ethanol burns because a combustion reaction releases heat and light.
+        Therefore, ethanol burns in a combustion reaction.
 
 .. dropdown::
     :icon: codescan
@@ -486,32 +457,32 @@ Therefore, a solid (precipitate) forms.
 
     .. tab-set::
 
-        .. tab-item:: Why does ethanol burn?
+        .. tab-item:: Why does ethanol when it is ignited?
 
             :P:`Premise (P):`
-            Ethanol reacts with oxygen only when enough heat is supplied to start the reaction.
+            Ethanol is a fuel that reacts with oxygen when sufficient heat is applied to initiate the reaction.
 
             :R:`Reasoning (R):`
-            Heating gives the particles enough energy to react, forming carbon dioxide and water.
+            The reaction produces carbon dioxide and water rapidly, releasing heat and light energy.
 
             :O:`Outcome (O):`
-            Therefore, ethanol burns because a combustion reaction releases heat and light.
+            Therefore, ethanol burns in a combustion reaction.
 
 
 .. admonition:: Tasks
 
     Complete the Premise (P).
 
-    2. Why does iron form rust when exposed to air and moisture?
+    1.  Why does iron form rust when exposed to air and moisture?
 
         :P:`Premise (P):`
-        Iron ``__________________`` with oxygen and water only when ``__________________`` is present long enough for the reaction to occur.
+        Iron reacts with oxygen and water when moisture is present long enough for the reaction to occur.
 
         :R:`Reasoning (R):`
-        The iron atoms combine with oxygen to form hydrated iron oxide, a new substance.
+        The iron atoms combine with oxygen to form an iron oxide.
 
         :O:`Outcome (O):`
-        Therefore, rust forms because a slow combination reaction takes place.
+        Therefore, rust forms.
 
 .. dropdown::
     :icon: codescan
@@ -519,16 +490,16 @@ Therefore, a solid (precipitate) forms.
 
     .. tab-set::
 
-        .. tab-item:: Why does iron form rust?
+        .. tab-item:: Why does iron form rust when exposed to air and moisture?
 
             :P:`Premise (P):`
-            Iron reacts with oxygen and water only when moisture is present long enough for the reaction to occur.
+            Iron reacts with oxygen and water when moisture is present long enough for the reaction to occur.
 
             :R:`Reasoning (R):`
-            The iron atoms combine with oxygen to form hydrated iron oxide.
+            The iron atoms combine with oxygen to form an iron oxide.
 
             :O:`Outcome (O):`
-            Therefore, rust forms because a slow combination reaction takes place.
+            Therefore, rust forms.
 
 
 
@@ -536,16 +507,17 @@ Therefore, a solid (precipitate) forms.
 
     Complete the Premise (P).
 
-    1. Why does copper carbonate break down when it is heated?
+    1.  Why does copper carbonate break down when heated?
 
         :P:`Premise (P):`
-        Copper carbonate ``__________________`` only when enough ``__________________`` is supplied to decompose it.
+        Copper carbonate decomposes when enough heat is supplied to break it apart.
 
         :R:`Reasoning (R):`
-        The added heat causes the compound to break apart into copper oxide and carbon dioxide gas.
+        The added heat causes the compound to break into copper oxide and carbon dioxide gas.
 
         :O:`Outcome (O):`
-        Therefore, copper carbonate decomposes because heating provides the energy needed for the reaction.
+        Therefore, copper carbonate decomposes.
+
 
 .. dropdown::
     :icon: codescan
@@ -556,13 +528,13 @@ Therefore, a solid (precipitate) forms.
         .. tab-item:: Why does copper carbonate break down when heated?
 
             :P:`Premise (P):`
-            Copper carbonate decomposes only when enough heat is supplied to break it apart.
+            Copper carbonate decomposes when enough heat is supplied to break it apart.
 
             :R:`Reasoning (R):`
             The added heat causes the compound to break into copper oxide and carbon dioxide gas.
 
             :O:`Outcome (O):`
-            Therefore, copper carbonate decomposes because heating provides the energy needed for the reaction.
+            Therefore, copper carbonate decomposes.
 
 
 
