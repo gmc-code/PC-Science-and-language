@@ -104,7 +104,7 @@ Therefore, the clay changes shape but remains the same substance.
         applied.
 
         :R:`Reasoning (R):`
-        When you pull the rubber ``__________________``, the force straightens and extends these ``__________________``
+        When a rubber band is ``__________________``, the force straightens and extends these ``__________________``
         without breaking ``__________________``.
 
         :O:`Outcome (O):`
@@ -124,7 +124,7 @@ Therefore, the clay changes shape but remains the same substance.
                 applied.
 
                 :R:`Reasoning (R):`
-                When you pull the rubber band, the force straightens and extends these chains
+                When a rubber band is pulled, the force straightens and extends these chains
                 without breaking them.
 
                 :O:`Outcome (O):`
