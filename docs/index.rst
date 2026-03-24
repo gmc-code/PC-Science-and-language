@@ -22,7 +22,7 @@ PC-Science-and-language
     :numbered:
 
     language/PRO.rst
-    chemistry/chemistry_PRO.rst
+    chemistry/PRO_Chemical_Changes.rst
 
 
 .. toctree::
