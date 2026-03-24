@@ -482,7 +482,7 @@ Therefore, the clay changes shape but remains the same substance.
 
         .. tab-set::
 
-            .. tab-item::
+            .. tab-item:: Why does a balloon shrink when placed in the freezer?
 
                 :P:`Premise (P):`
                 Cold temperatures reduce the energy of air particles inside the balloon.
@@ -509,7 +509,7 @@ Therefore, the clay changes shape but remains the same substance.
 
         .. tab-set::
 
-            .. tab-item::
+            .. tab-item:: Why does a wet towel dry when left in the sun?
 
                 :P:`Premise (P):`
                 The Sun provides heat that increases the energy of water particles in the towel.
