@@ -22,7 +22,7 @@ span.circ        { color: #4a3dff; }
 span.conj        { color: #6b7280; font-style: italic; }
 
 /* Existing underlined process variant */
-span.processU {
+span.processu {
   color: #2ca02c;
   text-decoration: underline;
   text-decoration-style: dotted;
@@ -31,7 +31,7 @@ span.processU {
 }
 
 /* NEW: Underlined variants for the others */
-span.participantU {
+span.participantu {
   color: #d62728;
   text-decoration: underline;
   text-decoration-style: dotted;
@@ -39,7 +39,7 @@ span.participantU {
   text-decoration-skip-ink: auto;
 }
 
-span.circU {
+span.circu {
   color: #4a3dff;
   text-decoration: underline;
   text-decoration-style: dotted;
@@ -47,7 +47,7 @@ span.circU {
   text-decoration-skip-ink: auto;
 }
 
-span.conjU {
+span.conju {
   color: #6b7280;
   font-style: italic;
   text-decoration: underline;
@@ -57,7 +57,7 @@ span.conjU {
 }
 
 /* Optional: if you also use theme/rheme and want U versions */
-span.themeU {
+span.themeu {
   color: #1f77b4;
   font-weight: 600;
   text-decoration: underline;
@@ -65,7 +65,7 @@ span.themeU {
   text-underline-offset: 2px;
   text-decoration-skip-ink: auto;
 }
-span.rhemeU {
+span.rhemeu {
   color: #111827;
   text-decoration: underline;
   text-decoration-style: dotted;

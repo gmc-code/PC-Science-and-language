@@ -12,7 +12,7 @@ More examples:
 - :participant:`Copper` :process:`reacts` :circ:`with air`.
 - :conj:`Hence`, :participant:`hydrogen gas` :process:`is produced` :circ:`when magnesium reacts with acid`.
 
-- :participantU:`Copper` :processU:`reacts` :circU:`with air`.
+- :participantU:`Copper` :processU:`reacts` :circU:`with AAAIIIRRR`.
 - :conjU:`Hence,` :participantU:`hydrogen gas` :processU:`is produced` :circU:`when magnesium reacts with acid`.
 
 
