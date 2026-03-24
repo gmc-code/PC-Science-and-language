@@ -15,12 +15,11 @@ Examine the following examples of PRO (Premise-Reasoning-Outcome) structures in 
 
 :P:`Premise (P):`
 Acids can react with carbonates to produce carbon dioxide gas.
-
 :R:`Reasoning (R):`
 When vinegar and baking soda mix, their particles react and release carbon dioxide, which escapes as bubbles.
-
 :O:`Outcome (O):`
 Therefore, fizzing occurs.
+
 ----
 
 .. rubric:: Why does a hand warmer heat up when activated?
