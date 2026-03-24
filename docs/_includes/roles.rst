@@ -10,7 +10,13 @@
 
 .. role:: theme
 .. role:: rheme
+
 .. role:: process
 .. role:: participant
 .. role:: circ
-.. role:: conj   ; for textual Themes like “Therefore,” “Hence,” etc.
+.. role:: conj
+
+.. role:: processU
+.. role:: participantU
+.. role:: circU
+.. role:: conjU

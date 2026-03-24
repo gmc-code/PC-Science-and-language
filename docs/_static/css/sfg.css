@@ -15,29 +15,63 @@ span.rheme {
     color: #111827;
 }
 
-span.participant {
-    color: #d62728;
-}
+/* Existing roles (from your snippet) */
+span.participant { color: #d62728; }
+span.process     { color: #2ca02c; }
+span.circ        { color: #4a3dff; }
+span.conj        { color: #6b7280; font-style: italic; }
 
-span.process {
-    color: #2ca02c;
-}
-
-span.circ {
-    color: #4a3dff;
-}
-
-span.conj {
-    color: #6b7280;
-    font-style: italic;
-}
-
+/* Existing underlined process variant */
 span.processU {
-    color: #2ca02c;
-    text-decoration: underline;
-    text-decoration-style: dotted;
+  color: #2ca02c;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;        /* improves readability */
+  text-decoration-skip-ink: auto;    /* avoids cutting through descenders */
 }
 
+/* NEW: Underlined variants for the others */
+span.participantU {
+  color: #d62728;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+  text-decoration-skip-ink: auto;
+}
+
+span.circU {
+  color: #4a3dff;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+  text-decoration-skip-ink: auto;
+}
+
+span.conjU {
+  color: #6b7280;
+  font-style: italic;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+  text-decoration-skip-ink: auto;
+}
+
+/* Optional: if you also use theme/rheme and want U versions */
+span.themeU {
+  color: #1f77b4;
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+  text-decoration-skip-ink: auto;
+}
+span.rhemeU {
+  color: #111827;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+  text-decoration-skip-ink: auto;
+}
 
 
 /* ========================================== */
