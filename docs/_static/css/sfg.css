@@ -15,25 +15,16 @@ span.rheme {
     color: #111827;
 }
 
-/* Existing roles (from your snippet) */
 span.participant { color: #d62728; }
 span.process     { color: #2ca02c; }
 span.circ        { color: #4a3dff; }
 span.conj        { color: #6b7280; font-style: italic; }
 
-/* Existing underlined process variant */
-span.processu {
-  color: #2ca02c;
-  text-decoration: underline;
-  text-decoration-style: dotted;
-  text-underline-offset: 2px;        /* improves readability */
-  text-decoration-skip-ink: auto;    /* avoids cutting through descenders */
-}
-
 
 /* NEW: backcolour variants for the others */
 /* Shared chip-like styling for all *b roles */
 span.participantb,
+span.processb,
 span.circb,
 span.conjb,
 span.themeb,
@@ -42,15 +33,16 @@ span.rhemeb {
   color: #f8fafc;
 
   /* inline chip look */
-  padding: 0 .25em;
+  padding: 0 .35em;
   border-radius: .25em;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
-  line-height: 1.1;
+  line-height: 1.2;
 }
 
 /* Individual backgrounds (using your current color palette) */
 span.participantb { background-color: #d62728; } /* red */
+span.processb     { background-color: #2ca02c; } /* green */
 span.circb        { background-color: #4a3dff; } /* indigo */
 span.conjb        { background-color: #6b7280; font-style: italic; } /* gray, italic */
 span.themeb       { background-color: #1f77b4; font-weight: 600; } /* blue, bold */
@@ -58,6 +50,7 @@ span.rhemeb       { background-color: #111827; } /* near-black */
 
 /* Optional subtle inner highlight for contrast on some screens */
 span.participantb,
+span.processb,
 span.circb,
 span.conjb,
 span.themeb,
@@ -68,6 +61,7 @@ span.rhemeb {
 /* Print fallback: if printers drop background colors, keep a visual cue */
 @media print {
   span.participantb,
+  span.processb,
   span.circb,
   span.conjb,
   span.themeb,
