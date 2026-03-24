@@ -30,11 +30,11 @@ span.rhemeb {
   color: #f8fafc;
 
   /* inline chip look */
-  padding: 0 .35em;
+  padding: 0.2em .65em;
   border-radius: .25em;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
-  line-height: 1.2;
+  line-height: 1.1;
 }
 
 /* Individual backgrounds (using your current color palette) */
