@@ -62,19 +62,11 @@ When a gas is heated, the particles gain kinetic energy and move faster. Because
 
 :p:`When a gas is heated, the particles gain kinetic energy and move faster.`
 
-- Declarative clause stating accepted scientific knowledge
-- Relational and material processes (*gain*, *move*)
-- Technical noun groups (*kinetic energy*, *particles*)
-
 .. container:: r
 
    .. rubric:: **Reasoning (R):**
 
 :r:`Because the particles move more rapidly, they collide with the walls of the container more frequently and with greater force.`
-
-- Causal conjunction (*because*)
-- Material processes (*move*, *collide*)
-- Circumstances of manner (*more rapidly*, *more frequently*)
 
 .. container:: o
 
@@ -82,13 +74,7 @@ When a gas is heated, the particles gain kinetic energy and move faster. Because
 
 :o:`Therefore, the pressure inside the container increases.`
 
-- Concluding textual Theme (*Therefore*)
-- Relational/material process (*increases*)
-- Cohesive closure signalling completion
-
-
 ----
-
 
 
 PRO Method and Useful SFG Resources
