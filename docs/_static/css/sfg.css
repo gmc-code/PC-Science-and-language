@@ -30,49 +30,57 @@ span.processu {
   text-decoration-skip-ink: auto;    /* avoids cutting through descenders */
 }
 
-/* NEW: Underlined variants for the others */
-span.participantu {
-  color: #d62728;
-  text-decoration: underline;
-  text-decoration-style: dotted;
-  text-underline-offset: 2px;
-  text-decoration-skip-ink: auto;
+
+/* NEW: backcolour variants for the others */
+/* Shared chip-like styling for all *b roles */
+span.participantb,
+span.circb,
+span.conjb,
+span.themeb,
+span.rhemeb {
+  /* text color: off-white */
+  color: #f8fafc;
+
+  /* inline chip look */
+  padding: 0 .25em;
+  border-radius: .25em;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  line-height: 1.1;
 }
 
-span.circu {
-  color: #4a3dff;
-  text-decoration: underline;
-  text-decoration-style: dotted;
-  text-underline-offset: 2px;
-  text-decoration-skip-ink: auto;
+/* Individual backgrounds (using your current color palette) */
+span.participantb { background-color: #d62728; } /* red */
+span.circb        { background-color: #4a3dff; } /* indigo */
+span.conjb        { background-color: #6b7280; font-style: italic; } /* gray, italic */
+span.themeb       { background-color: #1f77b4; font-weight: 600; } /* blue, bold */
+span.rhemeb       { background-color: #111827; } /* near-black */
+
+/* Optional subtle inner highlight for contrast on some screens */
+span.participantb,
+span.circb,
+span.conjb,
+span.themeb,
+span.rhemeb {
+  box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.15);
 }
 
-span.conju {
-  color: #6b7280;
-  font-style: italic;
-  text-decoration: underline;
-  text-decoration-style: dotted;
-  text-underline-offset: 2px;
-  text-decoration-skip-ink: auto;
-}
+/* Print fallback: if printers drop background colors, keep a visual cue */
+@media print {
+  span.participantb,
+  span.circb,
+  span.conjb,
+  span.themeb,
+  span.rhemeb {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
 
-/* Optional: if you also use theme/rheme and want U versions */
-span.themeu {
-  color: #1f77b4;
-  font-weight: 600;
-  text-decoration: underline;
-  text-decoration-style: dotted;
-  text-underline-offset: 2px;
-  text-decoration-skip-ink: auto;
+    /* If backgrounds are stripped, ensure visibility */
+    background: transparent !important;
+    color: #000 !important;
+    border: 1px solid currentColor;
+  }
 }
-span.rhemeu {
-  color: #111827;
-  text-decoration: underline;
-  text-decoration-style: dotted;
-  text-underline-offset: 2px;
-  text-decoration-skip-ink: auto;
-}
-
 
 /* ========================================== */
 /**  pro colours using roles directive */

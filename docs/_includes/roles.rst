@@ -16,7 +16,10 @@
 .. role:: circ
 .. role:: conj
 
-.. role:: processU
-.. role:: participantU
-.. role:: circU
-.. role:: conjU
+.. role:: processb
+.. role:: participantb
+.. role:: circb
+.. role:: conjb
+
+.. role:: themeb
+.. role:: rhemeb

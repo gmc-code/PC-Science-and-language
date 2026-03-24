@@ -12,10 +12,10 @@ More examples:
 - :participant:`Copper` :process:`reacts` :circ:`with air`.
 - :conj:`Hence`, :participant:`hydrogen gas` :process:`is produced` :circ:`when magnesium reacts with acid`.
 
-- :participantU:`Copper` :processU:`reacts` :circU:`with AAAIIIRRR`.
-- :conjU:`Hence,` :participantU:`hydrogen gas` :processU:`is produced` :circU:`when magnesium reacts with acid`.
+- :themeb:`Copper` :conjb:`Therefore,` :participantb:`hydrogen gas` :processb:`is observed` :circb:`when magnesium reacts with acid`.
 
 
+----
 
 Examine the following examples of PRO (Premise-Reasoning-Outcome) structures in scientific explanations:
 
