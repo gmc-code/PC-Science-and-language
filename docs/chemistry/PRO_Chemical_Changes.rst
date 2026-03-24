@@ -15,8 +15,10 @@ Examine the following examples of PRO (Premise-Reasoning-Outcome) structures in 
 
 :P:`Premise (P):`
 Acids can react with carbonates to produce carbon dioxide gas.
+
 :R:`Reasoning (R):`
 When vinegar and baking soda mix, their particles react and release carbon dioxide, which escapes as bubbles.
+
 :O:`Outcome (O):`
 Therefore, fizzing occurs.
 
@@ -35,7 +37,7 @@ Therefore, the hand warmer becomes warmer.
 
 ----
 
-.. rubric:: Why does a solid form when two solutions are mixed?
+.. rubric:: Why can a solid form when two solutions are mixed?
 
 :P:`Premise (P):`
 When two aqueous solutions such as lead nitrate and potassium iodide are mixed, the dissolved ions can swap partners and form a new substance with different properties.
@@ -44,7 +46,7 @@ When two aqueous solutions such as lead nitrate and potassium iodide are mixed, 
 When the solutions combine, the lead ions (Pb²⁺) and iodide ions (I⁻) rearrange and form lead iodide (PbI₂), a substance that does not dissolve in water.
 
 :O:`Outcome (O):`
-Therefore, a solid (precipitate) forms.
+Therefore, a solid (precipitate) can form from the reaction when two solutions are mixed.
 
 ----
 

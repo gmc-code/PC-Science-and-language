@@ -18,7 +18,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: ⚗️ PRO
+    :caption: 🤔 PRO
     :numbered:
 
     language/PRO.rst
@@ -30,7 +30,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: ✏️ Explanations
+    :caption: ✏️👉 Explanations
     :numbered:
 
     language/Sequential_explanations.rst
