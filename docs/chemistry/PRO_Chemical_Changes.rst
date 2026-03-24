@@ -9,7 +9,7 @@ SFG Coloring Demo
 
 More examples:
 
-- :theme:`Copper` :process:`reacts` :circ:`with air` :rheme:`and forms a green :participant:`patina``.
+- :theme:`Copper` :process:`reacts` :circ:`with air`.
 - :conj:`Hence,` :participant:`hydrogen gas` :process:`is produced` :circ:`when magnesium reacts with acid`.
 
 

@@ -7,16 +7,37 @@
 /**  sfg colours using roles directive */
 /* ========================================== */
 
-span.theme        { color: #1f77b4; font-weight: 600; }  /* blue */
-span.rheme        { color: #111827; }                    /* near-black */
+span.theme {
+    color: #1f77b4;
+}
 
-span.participant      { color: #d62728; font-weight: 600; }  /* red */
-span.process  { color: #2ca02c; }                    /* green */
-span.circ         { color: #4a3dff; }                    /* blue */
-span.conj         { color: #6b7280; font-style: italic;} /* grey (textual Theme) */
+span.rheme {
+    color: #111827;
+}
 
-/* Optional: add a subtle underline style so color isn’t the only cue */
-span.processU { color: #2ca02c; text-decoration: underline; text-decoration-style: dotted; }
+span.participant {
+    color: #d62728;
+}
+
+span.process {
+    color: #2ca02c;
+}
+
+span.circ {
+    color: #4a3dff;
+}
+
+span.conj {
+    color: #6b7280;
+    font-style: italic;
+}
+
+span.processU {
+    color: #2ca02c;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
 
 
 /* ========================================== */
