@@ -23,7 +23,8 @@ PC-Science-and-language
 
     language/PRO.rst
     chemistry/PRO_Physical_Changes.rst
-    chemistry/PRO_Chemical_Changes.rst
+
+    .. chemistry/PRO_Chemical_Changes.rst
 
 
 
@@ -42,6 +43,6 @@ PC-Science-and-language
     :caption: 🧪 Chemistry
     :numbered:
 
-    chemistry/chemistry_PEEL.rst
-    chemistry/chemistry_themes.rst
+    .. chemistry/chemistry_PEEL.rst
+    .. chemistry/chemistry_themes.rst
 
