@@ -20,8 +20,7 @@ Acids can react with carbonates to produce carbon dioxide gas.
 When vinegar and baking soda mix, their particles react and release carbon dioxide, which escapes as bubbles.
 
 :O:`Outcome (O):`
-Therefore, fizzing occurs because a gas is produced during the chemical reaction.
-
+Therefore, fizzing occurs.
 ----
 
 .. rubric:: Why does a hand warmer heat up when activated?
@@ -33,7 +32,7 @@ Some chemical reactions release energy as new substances are formed.
 When the hand warmer is activated, iron reacts with oxygen and the reaction releases energy into the surroundings.
 
 :O:`Outcome (O):`
-Therefore, the hand warmer becomes warmer because energy is released during the chemical reaction.
+Therefore, the hand warmer becomes warmer.
 
 ----
 
@@ -46,7 +45,7 @@ When two aqueous solutions such as lead nitrate and potassium iodide are mixed, 
 When the solutions combine, the lead ions (Pb²⁺) and iodide ions (I⁻) rearrange and form lead iodide (PbI₂), a substance that does not dissolve in water.
 
 :O:`Outcome (O):`
-Therefore, a solid forms because an insoluble product (a precipitate) is created during the chemical reaction.
+Therefore, a solid (precipitate) forms.
 
 ----
 
@@ -114,13 +113,13 @@ Therefore, a solid forms because an insoluble product (a precipitate) is created
                 .. tab-item:: Why does a magnesium strip burn with a bright white flame?
 
                     :P:`Premise (P):`
-                    Magnesium reacts quickly with oxygen when heated.
+                    Heated magnesium reacts rapidly with oxygen in air to form magnesium oxide (MgO).
 
                     :R:`Reasoning (R):`
-                    When you heat the magnesium strip, the oxygen reacts and forms a new compound.
+                    The reaction (2Mg + O₂ → 2MgO) is highly exothermic; the metal becomes incandescent and emits intense white light.
 
                     :O:`Outcome (O):`
-                    Therefore, magnesium oxide is produced and light is released.
+                    Therefore, a bright white flame is observed.
 
 ----
 
@@ -130,16 +129,16 @@ Therefore, a solid forms because an insoluble product (a precipitate) is created
 
     Complete the Premise (P).
 
-    3. Why does methane need a spark or flame to start burning?
+    1. Why does methane need a spark or flame to start burning?
 
         :P:`Premise (P):`
-        Methane is a fuel that reacts with ``__________________`` only when enough ``__________________`` is supplied to begin the reaction.
+        The methane-oxygen reaction requires activation energy; heat from a spark or flame ``__________________`` it.
 
         :R:`Reasoning (R):`
-        The added heat gives the particles enough energy to collide and react, forming new substances such as carbon dioxide and water.
+        The added heat supplies the activation energy so collisions overcome the energy barrier; methane reacts with oxygen (CH₄ + 2O₂ → CO₂ + 2H₂O), releasing heat and light.
 
         :O:`Outcome (O):`
-        Therefore, methane starts burning because a chemical reaction begins that releases heat and light.
+        Therefore, methane ignites.
 
     .. dropdown::
         :icon: codescan
@@ -151,13 +150,13 @@ Therefore, a solid forms because an insoluble product (a precipitate) is created
             .. tab-item:: Why does methane need a spark or flame to start burning?
 
                 :P:`Premise (P):`
-                Methane is a fuel that reacts with oxygen only when enough heat is supplied to begin the reaction.
+                The methane-oxygen reaction requires activation energy; heat from a spark or flame initiates it.
 
                 :R:`Reasoning (R):`
-                The added heat gives the particles enough energy to collide and react, forming new substances such as carbon dioxide and water.
+                The added heat supplies the activation energy so collisions overcome the energy barrier; methane reacts with oxygen (CH₄ + 2O₂ → CO₂ + 2H₂O), releasing heat and light.
 
                 :O:`Outcome (O):`
-                Therefore, methane starts burning because a chemical reaction begins that releases heat and light.
+                Therefore, methane ignites.
 
 ----
 
@@ -167,12 +166,12 @@ Therefore, a solid forms because an insoluble product (a precipitate) is created
 
     Complete the Explanation by filling in the missing verbs (chemical processes).
 
-    **Word list (A → Z):** added • combine • decomposes • form • produces • reacts • releases
+    **Word list (A → Z):**  combine • decomposes • form • produces • reacts • releases
 
-    4. Why does an acid and carbonate mixture fizz?
+    1. Why does an acid and carbonate mixture fizz?
 
         :P:`Premise (P):`
-        The carbonate solid ``__________`` with the acid when it is ``__________``, allowing hydrogen ions to ``__________`` with carbonate ions.
+        The carbonate solid ``__________`` with the acid, allowing hydrogen ions to ``__________`` with carbonate ions.
 
         :R:`Reasoning (R):`
         The hydrogen ions and carbonate ions ``__________`` carbonic acid (H₂CO₃), which ``__________`` into carbon dioxide (CO₂) and water (H₂O).
@@ -190,13 +189,11 @@ Therefore, a solid forms because an insoluble product (a precipitate) is created
         .. tab-item:: Why does an acid and carbonate mixture fizz?
 
             :P:`Premise (P):`
-            The carbonate solid reacts with the acid when it is added, allowing hydrogen ions to combine with carbonate ions.
-
+            In acid-carbonate reactions, hydrogen ions (H⁺) combine with carbonate ions (CO₃²⁻).
             :R:`Reasoning (R):`
-            The hydrogen ions and carbonate ions form carbonic acid (H₂CO₃), which decomposes into carbon dioxide (CO₂) and water (H₂O).
-
+            This forms carbonic acid (H₂CO₃), which rapidly decomposes into carbon dioxide (CO₂) and water (H₂O).
             :O:`Outcome (O):`
-            Therefore, the reaction produces and releases carbon dioxide gas, causing fizzing.
+            Therefore, fizzing (carbon dioxide bubbles) is observed.
 
 ----
 
