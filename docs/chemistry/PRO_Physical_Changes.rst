@@ -53,7 +53,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-**#. Water boiling**
+**Water boiling**
 
     .. admonition:: Tasks
 
@@ -95,7 +95,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-**#. Stretching a rubber band**
+**Stretching a rubber band**
 
     .. admonition:: Tasks
 
@@ -135,6 +135,8 @@ Therefore, the clay changes shape but remains the same substance.
                     Therefore, the rubber band becomes longer but remains the same material.
 
 ----
+
+**Snapping chalk**
 
     .. admonition:: Tasks
 
@@ -176,6 +178,8 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
+**Fixed shape**
+
     .. admonition:: Tasks
 
         Complete the Explanation by filling in the missing verbs (processes).
@@ -214,6 +218,8 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
+**Melting butter**
+
     .. admonition:: Tasks
 
         Complete the Explanation by filling in the missing nouns.
@@ -250,6 +256,8 @@ Therefore, the clay changes shape but remains the same substance.
                     Therefore, the solid changes state into a liquid.
 
 ----
+
+**Squashing a sponge**
 
     .. admonition:: Tasks
 
@@ -288,13 +296,15 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
+**Wet mirror**
+
     .. admonition:: Tasks
 
         Complete the Explanation by filling in the missing text connectives.
 
         **Word list (A → Z):** because • consequently • when
 
-        7. Why does steam form on a bathroom mirror?
+        7. Why does water form on a bathroom mirror?
 
             :P:`Premise (P):`
             Water vapour in the air condenses ``______________`` it touches the cooler mirror surface.
@@ -312,7 +322,7 @@ Therefore, the clay changes shape but remains the same substance.
 
             .. tab-set::
 
-                .. tab-item:: Why does steam form on a bathroom mirror?
+                .. tab-item:: Why does water form on a bathroom mirror?
 
                     :P:`Premise (P):`
                     Water vapour in the air condenses because it touches the cooler mirror surface.
@@ -324,6 +334,8 @@ Therefore, the clay changes shape but remains the same substance.
                     Consequently, tiny droplets form on the mirror.
 
 ----
+
+**Overnight frost**
 
     .. admonition:: Tasks
 
@@ -362,6 +374,8 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
+**Cold to touch**
+
     .. admonition:: Tasks
 
         Complete the Explanation by filling in the missing text connectives.
@@ -398,6 +412,8 @@ Therefore, the clay changes shape but remains the same substance.
                     Therefore, the spoon feels cold to touch.
 
 ----
+
+**Clothing in wind**
 
     .. admonition:: Tasks
 
@@ -436,6 +452,8 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
+**Disappearing puddle**
+
     .. admonition:: Tasks
 
         Complete the Explanation by filling in the missing verbs (material processes).
@@ -473,6 +491,8 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
+**Shrinking a balloon**
+
     .. admonition:: Tasks
 
         Explain the following phenomena using the PRO structure
@@ -499,6 +519,8 @@ Therefore, the clay changes shape but remains the same substance.
 
 
 ----
+
+**Sun dried towel**
 
     .. admonition:: Tasks
 
