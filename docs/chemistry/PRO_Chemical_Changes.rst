@@ -9,8 +9,8 @@ SFG Coloring Demo
 
 More examples:
 
-- :theme:`Copper` :process:`reacts` :circ:`with air`.
-- :conj:`Hence,` :participant:`hydrogen gas` :process:`is produced` :circ:`when magnesium reacts with acid`.
+- :participant:`Copper` :process:`reacts` :circ:`with air`.
+- :conj:`Hence`, :participant:`hydrogen gas` :process:`is produced` :circ:`when magnesium reacts with acid`.
 
 
 Examine the following examples of PRO (Premise-Reasoning-Outcome) structures in scientific explanations:
