@@ -1,6 +1,8 @@
 .. PC-Science-and-language documentation master file.
 .. Use https://emojipedia.org/repeat-button/ for icons/emojis
 .. https://emojidb.org/maths-emojis
+.. 📚🖹
+
 
 ====================================================
 PC-Science-and-language
@@ -8,7 +10,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 📚 Introduction
+    :caption: ✍️🖹 Introduction
     :numbered:
 
     introduction/introduction.rst
@@ -16,7 +18,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 📚 PRO
+    :caption: ⚗️ PRO
     :numbered:
 
     language/PRO.rst
@@ -25,7 +27,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 📚 Explanations
+    :caption: ✏️ Explanations
     :numbered:
 
     language/Sequential_explanations.rst
@@ -34,7 +36,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 📚 Chemistry
+    :caption: 🧪 Chemistry
     :numbered:
 
     chemistry/chemistry_PEEL.rst
