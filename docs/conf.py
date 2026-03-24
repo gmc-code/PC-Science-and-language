@@ -5,9 +5,16 @@
 # import os
 # import sys
 import sphinx_rtd_theme
+from pathlib import Path
+
 project = 'PC-Science-and-language'
 copyright = '2026, GMC'
 author = 'GMC'
+
+roles_file = Path(__file__).parent / "_includes" / "roles.rst"
+rst_prolog = roles_file.read_text(encoding="utf-8")
+
+
 
 # sys.path.insert(0, os.path.abspath('../../'))
 # package_path = os.path.abspath('../..')
@@ -76,7 +83,7 @@ html_theme = 'sphinx_rtd_theme'
 html_title = "PC-LaTeX"
 
 # Use custom css
-html_css_files = ["css/custom.css"]
+html_css_files = ["css/custom.css", "css/sfg.css"]
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

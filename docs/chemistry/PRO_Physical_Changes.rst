@@ -2,12 +2,6 @@
 PRO Physical Changes
 ==============================================
 
-.. role:: p
-.. role:: r
-.. role:: o
-.. role:: P
-.. role:: R
-.. role:: O
 
 Examine the following examples of PRO (Premise-Reasoning-Outcome) structures in scientific explanations:
 

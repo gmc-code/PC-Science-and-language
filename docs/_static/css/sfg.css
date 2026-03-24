@@ -1,0 +1,77 @@
+
+
+
+/* _static/sfg.css */
+
+/* ========================================== */
+/**  sfg colours using roles directive */
+/* ========================================== */
+
+span.theme        { color: #1f77b4; font-weight: 600; }  /* blue */
+span.rheme        { color: #111827; }                    /* near-black */
+
+span.participant      { color: #d62728; font-weight: 600; }  /* red */
+span.process  { color: #2ca02c; }                    /* green */
+span.circ         { color: #4a3dff; }                    /* blue */
+span.conj         { color: #6b7280; font-style: italic;} /* grey (textual Theme) */
+
+/* Optional: add a subtle underline style so color isn’t the only cue */
+span.processU { color: #2ca02c; text-decoration: underline; text-decoration-style: dotted; }
+
+
+/* ========================================== */
+/**  pro colours using roles directive */
+/** .pro-answer is for container with class pro-answer */
+/* ========================================== */
+
+
+span.p, .p  {
+    color: #1f77b4;      /* blue */
+}
+
+span.r, .r {
+    color: #d62728;      /* red */
+}
+
+span.o, .o {
+    color: #2ca02c;      /* green */
+}
+
+span.P {
+    color: #1f77b4;      /* blue */
+    font-weight: bold;
+}
+
+span.R, .R {
+    color: #d62728;      /* red */
+    font-weight: bold;
+}
+
+span.O, .O {
+    color: #2ca02c;      /* green */
+    font-weight: bold;
+}
+
+.pro-answer {
+    background: #f5f5f5;
+    background-color: lightyellow!important;
+    padding: 1em;
+    border-radius: 6px;
+    font-family: monospace;
+}
+
+/* Scope to Sphinx content area to outrank base theme selectors */
+.rst-content p.rubric.rubricsmall {
+    font-size: 12pt;
+    font-weight: bold;
+    margin-top: 1.0em;
+    margin-bottom: 0.4em;
+    border-bottom: 1px dotted lightgray;
+}
+
+/* Optional: default rubric style */
+.rst-content p.rubric {
+    font-size: 16pt;
+    font-weight: bold;
+    border-bottom: 1px dotted silver;
+}

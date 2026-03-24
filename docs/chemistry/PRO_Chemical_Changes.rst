@@ -2,12 +2,16 @@
 PRO Chemical Changes
 ==============================================
 
-.. role:: p
-.. role:: r
-.. role:: o
-.. role:: P
-.. role:: R
-.. role:: O
+SFG Coloring Demo
+=================
+
+:conj:`Therefore,` :theme:`the pressure inside the container` :process:`increases`.
+
+More examples:
+
+- :theme:`Copper` :process:`reacts` :circ:`with air` :rheme:`and forms a green :participant:`patina``.
+- :conj:`Hence,` :participant:`hydrogen gas` :process:`is produced` :circ:`when magnesium reacts with acid`.
+
 
 Examine the following examples of PRO (Premise-Reasoning-Outcome) structures in scientific explanations:
 
