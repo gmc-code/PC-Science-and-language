@@ -385,7 +385,7 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
 
             .. tab-set::
 
-                .. tab-item:: Why does silver chloride form?
+                .. tab-item:: Why does a white solid form when silver nitrate and sodium chloride are mixed?
 
                     :P:`Premise (P):`
                     Silver ions react with chloride ions when the two solutions are mixed.
@@ -406,7 +406,7 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
 
         **Word list (A → Z):** applied • ignited • produces • reacts • releases
 
-        8. Why does ethanol burn when it is ignited?
+        1. Why does ethanol burn when it is ignited?
 
             :P:`Premise (P):`
             Ethanol ``__________________`` with oxygen when enough heat is ``__________________`` and the fuel is ``__________________``.
@@ -433,45 +433,5 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
 
                     :O:`Outcome (O):`
                     Therefore, ethanol undergoes combustion.
-
-----
-
-**Rust formation**
-
-    .. admonition:: Tasks
-
-        Complete the Explanation by filling in the missing verbs and conditions.
-
-        **Word list (A → Z):** combine • forms • is present • reacts • water
-
-        9. Why does iron form rust when exposed to air and moisture?
-
-            :P:`Premise (P):`
-            Iron ``__________________`` with oxygen and ``__________________`` when moisture ``__________________``.
-
-            :R:`Reasoning (R):`
-            These substances ``__________________`` to produce iron oxide.
-
-            :O:`Outcome (O):`
-            Therefore, rust ``__________________`` on the metal surface.
-
-        .. dropdown::
-            :icon: codescan
-            :color: primary
-
-            .. tab-set::
-
-                .. tab-item:: Why does iron rust?
-
-                    :P:`Premise (P):`
-                    Iron reacts with oxygen and water when moisture is present.
-
-                    :R:`Reasoning (R):`
-                    These substances combine to produce iron oxide.
-
-                    :O:`Outcome (O):`
-                    Therefore, rust forms on the metal surface.
-
-
 
 
