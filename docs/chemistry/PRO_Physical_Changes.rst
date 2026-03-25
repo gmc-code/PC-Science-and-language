@@ -7,11 +7,13 @@ Examine the following examples of PRO (Premise-Reasoning-Outcome) structures in 
 
 .. rubric::  Why does ice melt when it is heated?
 
+.. rubric:: Why does ice melt when it is heated?
+
 :P:`Premise (P):`
-Heating a solid increases the kinetic energy of its particles.
+When a solid is heated, the particles gain kinetic energy.
 
 :R:`Reasoning (R):`
-As the particles gain energy, they vibrate more strongly and eventually overcome the forces holding them in fixed positions.
+As a result, the particles vibrate more strongly and eventually overcome the forces holding them in fixed positions.
 
 :O:`Outcome (O):`
 Therefore, the ice changes state into a liquid.
@@ -32,15 +34,13 @@ Therefore, the metal rod expands and becomes longer.
 
 ----
 
-.. rubric::  Why does modelling clay change shape when you press it?
+.. rubric:: Why does modelling clay change shape when it is pressed?
 
 :P:`Premise (P):`
-Modelling clay is a soft solid whose particles can slide past each other when
-a force is applied.
+Because modelling clay is a soft solid, its particles can slide past each other when a force is applied.
 
 :R:`Reasoning (R):`
-When you press the clay, the applied force causes the particles to shift into
-new positions without breaking the material.
+As a result, when the clay is pressed, the applied force causes the particles to shift into new positions without breaking the material.
 
 :O:`Outcome (O):`
 Therefore, the clay changes shape but remains the same substance.
@@ -56,12 +56,10 @@ Therefore, the clay changes shape but remains the same substance.
         1. Why does water turn into water vapour when it is boiled?
 
             :P:`Premise (P):`
-            Boiling provides enough heat energy for liquid particles to move rapidly and
-            break free from the forces holding them together.
+            When water is boiled, the heat energy allows the liquid particles to move rapidly and break free from the forces holding them together.
 
             :R:`Reasoning (R):`
-            As the particles gain more kinetic energy, they move far apart and escape the
-            surface of the liquid.
+            As a result, the particles move farther apart and escape from the surface of the liquid.
 
             :O:`Outcome (O):`
             ``_______________________``, the liquid changes ``_____________`` into a gas.
@@ -76,16 +74,13 @@ Therefore, the clay changes shape but remains the same substance.
                 .. tab-item:: Why does water turn into water vapour when it is boiled?
 
                     :P:`Premise (P):`
-                    Boiling provides enough heat energy for liquid particles to move rapidly and
-                    break free from the forces holding them together.
+                    When water is boiled, the heat energy allows the liquid particles to move rapidly and break free from the forces holding them together.
 
                     :R:`Reasoning (R):`
-                    As the particles gain more kinetic energy, they move far apart and escape the
-                    surface of the liquid.
+                    As a result, the particles move farther apart and escape from the surface of the liquid.
 
                     :O:`Outcome (O):`
                     Therefore, the liquid changes state into a gas.
-
 
 ----
 
@@ -98,12 +93,10 @@ Therefore, the clay changes shape but remains the same substance.
         2. Why does a rubber band stretch when you pull it?
 
             :P:`Premise (P):`
-            Rubber is made of long, coiled polymer chains that can uncoil when a force is
-            applied.
+            Because rubber is made of long, coiled polymer chains, they can uncoil when a force is applied.
 
             :R:`Reasoning (R):`
-            When a rubber band is ``__________________``, the force straightens and extends these ``__________________``
-            without breaking ``__________________``.
+            As a result, when a rubber band is ``__________________``, the force straightens and extends these ``__________________`` without breaking ``__________________``.
 
             :O:`Outcome (O):`
             Therefore, the rubber band becomes longer but remains the same material.
@@ -118,12 +111,10 @@ Therefore, the clay changes shape but remains the same substance.
                 .. tab-item:: Why does a rubber band stretch when you pull it?
 
                     :P:`Premise (P):`
-                    Rubber is made of long, coiled polymer chains that can uncoil when a force is
-                    applied.
+                    Because rubber is made of long, coiled polymer chains, they can uncoil when a force is applied.
 
                     :R:`Reasoning (R):`
-                    When a rubber band is pulled, the force straightens and extends these chains
-                    without breaking them.
+                    As a result, when a rubber band is pulled, the force straightens and extends these chains without breaking them.
 
                     :O:`Outcome (O):`
                     Therefore, the rubber band becomes longer but remains the same material.
@@ -159,12 +150,10 @@ Therefore, the clay changes shape but remains the same substance.
                 .. tab-item:: Why does a piece of chalk break when you bend it?
 
                     :P:`Premise (P):`
-                    Chalk is a brittle solid whose particles are held together in a rigid, inflexible
-                    structure.
+                    Because chalk is a brittle solid, its particles are held together in a rigid, inflexible structure.
 
                     :R:`Reasoning (R):`
-                    When a bending force is applied, the rigid structure cannot adjust or bend, so
-                    the particles separate instead of shifting.
+                    As a result, when a bending force is applied, the rigid structure cannot adjust or bend, so the particles separate instead of shifting.
 
                     :O:`Outcome (O):`
                     Therefore, the chalk breaks into smaller pieces without changing its substance.
