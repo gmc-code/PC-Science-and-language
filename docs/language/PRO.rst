@@ -76,11 +76,10 @@ The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) str
 
    **Premise (P) - “When…” (set the situation)**
 
-   - Starts with **“When…”** (or “If…”)
+   - Starts with **“When…”**
    - Describes **what is happening** (the situation)
    - Includes a **key science idea or property**
    - Has **only ONE main idea**
-   - Sounds **natural when read aloud**
    - Does **NOT try to explain why yet**
 
    *Test:*
@@ -93,7 +92,7 @@ The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) str
    - Starts with **“As a result…”**
    - Explains **what is happening at a particle/process level**
    - Clearly links back to the Premise
-   - Uses simple cause language (*move, collide, separate, react*)
+   - Uses simple action words (*move, collide, separate, react*)
    - Does **NOT jump to the final outcome too quickly**
    - May include **“so…”** inside the sentence if needed
 
@@ -104,7 +103,7 @@ The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) str
 
    **Outcome (O) - “Therefore…” (state the final result)**
 
-   - Starts with **“Therefore…”** (or *So… / As a result…*)
+   - Starts with **“Therefore…”**
    - States the **final observable result**
    - Clearly answers the original question
    - Is **short and direct**
@@ -147,7 +146,7 @@ PRO Connectives Word Bank
      - **Sentence Starters / Connectives**
      - **Function**
    * - **Premise (P)**
-     - :p:`When… / If… / Whenever… / As… / Once… / Upon… / While… / In situations where… / Under these conditions… / When this happens…`
+     - :p:`When… / If… / Whenever… / As… / Once… / Upon… / While… / In situations where… / Under conditions where…`
      - sets the situation or conditions
    * - **Reasoning (R)**
      - :r:`because… / since… / as… / this causes… / this leads to… / this results in… / this means… / due to… / as a result of… / this produces… / this creates…`
