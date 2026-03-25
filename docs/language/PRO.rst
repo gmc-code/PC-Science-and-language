@@ -48,30 +48,13 @@ The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) str
 | Because the particles move more rapidly, they collide with the walls of the container more frequently and with greater force.
 | Therefore, the pressure inside the container increases.
 
-
-.. rubric:: PRO Breakdown
-
 .. container:: p
 
    .. rubric:: **Premise (P)**
 
 :p:`When a gas is heated, the particles gain kinetic energy and move faster.`
 
-.. container:: r
-
-   .. rubric:: **Reasoning (R):**
-
-:r:`Because the particles move more rapidly, they collide with the walls of the container more frequently and with greater force.`
-
-.. container:: o
-
-   .. rubric:: **Outcome (O):**
-
-:o:`Therefore, the pressure inside the container increases.`
-
-----
-
-.. admonition:: PRO Checklist - Writing Clear Scientific Explanations
+.. admonition:: Premise Checklist
    :class: tip
 
    **Premise (P) - “When…” (set the situation)**
@@ -85,7 +68,17 @@ The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) str
    *Test:*
    Can I continue with **“As a result…”**?
 
-   ---
+
+
+
+.. container:: r
+
+   .. rubric:: **Reasoning (R):**
+
+:r:`Because the particles move more rapidly, they collide with the walls of the container more frequently and with greater force.`
+
+.. admonition:: Premise Checklist
+   :class: tip
 
    **Reasoning (R) - “As a result…” (explain what happens inside)**
 
@@ -99,7 +92,16 @@ The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) str
    *Test:*
    Does this explain **HOW or WHY it happens**, not just WHAT happens?
 
-   ---
+
+.. container:: o
+
+   .. rubric:: **Outcome (O):**
+
+:o:`Therefore, the pressure inside the container increases.`
+
+
+.. admonition:: Premise Checklist
+   :class: tip
 
    **Outcome (O) - “Therefore…” (state the final result)**
 
@@ -113,7 +115,10 @@ The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) str
    *Test:*
    Is this something you could **observe or measure**?
 
-   ---
+----
+
+.. admonition:: Premise Checklist
+   :class: tip
 
    **Final PRO Check (whole answer)**
 
