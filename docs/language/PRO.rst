@@ -36,17 +36,11 @@ Consider the following questions that might be posed in a chemistry context:
 
 All of these invite the same PRO structure:
 
-- :p:`Premise: Heating increases particle kinetic energy.`
-- :r:`Reasoning: Faster particles collide more often and with more force.`
-- :o:`Outcome: Therefore, pressure increases.`
+- :p:`Premise: When a gas is heated, the particles gain kinetic energy and move faster.`
+- :r:`Reasoning: Because the particles move more rapidly, they collide with the walls of the container more frequently and with greater force.`
+- :o:`Outcome: Therefore, the pressure inside the container increases.`
 
-The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) structure operates in a scientific explanation.
-
-.. rubric:: Example PRO Paragraph
-
-| When a gas is heated, the particles gain kinetic energy and move faster.
-| Because the particles move more rapidly, they collide with the walls of the container more frequently and with greater force.
-| Therefore, the pressure inside the container increases.
+----
 
 .. container:: p
 
@@ -69,7 +63,7 @@ The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) str
    Can I continue with **“As a result…”**?
 
 
-
+----
 
 .. container:: r
 
@@ -92,6 +86,7 @@ The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) str
    *Test:*
    Does this explain **HOW or WHY it happens**, not just WHAT happens?
 
+----
 
 .. container:: o
 
@@ -128,14 +123,6 @@ The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) str
      **When… → As a result… → Therefore…**
    - Flows logically from start → explanation → result
    - No mixing of stages (e.g. no “because” in Outcome)
-
-   ---
-
-   **Model Example**
-
-   - **P:** When a gas is heated, the particles move faster.
-   - **R:** As a result, they collide with the walls more often and with greater force.
-   - **O:** Therefore, the pressure increases.
 
 
 ----
