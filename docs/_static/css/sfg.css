@@ -109,28 +109,47 @@ span.O, .O {
 
 /* admonitions via class */
 
-/* Premise – Pale Blue */
+/* --- Premise (Blue) --- */
 .admonition.premise {
     border-left: 6px solid #1f77b4;
-    background: #f3f8fd;   /* very pale blue */
+    background: #f3f8fd;
+}
+.admonition.premise .admonition-title {
+    background: #c4d9ef;   /* darker blue tint */
+    color: #0f3c5d;
 }
 
-/* Reasoning – Pale Red/Rose */
+
+/* --- Reasoning (Red) --- */
 .admonition.reasoning {
     border-left: 6px solid #d62728;
-    background: #fdeeee;   /* very pale red */
+    background: #fdeeee;
+}
+.admonition.reasoning .admonition-title {
+    background: #f3c4c4;   /* darker rose tint */
+    color: #6e1414;
 }
 
-/* Outcome – Pale Green/Mint */
+
+/* --- Outcome (Green) --- */
 .admonition.outcome {
     border-left: 6px solid #2ca02c;
-    background: #eefaf0;   /* very pale green */
+    background: #eefaf0;
+}
+.admonition.outcome .admonition-title {
+    background: #cde9d1;   /* richer green tint */
+    color: #1b5f1b;
 }
 
-/* PRO – Pale Lavender */
+
+/* --- PRO (Purple) --- */
 .admonition.pro {
     border-left: 6px solid #9b59b6;
-    background: #f8f3fb;   /* very pale purple */
+    background: #f8f3fb;
+}
+.admonition.pro .admonition-title {
+    background: #e3d4eb;   /* darker lavender tint */
+    color: #5b2e6b;
 }
 
 
