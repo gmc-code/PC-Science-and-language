@@ -106,27 +106,32 @@ span.O, .O {
     font-weight: bold;
 }
 
+
+/* admonitions via class */
+
+/* Premise – Pale Blue */
 .admonition.premise {
     border-left: 6px solid #1f77b4;
-    background: #e8f1fb;
+    background: #f3f8fd;   /* very pale blue */
 }
 
+/* Reasoning – Pale Red/Rose */
 .admonition.reasoning {
     border-left: 6px solid #d62728;
-    background: #e8f1fb;
+    background: #fdeeee;   /* very pale red */
 }
 
+/* Outcome – Pale Green/Mint */
 .admonition.outcome {
     border-left: 6px solid #2ca02c;
-    background: #fff4e5;
+    background: #eefaf0;   /* very pale green */
 }
 
-/* Purple box */
+/* PRO – Pale Lavender */
 .admonition.pro {
     border-left: 6px solid #9b59b6;
-    background: #f6e9fb;
+    background: #f8f3fb;   /* very pale purple */
 }
-
 
 
 .pro-answer {
