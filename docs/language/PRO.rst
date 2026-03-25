@@ -72,7 +72,7 @@ When a gas is heated, the particles gain kinetic energy and move faster. Because
 PRO Patterns and Text Connectives
 --------------------------------------------
 
-.. list-table:: PRO Sentence Starters
+.. list-table:: PRO Connectives Word Bank
    :header-rows: 1
    :widths: 20 45 35
 
@@ -80,14 +80,16 @@ PRO Patterns and Text Connectives
      - **Sentence Starters / Connectives**
      - **Function**
    * - **Premise (P)**
-     - :p:`When… / If… / Upon…`
-     - sets the situation
+     - :p:`When… / If… / Whenever… / As… / Once… / Upon… / While… / In situations where… / Under these conditions… / When this happens…`
+     - sets the situation or conditions
    * - **Reasoning (R)**
-     - :r:`Because… / this causes… / this leads to…`
-     - explains the mechanism
+     - :r:`because… / since… / as… / this causes… / this leads to… / this results in… / this means… / due to… / as a result of… / this produces… / this creates…`
+     - explains the cause or mechanism
    * - **Outcome (O)**
-     - :o:`therefore… / as a result… / hence…`
-     - gives the final effect
+     - :o:`so… / therefore… / as a result… / consequently… / thus… / hence… / for this reason… / which means that…`
+     - gives the final result or effect
+
+
 
 ----
 
