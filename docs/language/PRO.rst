@@ -44,7 +44,9 @@ The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) str
 
 .. rubric:: Example PRO Paragraph
 
-When a gas is heated, the particles gain kinetic energy and move faster. Because the particles move more rapidly, they collide with the walls of the container more frequently and with greater force. Therefore, the pressure inside the container increases.
+| When a gas is heated, the particles gain kinetic energy and move faster.
+| Because the particles move more rapidly, they collide with the walls of the container more frequently and with greater force.
+| Therefore, the pressure inside the container increases.
 
 
 .. rubric:: PRO Breakdown
@@ -66,6 +68,71 @@ When a gas is heated, the particles gain kinetic energy and move faster. Because
    .. rubric:: **Outcome (O):**
 
 :o:`Therefore, the pressure inside the container increases.`
+
+----
+
+.. admonition:: PRO Checklist - Writing Clear Scientific Explanations
+   :class: tip
+
+   **Premise (P) - “When…” (set the situation)**
+
+   - Starts with **“When…”** (or “If…”)
+   - Describes **what is happening** (the situation)
+   - Includes a **key science idea or property**
+   - Has **only ONE main idea**
+   - Sounds **natural when read aloud**
+   - Does **NOT try to explain why yet**
+
+   *Test:*
+   Can I continue with **“As a result…”**?
+
+   ---
+
+   **Reasoning (R) - “As a result…” (explain what happens inside)**
+
+   - Starts with **“As a result…”**
+   - Explains **what is happening at a particle/process level**
+   - Clearly links back to the Premise
+   - Uses simple cause language (*move, collide, separate, react*)
+   - Does **NOT jump to the final outcome too quickly**
+   - May include **“so…”** inside the sentence if needed
+
+   *Test:*
+   Does this explain **HOW or WHY it happens**, not just WHAT happens?
+
+   ---
+
+   **Outcome (O) - “Therefore…” (state the final result)**
+
+   - Starts with **“Therefore…”** (or *So… / As a result…*)
+   - States the **final observable result**
+   - Clearly answers the original question
+   - Is **short and direct**
+   - Does **NOT repeat the reasoning**
+   - Does **NOT include “because”**
+
+   *Test:*
+   Is this something you could **observe or measure**?
+
+   ---
+
+   **Final PRO Check (whole answer)**
+
+   - 3 full sentences (P, R, O)
+   - Each sentence has a **different role**
+   - Uses:
+     **When… → As a result… → Therefore…**
+   - Flows logically from start → explanation → result
+   - No mixing of stages (e.g. no “because” in Outcome)
+
+   ---
+
+   **Model Example**
+
+   - **P:** When a gas is heated, the particles move faster.
+   - **R:** As a result, they collide with the walls more often and with greater force.
+   - **O:** Therefore, the pressure increases.
+
 
 ----
 
