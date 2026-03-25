@@ -150,10 +150,10 @@ Therefore, the clay changes shape but remains the same substance.
                 .. tab-item:: Why does a piece of chalk break when you bend it?
 
                     :P:`Premise (P):`
-                    Because chalk is a brittle solid, its particles are held together in a rigid, inflexible structure.
+                    When a bending force is applied to chalk, its rigid structure does not allow the particles to move.
 
                     :R:`Reasoning (R):`
-                    As a result, when a bending force is applied, the rigid structure cannot adjust or bend, so the particles separate instead of shifting.
+                    As a result, the particles separate instead of shifting.
 
                     :O:`Outcome (O):`
                     Therefore, the chalk breaks into smaller pieces without changing its substance.

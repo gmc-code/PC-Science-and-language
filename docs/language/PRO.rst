@@ -93,6 +93,47 @@ PRO Connectives Word Bank
 
 ----
 
+---------------------------------------------
+PRO use of Marked Themes in Explanations
+---------------------------------------------
+
+| Marked Themes play an important organising role in scientific and technical explanations.
+| They help guide the reader through cause-and-effect reasoning and make the text easier to follow.
+
+1. Foregrounding the Cause or Condition
+---------------------------------------
+
+Marked Themes allow the writer to place the cause, condition, or context at the
+front of the clause, even when it is not the grammatical subject.
+
+Example::
+
+  When a bending force is applied, the chalk breaks.
+
+This helps readers understand the triggering situation before encountering the
+main clause.
+
+2. Organising Logical Relations Clearly
+---------------------------------------
+
+| Explanations rely on signalling relationships such as cause, effect, sequence, and contrast.
+| Marked Themes often use text connectives (e.g. "As a result", "Therefore", "Consequently") to make these relations explicit.
+| These guide the reader through the chain of reasoning.
+
+
+3. Highlighting Important Circumstances
+---------------------------------------
+
+Scientific explanations frequently depend on circumstances such as *when*, *why*, *under what conditions*, or *in what manner* a process occurs.
+
+Placing these circumstances in Theme position (first in sentence) highlights their importance and clarifies the conditions under which the phenomenon happens.
+
+Example::
+
+  Under high pressure, the gas compresses.
+
+----
+
 PRO Method and Useful SFG Resources
 ---------------------------------------------
 
@@ -154,25 +195,4 @@ cause-and-effect.
 - Cohesive closure signalling completion
   (e.g., *in conclusion, to summarise, overall*)
 
-Summary Table
-~~~~~~~~~~~~~~~~~~~~
 
-.. list-table::
-   :header-rows: 1
-   :widths: 20 30 50
-
-   * - PRO Stage
-     - Purpose
-     - Useful SFG Resources
-   * - Premise
-     - State accepted scientific principle
-     - Relational processes; technical noun groups; generalised participants;
-       declarative clauses; nominalisation
-   * - Reasoning
-     - Explain cause-and-effect using the premise
-     - Causal conjunctions; material processes; circumstances; logical connectors;
-       thematic choices
-   * - Outcome
-     - State the final effect or phenomenon
-     - Concluding Themes; summarising nominal groups; relational/material processes;
-       cohesive closure
