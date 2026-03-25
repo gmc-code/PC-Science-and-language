@@ -69,6 +69,14 @@ When a gas is heated, the particles gain kinetic energy and move faster. Because
 
 ----
 
+PRO Patterns and Text Connectives
+--------------------------------------------
+
+**Premise (P)** :p:` When… / If… / Upon…'
+**Reasoning (R):** :r:` they… / this causes… / this leads to…'
+**Outcome (O):**:o:` therefore… / as a result… / hence…'
+
+----
 
 PRO Method and Useful SFG Resources
 ---------------------------------------------
