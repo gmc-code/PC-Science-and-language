@@ -69,10 +69,10 @@ When a gas is heated, the particles gain kinetic energy and move faster. Because
 
 ----
 
-PRO Patterns and Text Connectives
+PRO Connectives Word Bank
 --------------------------------------------
 
-.. list-table:: PRO Connectives Word Bank
+.. list-table::
    :header-rows: 1
    :widths: 20 45 35
 
