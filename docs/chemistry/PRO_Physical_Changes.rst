@@ -7,8 +7,6 @@ Examine the following examples of PRO (Premise-Reasoning-Outcome) structures in 
 
 .. rubric::  Why does ice melt when it is heated?
 
-.. rubric:: Why does ice melt when it is heated?
-
 :P:`Premise (P):`
 When a solid is heated, the particles gain kinetic energy.
 
