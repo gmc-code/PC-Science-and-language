@@ -116,7 +116,7 @@ span.O, .O {
 }
 .admonition.premise .admonition-title {
     background: #c4d9ef;   /* darker blue tint */
-    color: #0f3c5d;
+    color: #1f77b4;
 }
 
 
@@ -127,7 +127,7 @@ span.O, .O {
 }
 .admonition.reasoning .admonition-title {
     background: #f3c4c4;   /* darker rose tint */
-    color: #6e1414;
+    color: #d62728;
 }
 
 
@@ -138,7 +138,7 @@ span.O, .O {
 }
 .admonition.outcome .admonition-title {
     background: #cde9d1;   /* richer green tint */
-    color: #1b5f1b;
+    color: #2ca02c;
 }
 
 
@@ -149,7 +149,7 @@ span.O, .O {
 }
 .admonition.pro .admonition-title {
     background: #e3d4eb;   /* darker lavender tint */
-    color: #5b2e6b;
+    color: #9b59b6;
 }
 
 
