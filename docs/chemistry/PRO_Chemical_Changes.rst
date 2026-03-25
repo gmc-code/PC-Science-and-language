@@ -60,75 +60,75 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
 
 **Iron rusting**
 
-    .. admonition:: Tasks
+.. admonition:: Tasks
 
-        Complete the Outcome (O).
+    Complete the Outcome (O).
 
-        1. Why does iron rust when exposed to water and oxygen?
+    1. Why does iron rust when exposed to water and oxygen?
 
-            :P:`Premise (P):`
-            Iron reacts with oxygen in the presence of water to form a new substance called iron oxide.
+        :P:`Premise (P):`
+        Iron reacts with oxygen in the presence of water to form a new substance called iron oxide.
 
-            :R:`Reasoning (R):`
-            The iron particles chemically combine with oxygen particles during the reaction.
+        :R:`Reasoning (R):`
+        The iron particles chemically combine with oxygen particles during the reaction.
 
-            :O:`Outcome (O):`
-            ``_______________________``, the iron ``_____________`` into iron oxide (rust).
+        :O:`Outcome (O):`
+        ``_______________________``, the iron ``_____________`` into iron oxide (rust).
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
-            :class-container: sd-dropdown-container
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
 
-            .. tab-set::
+        .. tab-set::
 
-                .. tab-item:: Why does iron rust when exposed to water and oxygen?
+            .. tab-item:: Why does iron rust when exposed to water and oxygen?
 
-                    :P:`Premise (P):`
-                    Iron reacts with oxygen in the presence of water to form a new substance called iron oxide.
+                :P:`Premise (P):`
+                Iron reacts with oxygen in the presence of water to form a new substance called iron oxide.
 
-                    :R:`Reasoning (R):`
-                    The iron particles chemically combine with oxygen particles during the reaction.
+                :R:`Reasoning (R):`
+                The iron particles chemically combine with oxygen particles during the reaction.
 
-                    :O:`Outcome (O):`
-                    Therefore, the iron changes into iron oxide (rust).
+                :O:`Outcome (O):`
+                Therefore, the iron changes into iron oxide (rust).
 
 ----
 
 **Burning magnesium**
 
-    .. admonition:: Tasks
+.. admonition:: Tasks
 
-        Complete the Reasoning (R).
+    Complete the Reasoning (R).
 
-        1. Why does a magnesium strip burn with a bright white flame?
+    2. Why does a magnesium strip burn with a bright white flame?
 
-            :P:`Premise (P):`
-            Magnesium reacts quickly with oxygen when heated.
+        :P:`Premise (P):`
+        Magnesium reacts quickly with oxygen when heated.
 
-            :R:`Reasoning (R):`
-            When you heat the magnesium ``__________________``, the oxygen ``__________________`` and forms a new ``__________________``.
+        :R:`Reasoning (R):`
+        When you heat the magnesium ``__________________``, the oxygen ``__________________`` and forms a new ``__________________``.
 
-            :O:`Outcome (O):`
-            Therefore, magnesium oxide is produced and light is released.
+        :O:`Outcome (O):`
+        Therefore, magnesium oxide is produced and light is released.
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
-            :class-container: sd-dropdown-container
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
 
-            .. tab-set::
+        .. tab-set::
 
-                .. tab-item:: Why does a magnesium strip burn with a bright white flame?
+            .. tab-item:: Why does a magnesium strip burn with a bright white flame?
 
-                    :P:`Premise (P):`
-                    Heated magnesium reacts rapidly with oxygen in air to form magnesium oxide (MgO).
+                :P:`Premise (P):`
+                Heated magnesium reacts rapidly with oxygen in air to form magnesium oxide (MgO).
 
-                    :R:`Reasoning (R):`
-                    The reaction (2Mg + O₂ → 2MgO) is highly exothermic; the metal becomes incandescent and emits intense white light.
+                :R:`Reasoning (R):`
+                The reaction (2Mg + O₂ → 2MgO) is highly exothermic; the metal becomes incandescent and emits intense white light.
 
-                    :O:`Outcome (O):`
-                    Therefore, a bright white flame is observed.
+                :O:`Outcome (O):`
+                Therefore, a bright white flame is observed.
 
 ----
 
@@ -138,7 +138,7 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
 
     Complete the Premise (P).
 
-    1. Why does methane need a spark or flame to start burning?
+    3. Why does methane need a spark or flame to start burning?
 
         :P:`Premise (P):`
         The methane-oxygen reaction requires activation energy; heat from a spark or flame ``__________________`` it.
@@ -168,270 +168,270 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
                 Therefore, methane ignites.
 
 ----
-----------------------------------------------------------------------------------
+
 **Copper carbonate decomposition**
 
-    .. admonition:: Tasks
+.. admonition:: Tasks
 
-        Complete the Explanation by filling in the missing verbs.
+    Complete the Explanation by filling in the missing verbs.
 
-        **Word list (A → Z):** break • decomposes • decomposes • heated • supplied
+    **Word list (A → Z):** break • decomposes • decomposes • heated • supplied
 
-        1. Why does copper carbonate break down when it is heated?
+    1. Why does copper carbonate break down when it is heated?
 
-            :P:`Premise (P):`
-            Copper carbonate ``__________________`` only when it is ``__________________`` and enough heat is ``__________________``.
+        :P:`Premise (P):`
+        Copper carbonate ``__________________`` only when it is ``__________________`` and enough heat is ``__________________``.
 
-            :R:`Reasoning (R):`
-            The added heat allows the compound to ``__________________`` apart into copper oxide and carbon dioxide.
+        :R:`Reasoning (R):`
+        The added heat allows the compound to ``__________________`` apart into copper oxide and carbon dioxide.
 
-            :O:`Outcome (O):`
-            Therefore, copper carbonate ``__________________``.
+        :O:`Outcome (O):`
+        Therefore, copper carbonate ``__________________``.
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
+    .. dropdown::
+        :icon: codescan
+        :color: primary
 
-            .. tab-set::
+        .. tab-set::
 
-                .. tab-item:: Why does copper carbonate break down when heated?
+            .. tab-item:: Why does copper carbonate break down when heated?
 
-                    :P:`Premise (P):`
-                    Copper carbonate decomposes only when it is heated and enough heat is supplied.
+                :P:`Premise (P):`
+                Copper carbonate decomposes only when it is heated and enough heat is supplied.
 
-                    :R:`Reasoning (R):`
-                    The added heat allows the compound to break apart into copper oxide and carbon dioxide.
+                :R:`Reasoning (R):`
+                The added heat allows the compound to break apart into copper oxide and carbon dioxide.
 
-                    :O:`Outcome (O):`
-                    Therefore, copper carbonate decomposes.
+                :O:`Outcome (O):`
+                Therefore, copper carbonate decomposes.
 
 ----
 
 **Photosynthesis (glucose production)**
 
-    .. admonition:: Tasks
+.. admonition:: Tasks
 
-        Complete the Explanation by filling in the missing nouns.
+    Complete the Explanation by filling in the missing nouns.
 
-        **Word list (A → Z):** chlorophyll • energy • leaves • light • photosynthesis
+    **Word list (A → Z):** chlorophyll • energy • leaves • light • photosynthesis
 
-        2. How do plants make glucose?
+    5. How do plants make glucose?
 
-            :P:`Premise (P):`
-            In ``__________________``, ``__________________`` inside the ``__________________`` absorbs ``__________________`` ``__________________``.
+        :P:`Premise (P):`
+        In ``__________________``, ``__________________`` inside the ``__________________`` absorbs ``__________________`` ``__________________``.
 
-            :R:`Reasoning (R):`
-            This energy enables the plant to convert carbon dioxide and water into glucose and oxygen.
+        :R:`Reasoning (R):`
+        This energy enables the plant to convert carbon dioxide and water into glucose and oxygen.
 
-            :O:`Outcome (O):`
-            Therefore, the plant makes glucose using this ``__________________``.
+        :O:`Outcome (O):`
+        Therefore, the plant makes glucose using this ``__________________``.
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
+    .. dropdown::
+        :icon: codescan
+        :color: primary
 
-            .. tab-set::
+        .. tab-set::
 
-                .. tab-item:: How do plants make glucose?
+            .. tab-item:: How do plants make glucose?
 
-                    :P:`Premise (P):`
-                    In photosynthesis, chlorophyll inside the leaves absorbs light energy.
+                :P:`Premise (P):`
+                In photosynthesis, chlorophyll inside the leaves absorbs light energy.
 
-                    :R:`Reasoning (R):`
-                    This energy enables the plant to convert carbon dioxide and water into glucose and oxygen.
+                :R:`Reasoning (R):`
+                This energy enables the plant to convert carbon dioxide and water into glucose and oxygen.
 
-                    :O:`Outcome (O):`
-                    Therefore, the plant makes glucose using this energy.
+                :O:`Outcome (O):`
+                Therefore, the plant makes glucose using this energy.
 
 ----
 
 **Magnesium in acid**
 
-    .. admonition:: Tasks
+.. admonition:: Tasks
 
-        Complete the Explanation by filling in the missing *processes* (verbs).
+    Complete the Explanation by filling in the missing *processes* (verbs).
 
-        **Word list (A → Z):** appears • forms • produces •  reacts
+    **Word list (A → Z):** appears • forms • produces •  reacts
 
-        1. Why does magnesium fizz in hydrochloric acid?
+    6. Why does magnesium fizz in hydrochloric acid?
 
-            :P:`Premise (P):`
-            Magnesium ``__________________`` with hydrochloric acid.
+        :P:`Premise (P):`
+        Magnesium ``__________________`` with hydrochloric acid.
 
-            :R:`Reasoning (R):`
-            The reaction ``__________________`` hydrogen gas, which ``__________________`` as visible bubbles.
+        :R:`Reasoning (R):`
+        The reaction ``__________________`` hydrogen gas, which ``__________________`` as visible bubbles.
 
-            :O:`Outcome (O):`
-            Therefore, the reaction ``__________________`` fizzing.
+        :O:`Outcome (O):`
+        Therefore, the reaction ``__________________`` fizzing.
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
+    .. dropdown::
+        :icon: codescan
+        :color: primary
 
-            .. tab-set::
+        .. tab-set::
 
-                .. tab-item:: Why does magnesium fizz in hydrochloric acid?
+            .. tab-item:: Why does magnesium fizz in hydrochloric acid?
 
-                    :P:`Premise (P):`
-                    Magnesium reacts with hydrochloric acid.
+                :P:`Premise (P):`
+                Magnesium reacts with hydrochloric acid.
 
-                    :R:`Reasoning (R):`
-                    The reaction forms hydrogen gas, which appears as visible bubbles.
+                :R:`Reasoning (R):`
+                The reaction forms hydrogen gas, which appears as visible bubbles.
 
-                    :O:`Outcome (O):`
-                    Therefore, the reaction produces fizzing.
-``
+                :O:`Outcome (O):`
+                Therefore, the reaction produces fizzing.
+
 
 ----
 
 **Copper patina (corrosion)**
 
-    .. admonition:: Tasks
+.. admonition:: Tasks
 
-        Complete the Explanation by filling in the missing text connectives.
+    Complete the Explanation by filling in the missing text connectives.
 
-        **Word list (A → Z):** as • therefore • when
+    **Word list (A → Z):** as • therefore • when
 
-        1. Why does copper develop a green coating outdoors?
+    7. Why does copper develop a green coating outdoors?
 
-            :P:`Premise (P):`
-            Copper reacts with oxygen, moisture, and carbon dioxide in the air.
+        :P:`Premise (P):`
+        Copper reacts with oxygen, moisture, and carbon dioxide in the air.
 
-            :R:`Reasoning (R):`
-            ``__________________`` the reactions continue over time, a new substance forms that coats the surface of the metal.
+        :R:`Reasoning (R):`
+        ``__________________`` the reactions continue over time, a new substance forms that coats the surface of the metal.
 
-            :O:`Outcome (O):`
-            ``__________________`` the patina builds up, a green layer slowly forms on the copper.
+        :O:`Outcome (O):`
+        ``__________________`` the patina builds up, a green layer slowly forms on the copper.
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
+    .. dropdown::
+        :icon: codescan
+        :color: primary
 
-            .. tab-set::
+        .. tab-set::
 
-                .. tab-item:: Why does copper develop a green coating?
+            .. tab-item:: Why does copper develop a green coating?
 
-                    :P:`Premise (P):`
-                    Copper reacts with oxygen, moisture, and carbon dioxide in the air.
+                :P:`Premise (P):`
+                Copper reacts with oxygen, moisture, and carbon dioxide in the air.
 
-                    :R:`Reasoning (R):`
-                    As the reactions continue over time, a new substance forms that coats the surface of the metal.
+                :R:`Reasoning (R):`
+                As the reactions continue over time, a new substance forms that coats the surface of the metal.
 
-                    :O:`Outcome (O):`
-                    Therefore, as the patina builds up, a green layer slowly forms on the copper.
+                :O:`Outcome (O):`
+                Therefore, as the patina builds up, a green layer slowly forms on the copper.
 
 ----
 
 **Bleach + ammonia**
 
-    .. admonition:: Tasks
+.. admonition:: Tasks
 
-        Complete the Explanation by filling in the missing *adjectives*.
+    Complete the Explanation by filling in the missing *adjectives*.
 
-        **Word list (A → Z):** combination, dangerous • toxic
+    **Word list (A → Z):** combination, dangerous • toxic
 
-        1. Why is mixing bleach and ammonia dangerous?
+    8. Why is mixing bleach and ammonia dangerous?
 
-            :P:`Premise (P):`
-            Bleach reacts with ammonia when the two are mixed.
+        :P:`Premise (P):`
+        Bleach reacts with ammonia when the two are mixed.
 
-            :R:`Reasoning (R):`
-            The reaction produces ``__________________`` chloramine gases that can irritate the lungs.
+        :R:`Reasoning (R):`
+        The reaction produces ``__________________`` chloramine gases that can irritate the lungs.
 
-            :O:`Outcome (O):`
-            Therefore, the ``__________________`` reaction forms a ``__________________`` and visible mixture.
+        :O:`Outcome (O):`
+        Therefore, the ``__________________`` reaction forms a ``__________________`` and visible mixture.
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
+    .. dropdown::
+        :icon: codescan
+        :color: primary
 
-            .. tab-set::
+        .. tab-set::
 
-                .. tab-item:: Why is mixing bleach and ammonia dangerous?
+            .. tab-item:: Why is mixing bleach and ammonia dangerous?
 
-                    :P:`Premise (P):`
-                    Bleach reacts with ammonia when the two are mixed.
+                :P:`Premise (P):`
+                Bleach reacts with ammonia when the two are mixed.
 
-                    :R:`Reasoning (R):`
-                    The reaction produces toxic chloramine gases that can irritate the lungs.
+                :R:`Reasoning (R):`
+                The reaction produces toxic chloramine gases that can irritate the lungs.
 
-                    :O:`Outcome (O):`
-                    Therefore, the combination reaction forms a dangerous and visible mixture.
+                :O:`Outcome (O):`
+                Therefore, the combination reaction forms a dangerous and visible mixture.
 
 ----
 
 **Silver chloride precipitate**
 
-    .. admonition:: Tasks
+.. admonition:: Tasks
 
-        Complete the Explanation by filling in the missing text connectives.
+    Complete the Explanation by filling in the missing text connectives.
 
-        **Word list (A → Z):** consequently • once • when
+    **Word list (A → Z):** consequently • once • when
 
-        1. Why does a white solid form when silver nitrate and sodium chloride are mixed?
+    9. Why does a white solid form when silver nitrate and sodium chloride are mixed?
 
-            :P:`Premise (P):`
-            Silver ions react with chloride ions ``__________________`` the two solutions are mixed.
+        :P:`Premise (P):`
+        Silver ions react with chloride ions ``__________________`` the two solutions are mixed.
 
-            :R:`Reasoning (R):`
-            ``__________________`` the ions meet, they rearrange to form a new substance that is insoluble.
+        :R:`Reasoning (R):`
+        ``__________________`` the ions meet, they rearrange to form a new substance that is insoluble.
 
-            :O:`Outcome (O):`
-            ``__________________``, a white precipitate appears.
+        :O:`Outcome (O):`
+        ``__________________``, a white precipitate appears.
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
+    .. dropdown::
+        :icon: codescan
+        :color: primary
 
-            .. tab-set::
+        .. tab-set::
 
-                .. tab-item:: Why does a white solid form when silver nitrate and sodium chloride are mixed?
+            .. tab-item:: Why does a white solid form when silver nitrate and sodium chloride are mixed?
 
-                    :P:`Premise (P):`
-                    Silver ions react with chloride ions when the two solutions are mixed.
+                :P:`Premise (P):`
+                Silver ions react with chloride ions when the two solutions are mixed.
 
-                    :R:`Reasoning (R):`
-                    Once the ions meet, they rearrange to form a new substance that it is insoluble.
+                :R:`Reasoning (R):`
+                Once the ions meet, they rearrange to form a new substance that it is insoluble.
 
-                    :O:`Outcome (O):`
-                    Consequently, a white precipitate appears.
+                :O:`Outcome (O):`
+                Consequently, a white precipitate appears.
 
 ----
 
 **Ethanol combustion**
 
-    .. admonition:: Tasks
+.. admonition:: Tasks
 
-        Complete the Explanation by filling in the missing verbs.
+    Complete the Explanation by filling in the missing verbs.
 
-        **Word list (A → Z):** applied • ignited • produces • reacts • releases
+    **Word list (A → Z):** applied • ignited • produces • reacts • releases
 
-        1. Why does ethanol burn when it is ignited?
+    10. Why does ethanol burn when it is ignited?
 
-            :P:`Premise (P):`
-            Ethanol ``__________________`` with oxygen when enough heat is ``__________________`` and the fuel is ``__________________``.
+        :P:`Premise (P):`
+        Ethanol ``__________________`` with oxygen when enough heat is ``__________________`` and the fuel is ``__________________``.
 
-            :R:`Reasoning (R):`
-            The reaction ``__________________`` carbon dioxide and water and ``__________________`` large amounts of energy.
+        :R:`Reasoning (R):`
+        The reaction ``__________________`` carbon dioxide and water and ``__________________`` large amounts of energy.
 
-            :O:`Outcome (O):`
-            Therefore, ethanol undergoes combustion.
+        :O:`Outcome (O):`
+        Therefore, ethanol undergoes combustion.
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
+    .. dropdown::
+        :icon: codescan
+        :color: primary
 
-            .. tab-set::
+        .. tab-set::
 
-                .. tab-item:: Why does ethanol burn?
+            .. tab-item:: Why does ethanol burn?
 
-                    :P:`Premise (P):`
-                    Ethanol reacts with oxygen when enough heat is applied and the fuel is ignited.
+                :P:`Premise (P):`
+                Ethanol reacts with oxygen when enough heat is applied and the fuel is ignited.
 
-                    :R:`Reasoning (R):`
-                    The reaction produces carbon dioxide and water and releases large amounts of energy.
+                :R:`Reasoning (R):`
+                The reaction produces carbon dioxide and water and releases large amounts of energy.
 
-                    :O:`Outcome (O):`
-                    Therefore, ethanol undergoes combustion.
+                :O:`Outcome (O):`
+                Therefore, ethanol undergoes combustion.
 
 
