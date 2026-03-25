@@ -9,15 +9,12 @@ Marked themes
 1. Foregrounding the Cause or Condition
 ---------------------------------------
 
-Marked Themes allow the writer to place the cause, condition, or context at the
-front of the clause, even when it is not the grammatical subject.
+| Marked Themes allow the writer to place the cause, condition, or context at the front of the clause.
+| This helps readers understand the triggering situation before encountering the main clause.
 
 Example::
 
   When a bending force is applied, the chalk breaks.
-
-This helps readers understand the triggering situation before encountering the
-main clause.
 
 2. Organising Logical Relations Clearly
 ---------------------------------------
@@ -30,9 +27,8 @@ main clause.
 3. Highlighting Important Circumstances
 ---------------------------------------
 
-Scientific explanations frequently depend on circumstances such as *when*, *why*, *under what conditions*, or *in what manner* a process occurs.
-
-Placing these circumstances in Theme position (first in sentence) highlights their importance and clarifies the conditions under which the phenomenon happens.
+| Scientific explanations frequently depend on circumstances such as *when*, *why*, *under what conditions*, or *in what manner* a process occurs.
+| Placing these circumstances in Theme position (first in sentence) highlights their importance and clarifies the conditions under which the phenomenon happens.
 
 Example::
 

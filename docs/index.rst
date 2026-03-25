@@ -23,7 +23,8 @@ PC-Science-and-language
 
     language/PRO.rst
     chemistry/PRO_Physical_Changes.rst
-    chemistry/PRO_Chemical_Changes.rst
+
+    .. chemistry/PRO_Chemical_Changes.rst
 
 
 
@@ -34,7 +35,7 @@ PC-Science-and-language
     :numbered:
 
     language/Sequential_explanations.rst
-
+    language/Marked_themes.rst
 
 
 .. toctree::
