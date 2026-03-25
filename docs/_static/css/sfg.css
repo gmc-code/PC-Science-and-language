@@ -106,6 +106,29 @@ span.O, .O {
     font-weight: bold;
 }
 
+.admonition.premise {
+    border-left: 6px solid #1f77b4;
+    background: #e8f1fb;
+}
+
+.admonition.reasoning {
+    border-left: 6px solid #d62728;
+    background: #e8f1fb;
+}
+
+.admonition.outcome {
+    border-left: 6px solid #2ca02c;
+    background: #fff4e5;
+}
+
+/* Purple box */
+.admonition.pro {
+    border-left: 6px solid #9b59b6;
+    background: #f6e9fb;
+}
+
+
+
 .pro-answer {
     background: #f5f5f5;
     background-color: lightyellow!important;

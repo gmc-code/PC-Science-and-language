@@ -49,7 +49,7 @@ All of these invite the same PRO structure:
 :p:`When a gas is heated, the particles gain kinetic energy and move faster.`
 
 .. admonition:: Premise Checklist
-   :class: tip
+   :class: premise
 
    **Premise (P) - “When…” (set the situation)**
 
@@ -72,7 +72,7 @@ All of these invite the same PRO structure:
 :r:`Because the particles move more rapidly, they collide with the walls of the container more frequently and with greater force.`
 
 .. admonition:: Reasoning Checklist
-   :class: tip
+   :class: reasoning
 
    **Reasoning (R) - “As a result…” (explain what happens inside)**
 
@@ -96,7 +96,7 @@ All of these invite the same PRO structure:
 
 
 .. admonition:: Outcome Checklist
-   :class: tip
+   :class: outcome
 
    **Outcome (O) - “Therefore…” (state the final result)**
 
@@ -113,7 +113,7 @@ All of these invite the same PRO structure:
 ----
 
 .. admonition:: PRO Checklist
-   :class: tip
+   :class: pro
 
    **Final PRO Check (whole answer)**
 
