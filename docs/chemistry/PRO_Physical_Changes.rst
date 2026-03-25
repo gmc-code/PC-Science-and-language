@@ -93,7 +93,7 @@ Therefore, the clay changes shape but remains the same substance.
             Because rubber is made of long, coiled polymer chains, they can uncoil when a force is applied.
 
             :R:`Reasoning (R):`
-            As a result, when a rubber band is ``__________________``, the force straightens and extends these ``__________________`` without breaking ``__________________``.
+            ``_______________________``, when a rubber band is ``__________________``, the force straightens and extends these ``__________________`` without breaking ``__________________``.
 
             :O:`Outcome (O):`
             Therefore, the rubber band becomes longer but remains the same material.
@@ -127,7 +127,7 @@ Therefore, the clay changes shape but remains the same substance.
         3. Why does a piece of chalk break when you bend it?
 
             :P:`Premise (P):`
-            When a bending force is applied to ``__________________``, its rigid structure does not allow the ``__________________`` to move.
+            ``_______________`` a bending force is applied to ``__________________``, its rigid structure does not allow the ``__________________`` to move.
 
             :R:`Reasoning (R):`
             As a result, the particles separate instead of shifting.
