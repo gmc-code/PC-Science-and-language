@@ -77,7 +77,7 @@ The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) str
 
 :r:`Because the particles move more rapidly, they collide with the walls of the container more frequently and with greater force.`
 
-.. admonition:: Premise Checklist
+.. admonition:: Reasoning Checklist
    :class: tip
 
    **Reasoning (R) - “As a result…” (explain what happens inside)**
@@ -100,7 +100,7 @@ The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) str
 :o:`Therefore, the pressure inside the container increases.`
 
 
-.. admonition:: Premise Checklist
+.. admonition:: Outcome Checklist
    :class: tip
 
    **Outcome (O) - “Therefore…” (state the final result)**
@@ -117,7 +117,7 @@ The following paragraph demonstrates how the PRO (Premise-Reasoning-Outcome) str
 
 ----
 
-.. admonition:: Premise Checklist
+.. admonition:: PRO Checklist
    :class: tip
 
    **Final PRO Check (whole answer)**
