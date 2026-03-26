@@ -21,8 +21,10 @@ PC-Science-and-language
     :caption: 🤔 PRO
     :numbered:
 
-    language/PRO.rst
-    chemistry/PRO_Physical_Changes.rst
+    language/Marked_themes.rst
+
+    .. language/PRO.rst
+    .. chemistry/PRO_Physical_Changes.rst
     chemistry/PRO_Chemical_Changes.rst
 
 
