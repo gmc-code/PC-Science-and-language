@@ -10,10 +10,10 @@ Examine the following examples of PRO (Premise-Reasoning-Outcome) structures in 
 .. rubric:: Why does fizzing occur when vinegar is added to baking soda?
 
 :P:`Premise (P):`
-Acids can react with carbonates to produce carbon dioxide gas.
+When vinegar is added to baking soda, the acid reacts with the carbonate to produce carbon dioxide gas.
 
 :R:`Reasoning (R):`
-When vinegar and baking soda mix, their particles react and release carbon dioxide, which escapes as bubbles.
+As a result, carbon dioxide gas forms and escapes from the mixture as bubbles.
 
 :O:`Outcome (O):`
 Therefore, fizzing occurs.
@@ -23,26 +23,26 @@ Therefore, fizzing occurs.
 .. rubric:: Why does a hand warmer heat up when activated?
 
 :P:`Premise (P):`
-Some chemical reactions release energy as new substances are formed.
+When a hand warmer is activated, iron reacts with oxygen in an exothermic reaction.
 
 :R:`Reasoning (R):`
-When the hand warmer is activated, iron reacts with oxygen and the reaction releases energy into the surroundings.
+As a result, energy is released into the surroundings as heat.
 
 :O:`Outcome (O):`
-Therefore, the hand warmer becomes warmer.
+Therefore, the hand warmer becomes warm.
 
 ----
 
-.. rubric:: Why can a solid form when two solutions are mixed?
+.. rubric:: Why does a precipitate form when lead nitrate and potassium iodide are mixed?
 
 :P:`Premise (P):`
-When two aqueous solutions such as lead nitrate and potassium iodide are mixed, the dissolved ions can swap partners and form a new substance with different properties.
+When lead nitrate and potassium iodide solutions are mixed, their dissolved ions can combine to form new substances.
 
 :R:`Reasoning (R):`
-When the solutions combine, the lead ions (Pb²⁺) and iodide ions (I⁻) rearrange and form lead iodide (PbI₂), a substance that does not dissolve in water.
+As a result, lead ions (Pb²⁺) and iodide ions (I⁻) form lead iodide (PbI₂), which is insoluble in water.
 
 :O:`Outcome (O):`
-Therefore, a solid (precipitate) can form from the reaction when two solutions are mixed.
+Therefore, a solid precipitate forms.
 
 ----
 
@@ -54,32 +54,32 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
 
     1. Why does iron rust when exposed to water and oxygen?
 
-        :P:`Premise (P):`
-        Iron reacts with oxygen in the presence of water to form a new substance called iron oxide.
+            :P:`Premise (P):`
+            When iron is exposed to water and oxygen, its surface can react with these substances.
 
-        :R:`Reasoning (R):`
-        The iron particles chemically combine with oxygen particles during the reaction.
+            :R:`Reasoning (R):`
+            As a result, the iron combines with oxygen in the presence of water to form a new substance.
 
-        :O:`Outcome (O):`
-        ``_______________________``, the iron ``_____________`` into iron oxide (rust).
+            :O:`Outcome (O):`
+            ``_______________________``, rust (iron oxide) appears on the iron's ``_______________________``.
 
-    .. dropdown::
+
         :icon: codescan
         :color: primary
         :class-container: sd-dropdown-container
 
         .. tab-set::
 
-            .. tab-item:: Why does iron rust when exposed to water and oxygen?
+        .. tab-item:: Why does iron rust when exposed to water and oxygen?
 
-                :P:`Premise (P):`
-                Iron reacts with oxygen in the presence of water to form a new substance called iron oxide.
+            :P:`Premise (P):`
+            When iron is exposed to water and oxygen, its surface can react with these substances.
 
-                :R:`Reasoning (R):`
-                The iron particles chemically combine with oxygen particles during the reaction.
+            :R:`Reasoning (R):`
+            As a result, the iron combines with oxygen in the presence of water to form a new substance.
 
-                :O:`Outcome (O):`
-                Therefore, the iron changes into iron oxide (rust).
+            :O:`Outcome (O):`
+            Therefore, rust (iron oxide) appears on the iron's surface.
 
 ----
 
@@ -92,13 +92,13 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
     2. Why does a magnesium strip burn with a bright white flame?
 
         :P:`Premise (P):`
-        Magnesium reacts quickly with oxygen when heated.
+        When magnesium is heated, it reacts quickly with oxygen in the air.
 
         :R:`Reasoning (R):`
-        When you heat the magnesium ``__________________``, the oxygen ``__________________`` and forms a new ``__________________``.
+        ``_______________________``, the reaction releases a lot of energy, causing the metal to ``__________`` brightly.
 
         :O:`Outcome (O):`
-        Therefore, magnesium oxide is produced and light is released.
+        Therefore, a bright white flame is seen.
 
     .. dropdown::
         :icon: codescan
@@ -110,13 +110,13 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
             .. tab-item:: Why does a magnesium strip burn with a bright white flame?
 
                 :P:`Premise (P):`
-                Heated magnesium reacts rapidly with oxygen in air to form magnesium oxide (MgO).
+                When magnesium is heated, it reacts quickly with oxygen in the air.
 
                 :R:`Reasoning (R):`
-                The reaction (2Mg + O₂ → 2MgO) is highly exothermic; the metal becomes incandescent and emits intense white light.
+                As a result, the reaction releases a lot of energy, causing the metal to glow brightly.
 
                 :O:`Outcome (O):`
-                Therefore, a bright white flame is observed.
+                Therefore, a bright white flame is seen.
 
 ----
 
@@ -129,13 +129,13 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
     3. Why does methane need a spark or flame to start burning?
 
         :P:`Premise (P):`
-        The methane-oxygen reaction requires activation energy; heat from a spark or flame ``__________________`` it.
+        ``__________________`` a spark or flame is applied to ``__________________`` in air, it provides the energy needed to start the reaction.
 
         :R:`Reasoning (R):`
-        The added heat supplies the activation energy so collisions overcome the energy barrier; methane reacts with oxygen (CH₄ + 2O₂ → CO₂ + 2H₂O), releasing heat and light.
+        As a result, the methane particles react with oxygen and release energy as heat and light.
 
         :O:`Outcome (O):`
-        Therefore, methane ignites.
+        Therefore, the methane ignites and burns with heat and light.
 
     .. dropdown::
         :icon: codescan
@@ -147,13 +147,13 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
             .. tab-item:: Why does methane need a spark or flame to start burning?
 
                 :P:`Premise (P):`
-                The methane-oxygen reaction requires activation energy; heat from a spark or flame initiates it.
+                When a spark or flame is applied to methane in air, it provides the energy needed to start the reaction.
 
                 :R:`Reasoning (R):`
-                The added heat supplies the activation energy so collisions overcome the energy barrier; methane reacts with oxygen (CH₄ + 2O₂ → CO₂ + 2H₂O), releasing heat and light.
+                As a result, the methane particles react with oxygen and release energy as heat and light.
 
                 :O:`Outcome (O):`
-                Therefore, methane ignites.
+                Therefore, the methane ignites and burns with heat and light.
 
 ----
 
@@ -161,20 +161,20 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
 
 .. admonition:: Tasks
 
-    Complete the Explanation by filling in the missing verbs.
+    Complete the Explanation by filling in the missing verbs (material processes).
 
-    **Word list (A → Z):** break • decomposes • decomposes • heated • supplied
+    **Word list (A → Z):** breaks • decomposes • forms • provides
 
-    1. Why does copper carbonate break down when it is heated?
+    4. Why does copper carbonate break down when it is heated?
 
         :P:`Premise (P):`
-        Copper carbonate ``__________________`` only when it is ``__________________`` and enough heat is ``__________________``.
+        When copper carbonate is heated, the heat ``______________`` energy for the reaction to start.
 
         :R:`Reasoning (R):`
-        The added heat allows the compound to ``__________________`` apart into copper oxide and carbon dioxide.
+        As a result, the compound ``______________`` apart into copper oxide and carbon dioxide.
 
         :O:`Outcome (O):`
-        Therefore, copper carbonate ``__________________``.
+        Therefore, copper carbonate ``______________`` and new substances are ``______________``.
 
     .. dropdown::
         :icon: codescan
@@ -185,13 +185,13 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
             .. tab-item:: Why does copper carbonate break down when heated?
 
                 :P:`Premise (P):`
-                Copper carbonate decomposes only when it is heated and enough heat is supplied.
+                When copper carbonate is heated, the heat provides energy for the reaction to start.
 
                 :R:`Reasoning (R):`
-                The added heat allows the compound to break apart into copper oxide and carbon dioxide.
+                As a result, the compound breaks apart into copper oxide and carbon dioxide.
 
                 :O:`Outcome (O):`
-                Therefore, copper carbonate decomposes.
+                Therefore, copper carbonate decomposes and new substances are formed.
 
 ----
 
@@ -201,18 +201,19 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
 
     Complete the Explanation by filling in the missing nouns.
 
-    **Word list (A → Z):** chlorophyll • energy • leaves • light • photosynthesis
+    **Word list (A → Z):** carbon dioxide • energy • glucose • leaves • oxygen
 
     5. How do plants make glucose?
 
         :P:`Premise (P):`
-        In ``__________________``, ``__________________`` inside the ``__________________`` absorbs ``__________________`` ``__________________``.
+        When light hits the chlorophyll in plant ``______________``, it provides ``______________`` for photosynthesis.
 
         :R:`Reasoning (R):`
-        This energy enables the plant to convert carbon dioxide and water into glucose and oxygen.
+        As a result, the plant can change ``______________________________`` and water into glucose and ``______________``.
 
         :O:`Outcome (O):`
-        Therefore, the plant makes glucose using this ``__________________``.
+        Therefore, the plant makes ``______________`` using this ``______________``.
+
 
     .. dropdown::
         :icon: codescan
@@ -223,13 +224,14 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
             .. tab-item:: How do plants make glucose?
 
                 :P:`Premise (P):`
-                In photosynthesis, chlorophyll inside the leaves absorbs light energy.
+                When light hits the chlorophyll in plant leaves, it provides energy for photosynthesis.
 
                 :R:`Reasoning (R):`
-                This energy enables the plant to convert carbon dioxide and water into glucose and oxygen.
+                As a result, the plant can change carbon dioxide and water into glucose and oxygen.
 
                 :O:`Outcome (O):`
                 Therefore, the plant makes glucose using this energy.
+
 
 ----
 
@@ -239,18 +241,18 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
 
     Complete the Explanation by filling in the missing *processes* (verbs).
 
-    **Word list (A → Z):** appears • forms • produces •  reacts
+    **Word list (A → Z):** form • reacts • released • seen
 
     6. Why does magnesium fizz in hydrochloric acid?
 
         :P:`Premise (P):`
-        Magnesium ``__________________`` with hydrochloric acid.
+        When a metal like magnesium is placed in hydrochloric acid, it generally produces hydrogen gas, and bubbles ``______________`` on the metal's surface.
 
         :R:`Reasoning (R):`
-        The reaction ``__________________`` hydrogen gas, which ``__________________`` as visible bubbles.
+        As a result, hydrogen gas is ``______________`` as the magnesium ``______________`` with the acid.
 
         :O:`Outcome (O):`
-        Therefore, the reaction ``__________________`` fizzing.
+        Therefore, fizzing is ``______________`` during the reaction.
 
     .. dropdown::
         :icon: codescan
@@ -261,13 +263,13 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
             .. tab-item:: Why does magnesium fizz in hydrochloric acid?
 
                 :P:`Premise (P):`
-                Magnesium reacts with hydrochloric acid.
+                When a metal like magnesium is placed in hydrochloric acid, it generally produces hydrogen gas, and bubbles form on the metal's surface.
 
                 :R:`Reasoning (R):`
-                The reaction forms hydrogen gas, which appears as visible bubbles.
+                As a result, hydrogen gas is released as the magnesium reacts with the acid.
 
                 :O:`Outcome (O):`
-                Therefore, the reaction produces fizzing.
+                Therefore, fizzing is seen during the reaction.
 
 
 ----
@@ -278,18 +280,18 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
 
     Complete the Explanation by filling in the missing text connectives.
 
-    **Word list (A → Z):** as • therefore • when
+    **Word list (A → Z):** As a result • Therefore • When
 
     7. Why does copper develop a green coating outdoors?
 
         :P:`Premise (P):`
-        Copper reacts with oxygen, moisture, and carbon dioxide in the air.
+        ``______________`` copper is left in air, it reacts with oxygen, moisture, and carbon dioxide to form new substances on its surface.
 
         :R:`Reasoning (R):`
-        ``__________________`` the reactions continue over time, a new substance forms that coats the surface of the metal.
+        ``____________________________``, these substances slowly build up and cover the metal with a layer.
 
         :O:`Outcome (O):`
-        ``__________________`` the patina builds up, a green layer slowly forms on the copper.
+        ``____________________________``, a green coating (patina) gradually forms on the copper.
 
     .. dropdown::
         :icon: codescan
@@ -300,51 +302,13 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
             .. tab-item:: Why does copper develop a green coating?
 
                 :P:`Premise (P):`
-                Copper reacts with oxygen, moisture, and carbon dioxide in the air.
+                When copper is left in air, it reacts with oxygen, moisture, and carbon dioxide to form new substances on its surface.
 
                 :R:`Reasoning (R):`
-                As the reactions continue over time, a new substance forms that coats the surface of the metal.
+                As a result, these substances slowly build up and cover the metal with a layer.
 
                 :O:`Outcome (O):`
-                Therefore, as the patina builds up, a green layer slowly forms on the copper.
-
-----
-
-**Bleach + ammonia**
-
-.. admonition:: Tasks
-
-    Complete the Explanation by filling in the missing *adjectives*.
-
-    **Word list (A → Z):** combination, dangerous • toxic
-
-    8. Why is mixing bleach and ammonia dangerous?
-
-        :P:`Premise (P):`
-        Bleach reacts with ammonia when the two are mixed.
-
-        :R:`Reasoning (R):`
-        The reaction produces ``__________________`` chloramine gases that can irritate the lungs.
-
-        :O:`Outcome (O):`
-        Therefore, the ``__________________`` reaction forms a ``__________________`` and visible mixture.
-
-    .. dropdown::
-        :icon: codescan
-        :color: primary
-
-        .. tab-set::
-
-            .. tab-item:: Why is mixing bleach and ammonia dangerous?
-
-                :P:`Premise (P):`
-                Bleach reacts with ammonia when the two are mixed.
-
-                :R:`Reasoning (R):`
-                The reaction produces toxic chloramine gases that can irritate the lungs.
-
-                :O:`Outcome (O):`
-                Therefore, the combination reaction forms a dangerous and visible mixture.
+                Therefore, a green coating (patina) gradually forms on the copper.
 
 ----
 
@@ -352,20 +316,9 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
 
 .. admonition:: Tasks
 
-    Complete the Explanation by filling in the missing text connectives.
+    Explain the following phenomena using the PRO structure
 
-    **Word list (A → Z):** consequently • once • when
-
-    9. Why does a white solid form when silver nitrate and sodium chloride are mixed?
-
-        :P:`Premise (P):`
-        Silver ions react with chloride ions ``__________________`` the two solutions are mixed.
-
-        :R:`Reasoning (R):`
-        ``__________________`` the ions meet, they rearrange to form a new substance that is insoluble.
-
-        :O:`Outcome (O):`
-        ``__________________``, a white precipitate appears.
+    8.  Why does a white solid form when silver nitrate and sodium chloride are mixed?
 
     .. dropdown::
         :icon: codescan
@@ -376,13 +329,13 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
             .. tab-item:: Why does a white solid form when silver nitrate and sodium chloride are mixed?
 
                 :P:`Premise (P):`
-                Silver ions react with chloride ions when the two solutions are mixed.
+                When silver nitrate and sodium chloride solutions are mixed, the silver ions and chloride ions come into contact.
 
                 :R:`Reasoning (R):`
-                Once the ions meet, they rearrange to form a new substance that it is insoluble.
+                As a result, the ions combine to form a new substance that is insoluble in water.
 
                 :O:`Outcome (O):`
-                Consequently, a white precipitate appears.
+                Therefore, a white precipitate forms.
 
 ----
 
@@ -390,20 +343,9 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
 
 .. admonition:: Tasks
 
-    Complete the Explanation by filling in the missing verbs.
+    Explain the following phenomena using the PRO structure
 
-    **Word list (A → Z):** applied • ignited • produces • reacts • releases
-
-    10. Why does ethanol burn when it is ignited?
-
-        :P:`Premise (P):`
-        Ethanol ``__________________`` with oxygen when enough heat is ``__________________`` and the fuel is ``__________________``.
-
-        :R:`Reasoning (R):`
-        The reaction ``__________________`` carbon dioxide and water and ``__________________`` large amounts of energy.
-
-        :O:`Outcome (O):`
-        Therefore, ethanol undergoes combustion.
+    9.  Why does ethanol undergo combustion?
 
     .. dropdown::
         :icon: codescan
@@ -411,15 +353,15 @@ Therefore, a solid (precipitate) can form from the reaction when two solutions a
 
         .. tab-set::
 
-            .. tab-item:: Why does ethanol burn?
+            .. tab-item:: Why does ethanol undergo combustion?
 
                 :P:`Premise (P):`
-                Ethanol reacts with oxygen when enough heat is applied and the fuel is ignited.
+                When ethanol is heated in the presence of oxygen, it is ready to react.
 
                 :R:`Reasoning (R):`
-                The reaction produces carbon dioxide and water and releases large amounts of energy.
+                As a result, the ethanol reacts with oxygen to produce carbon dioxide and water, releasing heat and light.
 
                 :O:`Outcome (O):`
-                Therefore, ethanol undergoes combustion.
+                Therefore, ethanol burns in a combustion reaction.
 
 
