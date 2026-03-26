@@ -36,7 +36,7 @@ Consider the following questions that might be posed in a chemistry context:
 
 All of these invite the same PRO structure:
 
-- :p:`Premise: When a gas is heated, the particles gain kinetic energy and move faster.`
+- :p:`Heating a gas increases the kinetic energy of its particles, causing them to move faster.`
 - :r:`Reasoning: As a result, the particles move more rapidly and collide with the walls of the container more frequently and with greater force.`
 - :o:`Outcome: Therefore, the pressure inside the container increases.`
 
@@ -44,24 +44,23 @@ All of these invite the same PRO structure:
 
 .. container:: p
 
-   .. rubric:: **Premise (P)**
+   .. rubric:: Premise (P)
 
-:p:`When a gas is heated, the particles gain kinetic energy and move faster.`
+   :p:`Heating a gas increases the kinetic energy of its particles, causing them to move faster.`
+   :p:`When a gas is heated, the particles gain kinetic energy and move faster.`
 
-.. admonition:: Premise Checklist
-   :class: premise
+   .. admonition:: Premise Checklist
+      :class: premise
 
-   **Premise (P) - “When…” (set the situation)**
+      **Premise (P) - (set the situation or fact)**
 
-   - Starts with **“When…”**
-   - Describes **what is happening** (the situation)
-   - Includes a **key science idea or property**
-   - Has **only ONE main idea**
-   - Does **NOT try to explain why yet**
+      - States a **scientific fact, principle, or observation**
+      - Can start with **“When…”, “A…”, “The…”, or a descriptive statement**
+      - Includes the **key concept** for the explanation
+      - Contains **only one main idea**
+      - **Does not explain why** the outcome occurs yet
 
-   *Test:*
-   Can I continue with **“As a result…”**?
-
+      *Test:* Can you continue naturally with **“As a result…”**?
 
 ----
 
