@@ -13,12 +13,12 @@ Marked Themes allow the writer to place the cause, condition, or context at the
 front of the clause. This helps readers understand the triggering situation
 before encountering the main clause.
 
-.. admonition:: Examples
-   :class: pro
+.. admonition:: Premise Checklist
+   :class: premise
 
-  **When a bending force is applied**, the chalk breaks.
-  **When a metal is heated**, it expands.
-  **If the concentration of reactants increases**, the rate of reaction increases.
+  | **When a bending force is applied**, the chalk breaks.
+  | **When a metal is heated**, it expands.
+  | **If the concentration of reactants increases**, the rate of reaction increases.
 
 ----
 
@@ -31,11 +31,11 @@ these circumstances in Theme position (first in the sentence) highlights their
 importance and clarifies the conditions under which the phenomenon happens.
 
 .. admonition:: Examples
-   :class: premise
+   :class: pro
 
-  **Under high pressure**, the gas compresses.
-  **At low temperatures**, reaction rates decrease.
-  **In the presence of a catalyst**, the reaction proceeds more quickly.
+  | **Under high pressure**, the gas compresses.
+  | **At low temperatures**, reaction rates decrease.
+  | **In the presence of a catalyst**, the reaction proceeds more quickly.
 
 ----
 
@@ -50,7 +50,7 @@ reader through the chain of reasoning.
 .. admonition:: Examples
    :class: premise
 
-  **As a result**, the particles collide more frequently.
-  **Therefore**, the pressure inside the container increases.
-  **Consequently**, more product is formed in a shorter time.
+  | **As a result**, the particles collide more frequently.
+  | **Therefore**, the pressure inside the container increases.
+  | **Consequently**, more product is formed in a shorter time.
 
