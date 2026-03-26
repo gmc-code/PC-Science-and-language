@@ -14,7 +14,7 @@ front of the clause. This helps readers understand the triggering situation
 before encountering the main clause.
 
 .. admonition:: Examples
-   :class: premise
+   :class: pro
 
   **When a bending force is applied**, the chalk breaks.
   **When a metal is heated**, it expands.
