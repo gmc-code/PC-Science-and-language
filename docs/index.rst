@@ -31,8 +31,8 @@ PC-Science-and-language
     :caption: ✏️👉 Explanations
     :numbered:
 
+    language/Sequential_explanations.rst
     language/Marked_themes.rst
-    language/Sequential_explanations.rstz
 
 
 
