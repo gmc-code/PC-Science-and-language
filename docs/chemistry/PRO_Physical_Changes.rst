@@ -87,13 +87,13 @@ Therefore, the clay changes shape but remains the same substance.
 
         Complete the Reasoning (R).
 
-        2. Why does a rubber band stretch when you pull it?
+        2. Why does a rubber band stretch when pulled?
 
             :P:`Premise (P):`
-            Because rubber is made of long, coiled polymer chains, they can uncoil when a force is applied.
+            When a rubber band is pulled, its long, coiled polymer chains can uncoil.
 
             :R:`Reasoning (R):`
-            ``_______________________``, when a rubber band is ``__________________``, the force straightens and extends these ``__________________`` without breaking ``__________________``.
+            ``_______________________``, the force straightens and extends these ``_______________________`` without breaking them.
 
             :O:`Outcome (O):`
             Therefore, the rubber band becomes longer but remains the same material.
@@ -105,13 +105,13 @@ Therefore, the clay changes shape but remains the same substance.
 
             .. tab-set::
 
-                .. tab-item:: Why does a rubber band stretch when you pull it?
+                .. tab-item:: Why does a rubber band stretch when pulled?
 
                     :P:`Premise (P):`
-                    Because rubber is made of long, coiled polymer chains, they can uncoil when a force is applied.
+                    When a rubber band is pulled, its long, coiled polymer chains can uncoil.
 
                     :R:`Reasoning (R):`
-                    As a result, when a rubber band is pulled, the force straightens and extends these chains without breaking them.
+                    As a result, the force straightens and extends these chains without breaking them.
 
                     :O:`Outcome (O):`
                     Therefore, the rubber band becomes longer but remains the same material.
