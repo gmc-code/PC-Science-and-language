@@ -21,11 +21,11 @@ PC-Science-and-language
     :caption: 🤔 PRO
     :numbered:
 
-    language/Marked_themes.rst
+    language/themes.rst
 
     .. language/PRO.rst
     .. chemistry/PRO_Physical_Changes.rst
-    chemistry/PRO_Chemical_Changes.rst
+    .. chemistry/PRO_Chemical_Changes.rst
 
 
 .. toctree::
@@ -34,7 +34,7 @@ PC-Science-and-language
     :numbered:
 
     language/Sequential_explanations.rst
-    language/Marked_themes.rst
+    language/themes.rst
 
 
 
