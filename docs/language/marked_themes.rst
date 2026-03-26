@@ -13,31 +13,16 @@ Marked Themes allow the writer to place the cause, condition, or context at the
 front of the clause. This helps readers understand the triggering situation
 before encountering the main clause.
 
-Examples::
+.. admonition:: Examples
+   :class: premise
 
-  When a bending force is applied, the chalk breaks.
-  When a metal is heated, it expands.
-  If the concentration of reactants increases, the rate of reaction increases.
-
-----
-
-2. Organising Logical Relations Clearly
----------------------------------------
-
-Explanations rely on signalling relationships such as cause, effect, sequence,
-and contrast. Marked Themes often use text connectives (e.g. *As a result*,
-*Therefore*, *Consequently*) to make these relations explicit. These guide the
-reader through the chain of reasoning.
-
-Examples::
-
-  As a result, the particles collide more frequently.
-  Therefore, the pressure inside the container increases.
-  Consequently, more product is formed in a shorter time.
+  **When a bending force is applied**, the chalk breaks.
+  **When a metal is heated**, it expands.
+  **If the concentration of reactants increases**, the rate of reaction increases.
 
 ----
 
-3. Highlighting Important Circumstances
+2. Highlighting Important Circumstances
 ---------------------------------------
 
 Scientific explanations frequently depend on circumstances such as *when*,
@@ -45,8 +30,27 @@ Scientific explanations frequently depend on circumstances such as *when*,
 these circumstances in Theme position (first in the sentence) highlights their
 importance and clarifies the conditions under which the phenomenon happens.
 
-Examples::
+.. admonition:: Examples
+   :class: premise
 
-  Under high pressure, the gas compresses.
-  At low temperatures, reaction rates decrease.
-  In the presence of a catalyst, the reaction proceeds more quickly.
+  **Under high pressure**, the gas compresses.
+  **At low temperatures**, reaction rates decrease.
+  **In the presence of a catalyst**, the reaction proceeds more quickly.
+
+----
+
+3. Organising Logical Relations Clearly
+---------------------------------------
+
+Explanations rely on signalling relationships such as cause, effect, sequence,
+and contrast. Marked Themes often use text connectives (e.g. *As a result*,
+*Therefore*, *Consequently*) to make these relations explicit. These guide the
+reader through the chain of reasoning.
+
+.. admonition:: Examples
+   :class: premise
+
+  **As a result**, the particles collide more frequently.
+  **Therefore**, the pressure inside the container increases.
+  **Consequently**, more product is formed in a shorter time.
+
