@@ -27,8 +27,6 @@ PC-Science-and-language
     .. chemistry/PRO_Chemical_Changes.rst
 
 
-
-
 .. toctree::
     :maxdepth: 2
     :caption: ✏️👉 Explanations
