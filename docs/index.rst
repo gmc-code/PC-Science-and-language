@@ -22,8 +22,10 @@ PC-Science-and-language
     :numbered:
 
     language/PRO.rst
+    chemistry/PRO_Physical_Changes_A.rst
+    chemistry/PRO_Physical_Changes_B.rst
 
-    .. chemistry/PRO_Physical_Changes.rst
+
     .. chemistry/PRO_Chemical_Changes.rst
 
 

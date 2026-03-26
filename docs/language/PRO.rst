@@ -47,14 +47,13 @@ All of these invite the same PRO structure:
    .. rubric:: Premise (P)
 
    :p:`Heating a gas increases the kinetic energy of its particles, causing them to move faster.`
-   :p:`When a gas is heated, the particles gain kinetic energy and move faster.`
 
    .. admonition:: Premise Checklist
       :class: premise
 
       **Premise (P) - (set the situation or fact)**
 
-      - States a **scientific fact, principle, or observation**
+      - States a **scientific fact, principle, properties, or observation**
       - Can start with **“When…”, “A…”, “The…”, or a descriptive statement**
       - Includes the **key concept** for the explanation
       - Contains **only one main idea**
