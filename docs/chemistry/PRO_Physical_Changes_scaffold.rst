@@ -34,9 +34,8 @@ PRO Physical Changes: Declarative Premise Scaffold
 
             .. tab-item:: Answer
 
-                | :P:`Premise (P):`
+                | :P:`Premise (P):` Heating a liquid increases the kinetic energy of its particles.
                 | Heating a [material/state] increases the kinetic energy of its particles.
-                | Heating a liquid increases the kinetic energy of its particles.
 
 ----
 
@@ -65,17 +64,14 @@ PRO Physical Changes: Declarative Premise Scaffold
 
             .. tab-item:: Answer
 
-                :P:`Premise (P):`
-
+                | :P:`Premise (P):` Heating a solid increases the kinetic energy of its particles.
                 | Heating a [material/state] increases the kinetic energy of its particles.
-
-                | Heating a solid increases the kinetic energy of its particles.
 
 ----
 
 .. admonition:: Tasks
 
-    3. Balloon Shrinking in Freezer
+    1. Balloon Shrinking in Freezer
 
     Explain why a balloon shrinks when placed in the freezer.
 
@@ -97,17 +93,14 @@ PRO Physical Changes: Declarative Premise Scaffold
 
             .. tab-item:: Answer
 
-                :P:`Premise (P):`
-
+                |:P:`Premise (P):` Lower temperature reduces the kinetic energy of particles in a gas.
                 | Lower temperature reduces the kinetic energy of particles in [material/state].
-
-                | Lower temperature reduces the kinetic energy of particles in a gas.
 
 ----
 
 .. admonition:: Tasks
 
-    4. Rubber Band Stretching
+    1. Rubber Band Stretching
 
 
     Explain why a rubber band stretches when pulled.
@@ -130,17 +123,14 @@ PRO Physical Changes: Declarative Premise Scaffold
 
             .. tab-item:: Answer
 
-                :P:`Premise (P):`
-
+                | :P:`Premise (P):` A rubber band can deform under an applied force without breaking.
                 | A [material/state] can deform under an applied force without breaking.
-
-                | A rubber band can deform under an applied force without breaking.
 
 ---
 
 .. admonition:: Tasks
 
-    5. Modelling Clay
+    1. Modelling Clay
 
     Explain why modelling clay changes shape when pressed.
 
@@ -162,8 +152,8 @@ PRO Physical Changes: Declarative Premise Scaffold
 
             .. tab-item:: Answer
 
-                :P:`Premise (P):`
-
-                | The arrangement of particles in a [material/state] allows movement when force is applied.
-
+                | :P:`Premise (P):` The arrangement of particles in a [material/state] allows movement when force is applied.
                 | The arrangement of particles in modelling clay allows movement when force is applied.
+
+
+
