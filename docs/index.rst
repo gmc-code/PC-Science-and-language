@@ -31,12 +31,12 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: ✏️👉 Explanations
+    :caption: ✏️👉 Language features
     :numbered:
 
     language/Sequential_explanations.rst
     language/marked_themes.rst
-
+    language/Cause_and_effect.rst
 
 
 .. toctree::
