@@ -17,7 +17,7 @@ PRO Physical Changes: Declarative Premise Scaffold
     Explain why water turns into water vapour when boiled.
 
     :P:`Premise (P):`
-    __________________  # Choose from builder
+    ``__________________``  # Choose from builder
 
     :R:`Reasoning (R):`
     As a result, the particles move farther apart and escape from the surface of the liquid.
@@ -40,12 +40,12 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 .. admonition:: Tasks
 
-    1. Ice Melting
+    2. Ice Melting
 
     Explain why ice melts when heated.
 
     :P:`Premise (P):`
-    __________________  # Choose from builder
+    ``__________________``  # Choose from builder
 
     :R:`Reasoning (R):`
     As a result, the particles vibrate more strongly and overcome the forces holding them in fixed positions.
@@ -59,7 +59,9 @@ PRO Physical Changes: Declarative Premise Scaffold
         :class-container: sd-dropdown-container
 
         .. tab-set::
+
             .. tab-item:: Answer
+
                 :P:`Premise (P):`
                 Heating a solid increases the kinetic energy of its particles.
 
@@ -72,7 +74,7 @@ PRO Physical Changes: Declarative Premise Scaffold
     Explain why a balloon shrinks when placed in the freezer.
 
     :P:`Premise (P):`
-    __________________  # Choose from builder
+    ``__________________``  # Choose from builder
 
     :R:`Reasoning (R):`
     As a result, the particles move more slowly and occupy less space.
@@ -86,7 +88,9 @@ PRO Physical Changes: Declarative Premise Scaffold
         :class-container: sd-dropdown-container
 
         .. tab-set::
+
             .. tab-item:: Answer
+
                 :P:`Premise (P):`
                 Lower temperature reduces the kinetic energy of particles in a gas.
 
@@ -94,13 +98,13 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 .. admonition:: Tasks
 
-    1. Rubber Band Stretching
+    4. Rubber Band Stretching
 
 
     Explain why a rubber band stretches when pulled.
 
     :P:`Premise (P):`
-    __________________  # Choose from builder
+    ``__________________``  # Choose from builder
 
     :R:`Reasoning (R):`
     As a result, the force straightens and extends the coiled chains without breaking them.
@@ -114,7 +118,9 @@ PRO Physical Changes: Declarative Premise Scaffold
         :class-container: sd-dropdown-container
 
         .. tab-set::
+
             .. tab-item:: Answer
+
                 :P:`Premise (P):`
                 A rubber band can deform under an applied force without breaking.
 
@@ -127,7 +133,7 @@ PRO Physical Changes: Declarative Premise Scaffold
     Explain why modelling clay changes shape when pressed.
 
     :P:`Premise (P):`
-    __________________  # Choose from builder
+    ``__________________``  # Choose from builder
 
     :R:`Reasoning (R):`
     As a result, the applied force causes the particles to shift into new positions without breaking the material.
@@ -141,7 +147,9 @@ PRO Physical Changes: Declarative Premise Scaffold
         :class-container: sd-dropdown-container
 
         .. tab-set::
+
             .. tab-item:: Answer
+
                 :P:`Premise (P):`
                 The arrangement of particles in a soft solid allows movement when force is applied.
 
