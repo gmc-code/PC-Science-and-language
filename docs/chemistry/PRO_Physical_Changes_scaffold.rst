@@ -103,7 +103,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 .. admonition:: Tasks
 
-    1. Rubber Band Stretching
+    4. Rubber Band Stretching
 
 
     Explain why a rubber band stretches when pulled.
