@@ -1,4 +1,9 @@
-⭐ **SET 1 — Chemical Change (Gas Production)**
+===========================
+Cause and effect
+===========================
+
+
+**SET 1 — Chemical Change (Gas Production)**
 **Pattern 1: Implied logical connection**
 **A:** What happens when vinegar reacts with baking soda?
 Vinegar reacts with baking soda to form carbon dioxide gas.
@@ -16,7 +21,7 @@ Bubbles of gas appear rapidly in the mixture.
 
 ----------------------------------------
 
-⭐ **SET 2 — Physical Change (Heating → Expansion)**
+**SET 2 — Physical Change (Heating → Expansion)**
 **Pattern 2: Text connective**
 **A:** What happens to the air inside a sealed container when it is heated?
 The air inside the container expands.
@@ -35,7 +40,7 @@ As a result, the pressure inside the container increases.
 
 ----------------------------------------
 
-⭐ **SET 3 — Chemical Change (Precipitate Formation)**
+**SET 3 — Chemical Change (Precipitate Formation)**
 **Pattern 3: Conjunction (hence / so)**
 **A:** What happens when calcium ions are mixed with carbonate ions in solution?
 Calcium ions combine with carbonate ions to form an insoluble solid.
@@ -52,7 +57,7 @@ Calcium ions combine with carbonate ions to form an insoluble solid hence a clou
 
 ----------------------------------------
 
-⭐ **SET 4 — Physical Change (Cooling → Condensation)**
+**SET 4 — Physical Change (Cooling → Condensation)**
 **Pattern 4: Preposition (Because / Due to / As a result of)**
 **A:** What happens to warm water vapour when it touches a cold surface?
 The water vapour cools rapidly.
@@ -70,7 +75,7 @@ Due to the rapid cooling of warm water vapour on a cold surface, tiny droplets o
 
 ----------------------------------------
 
-⭐ **SET 5 — Chemical Change (Combustion)**
+**SET 5 — Chemical Change (Combustion)**
 **Pattern 5: Verb (nomA causes nomB)**
 **A:** What happens to methane gas when it is ignited in oxygen?
 The methane gas undergoes rapid combustion.
@@ -87,7 +92,7 @@ The rapid combustion of methane gas in oxygen causes the production of a bright 
 
 ----------------------------------------
 
-⭐ **SET 6 — Physical Change (Dissolving → Colour Fading)**
+**SET 6 — Physical Change (Dissolving → Colour Fading)**
 **Pattern 6: Noun (The result of nomA is nomB)**
 **A:** What happens to food colouring when it is stirred into water?
 The food colouring spreads evenly through the water.
@@ -104,7 +109,7 @@ The result of the even spreading of food colouring through the water is the ligh
 
 ----------------------------------------
 
-⭐ **SET 7 — Chemical Change (Acid + Metal → Gas)**
+**SET 7 — Chemical Change (Acid + Metal → Gas)**
 **Pattern 7: Conjunction (B because A)**
 **A:** What happens when hydrochloric acid reacts with magnesium metal?
 The acid dissolves part of the magnesium.
@@ -121,7 +126,7 @@ Hydrogen gas is released because the acid dissolves part of the magnesium.
 
 ----------------------------------------
 
-⭐ **SET 8 — Physical Change (Heating → Melting)**
+**SET 8 — Physical Change (Heating → Melting)**
 **Pattern 8: Verb (nomB results from nomA)**
 **A:** What happens to solid wax when it is heated?
 The wax softens and begins to melt.
@@ -138,7 +143,7 @@ The formation of a pool of liquid wax results from the softening and melting of 
 
 ----------------------------------------
 
-⭐ **SET 9 — Chemical Change (Oxidation → Rust Formation)**
+**SET 9 — Chemical Change (Oxidation → Rust Formation)**
 **Pattern 9: Noun (The reason for nomB is nomA)**
 **A:** What happens to iron when it is exposed to oxygen and moisture?
 The iron undergoes oxidation.
