@@ -3,37 +3,54 @@ Cause and effect
 ===========================
 
 
-**SET 1 — Chemical Change (Gas Production)**
+
+
 **Pattern 1: Implied logical connection**
+
+**SET 1 — Chemical Change (Gas Production)**
+
 **A:** What happens when vinegar reacts with baking soda?
 Vinegar reacts with baking soda to form carbon dioxide gas.
+
 **B:** What observable effect shows that carbon dioxide is being produced?
 Bubbles of gas appear rapidly in the mixture.
+
 **nomA:** The reaction of vinegar with baking soda to form carbon dioxide gas
 **nomB:** The rapid appearance of bubbles in the mixture
-**Student task:** Write A and B as two separate sentences to show an implied causal link.
+
+**Task:** Write A and B as two separate sentences to show an implied causal link.
+
 **Scaffold:**
 A.
 B.
+
 **Model answer:**
 Vinegar reacts with baking soda to form carbon dioxide gas.
 Bubbles of gas appear rapidly in the mixture.
 
 ----------------------------------------
 
-**SET 2 — Physical Change (Heating → Expansion)**
+
 **Pattern 2: Text connective**
+
+**SET 2 — Physical Change (Heating → Expansion)**
+
 **A:** What happens to the air inside a sealed container when it is heated?
 The air inside the container expands.
+
 **B:** What effect does this expansion have on the container?
 The pressure inside the container increases.
+
 **nomA:** The expansion of the air inside the container
 **nomB:** The increase in pressure inside the container
-**Student task:** Combine A → B using a text connective.
+
+**Task:** Combine A → B using a text connective.
+
 **Scaffold:**
 A. As a result, B.
 A. Consequently, B.
 A. Therefore, B.
+
 **Model answer:**
 The air inside the container expands.
 As a result, the pressure inside the container increases.
@@ -48,7 +65,7 @@ Calcium ions combine with carbonate ions to form an insoluble solid.
 A cloudy white precipitate appears in the solution.
 **nomA:** The combination of calcium ions with carbonate ions to form an insoluble solid
 **nomB:** The appearance of a cloudy white precipitate in the solution
-**Student task:** Use a conjunction to show cause and effect.
+**Task:** Use a conjunction to show cause and effect.
 **Scaffold:**
 A hence B.
 A so nomB occurs.
@@ -65,7 +82,7 @@ The water vapour cools rapidly.
 Tiny droplets of liquid water form.
 **nomA:** The rapid cooling of warm water vapour on a cold surface
 **nomB:** The formation of tiny droplets of liquid water
-**Student task:** Use a preposition to express the cause.
+**Task:** Use a preposition to express the cause.
 **Scaffold:**
 Because A, B.
 Due to nomA, B.
@@ -83,7 +100,7 @@ The methane gas undergoes rapid combustion.
 A bright flame is produced.
 **nomA:** The rapid combustion of methane gas in oxygen
 **nomB:** The production of a bright flame
-**Student task:** Use a verb to express the causal relationship.
+**Task:** Use a verb to express the causal relationship.
 **Scaffold:**
 nomA causes nomB.
 nomA results in nomB.
@@ -100,7 +117,7 @@ The food colouring spreads evenly through the water.
 The colour becomes lighter throughout the water.
 **nomA:** The even spreading of food colouring through the water
 **nomB:** The lightening of colour throughout the water
-**Student task:** Use a noun phrase to express the causal relationship.
+**Task:** Use a noun phrase to express the causal relationship.
 **Scaffold:**
 The result of nomA is nomB.
 The cause of nomB is nomA.
@@ -117,7 +134,7 @@ The acid dissolves part of the magnesium.
 Hydrogen gas is released.
 **nomA:** The dissolving of part of the magnesium by hydrochloric acid
 **nomB:** The release of hydrogen gas
-**Student task:** Explain B using “because”.
+**Task:** Explain B using “because”.
 **Scaffold:**
 B because A.
 B since A.
@@ -134,7 +151,7 @@ The wax softens and begins to melt.
 A pool of liquid wax forms.
 **nomA:** The softening and melting of the solid wax
 **nomB:** The formation of a pool of liquid wax
-**Student task:** Use a verb pattern to show that B results from A.
+**Task:** Use a verb pattern to show that B results from A.
 **Scaffold:**
 nomB results from nomA.
 nomB occurs as a consequence of nomA.
@@ -151,7 +168,7 @@ The iron undergoes oxidation.
 A reddish brown rust layer forms.
 **nomA:** The oxidation of iron in the presence of oxygen and moisture
 **nomB:** The formation of a reddish brown rust layer
-**Student task:** Use a noun phrase to explain the cause.
+**Task:** Use a noun phrase to explain the cause.
 **Scaffold:**
 The reason for nomB is nomA.
 The cause of nomB is nomA.
