@@ -7,7 +7,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 - Heating a [material/state] increases the kinetic energy of its particles.
 - Lower temperature reduces the kinetic energy of particles in [material/state].
 - A [material/state] can deform under an applied force without breaking.
-- The arrangement of particles in a [material/state] allows movement when energy or force is applied.
+- The arrangement of particles in a [material/state] allows movement when force is applied.
 - A [material/state] is rigid, so particles cannot move freely under force.
 
 .. admonition:: Tasks
@@ -31,9 +31,12 @@ PRO Physical Changes: Declarative Premise Scaffold
         :class-container: sd-dropdown-container
 
         .. tab-set::
+
             .. tab-item:: Answer
+
                 :P:`Premise (P):`
-                Heating a liquid increases the kinetic energy of its particles.
+                | Heating a [material/state] increases the kinetic energy of its particles.
+                | Heating a liquid increases the kinetic energy of its particles.
 
 ----
 
@@ -63,7 +66,8 @@ PRO Physical Changes: Declarative Premise Scaffold
             .. tab-item:: Answer
 
                 :P:`Premise (P):`
-                Heating a solid increases the kinetic energy of its particles.
+                | Heating a [material/state] increases the kinetic energy of its particles.
+                | Heating a solid increases the kinetic energy of its particles.
 
 ----
 
@@ -92,13 +96,14 @@ PRO Physical Changes: Declarative Premise Scaffold
             .. tab-item:: Answer
 
                 :P:`Premise (P):`
-                Lower temperature reduces the kinetic energy of particles in a gas.
+                | Lower temperature reduces the kinetic energy of particles in [material/state].
+                | Lower temperature reduces the kinetic energy of particles in a gas.
 
 ----
 
 .. admonition:: Tasks
 
-    4. Rubber Band Stretching
+    1. Rubber Band Stretching
 
 
     Explain why a rubber band stretches when pulled.
@@ -122,7 +127,8 @@ PRO Physical Changes: Declarative Premise Scaffold
             .. tab-item:: Answer
 
                 :P:`Premise (P):`
-                A rubber band can deform under an applied force without breaking.
+                | A [material/state] can deform under an applied force without breaking.
+                | A rubber band can deform under an applied force without breaking.
 
 ---
 
@@ -151,5 +157,5 @@ PRO Physical Changes: Declarative Premise Scaffold
             .. tab-item:: Answer
 
                 :P:`Premise (P):`
-                The arrangement of particles in a soft solid allows movement when force is applied.
-
+                | The arrangement of particles in a [material/state] allows movement when force is applied.
+                | The arrangement of particles in modelling clay allows movement when force is applied.
