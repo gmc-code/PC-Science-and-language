@@ -3,7 +3,9 @@ PRO Physical Changes: "When..." premise
 ==============================================
 
 
-Examine the following examples of PRO (Premise-Reasoning-Outcome) structures in scientific explanations:
+| Examine the following examples of PRO (Premise-Reasoning-Outcome) structures in scientific explanations.
+| “When…” premise = situation-specific condition
+| e.g “When a metal spoon is touched, heat transfers quickly.”
 
 .. rubric::  Why does ice melt when it is heated?
 
@@ -34,10 +36,10 @@ Therefore, the metal rod expands and becomes longer.
 .. rubric:: Why does modelling clay change shape when it is pressed?
 
 :P:`Premise (P):`
-Because modelling clay is a soft solid, its particles can slide past each other when a force is applied.
+When modelling clay is pressed, its particles can slide past one another due to its soft, malleable structure.
 
 :R:`Reasoning (R):`
-As a result, when the clay is pressed, the applied force causes the particles to shift into new positions without breaking the material.
+As a result, the applied force rearranges the particles into new positions without disrupting the substance’s composition.
 
 :O:`Outcome (O):`
 Therefore, the clay changes shape but remains the same substance.

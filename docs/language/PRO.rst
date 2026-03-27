@@ -42,6 +42,9 @@ All of these invite the same PRO structure:
 
 ----
 
+PRO Paragraph Checklist
+-------------------------------
+
 .. container:: p
 
    .. rubric:: Premise (P)
