@@ -34,7 +34,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
             .. tab-item:: Answer
 
-                :P:`Premise (P):`
+                | :P:`Premise (P):`
                 | Heating a [material/state] increases the kinetic energy of its particles.
                 | Heating a liquid increases the kinetic energy of its particles.
 
@@ -66,7 +66,9 @@ PRO Physical Changes: Declarative Premise Scaffold
             .. tab-item:: Answer
 
                 :P:`Premise (P):`
+
                 | Heating a [material/state] increases the kinetic energy of its particles.
+
                 | Heating a solid increases the kinetic energy of its particles.
 
 ----
@@ -96,7 +98,9 @@ PRO Physical Changes: Declarative Premise Scaffold
             .. tab-item:: Answer
 
                 :P:`Premise (P):`
+
                 | Lower temperature reduces the kinetic energy of particles in [material/state].
+
                 | Lower temperature reduces the kinetic energy of particles in a gas.
 
 ----
@@ -127,7 +131,9 @@ PRO Physical Changes: Declarative Premise Scaffold
             .. tab-item:: Answer
 
                 :P:`Premise (P):`
+
                 | A [material/state] can deform under an applied force without breaking.
+
                 | A rubber band can deform under an applied force without breaking.
 
 ---
@@ -157,5 +163,7 @@ PRO Physical Changes: Declarative Premise Scaffold
             .. tab-item:: Answer
 
                 :P:`Premise (P):`
+
                 | The arrangement of particles in a [material/state] allows movement when force is applied.
+
                 | The arrangement of particles in modelling clay allows movement when force is applied.
