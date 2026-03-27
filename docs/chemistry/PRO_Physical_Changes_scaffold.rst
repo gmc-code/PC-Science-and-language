@@ -10,7 +10,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 - The arrangement of particles in a [material/state] allows movement when force is applied.
 - A [material/state] is rigid, so particles cannot move freely under force.
 
-.. admonition:: Tasks
+.. admonition:: Task
 
    1. Water Boiling
 
@@ -18,6 +18,12 @@ PRO Physical Changes: Declarative Premise Scaffold
 
     :P:`Premise (P):`
     ``__________________``  # Choose from builder
+
+    - Heating a [material/state] increases the kinetic energy of its particles.
+    - Lower temperature reduces the kinetic energy of particles in [material/state].
+    - A [material/state] can deform under an applied force without breaking.
+    - The arrangement of particles in a [material/state] allows movement when force is applied.
+    - A [material/state] is rigid, so particles cannot move freely under force.
 
     :R:`Reasoning (R):`
     As a result, the particles move farther apart and escape from the surface of the liquid.
@@ -40,7 +46,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 ----
 
 
-.. admonition:: Tasks
+.. admonition:: Task
 
     2. Ice Melting
 
@@ -48,6 +54,12 @@ PRO Physical Changes: Declarative Premise Scaffold
 
     :P:`Premise (P):`
     ``__________________``  # Choose from builder
+
+    - Heating a [material/state] increases the kinetic energy of its particles.
+    - Lower temperature reduces the kinetic energy of particles in [material/state].
+    - A [material/state] can deform under an applied force without breaking.
+    - The arrangement of particles in a [material/state] allows movement when force is applied.
+    - A [material/state] is rigid, so particles cannot move freely under force.
 
     :R:`Reasoning (R):`
     As a result, the particles vibrate more strongly and overcome the forces holding them in fixed positions.
@@ -69,14 +81,20 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 ----
 
-.. admonition:: Tasks
+.. admonition:: Task
 
-    1. Balloon Shrinking in Freezer
+    3. Balloon Shrinking in Freezer
 
     Explain why a balloon shrinks when placed in the freezer.
 
     :P:`Premise (P):`
     ``__________________``  # Choose from builder
+
+    - Heating a [material/state] increases the kinetic energy of its particles.
+    - Lower temperature reduces the kinetic energy of particles in [material/state].
+    - A [material/state] can deform under an applied force without breaking.
+    - The arrangement of particles in a [material/state] allows movement when force is applied.
+    - A [material/state] is rigid, so particles cannot move freely under force.
 
     :R:`Reasoning (R):`
     As a result, the particles move more slowly and occupy less space.
@@ -98,15 +116,21 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 ----
 
-.. admonition:: Tasks
+.. admonition:: Task
 
-    1. Rubber Band Stretching
+    4. Rubber Band Stretching
 
 
     Explain why a rubber band stretches when pulled.
 
     :P:`Premise (P):`
     ``__________________``  # Choose from builder
+
+    - Heating a [material/state] increases the kinetic energy of its particles.
+    - Lower temperature reduces the kinetic energy of particles in [material/state].
+    - A [material/state] can deform under an applied force without breaking.
+    - The arrangement of particles in a [material/state] allows movement when force is applied.
+    - A [material/state] is rigid, so particles cannot move freely under force.
 
     :R:`Reasoning (R):`
     As a result, the force straightens and extends the coiled chains without breaking them.
@@ -128,14 +152,20 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 ---
 
-.. admonition:: Tasks
+.. admonition:: Task
 
-    1. Modelling Clay
+    5. Modelling Clay
 
     Explain why modelling clay changes shape when pressed.
 
     :P:`Premise (P):`
     ``__________________``  # Choose from builder
+
+    - Heating a [material/state] increases the kinetic energy of its particles.
+    - Lower temperature reduces the kinetic energy of particles in [material/state].
+    - A [material/state] can deform under an applied force without breaking.
+    - The arrangement of particles in a [material/state] allows movement when force is applied.
+    - A [material/state] is rigid, so particles cannot move freely under force.
 
     :R:`Reasoning (R):`
     As a result, the applied force causes the particles to shift into new positions without breaking the material.
@@ -152,8 +182,8 @@ PRO Physical Changes: Declarative Premise Scaffold
 
             .. tab-item:: Answer
 
-                | :P:`Premise (P):` The arrangement of particles in a [material/state] allows movement when force is applied.
-                | The arrangement of particles in modelling clay allows movement when force is applied.
+                | :P:`Premise (P):` The arrangement of particles in modelling clay allows movement when force is applied.
+                | The arrangement of particles in a [material/state] allows movement when force is applied.
 
 
 
