@@ -9,144 +9,139 @@ PRO Physical Changes: Declarative Premise Scaffold
 - A [material/state] can deform under an applied force without breaking.
 - The arrangement of particles in a [material/state] allows movement when energy or force is applied.
 - A [material/state] is rigid, so particles cannot move freely under force.
+-
+.. admonition:: Tasks
 
-.. dropdown::
-    :icon: codescan
-    :color: primary
-    :class-container: sd-dropdown-container
+    .. tab-item:: 1. Water Boiling
 
-    .. tab-set::
+        Explain why water turns into water vapour when boiled.
 
-        .. tab-item:: 1. Water Boiling
+        :P:`Premise (P):`
+        __________________  # Choose from builder
 
-            .. admonition:: Tasks
+        :R:`Reasoning (R):`
+        As a result, the particles move farther apart and escape from the surface of the liquid.
 
-                Explain why water turns into water vapour when boiled.
+        :O:`Outcome (O):`
+        Therefore, the liquid changes state into a gas.
 
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+            .. tab-item:: Answer
                 :P:`Premise (P):`
-                __________________  # Choose from builder
+                Heating a liquid increases the kinetic energy of its particles.
 
-                :R:`Reasoning (R):`
-                As a result, the particles move farther apart and escape from the surface of the liquid.
+----
 
-                :O:`Outcome (O):`
-                Therefore, the liquid changes state into a gas.
 
-            .. dropdown::
-                :icon: codescan
-                :color: primary
-                :class-container: sd-dropdown-container
+.. admonition:: Tasks
 
-                .. tab-set::
-                    .. tab-item:: Answer
-                        :P:`Premise (P):`
-                        Heating a liquid increases the kinetic energy of its particles.
+    .. tab-item:: 2. Ice Melting
+
+        Explain why ice melts when heated.
+
+        :P:`Premise (P):`
+        __________________  # Choose from builder
+
+        :R:`Reasoning (R):`
+        As a result, the particles vibrate more strongly and overcome the forces holding them in fixed positions.
+
+        :O:`Outcome (O):`
+        Therefore, ice changes state into a liquid.
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+            .. tab-item:: Answer
+                :P:`Premise (P):`
+                Heating a solid increases the kinetic energy of its particles.
 
 ---
 
-        .. tab-item:: 2. Ice Melting
+.. admonition:: Tasks
 
-            .. admonition:: Tasks
+    .. tab-item:: 3. Balloon Shrinking in Freezer
 
-                Explain why ice melts when heated.
+        Explain why a balloon shrinks when placed in the freezer.
 
-                :P:`Premise (P):`
-                __________________  # Choose from builder
+        :P:`Premise (P):`
+        __________________  # Choose from builder
 
-                :R:`Reasoning (R):`
-                As a result, the particles vibrate more strongly and overcome the forces holding them in fixed positions.
+        :R:`Reasoning (R):`
+        As a result, the particles move more slowly and occupy less space.
 
-                :O:`Outcome (O):`
-                Therefore, ice changes state into a liquid.
+        :O:`Outcome (O):`
+        Therefore, the balloon becomes smaller.
 
-            .. dropdown::
-                :icon: codescan
-                :color: primary
-                :class-container: sd-dropdown-container
+        .. dropdown::
+            :icon: codescan
+            :color: primary
+            :class-container: sd-dropdown-container
 
-                .. tab-set::
-                    .. tab-item:: Answer
-                        :P:`Premise (P):`
-                        Heating a solid increases the kinetic energy of its particles.
-
----
-
-        .. tab-item:: 3. Balloon Shrinking in Freezer
-
-            .. admonition:: Tasks
-
-                Explain why a balloon shrinks when placed in the freezer.
-
-                :P:`Premise (P):`
-                __________________  # Choose from builder
-
-                :R:`Reasoning (R):`
-                As a result, the particles move more slowly and occupy less space.
-
-                :O:`Outcome (O):`
-                Therefore, the balloon becomes smaller.
-
-            .. dropdown::
-                :icon: codescan
-                :color: primary
-                :class-container: sd-dropdown-container
-
-                .. tab-set::
-                    .. tab-item:: Answer
-                        :P:`Premise (P):`
-                        Lower temperature reduces the kinetic energy of particles in a gas.
+            .. tab-set::
+                .. tab-item:: Answer
+                    :P:`Premise (P):`
+                    Lower temperature reduces the kinetic energy of particles in a gas.
 
 ---
 
-        .. tab-item:: 4. Rubber Band Stretching
+.. admonition:: Tasks
 
-            .. admonition:: Tasks
+    .. tab-item:: 4. Rubber Band Stretching
 
-                Explain why a rubber band stretches when pulled.
 
-                :P:`Premise (P):`
-                __________________  # Choose from builder
+        Explain why a rubber band stretches when pulled.
 
-                :R:`Reasoning (R):`
-                As a result, the force straightens and extends the coiled chains without breaking them.
+        :P:`Premise (P):`
+        __________________  # Choose from builder
 
-                :O:`Outcome (O):`
-                Therefore, the rubber band becomes longer but remains the same material.
+        :R:`Reasoning (R):`
+        As a result, the force straightens and extends the coiled chains without breaking them.
 
-            .. dropdown::
-                :icon: codescan
-                :color: primary
-                :class-container: sd-dropdown-container
+        :O:`Outcome (O):`
+        Therefore, the rubber band becomes longer but remains the same material.
 
-                .. tab-set::
-                    .. tab-item:: Answer
-                        :P:`Premise (P):`
-                        A rubber band can deform under an applied force without breaking.
+        .. dropdown::
+            :icon: codescan
+            :color: primary
+            :class-container: sd-dropdown-container
+
+            .. tab-set::
+                .. tab-item:: Answer
+                    :P:`Premise (P):`
+                    A rubber band can deform under an applied force without breaking.
 
 ---
 
-        .. tab-item:: 5. Modelling Clay
+.. admonition:: Tasks
 
-            .. admonition:: Tasks
+    .. tab-item:: 5. Modelling Clay
 
-                Explain why modelling clay changes shape when pressed.
+        Explain why modelling clay changes shape when pressed.
 
+        :P:`Premise (P):`
+        __________________  # Choose from builder
+
+        :R:`Reasoning (R):`
+        As a result, the applied force causes the particles to shift into new positions without breaking the material.
+
+        :O:`Outcome (O):`
+        Therefore, the clay changes shape but remains the same substance.
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+            .. tab-item:: Answer
                 :P:`Premise (P):`
-                __________________  # Choose from builder
-
-                :R:`Reasoning (R):`
-                As a result, the applied force causes the particles to shift into new positions without breaking the material.
-
-                :O:`Outcome (O):`
-                Therefore, the clay changes shape but remains the same substance.
-
-            .. dropdown::
-                :icon: codescan
-                :color: primary
-                :class-container: sd-dropdown-container
-
-                .. tab-set::
-                    .. tab-item:: Answer
-                        :P:`Premise (P):`
-                        The arrangement of particles in a soft solid allows movement when force is applied.
+                The arrangement of particles in a soft solid allows movement when force is applied.
 
