@@ -36,7 +36,8 @@ PC-Science-and-language
 
     language/Sequential_explanations.rst
     language/marked_themes.rst
-    language/Cause_and_effect.rst
+
+    .. language/Cause_and_effect.rst
 
 
 .. toctree::
