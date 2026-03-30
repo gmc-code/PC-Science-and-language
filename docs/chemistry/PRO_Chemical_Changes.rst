@@ -19,15 +19,13 @@ Consider the following questions that might be posed in a chemistry context:
 13. Why does a bright white flame occur when magnesium burns?
 
 
-
-
 For each question, write a complete PRO explanation using the structure below.
 
 Ensure:
 
-- The **Premise (P)** states a general scientific principle or condition.
-- The **Reasoning (R)** explains the mechanism linking cause to effect.
-- The **Outcome (O)** states the observable result.
+- The :P:`Premise (P):` states a general scientific principle or condition.
+- The :R:`Reasoning (R):` explains the mechanism linking cause to effect.
+- The :O:`Outcome (O):` states the observable result.
 
 Choose from the PRO starters below to structure the explanations.
 
