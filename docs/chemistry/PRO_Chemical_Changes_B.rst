@@ -108,3 +108,4 @@ Rewrite each explanation using the PRO structure, ensuring that the sentence sta
 | :R:`As electrons gain energy,` they emit visible light as they return to lower energy states.
 | :O:`Ultimately,` an intense bright white flame is observed.
 
+
