@@ -6,6 +6,8 @@ Below is a **set of PRO explanations**.
 
 Rewrite each explanation using the PRO structure, ensuring that the sentence starters are as simple as possible.
 
+----
+
 1.  Vinegar and baking soda
 
 | :P:`According to the particle model,` acids react with carbonates to produce carbon dioxide gas.
