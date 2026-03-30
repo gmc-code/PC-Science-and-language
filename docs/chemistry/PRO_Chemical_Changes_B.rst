@@ -68,7 +68,7 @@ Rewrite each explanation using the PRO structure, ensuring that the sentence sta
 
 | :P:`According to the accepted scientific model,` photosynthesis converts light energy into chemical energy.
 | :R:`At the particle level,` light energy drives reactions that rearrange carbon dioxide and water particles into glucose.
-| :O:`Ultimately,` glucose is produced for energy storage in the plant.
+| :O:`Ultimately,` glucose is produced to provide energy for the plant.
 
 ----
 
