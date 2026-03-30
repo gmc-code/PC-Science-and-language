@@ -19,35 +19,37 @@ Consider the following questions that might be posed in a chemistry context:
 13. Why does a bright white flame occur when magnesium burns?
 
 
-.. admonition:: Tasks
-
-    For each question, write a complete PRO explanation using the structure below.
-
-    Ensure:
-    - The **Premise (P)** states a general scientific principle or condition.
-    - The **Reasoning (R)** explains the mechanism linking cause to effect.
-    - The **Outcome (O)** states the observable result.
-
-    **Required response format:**
-
-    ::
-
-        :P:`Premise (P):`
-        ________________________________
-
-        :R:`Reasoning (R):`
-        ________________________________
-
-        :O:`Outcome (O):`
-        ________________________________
 
 
-    Use the PRO starters below to help structure your explanations.
+For each question, write a complete PRO explanation using the structure below.
+
+Ensure:
+- The **Premise (P)** states a general scientific principle or condition.
+- The **Reasoning (R)** explains the mechanism linking cause to effect.
+- The **Outcome (O)** states the observable result.
+
+**Required response format:**
+
+::
+
+    :P:`Premise (P):`
+    ________________________________
+
+    :R:`Reasoning (R):`
+    ________________________________
+
+    :O:`Outcome (O):`
+    ________________________________
 
 
-.. rubric:: Premise (P) Starters
+Use the PRO starters below to help structure your explanations.
+
+
+
 
 .. container:: p
+
+    .. rubric:: Premise (P) Starters
 
     | According to the relevant scientific theory…
     | Under these conditions…
@@ -61,9 +63,11 @@ Consider the following questions that might be posed in a chemistry context:
     | The system is characterised by…
 
 
-.. rubric:: Reasoning (R) Starters
+
 
 .. container:: r
+
+    .. rubric:: Reasoning (R) Starters
 
     | Consequently, the…
     | At the microscopic scale…
@@ -74,20 +78,21 @@ Consider the following questions that might be posed in a chemistry context:
     | As a consequence of this increase…
     | This acceleration of particle motion results in…
     | The redistribution of energy leads to…
-    | :R:`This elevation in kinetic energy facilitates…`
-    | :R:`The expansion of the medium produces…`
+    | This elevation in kinetic energy facilitates…
+    | The expansion of the medium produces…
 
-
-.. rubric:: Outcome (O) Starters
 
 .. container:: o
-    | :O:`Consequently…`
-    | :O:`The observable effect is that…`
-    | :O:`The measurable outcome is that…`
-    | :O:`Thus, the macroscopic result is…`
-    | :O:`Hence, the system exhibits…`
-    | :O:`Ultimately, this manifests as…`
-    | :O:`Consequently, a measurable rise in pressure occurs.`
-    | :O:`Thus, the system undergoes a macroscopic change.`
-    | :O:`Hence, an observable transformation is produced.`
-    | :O:`Ultimately, this manifests as an increase in…`
+
+    .. rubric:: Outcome (O) Starters
+
+    | Consequently…
+    | The observable effect is that…
+    | The measurable outcome is that…
+    | Thus, the macroscopic result is…
+    | Hence, the system exhibits…
+    | Ultimately, this manifests as…
+    | Consequently, a measurable rise in pressure occurs.
+    | Thus, the system undergoes a macroscopic change.
+    | Hence, an observable transformation is produced.
+    | Ultimately, this manifests as an increase in…
