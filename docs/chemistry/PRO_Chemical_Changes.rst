@@ -2,10 +2,6 @@
 PRO Chemical Changes
 ==============================================
 
-
-----
-
-
 Consider the following questions that might be posed in a chemistry context:
 
 1. Why does fizzing occur when vinegar is added to baking soda?
