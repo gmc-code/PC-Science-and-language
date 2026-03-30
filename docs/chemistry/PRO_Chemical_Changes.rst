@@ -24,28 +24,12 @@ Consider the following questions that might be posed in a chemistry context:
 For each question, write a complete PRO explanation using the structure below.
 
 Ensure:
+
 - The **Premise (P)** states a general scientific principle or condition.
 - The **Reasoning (R)** explains the mechanism linking cause to effect.
 - The **Outcome (O)** states the observable result.
 
-**Required response format:**
-
-::
-
-    :P:`Premise (P):`
-    ________________________________
-
-    :R:`Reasoning (R):`
-    ________________________________
-
-    :O:`Outcome (O):`
-    ________________________________
-
-
-Use the PRO starters below to help structure your explanations.
-
-
-
+Choose from the PRO starters below to structure the explanations.
 
 .. container:: p
 
