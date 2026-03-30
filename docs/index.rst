@@ -26,7 +26,8 @@ PC-Science-and-language
     chemistry/PRO_Physical_Changes_B.rst
     chemistry/PRO_Physical_Changes_scaffold.rst
     chemistry/PRO_Chemical_Changes.rst
-  chemistry/PRO_Chemical_Changes_B.rst
+    chemistry/PRO_Chemical_Changes_B.rst
+
 
 .. toctree::
     :maxdepth: 2
