@@ -23,9 +23,9 @@ PRO (Premise-Reasoning-Outcome) paragraph structures are a common organizational
 :o:`States the final effect or result that follows from the reasoning. This completes the explanation and answers the question directly.`
 
 .. image:: images/PRO linear infographic.png
-    :alt: PRO Explanation Model Infographic
-    :align: center
-    :width: 100%
+   :alt: PRO Explanation Model Infographic
+   :align: center
+   :scale: 100%
 
 ----
 
@@ -120,6 +120,6 @@ PRO Paragraph Checklist
 ----
 
 .. image:: images/PRO connectives.png
-    :alt: PRO connectives infographic
-    :align: center
-    :width: 100%
+   :alt: PRO connectives infographic
+   :align: center
+   :scale: 100%
