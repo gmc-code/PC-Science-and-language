@@ -110,18 +110,3 @@ PRO Paragraph Checklist
 
    *Test:*
    Is this something you could **observe or measure**?
-
-----
-
-.. admonition:: PRO Checklist
-   :class: pro
-
-   **Final PRO Check (whole answer)**
-
-   - 3 full sentences (P, R, O)
-   - Each sentence has a **different role**
-   - Uses:
-     **When… → As a result… → Therefore…**
-   - Flows logically from start → explanation → result
-   - No mixing of stages (e.g. no “because” in Outcome)
-
