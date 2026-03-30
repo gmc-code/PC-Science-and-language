@@ -25,9 +25,9 @@ Consider the following questions that might be posed in a chemistry context:
 
 .. admonition:: Tasks
 
-   For each of the above questions, identify the Premise (P), Reasoning (R), and Outcome (O) components of the explanation. Write a complete PRO paragraph for each question, ensuring that the Premise sets the situation by stating a relevantscientific fact orprinciple, the Reasoning explains the scientific principles involved, and the Outcome states the final effect or result.
+    For each of the above questions, identify the Premise (P), Reasoning (R), and Outcome (O) components of the explanation. Write a complete PRO paragraph for each question, ensuring that the Premise sets the situation by stating a relevantscientific fact orprinciple, the Reasoning explains the scientific principles involved, and the Outcome states the final effect or result.
 
-   Choose from he PRO starters below to help you structure your explanations.
+    Choose from he PRO starters below to help you structure your explanations.
 
     .. rubric:: **Premise (P) Starters**:
 
