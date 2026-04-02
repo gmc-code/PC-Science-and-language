@@ -16,6 +16,24 @@ PC-Science-and-language
     introduction/introduction.rst
 
 
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪 Prac Ethics
+    :numbered:
+
+    pracs/ethics_introduction.rst
+    pracs/ethics_honesty.rst
+    pracs/ethics_fairness.rst
+    pracs/ethics_respect_for_others.rst
+    pracs/ethics_avoidance_of_harm.rst
+    pracs/ethics_doing_good.rst
+
+
+
+
+
+
 .. toctree::
     :maxdepth: 2
     :caption: 🤔 PRO
@@ -49,14 +67,3 @@ PC-Science-and-language
     .. chemistry/chemistry_themes.rst
 
 
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🧪 Pracs
-    :numbered:
-
-    pracs/ethics_honesty.rst
-    pracs/ethics_fairness.rst
-    pracs/ethics_respect_for_others.rst
-    pracs/ethics_avoidance_of_harm.rst
-    pracs/ethics_doing_good.rst

@@ -45,15 +45,15 @@ Fairness
 
             .. tab-item:: Answers
 
-                1. decide — Participants must be allowed to decide whether they want to take part in a study.
+                1. decide
 
-                2. convey — Survey questions should convey clear meaning so everyone can understand them.
+                2. convey
 
-                3. interpret — Researchers must interpret data without favouring any group.
+                3. interpret
 
-                4. include — A study sample should include a wide range of people to ensure fairness.
+                4. include
 
-                5. share — Scientists should share their findings in ways that allow others to access and build on them.
+                5. share
 
 ----
 
