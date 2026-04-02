@@ -2,7 +2,7 @@
 Ethics: Fairness
 ================================================
 
-Fairness in interpretation is another key ethical principle that ensures scientists select and interpret data without bias, so no group is disadvantaged. This includes checking that the original study sample represents a diverse range of people, sharing research benefits broadly, and publishing findings in open-access formats for all researchers to access and build on.
+Fairness in interpretation is another key ethical principle that ensures scientists select and interpret data without bias, so no group is disadvantaged.
 
 Fairness
 ----------
@@ -23,17 +23,18 @@ Fairness
     Complete the following by filling in the missing words.
 
     **Word list (A → Z):**
-    accessible • bias • diverse • everyone • whether
+    convey • decide • include • interpret • share
 
-    1. Participants must be allowed to decide ______________ they want to take part in a study.
+    1. Participants must be allowed to ______________ whether they want to take part in a study.
 
-    2. Survey questions should be written in clear, everyday language so that they are ______________ to everyone.
+    2. Survey questions should ______________ clear meaning so everyone can understand them.
 
-    3. Data must be selected and interpreted without ______________ toward any group.
+    3. Researchers must ______________ data without favouring any group.
 
-    4. A study sample should represent a ______________ range of people to ensure fair conclusions.
+    4. A study sample should ______________ a wide range of people to ensure fairness.
 
-    5. Research findings should be shared in ways that allow ______________ to access and build on them.
+    5. Scientists should ______________ their findings in ways that allow others to access and build on them.
+
 
     .. dropdown::
         :icon: codescan
@@ -44,15 +45,15 @@ Fairness
 
             .. tab-item:: Answers
 
-                1. whether
+                1. decide — Participants must be allowed to decide whether they want to take part in a study.
 
-                2. accessible
+                2. convey — Survey questions should convey clear meaning so everyone can understand them.
 
-                3. bias
+                3. interpret — Researchers must interpret data without favouring any group.
 
-                4. diverse
+                4. include — A study sample should include a wide range of people to ensure fairness.
 
-                5. everyone
+                5. share — Scientists should share their findings in ways that allow others to access and build on them.
 
 ----
 
@@ -79,8 +80,8 @@ Fairness
 
         | a. Applying the same criteria to all data
         | b. Selecting only the largest data sets
-        | c. Favouring one group’s responses
-        | d. Ignoring results that don’t fit expectations
+        | c. Favouring one group's responses
+        | d. Ignoring results that don't fit expectations
 
     4. Why should a study include a diverse sample?
 
