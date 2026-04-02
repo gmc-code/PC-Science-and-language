@@ -60,7 +60,7 @@ Therefore, the clay changes shape but remains the same substance.
             As a result, the particles move farther apart and escape from the surface of the liquid.
 
             :O:`Outcome (O):`
-            ``__________________``, the liquid changes ``__________________`` into a gas.
+            __________________, the liquid changes __________________ into a gas.
 
         .. dropdown::
             :icon: codescan
@@ -94,7 +94,7 @@ Therefore, the clay changes shape but remains the same substance.
             A rubber band consists of long, coiled polymer chains that can uncoil under force.
 
             :R:`Reasoning (R):`
-            ``__________________```, the force straightens and extends these ``__________________`` without breaking them.
+            __________________`, the force straightens and extends these __________________ without breaking them.
 
             :O:`Outcome (O):`
             Therefore, the rubber band becomes longer but remains the same material.
@@ -128,7 +128,7 @@ Therefore, the clay changes shape but remains the same substance.
         3. Why does a piece of chalk break when you bend it?
 
             :P:`Premise (P):`
-            The rigid structure of ``__________________`` prevents particles from moving under a ``__________________`` force.
+            The rigid structure of __________________ prevents particles from moving under a __________________ force.
 
             :R:`Reasoning (R):`
             As a result, the particles separate instead of shifting.
@@ -171,10 +171,10 @@ Therefore, the clay changes shape but remains the same substance.
             A solid has particles that are tightly packed and held in fixed positions.
 
             :R:`Reasoning (R):`
-            As a result, the particles cannot ``__________________`` freely, so the solid cannot ``__________________`` or spread out like a liquid or gas.
+            As a result, the particles cannot __________________ freely, so the solid cannot __________________ or spread out like a liquid or gas.
 
             :O:`Outcome (O):`
-            Therefore, a solid keeps its shape unless a force strong enough to ``__________________`` it is applied.
+            Therefore, a solid keeps its shape unless a force strong enough to __________________ it is applied.
 
         .. dropdown::
             :icon: codescan
@@ -208,13 +208,13 @@ Therefore, the clay changes shape but remains the same substance.
         1. Why does butter melt when it is heated?
 
             :P:`Premise (P):`
-            Heating a solid increases the kinetic  ``__________________`` of its particles.
+            Heating a solid increases the kinetic  __________________ of its particles.
 
             :R:`Reasoning (R):`
-            As a result, the ``__________________`` vibrate more strongly and begin to loosen from their fixed ``__________________``.
+            As a result, the __________________ vibrate more strongly and begin to loosen from their fixed __________________.
 
             :O:`Outcome (O):`
-            Therefore, the ``__________________`` changes ``__________________`` into a ``__________________``.
+            Therefore, the __________________ changes __________________ into a __________________.
 
         .. dropdown::
             :icon: codescan
@@ -252,10 +252,10 @@ Therefore, the clay changes shape but remains the same substance.
             A sponge has particles that are not tightly packed and can move easily.
 
             :R:`Reasoning (R):`
-            As a result, the particles shift, and the sponge bends because it is ``__________________``.
+            As a result, the particles shift, and the sponge bends because it is __________________.
 
             :O:`Outcome (O):`
-            Therefore, the sponge becomes smaller under ``__________________`` pressure.
+            Therefore, the sponge becomes smaller under __________________ pressure.
 
         .. dropdown::
             :icon: codescan
@@ -292,10 +292,10 @@ Therefore, the clay changes shape but remains the same substance.
             Water vapour loses energy upon contact with a cooler surface.
 
             :R:`Reasoning (R):`
-            ``__________________``, the particles slow down and change state from gas to liquid.
+            __________________, the particles slow down and change state from gas to liquid.
 
             :O:`Outcome (O):`
-            ``__________________``, tiny droplets form on the mirror.
+            __________________, tiny droplets form on the mirror.
 
         .. dropdown::
             :icon: codescan
@@ -332,10 +332,10 @@ Therefore, the clay changes shape but remains the same substance.
             Air temperature below freezing allows water vapour to change directly into ice.
 
             :R:`Reasoning (R):`
-            ``__________________``, the particles lose energy and form ice crystals.
+            __________________, the particles lose energy and form ice crystals.
 
             :O:`Outcome (O):`
-            ``__________________``, frost forms on the grass.
+            __________________, frost forms on the grass.
 
         .. dropdown::
             :icon: codescan
@@ -372,10 +372,10 @@ Therefore, the clay changes shape but remains the same substance.
             Metals conduct heat efficiently, allowing thermal energy to transfer quickly.
 
             :R:`Reasoning (R):`
-            As a result, your hand ``__________________`` warmth as heat ``__________________`` away into the metal.
+            As a result, your hand __________________ warmth as heat __________________ away into the metal.
 
             :O:`Outcome (O):`
-            Therefore, the spoon ``__________________`` cold to touch.
+            Therefore, the spoon __________________ cold to touch.
 
         .. dropdown::
             :icon: codescan
@@ -412,10 +412,10 @@ Therefore, the clay changes shape but remains the same substance.
             Moving air removes water vapour from the surface of a liquid.
 
             :R:`Reasoning (R):`
-            As a result, ``__________________`` liquid water can evaporate because the ``__________________`` air above is removed.
+            As a result, __________________ liquid water can evaporate because the __________________ air above is removed.
 
             :O:`Outcome (O):`
-            Therefore, the clothing dries ``__________________``.
+            Therefore, the clothing dries __________________.
 
         .. dropdown::
             :icon: codescan
@@ -452,10 +452,10 @@ Therefore, the clay changes shape but remains the same substance.
             Solar energy increases the kinetic energy of water particles in a puddle.
 
             :R:`Reasoning (R):`
-            As a result, the particles move faster, break free from the liquid, and ``__________________`` into water vapour.
+            As a result, the particles move faster, break free from the liquid, and __________________ into water vapour.
 
             :O:`Outcome (O):`
-            Therefore, the puddle disappears as the liquid ``__________________`` into a gas.
+            Therefore, the puddle disappears as the liquid __________________ into a gas.
 
         .. dropdown::
             :icon: codescan

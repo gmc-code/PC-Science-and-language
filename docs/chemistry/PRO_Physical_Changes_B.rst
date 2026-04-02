@@ -61,7 +61,7 @@ Therefore, the clay changes shape but remains the same substance.
             As a result, the particles move farther apart and escape from the surface of the liquid.
 
             :O:`Outcome (O):`
-            ``__________________``, the liquid changes ``__________________`` into a gas.
+            __________________, the liquid changes __________________ into a gas.
 
         .. dropdown::
             :icon: codescan
@@ -95,7 +95,7 @@ Therefore, the clay changes shape but remains the same substance.
             When a rubber band is pulled, its long, coiled polymer chains can uncoil.
 
             :R:`Reasoning (R):`
-            ``__________________``, the force straightens and extends these ``__________________`` without breaking them.
+            __________________, the force straightens and extends these __________________ without breaking them.
 
             :O:`Outcome (O):`
             Therefore, the rubber band becomes longer but remains the same material.
@@ -129,7 +129,7 @@ Therefore, the clay changes shape but remains the same substance.
         3. Why does a piece of chalk break when you bend it?
 
             :P:`Premise (P):`
-            ``_______________`` a bending force is applied to ``__________________``, its rigid structure does not allow the ``__________________`` to move.
+            _______________ a bending force is applied to __________________, its rigid structure does not allow the __________________ to move.
 
             :R:`Reasoning (R):`
             As a result, the particles separate instead of shifting.
@@ -173,10 +173,10 @@ Therefore, the clay changes shape but remains the same substance.
             When a material is a solid, its particles are tightly packed and held in fixed positions.
 
             :R:`Reasoning (R):`
-            As a result, the particles cannot ``__________________`` freely, so the solid cannot ``__________________`` or spread out like a liquid or gas.
+            As a result, the particles cannot __________________ freely, so the solid cannot __________________ or spread out like a liquid or gas.
 
             :O:`Outcome (O):`
-            Therefore, a solid keeps its shape unless a force strong enough to ``__________________`` it is applied.
+            Therefore, a solid keeps its shape unless a force strong enough to __________________ it is applied.
 
         .. dropdown::
             :icon: codescan
@@ -210,13 +210,13 @@ Therefore, the clay changes shape but remains the same substance.
         1. Why does butter melt when it is heated?
 
             :P:`Premise (P):`
-            When a solid is heated, its ``__________________`` gain kinetic ``__________________``.
+            When a solid is heated, its __________________ gain kinetic __________________.
 
             :R:`Reasoning (R):`
-            As a result, the particles vibrate more strongly and begin to loosen from their fixed ``__________________``.
+            As a result, the particles vibrate more strongly and begin to loosen from their fixed __________________.
 
             :O:`Outcome (O):`
-            Therefore, the ``__________________`` changes ``__________________`` into a ``__________________``.
+            Therefore, the __________________ changes __________________ into a __________________.
 
         .. dropdown::
             :icon: codescan
@@ -250,13 +250,13 @@ Therefore, the clay changes shape but remains the same substance.
         1. Why does a sponge compress when you squeeze it?
 
             :P:`Premise (P):`
-            When a sponge is pressed, its particles, which are not ``__________________`` packed, can move easily.
+            When a sponge is pressed, its particles, which are not __________________ packed, can move easily.
 
             :R:`Reasoning (R):`
-            As a result, the particles shift, and the sponge bends because it is ``__________________``.
+            As a result, the particles shift, and the sponge bends because it is __________________.
 
             :O:`Outcome (O):`
-            Therefore, the sponge becomes smaller under ``__________________`` pressure.
+            Therefore, the sponge becomes smaller under __________________ pressure.
 
         .. dropdown::
             :icon: codescan
@@ -290,13 +290,13 @@ Therefore, the clay changes shape but remains the same substance.
         7. Why does water form on a bathroom mirror?
 
             :P:`Premise (P):`
-            ``__________________`` water vapour in the air touches a cooler surface, it loses energy.
+            __________________ water vapour in the air touches a cooler surface, it loses energy.
 
             :R:`Reasoning (R):`
-            ``__________________``, the particles slow down and change state from gas to liquid.
+            __________________, the particles slow down and change state from gas to liquid.
 
             :O:`Outcome (O):`
-            ``__________________``, tiny droplets form on the mirror.
+            __________________, tiny droplets form on the mirror.
 
         .. dropdown::
             :icon: codescan
@@ -330,13 +330,13 @@ Therefore, the clay changes shape but remains the same substance.
         8. Why does frost form on grass overnight?
 
             :P:`Premise (P):`
-            ``__________________`` the air temperature drops below freezing, water vapour in the air is ready to change state.
+            __________________ the air temperature drops below freezing, water vapour in the air is ready to change state.
 
             :R:`Reasoning (R):`
-            ``__________________``, the particles lose energy and change directly into ice crystals.
+            __________________, the particles lose energy and change directly into ice crystals.
 
             :O:`Outcome (O):`
-            ``__________________``, frost forms on the grass.
+            __________________, frost forms on the grass.
 
         .. dropdown::
             :icon: codescan
@@ -370,13 +370,13 @@ Therefore, the clay changes shape but remains the same substance.
         9. Why does a metal spoon feel cold in winter?
 
             :P:`Premise (P):`
-            When you touch a metal spoon, it ``__________________`` heat quickly, allowing energy to ``__________________`` from your hand into the spoon.
+            When you touch a metal spoon, it __________________ heat quickly, allowing energy to __________________ from your hand into the spoon.
 
             :R:`Reasoning (R):`
-            As a result, your hand ``__________________`` warmth as heat ``__________________`` away into the metal.
+            As a result, your hand __________________ warmth as heat __________________ away into the metal.
 
             :O:`Outcome (O):`
-            Therefore, the spoon ``__________________`` cold to touch.
+            Therefore, the spoon __________________ cold to touch.
 
         .. dropdown::
             :icon: codescan
@@ -450,13 +450,13 @@ Therefore, the clay changes shape but remains the same substance.
         11. Why does a puddle disappear on a sunny day?
 
             :P:`Premise (P):`
-            When a puddle ``__________________`` heat energy from the Sun, its water particles ``__________________`` energy.
+            When a puddle __________________ heat energy from the Sun, its water particles __________________ energy.
 
             :R:`Reasoning (R):`
-            As a result, the particles move faster, break free from the liquid, and ``__________________`` into water vapour.
+            As a result, the particles move faster, break free from the liquid, and __________________ into water vapour.
 
             :O:`Outcome (O):`
-            Therefore, the puddle disappears as the liquid ``__________________`` into a gas.
+            Therefore, the puddle disappears as the liquid __________________ into a gas.
 
         .. dropdown::
             :icon: codescan

@@ -17,7 +17,7 @@ PRO Physical Changes: Declarative Premise Scaffold
     Explain why water turns into water vapour when boiled.
 
     :P:`Premise (P):`
-    ``__________________``  # Choose from builder
+    __________________  # Choose from builder
 
     - Heating a [material/state] increases the kinetic energy of its particles.
     - Lower temperature reduces the kinetic energy of particles in [material/state].
@@ -53,7 +53,7 @@ PRO Physical Changes: Declarative Premise Scaffold
     Explain why ice melts when heated.
 
     :P:`Premise (P):`
-    ``__________________``  # Choose from builder
+    __________________  # Choose from builder
 
     - Heating a [material/state] increases the kinetic energy of its particles.
     - Lower temperature reduces the kinetic energy of particles in [material/state].
@@ -88,7 +88,7 @@ PRO Physical Changes: Declarative Premise Scaffold
     Explain why a balloon shrinks when placed in the freezer.
 
     :P:`Premise (P):`
-    ``__________________``  # Choose from builder
+    __________________  # Choose from builder
 
     - Heating a [material/state] increases the kinetic energy of its particles.
     - Lower temperature reduces the kinetic energy of particles in [material/state].
@@ -124,7 +124,7 @@ PRO Physical Changes: Declarative Premise Scaffold
     Explain why a rubber band stretches when pulled.
 
     :P:`Premise (P):`
-    ``__________________``  # Choose from builder
+    __________________  # Choose from builder
 
     - Heating a [material/state] increases the kinetic energy of its particles.
     - Lower temperature reduces the kinetic energy of particles in [material/state].
@@ -159,7 +159,7 @@ PRO Physical Changes: Declarative Premise Scaffold
     Explain why modelling clay changes shape when pressed.
 
     :P:`Premise (P):`
-    ``__________________``  # Choose from builder
+    __________________  # Choose from builder
 
     - Heating a [material/state] increases the kinetic energy of its particles.
     - Lower temperature reduces the kinetic energy of particles in [material/state].
