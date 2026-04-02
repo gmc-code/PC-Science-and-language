@@ -21,15 +21,15 @@ Honesty
 
     Complete the following by filling in the missing words.
 
-    1. Scientists must report all findings __________, even when results are unexpected.
+    1. Scientists must report all findings _______________, even when results are unexpected.
 
-    2. Data should never be changed or selectively removed to make outcomes look more __________.
+    2. Data should never be changed or selectively removed to make outcomes look more _______________.
 
-    3. Observations should be recorded at the time they occur, not later from __________.
+    3. Observations should be recorded at the time they occur, not later from _______________.
 
-    4. When a measurement is taken incorrectly, the researcher should __________ the mistake.
+    4. When a measurement is taken incorrectly, the researcher should _______________ the mistake.
 
-    5. Any financial or personal interests that could influence the study must be __________.
+    5. Any financial or personal interests that could influence the study must be _______________.
 
     .. dropdown::
         :icon: codescan
