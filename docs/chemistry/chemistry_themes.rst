@@ -27,6 +27,8 @@ L - Link
     | The final sentence links back to the main idea or topic.
     | It wraps up the paragraph and reinforces the key message.
 
+----
+
 SFG Paragraph Structure
 ---------------------------
 

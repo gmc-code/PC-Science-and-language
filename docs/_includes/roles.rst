@@ -23,3 +23,6 @@
 
 .. role:: themeb
 .. role:: rhemeb
+
+.. role:: rubricsmall
+

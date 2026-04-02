@@ -48,3 +48,12 @@ PC-Science-and-language
     .. chemistry/chemistry_PEEL.rst
     .. chemistry/chemistry_themes.rst
 
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪 Pracs
+    :numbered:
+
+    pracs/ethics_honesty.rst
+

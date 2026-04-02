@@ -2,7 +2,9 @@
 Sequential explanations
 ================================================
 
-.. role:: rubricsmall
+| A Sequential Explanation describes how a process unfolds over time.
+| This genre is common in school science texts, especially when explaining natural phenomena or scientific processes (e.g., how evaporation occurs, how a plant grows, how a chemical reaction happens).
+
 
 Example
 ----------------------------------------------
