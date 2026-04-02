@@ -57,3 +57,6 @@ PC-Science-and-language
 
     pracs/ethics_honesty.rst
     pracs/ethics_fairness.rst
+    pracs/ethics_respect_for_others.rst
+    pracs/ethics_avoidance_of_harm.rst
+    pracs/ethics_doing_good.rst

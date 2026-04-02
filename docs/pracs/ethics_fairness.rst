@@ -2,7 +2,7 @@
 Ethics: Fairness
 ================================================
 
-Fairness in interpretation is another key ethical principle that ensures scientists select and interpret data without bias, so no group is disadvantaged.
+Fairness in interpretation is a key ethical principle that ensures scientists select and interpret data without bias, so no group is disadvantaged.
 
 Fairness
 ----------
@@ -79,7 +79,7 @@ Fairness
     3. What is an example of unbiased data interpretation?
 
         | a. Applying the same criteria to all data
-        | b. Selecting only the largest data sets
+        | b. Selecting only the smallest data sets
         | c. Favouring one group's responses
         | d. Ignoring results that don't fit expectations
 
