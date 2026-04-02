@@ -56,4 +56,4 @@ PC-Science-and-language
     :numbered:
 
     pracs/ethics_honesty.rst
-
+    pracs/ethics_fairness.rst

@@ -69,7 +69,7 @@ Honesty
        | a. Adjusting results to match the hypothesis
        | b. Reporting all data truthfully
        | c. Ignoring unusual data points
-       | d. Rewriting notes to look neater
+       | d. Writing results in a way that sounds more impressive
 
     2. Why should observations be recorded immediately?
 
