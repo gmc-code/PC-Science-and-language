@@ -17,11 +17,6 @@ Honesty
 
 ----
 
-Cloze Questions (Fill-in)
------------------------
-
-
-
 .. admonition:: Cloze Questions
 
     Complete the following by filling in the missing words.
@@ -70,24 +65,28 @@ Cloze Questions (Fill-in)
        | d. Rewriting notes to look neater
 
     2. Why should observations be recorded immediately?
+
        | a. Memory can distort details
        | b. It saves time later
        | c. It makes the report look longer
        | d. It avoids using instruments
 
     3. What should a scientist do if they discover a measurement error?
+
        | a. Hide it to avoid delays
        | b. Repeat the experiment without noting it
        | c. Admit the mistake and document it
        | d. Change the value to the expected one
 
     4. Which situation requires disclosure of a conflict of interest?
+
        | a. The study uses old equipment
        | b. The researcher dislikes the topic
        | c. The research is funded by a group that may benefit
        | d. The sample size is small
 
     5. Why is it important to accurately describe the methods used?
+
        | a. So others can independently verify the study
        | b. To make the report sound more complex
        | c. To impress funding agencies
