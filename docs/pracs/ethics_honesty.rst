@@ -2,6 +2,8 @@
 Ethics: Honesty
 ================================================
 
+Honesty is a fundamental ethical principle in scientific research that requires scientists to report their findings truthfully and accurately.
+
 Honesty
 ----------
 
