@@ -20,7 +20,7 @@ Honesty
 ----
 
 .. admonition:: Cloze Questions
-    :class: pro
+    :class: question
 
     Complete the following by filling in the missing words.
 
@@ -60,7 +60,7 @@ Honesty
 
 
 .. admonition:: Multiple-Choice Questions
-    :class: tasks
+    :class: pro
 
     Choose the best answer for each question.
 
