@@ -44,7 +44,7 @@ div.admonition.answer,
 div.admonition.answers{
     color: blue;
     border-left: 6px solid blue;
-    border: 2px solid;
+    /* border: 2px solid; */
     background-color: #e7f2fa;
 }
 
@@ -59,7 +59,7 @@ div.admonition.question,
 div.admonition.questions{
     color: blue;
     border-left: 6px solid gold;
-    border: 2px solid gold;
+    /* border: 2px solid gold; */
     background-color: lightyellow!important;
 }
 
@@ -74,7 +74,7 @@ div.admonition.task,
 div.admonition.tasks {
     color: blue;
     border-left: 6px solid gold;
-    border: 2px solid gold;
+    /* border: 2px solid gold; */
     background-color: lightyellow!important;
 }
 
@@ -89,7 +89,7 @@ div.admonition.exercise,
 div.admonition.exercises {
     color: blue;
     border-left: 6px solid rgb(0, 255, 0);
-    border: 2px solid rgb(0, 255, 0);
+    /* border: 2px solid rgb(0, 255, 0); */
     background-color: lightyellow!important;
 }
 
@@ -104,7 +104,7 @@ div.admonition.project,
 div.admonition.projects {
     color: blue;
     border-left: 6px solid gold;
-    border: 2px solid gold;
+    /* border: 2px solid gold; */
     background-color: lightyellow!important;
 }
 
