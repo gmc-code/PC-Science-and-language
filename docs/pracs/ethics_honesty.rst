@@ -21,6 +21,9 @@ Honesty
 
     Complete the following by filling in the missing words.
 
+    **Word list (A → Z):**
+    acknowledge • disclosed • favourable • memory • truthfully
+
     1. Scientists must report all findings _______________, even when results are unexpected.
 
     2. Data should never be changed or selectively removed to make outcomes look more _______________.
