@@ -128,7 +128,7 @@ Therefore, the clay changes shape but remains the same substance.
         3. Why does a piece of chalk break when you bend it?
 
             :P:`Premise (P):`
-            ``_______________`` the rigid structure of chalk does not allow the ``__________________`` to move under bending force.
+            The rigid structure of ``__________________`` prevents particles from moving under a ``__________________`` force.
 
             :R:`Reasoning (R):`
             As a result, the particles separate instead of shifting.
@@ -146,7 +146,7 @@ Therefore, the clay changes shape but remains the same substance.
                 .. tab-item:: Why does a piece of chalk break when you bend it?
 
                     :P:`Premise (P):`
-                    The rigid structure of chalk prevents particles from moving under bending force.
+                    The rigid structure of chalk prevents particles from moving under a bending force.
 
                     :R:`Reasoning (R):`
                     As a result, the particles separate instead of shifting.
@@ -165,7 +165,7 @@ Therefore, the clay changes shape but remains the same substance.
         **Word list (A → Z):**
         deform, flow, move, spread
 
-        4. Why does a solid keep its shape?
+        1. Why does a solid keep its shape?
 
             :P:`Premise (P):`
             A solid has particles that are tightly packed and held in fixed positions.
@@ -203,12 +203,12 @@ Therefore, the clay changes shape but remains the same substance.
         Complete the Explanation by filling in the missing nouns.
 
         **Word list (A → Z):**
-        energy • force • liquid • particles • positions • solid • state
+        energy • liquid • particles • positions • solid • state
 
-        5. Why does butter melt when it is heated?
+        1. Why does butter melt when it is heated?
 
             :P:`Premise (P):`
-            Heating a solid increases the kinetic energy of its particles.
+            Heating a solid increases the kinetic  ``__________________`` of its particles.
 
             :R:`Reasoning (R):`
             As a result, the ``__________________`` vibrate more strongly and begin to loosen from their fixed ``__________________``.
@@ -217,6 +217,11 @@ Therefore, the clay changes shape but remains the same substance.
             Therefore, the ``__________________`` changes ``__________________`` into a ``__________________``.
 
         .. dropdown::
+            :icon: codescan
+            :color: primary
+            :class-container: sd-dropdown-container
+
+            .. tab-set::
 
                 .. tab-item:: Why does butter melt when it is heated?
 
@@ -476,7 +481,7 @@ Therefore, the clay changes shape but remains the same substance.
 
     .. admonition:: Tasks
 
-        Explain the following phenomena using the PRO structure
+        Explain the following phenomenon using the PRO structure.
 
         12. Why does a balloon shrink when placed in the freezer?
 
@@ -504,7 +509,7 @@ Therefore, the clay changes shape but remains the same substance.
 
     .. admonition:: Tasks
 
-        Explain the following phenomena using the PRO structure:
+        Explain the following phenomenon using the PRO structure.
 
         13. Why does a wet towel dry when left in the sun?
 

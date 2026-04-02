@@ -2,7 +2,7 @@
 PRO Paragraph Structures
 ================================================
 
-PRO (Premise-Reasoning-Outcome) paragraph structures are a common organizational pattern in scientific explanations. They consist of three main components:
+PRO (Premise-Reasoning-Outcome) paragraph structures are a common organisational pattern in scientific explanations. They consist of three main components:
 
 .. container:: P
 

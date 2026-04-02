@@ -205,15 +205,15 @@ Therefore, the clay changes shape but remains the same substance.
         Complete the Explanation by filling in the missing nouns.
 
         **Word list (A → Z):**
-        energy • force • liquid • particles • positions • solid • state
+        energy • liquid • particles • positions • solid • state
 
-        5. Why does butter melt when it is heated?
+        1. Why does butter melt when it is heated?
 
             :P:`Premise (P):`
-            When a ``__________________`` is heated, its ``__________________`` gain kinetic ``__________________``.
+            When a solid is heated, its ``__________________`` gain kinetic ``__________________``.
 
             :R:`Reasoning (R):`
-            As a result, the ``__________________`` vibrate more strongly and begin to loosen from their fixed ``__________________``.
+            As a result, the particles vibrate more strongly and begin to loosen from their fixed ``__________________``.
 
             :O:`Outcome (O):`
             Therefore, the ``__________________`` changes ``__________________`` into a ``__________________``.
@@ -247,7 +247,7 @@ Therefore, the clay changes shape but remains the same substance.
         **Word list (A → Z):**
         flexible • high • rigid • soft • strong • tightly
 
-        6. Why does a sponge compress when you squeeze it?
+        1. Why does a sponge compress when you squeeze it?
 
             :P:`Premise (P):`
             When a sponge is pressed, its particles, which are not ``__________________`` packed, can move easily.
@@ -482,7 +482,7 @@ Therefore, the clay changes shape but remains the same substance.
 
     .. admonition:: Tasks
 
-        Explain the following phenomena using the PRO structure
+        Explain the following phenomenon using the PRO structure.
 
         12. Why does a balloon shrink when placed in the freezer?
 
@@ -511,7 +511,7 @@ Therefore, the clay changes shape but remains the same substance.
 
     .. admonition:: Tasks
 
-        Explain the following phenomena using the PRO structure:
+        Explain the following phenomenon using the PRO structure.
 
         13. Why does a wet towel dry when left in the sun?
 
