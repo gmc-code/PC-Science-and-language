@@ -16,7 +16,6 @@ Honesty
 - Disclose anything that could bias the results, such as who funded the study.
 - Describe methods clearly so the study can be repeated and checked by others.
 
-
 ----
 
 .. admonition:: Cloze Questions
@@ -25,17 +24,18 @@ Honesty
     Complete the following by filling in the missing words.
 
     **Word list (A → Z):**
-    acknowledge • disclosed • favourable • memory • truthfully
+    acknowledge • alter • disclosed • reconstructed • report
 
-    1. Scientists must report all findings _______________, even when results are unexpected.
+    1. Scientists must ______________ all findings, even when results are unexpected.
 
-    2. Data should never be changed or selectively removed to make outcomes look more _______________.
+    2. Researchers should never ______________ data to make outcomes appear more positive.
 
-    3. Observations should be recorded at the time they occur, not later from _______________.
+    3. Observations should be written down immediately rather than ______________ later.
 
-    4. When a measurement is taken incorrectly, the researcher should _______________ the mistake.
+    4. When a measurement is taken incorrectly, the researcher should ______________ the mistake.
 
-    5. Any financial or personal interests that could influence the study must be _______________.
+    5. Any financial or personal interests that could influence the study must be ______________ clearly.
+
 
     .. dropdown::
         :icon: codescan
@@ -46,15 +46,16 @@ Honesty
 
             .. tab-item:: Answers
 
-                1. truthfully
+                1. report
 
-                2. favourable
+                2. alter
 
-                3. memory
+                3. reconstructed
 
                 4. acknowledge
 
                 5. disclosed
+
 
 ----
 
