@@ -405,18 +405,18 @@ Therefore, the clay changes shape but remains the same substance.
         Complete the Explanation by filling in the missing describers (adjectives/adverbs).
 
         **Word list (A → Z):**
-        faster • liquid • moving • moist • more
+        faster • moving • moist • more
 
-        10. Why does wet clothing dry on a windy day?
+        1.  Why does wet clothing dry on a windy day?
 
             :P:`Premise (P):`
-            When water is exposed to ``__________________`` air, the water vapour is carried away from the surface.
+            When water is exposed to __________________ air, the water vapour is carried away from the surface.
 
             :R:`Reasoning (R):`
-            As a result, ``__________________`` liquid water can evaporate because the ``__________________`` air above is removed.
+            As a result, __________________ liquid water can evaporate because the __________________ air above is removed.
 
             :O:`Outcome (O):`
-            Therefore, the clothing dries ``__________________``.
+            Therefore, the clothing dries __________________.
 
         .. dropdown::
             :icon: codescan
