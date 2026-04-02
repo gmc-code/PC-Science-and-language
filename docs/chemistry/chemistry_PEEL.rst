@@ -58,6 +58,7 @@ Changes in shape involve bending, folding, stretching, or inflating a material. 
 ----
 
 .. admonition:: Tasks
+    :class: questions
 
     #. Write code to show an ARROW_N.
     #. Write code to show a GIRAFFE.

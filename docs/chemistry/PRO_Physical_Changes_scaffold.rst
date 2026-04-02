@@ -10,9 +10,10 @@ PRO Physical Changes: Declarative Premise Scaffold
 - The arrangement of particles in a [material/state] allows movement when force is applied.
 - A [material/state] is rigid, so particles cannot move freely under force.
 
-.. admonition:: Task
 
-   1. Water Boiling
+
+.. admonition:: Water Boiling
+    :class: questions
 
     Explain why water turns into water vapour when boiled.
 
@@ -43,12 +44,12 @@ PRO Physical Changes: Declarative Premise Scaffold
                 | :P:`Premise (P):` Heating a liquid increases the kinetic energy of its particles.
                 | Heating a [material/state] increases the kinetic energy of its particles.
 
-----
 
 
-.. admonition:: Task
 
-    2. Ice Melting
+
+.. admonition:: Ice Melting
+    :class: questions
 
     Explain why ice melts when heated.
 
@@ -81,9 +82,10 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 ----
 
-.. admonition:: Task
 
-    3. Balloon Shrinking in Freezer
+
+.. admonition:: Balloon Shrinking in the Freezer
+    :class: questions
 
     Explain why a balloon shrinks when placed in the freezer.
 
@@ -116,10 +118,10 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 ----
 
-.. admonition:: Task
 
-    4. Rubber Band Stretching
 
+.. admonition:: Rubber Band Stretching
+    :class: questions
 
     Explain why a rubber band stretches when pulled.
 
@@ -152,9 +154,10 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 ---
 
-.. admonition:: Task
 
-    5. Modelling Clay
+
+.. admonition:: Modelling Clay
+    :class: questions
 
     Explain why modelling clay changes shape when pressed.
 

@@ -48,7 +48,10 @@ Therefore, the clay changes shape but remains the same substance.
 
 **Water boiling**
 
-    .. admonition:: Tasks
+
+    .. admonition:: **Water boiling**
+        :class: questions
+
 
         Complete the Outcome (O).
 
@@ -85,7 +88,9 @@ Therefore, the clay changes shape but remains the same substance.
 
 **Stretching a rubber band**
 
-    .. admonition:: Tasks
+
+    .. admonition:: **Stretching a rubber band**
+        :class: questions
 
         Complete the Reasoning (R).
 
@@ -122,7 +127,9 @@ Therefore, the clay changes shape but remains the same substance.
 
 **Snapping chalk**
 
-    .. admonition:: Tasks
+
+    .. admonition:: **Snapping chalk**
+        :class: questions
 
         Complete the Premise (P).
 
@@ -160,7 +167,9 @@ Therefore, the clay changes shape but remains the same substance.
 
 **Fixed shape**
 
-    .. admonition:: Tasks
+
+    .. admonition:: **Fixed shape**
+        :class: questions
 
         Complete the Explanation by filling in the missing words (processes).
 
@@ -200,7 +209,9 @@ Therefore, the clay changes shape but remains the same substance.
 
 **Melting butter**
 
-    .. admonition:: Tasks
+
+    .. admonition:: **Melting butter**
+        :class: questions
 
         Complete the Explanation by filling in the missing nouns.
 
@@ -240,7 +251,9 @@ Therefore, the clay changes shape but remains the same substance.
 
 **Squashing a sponge**
 
-    .. admonition:: Tasks
+
+    .. admonition:: **Squashing a sponge**
+        :class: questions
 
         Complete the Explanation by filling in the missing adjectives or adverbs (modifiers).
 
@@ -280,7 +293,9 @@ Therefore, the clay changes shape but remains the same substance.
 
 **Wet mirror**
 
-    .. admonition:: Tasks
+
+    .. admonition:: **Wet mirror**
+        :class: questions
 
         Complete the Explanation by filling in the missing text connectives.
 
@@ -320,7 +335,9 @@ Therefore, the clay changes shape but remains the same substance.
 
 **Overnight frost**
 
-    .. admonition:: Tasks
+
+    .. admonition:: **Overnight frost**
+        :class: questions
 
         Complete the Explanation by filling in the missing text connectives.
 
@@ -360,7 +377,9 @@ Therefore, the clay changes shape but remains the same substance.
 
 **Cold to touch**
 
-    .. admonition:: Tasks
+
+    .. admonition:: **Cold to touch**
+        :class: questions
 
         Complete the Explanation by filling in the missing verbs (material processes).
 
@@ -400,7 +419,9 @@ Therefore, the clay changes shape but remains the same substance.
 
 **Clothing in wind**
 
-    .. admonition:: Tasks
+
+    .. admonition:: **Clothing in wind**
+        :class: questions
 
         Complete the Explanation by filling in the missing describers (adjectives/adverbs).
 
@@ -440,7 +461,9 @@ Therefore, the clay changes shape but remains the same substance.
 
 **Disappearing puddle**
 
-    .. admonition:: Tasks
+
+    .. admonition:: **Disappearing puddle**
+        :class: questions
 
         Complete the Explanation by filling in the missing verbs (material processes).
 
@@ -480,7 +503,9 @@ Therefore, the clay changes shape but remains the same substance.
 
 **Shrinking a balloon**
 
-    .. admonition:: Tasks
+
+    .. admonition:: **Shrinking a balloon**
+        :class: questions
 
         Explain the following phenomenon using the PRO structure.
 
@@ -509,7 +534,9 @@ Therefore, the clay changes shape but remains the same substance.
 
 **Sun dried towel**
 
-    .. admonition:: Tasks
+
+    .. admonition:: **Sun dried towel**
+        :class: questions
 
         Explain the following phenomenon using the PRO structure.
 
@@ -532,3 +559,7 @@ Therefore, the clay changes shape but remains the same substance.
 
                     :O:`Outcome (O):`
                     Therefore, the towel becomes dry.
+
+
+
+
