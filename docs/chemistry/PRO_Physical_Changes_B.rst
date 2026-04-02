@@ -46,519 +46,480 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-**Water boiling**
+.. admonition:: Question: Water boiling
+    :class: questions
 
 
-    .. admonition:: **Water boiling**
-        :class: questions
+    Complete the Outcome (O).
 
+    1. Why does water turn into water vapour when it is boiled?
 
-        Complete the Outcome (O).
+        :P:`Premise (P):`
+        When water is boiled, the heat energy allows the liquid particles to move rapidly and break free from the forces holding them together.
 
-        1. Why does water turn into water vapour when it is boiled?
+        :R:`Reasoning (R):`
+        As a result, the particles move farther apart and escape from the surface of the liquid.
 
-            :P:`Premise (P):`
-            When water is boiled, the heat energy allows the liquid particles to move rapidly and break free from the forces holding them together.
+        :O:`Outcome (O):`
+        __________________, the liquid changes __________________ into a gas.
 
-            :R:`Reasoning (R):`
-            As a result, the particles move farther apart and escape from the surface of the liquid.
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
 
-            :O:`Outcome (O):`
-            __________________, the liquid changes __________________ into a gas.
+        .. tab-set::
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
-            :class-container: sd-dropdown-container
+            .. tab-item:: Why does water turn into water vapour when it is boiled?
 
-            .. tab-set::
+                :P:`Premise (P):`
+                When water is boiled, the heat energy allows the liquid particles to move rapidly and break free from the forces holding them together.
 
-                .. tab-item:: Why does water turn into water vapour when it is boiled?
+                :R:`Reasoning (R):`
+                As a result, the particles move farther apart and escape from the surface of the liquid.
 
-                    :P:`Premise (P):`
-                    When water is boiled, the heat energy allows the liquid particles to move rapidly and break free from the forces holding them together.
-
-                    :R:`Reasoning (R):`
-                    As a result, the particles move farther apart and escape from the surface of the liquid.
-
-                    :O:`Outcome (O):`
-                    Therefore, the liquid changes state into a gas.
+                :O:`Outcome (O):`
+                Therefore, the liquid changes state into a gas.
 
 ----
 
-**Stretching a rubber band**
+.. admonition:: Question: Stretching a rubber band
+    :class: questions
 
+    Complete the Reasoning (R).
 
-    .. admonition:: **Stretching a rubber band**
-        :class: questions
+    1. Why does a rubber band stretch when pulled?
 
-        Complete the Reasoning (R).
+        :P:`Premise (P):`
+        When a rubber band is pulled, its long, coiled polymer chains can uncoil.
 
-        1. Why does a rubber band stretch when pulled?
+        :R:`Reasoning (R):`
+        __________________, the force straightens and extends these __________________ without breaking them.
 
-            :P:`Premise (P):`
-            When a rubber band is pulled, its long, coiled polymer chains can uncoil.
+        :O:`Outcome (O):`
+        Therefore, the rubber band becomes longer but remains the same material.
 
-            :R:`Reasoning (R):`
-            __________________, the force straightens and extends these __________________ without breaking them.
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
 
-            :O:`Outcome (O):`
-            Therefore, the rubber band becomes longer but remains the same material.
+        .. tab-set::
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
-            :class-container: sd-dropdown-container
+            .. tab-item:: Why does a rubber band stretch when pulled?
 
-            .. tab-set::
+                :P:`Premise (P):`
+                When a rubber band is pulled, its long, coiled polymer chains can uncoil.
 
-                .. tab-item:: Why does a rubber band stretch when pulled?
+                :R:`Reasoning (R):`
+                As a result, the force straightens and extends these chains without breaking them.
 
-                    :P:`Premise (P):`
-                    When a rubber band is pulled, its long, coiled polymer chains can uncoil.
-
-                    :R:`Reasoning (R):`
-                    As a result, the force straightens and extends these chains without breaking them.
-
-                    :O:`Outcome (O):`
-                    Therefore, the rubber band becomes longer but remains the same material.
+                :O:`Outcome (O):`
+                Therefore, the rubber band becomes longer but remains the same material.
 
 ----
 
-**Snapping chalk**
+.. admonition:: Question: Snapping chalk
+    :class: questions
 
+    Complete the Premise (P).
 
-    .. admonition:: **Snapping chalk**
-        :class: questions
+    1. Why does a piece of chalk break when you bend it?
 
-        Complete the Premise (P).
+        :P:`Premise (P):`
+        _______________ a bending force is applied to __________________, its rigid structure does not allow the __________________ to move.
 
-        3. Why does a piece of chalk break when you bend it?
+        :R:`Reasoning (R):`
+        As a result, the particles separate instead of shifting.
 
-            :P:`Premise (P):`
-            _______________ a bending force is applied to __________________, its rigid structure does not allow the __________________ to move.
+        :O:`Outcome (O):`
+        Therefore, the chalk breaks into smaller pieces without changing its substance.
 
-            :R:`Reasoning (R):`
-            As a result, the particles separate instead of shifting.
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
 
-            :O:`Outcome (O):`
-            Therefore, the chalk breaks into smaller pieces without changing its substance.
+        .. tab-set::
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
-            :class-container: sd-dropdown-container
+            .. tab-item:: Why does a piece of chalk break when you bend it?
 
-            .. tab-set::
+                :P:`Premise (P):`
+                When a bending force is applied to chalk, its rigid structure does not allow the particles to move.
 
-                .. tab-item:: Why does a piece of chalk break when you bend it?
+                :R:`Reasoning (R):`
+                As a result, the particles separate instead of shifting.
 
-                    :P:`Premise (P):`
-                    When a bending force is applied to chalk, its rigid structure does not allow the particles to move.
-
-                    :R:`Reasoning (R):`
-                    As a result, the particles separate instead of shifting.
-
-                    :O:`Outcome (O):`
-                    Therefore, the chalk breaks into smaller pieces without changing its substance.
+                :O:`Outcome (O):`
+                Therefore, the chalk breaks into smaller pieces without changing its substance.
 
 
 ----
 
-**Fixed shape**
+.. admonition:: Question: Fixed shape
+    :class: questions
 
+    Complete the Explanation by filling in the missing words (processes).
 
-    .. admonition:: **Fixed shape**
-        :class: questions
+    **Word list (A → Z):**
+    deform, flow, move, spread
 
-        Complete the Explanation by filling in the missing words (processes).
+    1. Why does a solid keep its shape?
 
-        **Word list (A → Z):**
-        deform, flow, move, spread
+        :P:`Premise (P):`
+        When a material is a solid, its particles are tightly packed and held in fixed positions.
 
-        4. Why does a solid keep its shape?
+        :R:`Reasoning (R):`
+        As a result, the particles cannot __________________ freely, so the solid cannot __________________ or spread out like a liquid or gas.
 
-            :P:`Premise (P):`
-            When a material is a solid, its particles are tightly packed and held in fixed positions.
+        :O:`Outcome (O):`
+        Therefore, a solid keeps its shape unless a force strong enough to __________________ it is applied.
 
-            :R:`Reasoning (R):`
-            As a result, the particles cannot __________________ freely, so the solid cannot __________________ or spread out like a liquid or gas.
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
 
-            :O:`Outcome (O):`
-            Therefore, a solid keeps its shape unless a force strong enough to __________________ it is applied.
+        .. tab-set::
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
-            :class-container: sd-dropdown-container
+            .. tab-item:: Why does a solid keep its shape?
 
-            .. tab-set::
+                :P:`Premise (P):`
+                When a material is a solid, its particles are tightly packed and held in fixed positions.
 
-                .. tab-item:: Why does a solid keep its shape?
+                :R:`Reasoning (R):`
+                As a result, the particles cannot move freely, so the solid cannot flow or spread out like a liquid or gas.
 
-                    :P:`Premise (P):`
-                    When a material is a solid, its particles are tightly packed and held in fixed positions.
-
-                    :R:`Reasoning (R):`
-                    As a result, the particles cannot move freely, so the solid cannot flow or spread out like a liquid or gas.
-
-                    :O:`Outcome (O):`
-                    Therefore, a solid keeps its shape unless a force strong enough to deform it is applied.
+                :O:`Outcome (O):`
+                Therefore, a solid keeps its shape unless a force strong enough to deform it is applied.
 
 ----
 
-**Melting butter**
+.. admonition:: Question: Melting butter
+    :class: questions
 
+    Complete the Explanation by filling in the missing nouns.
 
-    .. admonition:: **Melting butter**
-        :class: questions
+    Word list (A → Z):
+    energy • liquid • particles • positions • solid • state
 
-        Complete the Explanation by filling in the missing nouns.
+    1. Why does butter melt when it is heated?
 
-        **Word list (A → Z):**
-        energy • liquid • particles • positions • solid • state
+        :P:`Premise (P):`
+        When a solid is heated, its __________________ gain kinetic __________________.
 
-        1. Why does butter melt when it is heated?
+        :R:`Reasoning (R):`
+        As a result, the particles vibrate more strongly and begin to loosen from their fixed __________________.
 
-            :P:`Premise (P):`
-            When a solid is heated, its __________________ gain kinetic __________________.
+        :O:`Outcome (O):`
+        Therefore, the __________________ changes __________________ into a __________________.
 
-            :R:`Reasoning (R):`
-            As a result, the particles vibrate more strongly and begin to loosen from their fixed __________________.
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
 
-            :O:`Outcome (O):`
-            Therefore, the __________________ changes __________________ into a __________________.
+        .. tab-set::
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
-            :class-container: sd-dropdown-container
+            .. tab-item:: Why does butter melt when it is heated?
 
-            .. tab-set::
+                :P:`Premise (P):`
+                When a solid is heated, its particles gain kinetic energy.
 
-                .. tab-item:: Why does butter melt when it is heated?
+                :R:`Reasoning (R):`
+                As a result, the particles vibrate more strongly and begin to loosen from their fixed positions.
 
-                    :P:`Premise (P):`
-                    When a solid is heated, its particles gain kinetic energy.
-
-                    :R:`Reasoning (R):`
-                    As a result, the particles vibrate more strongly and begin to loosen from their fixed positions.
-
-                    :O:`Outcome (O):`
-                    Therefore, the solid changes state into a liquid.
+                :O:`Outcome (O):`
+                Therefore, the solid changes state into a liquid.
 
 ----
 
-**Squashing a sponge**
+.. admonition:: Question: Squashing a sponge
+    :class: questions
 
+    Complete the Explanation by filling in the missing adjectives or adverbs (modifiers).
 
-    .. admonition:: **Squashing a sponge**
-        :class: questions
+    **Word list (A → Z):**
+    flexible • high • rigid • soft • strong • tightly
 
-        Complete the Explanation by filling in the missing adjectives or adverbs (modifiers).
+    1. Why does a sponge compress when you squeeze it?
 
-        **Word list (A → Z):**
-        flexible • high • rigid • soft • strong • tightly
+        :P:`Premise (P):`
+        When a sponge is pressed, its particles, which are not __________________ packed, can move easily.
 
-        1. Why does a sponge compress when you squeeze it?
+        :R:`Reasoning (R):`
+        As a result, the particles shift, and the sponge bends because it is __________________.
 
-            :P:`Premise (P):`
-            When a sponge is pressed, its particles, which are not __________________ packed, can move easily.
+        :O:`Outcome (O):`
+        Therefore, the sponge becomes smaller under __________________ pressure.
 
-            :R:`Reasoning (R):`
-            As a result, the particles shift, and the sponge bends because it is __________________.
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
 
-            :O:`Outcome (O):`
-            Therefore, the sponge becomes smaller under __________________ pressure.
+        .. tab-set::
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
-            :class-container: sd-dropdown-container
+            .. tab-item:: Why does a sponge compress when you squeeze it?
 
-            .. tab-set::
+                :P:`Premise (P):`
+                When a sponge is pressed, its particles, which are not tightly packed, can move easily.
 
-                .. tab-item:: Why does a sponge compress when you squeeze it?
+                :R:`Reasoning (R):`
+                As a result, the particles shift, and the sponge bends because it is flexible.
 
-                    :P:`Premise (P):`
-                    When a sponge is pressed, its particles, which are not tightly packed, can move easily.
-
-                    :R:`Reasoning (R):`
-                    As a result, the particles shift, and the sponge bends because it is flexible.
-
-                    :O:`Outcome (O):`
-                    Therefore, the sponge becomes smaller under high pressure.
+                :O:`Outcome (O):`
+                Therefore, the sponge becomes smaller under high pressure.
 
 ----
 
-**Wet mirror**
+.. admonition:: Question: Wet mirror
+    :class: questions
 
+    Complete the Explanation by filling in the missing text connectives.
 
-    .. admonition:: **Wet mirror**
-        :class: questions
+    **Word list (A → Z):**
+    As a result • Therefore • When
 
-        Complete the Explanation by filling in the missing text connectives.
+    1. Why does water form on a bathroom mirror?
 
-        **Word list (A → Z):**
-        As a result • Therefore • When
+        :P:`Premise (P):`
+        __________________ water vapour in the air touches a cooler surface, it loses energy.
 
-        7. Why does water form on a bathroom mirror?
+        :R:`Reasoning (R):`
+        __________________, the particles slow down and change state from gas to liquid.
 
-            :P:`Premise (P):`
-            __________________ water vapour in the air touches a cooler surface, it loses energy.
+        :O:`Outcome (O):`
+        __________________, tiny droplets form on the mirror.
 
-            :R:`Reasoning (R):`
-            __________________, the particles slow down and change state from gas to liquid.
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
 
-            :O:`Outcome (O):`
-            __________________, tiny droplets form on the mirror.
+        .. tab-set::
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
-            :class-container: sd-dropdown-container
+            .. tab-item:: Why does water form on a bathroom mirror?
 
-            .. tab-set::
+                :P:`Premise (P):`
+                When water vapour in the air touches a cooler surface, it loses energy.
 
-                .. tab-item:: Why does water form on a bathroom mirror?
+                :R:`Reasoning (R):`
+                As a result, the particles slow down and change state from gas to liquid.
 
-                    :P:`Premise (P):`
-                    When water vapour in the air touches a cooler surface, it loses energy.
-
-                    :R:`Reasoning (R):`
-                    As a result, the particles slow down and change state from gas to liquid.
-
-                    :O:`Outcome (O):`
-                    Therefore, tiny droplets form on the mirror.
+                :O:`Outcome (O):`
+                Therefore, tiny droplets form on the mirror.
 
 ----
 
-**Overnight frost**
+.. admonition:: Question: Overnight frost
+    :class: questions
 
+    Complete the Explanation by filling in the missing text connectives.
 
-    .. admonition:: **Overnight frost**
-        :class: questions
+    **Word list (A → Z):**
+    As a result • Therefore • When
 
-        Complete the Explanation by filling in the missing text connectives.
+    1. Why does frost form on grass overnight?
 
-        **Word list (A → Z):**
-        As a result • Therefore • When
+        :P:`Premise (P):`
+        __________________ the air temperature drops below freezing, water vapour in the air is ready to change state.
 
-        8. Why does frost form on grass overnight?
+        :R:`Reasoning (R):`
+        __________________, the particles lose energy and change directly into ice crystals.
 
-            :P:`Premise (P):`
-            __________________ the air temperature drops below freezing, water vapour in the air is ready to change state.
+        :O:`Outcome (O):`
+        __________________, frost forms on the grass.
 
-            :R:`Reasoning (R):`
-            __________________, the particles lose energy and change directly into ice crystals.
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
 
-            :O:`Outcome (O):`
-            __________________, frost forms on the grass.
+        .. tab-set::
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
-            :class-container: sd-dropdown-container
+            .. tab-item:: Why does frost form on grass overnight?
 
-            .. tab-set::
+                :P:`Premise (P):`
+                When the air temperature drops below freezing, water vapour in the air is ready to change state.
 
-                .. tab-item:: Why does frost form on grass overnight?
+                :R:`Reasoning (R):`
+                As a result, the particles lose energy and change directly into ice crystals.
 
-                    :P:`Premise (P):`
-                    When the air temperature drops below freezing, water vapour in the air is ready to change state.
-
-                    :R:`Reasoning (R):`
-                    As a result, the particles lose energy and change directly into ice crystals.
-
-                    :O:`Outcome (O):`
-                    Therefore, frost forms on the grass.
+                :O:`Outcome (O):`
+                Therefore, frost forms on the grass.
 
 ----
 
-**Cold to touch**
+.. admonition:: Question: Cold to touch
+    :class: questions
 
+    Complete the Explanation by filling in the missing verbs (material processes).
 
-    .. admonition:: **Cold to touch**
-        :class: questions
+    **Word list (A → Z):**
+    conducts • feels • loses • move • transfers
 
-        Complete the Explanation by filling in the missing verbs (material processes).
+    1. Why does a metal spoon feel cold in winter?
 
-        **Word list (A → Z):**
-        conducts • feels • loses • move • transfers
+        :P:`Premise (P):`
+        When you touch a metal spoon, it __________________ heat quickly, allowing energy to __________________ from your hand into the spoon.
 
-        9. Why does a metal spoon feel cold in winter?
+        :R:`Reasoning (R):`
+        As a result, your hand __________________ warmth as heat __________________ away into the metal.
 
-            :P:`Premise (P):`
-            When you touch a metal spoon, it __________________ heat quickly, allowing energy to __________________ from your hand into the spoon.
+        :O:`Outcome (O):`
+        Therefore, the spoon __________________ cold to touch.
 
-            :R:`Reasoning (R):`
-            As a result, your hand __________________ warmth as heat __________________ away into the metal.
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
 
-            :O:`Outcome (O):`
-            Therefore, the spoon __________________ cold to touch.
+        .. tab-set::
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
-            :class-container: sd-dropdown-container
+            .. tab-item:: Why does a metal spoon feel cold in winter?
 
-            .. tab-set::
+                :P:`Premise (P):`
+                When you touch a metal spoon, it conducts heat quickly, allowing energy to move from your hand into the spoon.
 
-                .. tab-item:: Why does a metal spoon feel cold in winter?
+                :R:`Reasoning (R):`
+                As a result, your hand loses warmth as heat transfers away into the metal.
 
-                    :P:`Premise (P):`
-                    When you touch a metal spoon, it conducts heat quickly, allowing energy to move from your hand into the spoon.
-
-                    :R:`Reasoning (R):`
-                    As a result, your hand loses warmth as heat transfers away into the metal.
-
-                    :O:`Outcome (O):`
-                    Therefore, the spoon feels cold to touch.
+                :O:`Outcome (O):`
+                Therefore, the spoon feels cold to touch.
 
 ----
 
-**Clothing in wind**
+.. admonition:: Question: Clothing in wind
+    :class: questions
 
+    Complete the Explanation by filling in the missing describers (adjectives/adverbs).
 
-    .. admonition:: **Clothing in wind**
-        :class: questions
+    **Word list (A → Z):**
+    faster • moving • moist • more
 
-        Complete the Explanation by filling in the missing describers (adjectives/adverbs).
+    1.  Why does wet clothing dry on a windy day?
 
-        **Word list (A → Z):**
-        faster • moving • moist • more
+        :P:`Premise (P):`
+        When water is exposed to __________________ air, the water vapour is carried away from the surface.
 
-        1.  Why does wet clothing dry on a windy day?
+        :R:`Reasoning (R):`
+        As a result, __________________ liquid water can evaporate because the __________________ air above is removed.
 
-            :P:`Premise (P):`
-            When water is exposed to __________________ air, the water vapour is carried away from the surface.
+        :O:`Outcome (O):`
+        Therefore, the clothing dries __________________.
 
-            :R:`Reasoning (R):`
-            As a result, __________________ liquid water can evaporate because the __________________ air above is removed.
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
 
-            :O:`Outcome (O):`
-            Therefore, the clothing dries __________________.
+        .. tab-set::
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
-            :class-container: sd-dropdown-container
+            .. tab-item:: Why does wet clothing dry on a windy day?
 
-            .. tab-set::
+                :P:`Premise (P):`
+                When water is exposed to moving air, the water vapour is carried away from the surface.
 
-                .. tab-item:: Why does wet clothing dry on a windy day?
+                :R:`Reasoning (R):`
+                As a result, more liquid water can evaporate because the moist air above is removed.
 
-                    :P:`Premise (P):`
-                    When water is exposed to moving air, the water vapour is carried away from the surface.
-
-                    :R:`Reasoning (R):`
-                    As a result, more liquid water can evaporate because the moist air above is removed.
-
-                    :O:`Outcome (O):`
-                    Therefore, the clothing dries faster.
+                :O:`Outcome (O):`
+                Therefore, the clothing dries faster.
 
 ----
 
-**Disappearing puddle**
+.. admonition:: Question: Disappearing puddle
+    :class: questions
 
+    Complete the Explanation by filling in the missing verbs (material processes).
 
-    .. admonition:: **Disappearing puddle**
-        :class: questions
+    **Word list (A → Z):**
+    absorbs • changes • evaporate • gain • rise
 
-        Complete the Explanation by filling in the missing verbs (material processes).
+    1.  Why does a puddle disappear on a sunny day?
 
-        **Word list (A → Z):**
-        absorbs • changes • evaporate • gain • rise
+        :P:`Premise (P):`
+        When a puddle __________________ heat energy from the Sun, its water particles __________________ energy.
 
-        11. Why does a puddle disappear on a sunny day?
+        :R:`Reasoning (R):`
+        As a result, the particles move faster, break free from the liquid, and __________________ into water vapour.
 
-            :P:`Premise (P):`
-            When a puddle __________________ heat energy from the Sun, its water particles __________________ energy.
+        :O:`Outcome (O):`
+        Therefore, the puddle disappears as the liquid __________________ into a gas.
 
-            :R:`Reasoning (R):`
-            As a result, the particles move faster, break free from the liquid, and __________________ into water vapour.
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
 
-            :O:`Outcome (O):`
-            Therefore, the puddle disappears as the liquid __________________ into a gas.
+        .. tab-set::
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
-            :class-container: sd-dropdown-container
+            .. tab-item:: Why does a puddle disappear on a sunny day?
 
-            .. tab-set::
+                :P:`Premise (P):`
+                When a puddle absorbs heat energy from the Sun, its water particles gain energy.
 
-                .. tab-item:: Why does a puddle disappear on a sunny day?
+                :R:`Reasoning (R):`
+                As a result, the particles move faster, break free from the liquid, and evaporate into water vapour.
 
-                    :P:`Premise (P):`
-                    When a puddle absorbs heat energy from the Sun, its water particles gain energy.
-
-                    :R:`Reasoning (R):`
-                    As a result, the particles move faster, break free from the liquid, and evaporate into water vapour.
-
-                    :O:`Outcome (O):`
-                    Therefore, the puddle disappears as the liquid changes into a gas.
+                :O:`Outcome (O):`
+                Therefore, the puddle disappears as the liquid changes into a gas.
 
 ----
 
-**Shrinking a balloon**
+.. admonition:: Question: Shrinking a balloon
+    :class: questions
 
+    Explain the following phenomenon using the PRO structure.
 
-    .. admonition:: **Shrinking a balloon**
-        :class: questions
+    1.  Why does a balloon shrink when placed in the freezer?
 
-        Explain the following phenomenon using the PRO structure.
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
 
-        12. Why does a balloon shrink when placed in the freezer?
+        .. tab-set::
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
-            :class-container: sd-dropdown-container
+            .. tab-item:: Why does a balloon shrink when placed in the freezer?
 
-            .. tab-set::
+                :P:`Premise (P):`
+                When a balloon is placed in a freezer, the air particles inside lose energy due to the cold temperature.
 
-                .. tab-item:: Why does a balloon shrink when placed in the freezer?
+                :R:`Reasoning (R):`
+                As a result, the particles move more slowly and take up less space.
 
-                    :P:`Premise (P):`
-                    When a balloon is placed in a freezer, the air particles inside lose energy due to the cold temperature.
-
-                    :R:`Reasoning (R):`
-                    As a result, the particles move more slowly and take up less space.
-
-                    :O:`Outcome (O):`
-                    Therefore, the balloon becomes smaller in the freezer.
+                :O:`Outcome (O):`
+                Therefore, the balloon becomes smaller in the freezer.
 
 
 ----
 
-**Sun dried towel**
+.. admonition:: Question: Sun dried towel
+    :class: questions
 
+    Explain the following phenomenon using the PRO structure.
 
-    .. admonition:: **Sun dried towel**
-        :class: questions
+    1.  Why does a wet towel dry when left in the sun?
 
-        Explain the following phenomenon using the PRO structure.
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
 
-        13. Why does a wet towel dry when left in the sun?
+        .. tab-set::
 
-        .. dropdown::
-            :icon: codescan
-            :color: primary
-            :class-container: sd-dropdown-container
+            .. tab-item:: Why does a wet towel dry when left in the sun?
 
-            .. tab-set::
+                :P:`Premise (P):`
+                When a wet towel is left in the Sun, the water particles gain energy from the heat.
 
-                .. tab-item:: Why does a wet towel dry when left in the sun?
+                :R:`Reasoning (R):`
+                As a result, the particles move faster and escape into the air as water vapour.
 
-                    :P:`Premise (P):`
-                    When a wet towel is left in the Sun, the water particles gain energy from the heat.
-
-                    :R:`Reasoning (R):`
-                    As a result, the particles move faster and escape into the air as water vapour.
-
-                    :O:`Outcome (O):`
-                    Therefore, the towel becomes dry.
+                :O:`Outcome (O):`
+                Therefore, the towel becomes dry.
 
 
 

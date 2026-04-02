@@ -12,7 +12,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 
 
-.. admonition:: Water Boiling
+.. admonition:: Question: Water Boiling
     :class: questions
 
     Explain why water turns into water vapour when boiled.
@@ -48,7 +48,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 
 
-.. admonition:: Ice Melting
+.. admonition:: Question: Ice Melting
     :class: questions
 
     Explain why ice melts when heated.
@@ -84,7 +84,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 
 
-.. admonition:: Balloon Shrinking in the Freezer
+.. admonition:: Question: Balloon Shrinking in the Freezer
     :class: questions
 
     Explain why a balloon shrinks when placed in the freezer.
@@ -120,7 +120,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 
 
-.. admonition:: Rubber Band Stretching
+.. admonition:: Question: Rubber Band Stretching
     :class: questions
 
     Explain why a rubber band stretches when pulled.
@@ -156,7 +156,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 
 
-.. admonition:: Modelling Clay
+.. admonition:: Question: Modelling Clay
     :class: questions
 
     Explain why modelling clay changes shape when pressed.
