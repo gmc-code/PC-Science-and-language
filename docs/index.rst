@@ -50,6 +50,13 @@ PC-Science-and-language
     pracs/improvements_measurement.rst
 
 
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪 Prac Accuracy and Precision
+    :numbered:
+
+    pracs/accuracy_and_precision.rst
+
 
 .. toctree::
     :maxdepth: 2
