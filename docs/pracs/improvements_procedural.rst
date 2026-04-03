@@ -6,8 +6,7 @@ Improvements are specific strategies to minimise the impact of errors.
 
 ----
 
-Improvements: Procedural Errors
------------------------------------------
+.. rubric:: Improvements: Procedural Errors
 
 **Personal errors** occur when the researcher makes a mistake in carrying out the procedure
 

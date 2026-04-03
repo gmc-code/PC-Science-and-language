@@ -6,8 +6,7 @@ Improvements are specific strategies to minimise the impact of errors.
 
 ----
 
-Improvements: Equipment Errors
------------------------------------
+.. rubric:: Improvements: Equipment Errors
 
 **Instrument errors** occur when a piece of equipment is faulty or not set up correctly
 
