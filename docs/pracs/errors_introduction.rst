@@ -4,6 +4,49 @@ Errors in Scientific Experiments
 
 Errors in scientific experiments can be grouped into three main categories:
 
+.. list-table:: Types of Errors
+   :header-rows: 1
+   :widths: 25 75
+
+   * - Error Type
+     - Meaning
+
+   * - **Equipment errors**
+     - Problems caused by the instrument itself or how it is set up
+
+   * - Instrument error
+     - Occurs when a piece of equipment is faulty or not set up correctly
+
+   * - Reading error
+     - Occurs when the measuring instrument does not have a fine enough scale to take an accurate reading
+
+   * - Zero error
+     - Occurs when an instrument is not reset to zero before a measurement is taken
+
+   * - **Procedural errors**
+     - Mistakes made by the researcher
+
+   * - Personal error
+     - Occurs when the researcher makes a mistake in carrying out the procedure
+
+   * - Parallax error
+     - Occurs when a scale or measurement tool is read from an inconsistent eye level or angle
+
+   * - Human error
+     - Occurs when the researcher makes a mistake in recording or interpreting data
+
+   * - **Measurement errors**
+     - Unpredictable or consistent variations in the measurement process
+
+   * - Random error
+     - Occurs when there are unpredictable variations in the measurement process
+
+   * - Systematic error
+     - Occurs when there is a consistent bias in the measurement process
+
+----
+
+
 **Equipment errors** — problems caused by the instrument itself or how it is set up:
 
 - instrument error
