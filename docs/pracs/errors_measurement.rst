@@ -62,7 +62,7 @@ Types of Measurement errors
 
 ----
 
-... admonition:: Multiple-Choice Questions
+.. admonition:: Multiple-Choice Questions
     :class: questions
 
     Choose the best answer for each question.
