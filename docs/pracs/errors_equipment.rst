@@ -11,8 +11,6 @@ Types of Equipment errors
 
 **Instrument errors** occur when a piece of equipment is faulty or not set up correctly
 
-**Examples**
-
 - A retort stand that is not securely clamped to the bench
 - A thermometer with a cracked bulb giving unstable readings
 - A voltmeter with loose internal wiring producing inconsistent values
@@ -26,8 +24,6 @@ Types of Equipment errors
 
 **Reading errors** occur when the measuring instrument does not have a fine enough scale to take an accurate reading
 
-**Examples**
-
 - A paper protractor marked only in 10° increments when a 45° angle needs to be measured
 - A ruler marked only in centimetres when millimetre precision is required
 - A measuring cylinder with wide graduation marks making small volume changes hard to detect
@@ -37,8 +33,6 @@ Types of Equipment errors
 - A pH strip with colour blocks too similar to distinguish small pH differences
 
 **Zero errors** occur when an instrument is not reset to zero before a measurement is taken
-
-**Examples**
 
 - A stopwatch that is not cleared between trials
 - A spring balance whose pointer sits below zero due to overstretching
