@@ -9,20 +9,18 @@ Measurement errors are unpredictable or consistent variations in the measurement
 Types of Measurement errors
 -------------------------------
 
-**Random error**
+**Random errors** occur when there are unpredictable variations in the measurement process
 
-- occurs when there are unpredictable variations in the measurement process
-- example: fluctuations in room temperature affecting results
-- example: small changes in electrical supply causing inconsistent readings on a digital meter
-- example: tiny air currents affecting the movement of a balance pan
+- Fluctuations in room temperature affecting results
+- Small changes in electrical supply causing inconsistent readings on a digital meter
+- Tiny air currents affecting the movement of a balance pan
 
-**Systematic error**
+**Systematic errors** occur when there is a consistent bias in the measurement process
 
-- occurs when there is a consistent bias in the measurement process
-- example: a scale that always reads 5 grams too high
-- example: a thermometer that consistently reads 2°C lower than the actual temperature
-- example: a ruler with a worn or chipped end that shortens every measurement
-- example: a pH probe that has not been calibrated and always reads slightly acidic
+- A scale that always reads 5 grams too high
+- A thermometer that consistently reads 2°C lower than the actual temperature
+- A ruler with a worn or chipped end that shortens every measurement
+- A pH probe that has not been calibrated and always reads slightly acidic
 
 ----
 

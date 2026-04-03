@@ -16,28 +16,25 @@ Procedural errors are mistakes made by the researcher during the experimental pr
 Types of Procedural errors
 ---------------------------------
 
-**Personal error**
+**Personal errors** occur when the researcher makes a mistake in carrying out the procedure
 
-- occurs when the researcher makes a mistake in carrying out the procedure
-- example: using incorrect masses, so a variable is not properly controlled
-- example: heating a sample for too long because the timer was not started
-- example: placing equipment in the wrong position during setup
+- Using incorrect masses, so a variable is not properly controlled
+- Heating a sample for too long because the timer was not started
+- Placing equipment in the wrong position during setup
 
-**Parallax error**
+**Parallax errors** occur when a scale or measurement tool is read from an inconsistent eye level or angle
 
-- occurs when a scale or measurement tool is read from an inconsistent eye level or angle
-- example: reading a protractor from different positions each time
-- example: reading the meniscus of a measuring cylinder from above rather than at eye level
-- example: viewing a thermometer from the side instead of straight on
-- example: checking a balance display from an angle rather than directly in front
+- Reading a protractor from different positions each time
+- Reading the meniscus of a measuring cylinder from above rather than at eye level
+- Viewing a thermometer from the side instead of straight on
+- Checking a balance display from an angle rather than directly in front
 
-**Human error**
+**Human errors** occur when the researcher makes a mistake in recording or interpreting data
 
-- occurs when the researcher makes a mistake in recording or interpreting data
-- example: misreading a measurement or incorrectly calculating an average
-- example: writing down a value in the wrong row of a results table
-- example: typing an incorrect number into a spreadsheet during data entry
-- example: adding or subtracting incorrectly when processing results
+- Misreading a measurement or incorrectly calculating an average
+- Writing down a value in the wrong row of a results table
+- Typing an incorrect number into a spreadsheet during data entry
+- Adding or subtracting incorrectly when processing results
 
 ----
 
