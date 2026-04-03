@@ -2,11 +2,12 @@
 Procedural errors
 ================================================
 
+Procedural errors are mistakes made by the researcher during the experimental procedure.
+
+----
 
 Types of Procedural errors
 ---------------------------------
-
-* mistakes made by the researcher
 
 **Personal error**
 

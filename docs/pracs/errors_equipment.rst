@@ -2,10 +2,12 @@
 Equipment errors
 ================================================
 
+Equipment errors are caused by the instrument itself or how it is set up
+
+----
+
 Types of Equipment errors
 -------------------------------
-
-* problems caused by the instrument itself or how it is set up
 
 **Instrument error**
 

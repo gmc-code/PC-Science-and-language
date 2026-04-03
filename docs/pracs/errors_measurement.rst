@@ -2,10 +2,12 @@
 Measurement errors
 ================================================
 
+Measurement errors are unpredictable or consistent variations in the measurement process.
+
+----
+
 Types of Measurement errors
 -------------------------------
-
-* unpredictable or consistent variations in the measurement process
 
 **Random error**
 
