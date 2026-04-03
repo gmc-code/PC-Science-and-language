@@ -39,7 +39,15 @@ PC-Science-and-language
     pracs/errors_equipment.rst
     pracs/errors_procedural.rst
     pracs/errors_measurement.rst
-    pracs/errors_improvements.rst
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪 Prac Improvements
+    :numbered:
+
+    pracs/improvements_equipment.rst
+    pracs/improvements_procedural.rst
+    pracs/improvements_measurement.rst
 
 
 

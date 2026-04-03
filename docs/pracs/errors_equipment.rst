@@ -34,7 +34,7 @@ Types of Equipment errors
 
 **Zero errors** occur when an instrument is not reset to zero before a measurement is taken
 
-- A stopwatch that is not cleared between trials
+- A stopwatch that is not zeroed between trials
 - A spring balance whose pointer sits below zero due to overstretching
 - A digital scale that shows 0.3 g even when nothing is on the platform
 - A voltmeter that displays a small voltage reading before the circuit is connected
