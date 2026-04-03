@@ -128,10 +128,10 @@ Errors in scientific experiments can be grouped into three main categories:
 
     1. What is the main feature of an **instrument error**?
 
-        | a. The instrument is faulty or incorrectly set up
+        | a. The instrument has a very fine scale
         | b. The researcher misreads the scale once
         | c. The measurement varies unpredictably
-        | d. The instrument has a very fine scale
+        | d. The instrument is faulty or incorrectly set up
 
     2. What defines a **reading error**?
 
@@ -170,8 +170,8 @@ Errors in scientific experiments can be grouped into three main categories:
 
             .. tab-item:: Answers
 
-                1. a — The instrument is faulty or incorrectly set up
+                1. d — The instrument is faulty or incorrectly set up
                 2. b — The scale is too coarse to give an accurate reading
-                3. a — The instrument is not calibrated to begin at zero
-                4. a — A mistake made by the researcher during the procedure
+                3. c — The instrument is not calibrated to begin at zero
+                4. d — A mistake made by the researcher during the procedure
                 5. a — It introduces a consistent bias into all measurements
