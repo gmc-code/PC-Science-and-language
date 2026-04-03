@@ -55,15 +55,15 @@ Types of Equipment errors
     **Word list (A → Z):**
     adjust • check • reset • secure • select
 
-    1. Before taking a measurement, researchers must __________ the instrument to ensure it is set up correctly.
+    1. Before taking a measurement, researchers must _______________ the instrument to ensure it is set up correctly.
 
-    2. A faulty or loose piece of equipment should be __________ so it does not affect the results.
+    2. A faulty or loose piece of equipment should be _______________ so it does not affect the results.
 
-    3. When choosing a tool, scientists must __________ one with a scale fine enough for accurate readings.
+    3. When choosing a tool, scientists must _______________ one with a scale fine enough for accurate readings.
 
-    4. Instruments must be __________ to zero before each measurement is taken.
+    4. Instruments must be _______________ to zero before each measurement is taken.
 
-    5. If a reading seems unusual, researchers should __________ whether the equipment is functioning properly.
+    5. If a reading seems unusual, researchers should _______________ whether the equipment is functioning properly.
 
 
     .. dropdown::
@@ -75,11 +75,11 @@ Types of Equipment errors
 
             .. tab-item:: Answers
 
-                1. check
+                1. adjust
                 2. secured
                 3. select
                 4. reset
-                5. adjust
+                5. check
 
 ----
 

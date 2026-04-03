@@ -49,15 +49,15 @@ Types of Procedural errors
     **Word list (A → Z):**
     calculate • control • read • record • repeat
 
-    1. To avoid personal error, researchers must __________ variables carefully during the procedure.
+    1. To avoid personal error, researchers must _______________ variables carefully during the procedure.
 
-    2. To prevent parallax error, scientists should __________ scales at eye level each time.
+    2. To prevent parallax error, scientists should _______________ scales at eye level each time.
 
-    3. To reduce human error, researchers must __________ data accurately as it is collected.
+    3. To reduce human error, researchers must _______________ data accurately as it is collected.
 
-    4. When unsure about a measurement, scientists should __________ the reading to check for consistency.
+    4. When unsure about a measurement, scientists should _______________ the reading to check for consistency.
 
-    5. Incorrect averages can be avoided when researchers __________ values correctly.
+    5. Incorrect averages can be avoided when researchers _______________ values correctly.
 
 
     .. dropdown::

@@ -34,15 +34,15 @@ Types of Measurement errors
     **Word list (A → Z):**
     identify • minimise • repeat • reset • stabilise
 
-    1. To reduce random error, researchers should __________ measurements and look for patterns.
+    1. To reduce random error, researchers should _______________ measurements and look for patterns.
 
-    2. Scientists must __________ conditions such as temperature to avoid unpredictable fluctuations.
+    2. Scientists must _______________ conditions such as temperature to avoid unpredictable fluctuations.
 
-    3. To prevent systematic error, researchers should __________ instruments that drift away from zero.
+    3. To prevent systematic error, researchers should _______________ instruments that drift away from zero.
 
-    4. When a consistent bias is suspected, researchers must __________ the source of the problem.
+    4. When a consistent bias is suspected, researchers must _______________ the source of the problem.
 
-    5. Good experimental design aims to __________ the impact of both random and systematic errors.
+    5. Good experimental design aims to _______________ the impact of both random and systematic errors.
 
 
     .. dropdown::
