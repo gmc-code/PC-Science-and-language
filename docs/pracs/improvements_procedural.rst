@@ -6,7 +6,7 @@ Improvements are specific strategies to minimise the impact of errors.
 
 ----
 
-Improvements for Procedural errors
+Improvements: Procedural Errors
 -----------------------------------------
 
 **Personal errors** occur when the researcher makes a mistake in carrying out the procedure

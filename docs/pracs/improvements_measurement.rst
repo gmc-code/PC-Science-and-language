@@ -6,7 +6,7 @@ Improvements are specific strategies to minimise the impact of errors.
 
 ----
 
-Improvements for Measurement errors
+Improvements: Measurement Errors
 ---------------------------------------
 
 **Random errors** occur when there are unpredictable variations in the measurement process
