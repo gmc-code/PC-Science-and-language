@@ -9,20 +9,35 @@ Procedural errors are mistakes made by the researcher during the experimental pr
 Types of Procedural errors
 ---------------------------------
 
+Procedural errors are mistakes made by the researcher during the experimental procedure.
+
+----
+
+Types of Procedural errors
+---------------------------------
+
 **Personal error**
 
 - occurs when the researcher makes a mistake in carrying out the procedure
 - example: using incorrect masses, so a variable is not properly controlled
+- example: heating a sample for too long because the timer was not started
+- example: placing equipment in the wrong position during setup
 
 **Parallax error**
 
 - occurs when a scale or measurement tool is read from an inconsistent eye level or angle
 - example: reading a protractor from different positions each time
+- example: reading the meniscus of a measuring cylinder from above rather than at eye level
+- example: viewing a thermometer from the side instead of straight on
+- example: checking a balance display from an angle rather than directly in front
 
 **Human error**
 
 - occurs when the researcher makes a mistake in recording or interpreting data
 - example: misreading a measurement or incorrectly calculating an average
+- example: writing down a value in the wrong row of a results table
+- example: typing an incorrect number into a spreadsheet during data entry
+- example: adding or subtracting incorrectly when processing results
 
 ----
 

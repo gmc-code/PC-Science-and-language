@@ -13,16 +13,38 @@ Types of Equipment errors
 
 - occurs when a piece of equipment is faulty or not set up correctly
 - example: a retort stand that is not securely clamped to the bench
+- example: a thermometer with a cracked bulb giving unstable readings
+- example: a voltmeter with loose internal wiring producing inconsistent values
+- example: a stopwatch with a sticky start button delaying the timing
+- example: a measuring tape with stretched sections giving inaccurate lengths
+- example: a gas syringe with a worn plunger causing leaks during measurement
+- example: a microscope with a misaligned lens producing distorted images
+- example: a hot plate with a faulty thermostat causing temperature overshoot
+- example: a digital scale with a low battery causing fluctuating mass readings
+- example: a Bunsen burner with a clogged air hole producing an unstable flame
+- example: a water bath with a faulty heater causing temperature fluctuations during incubation
+
 
 **Reading error**
 
 - occurs when the measuring instrument does not have a fine enough scale to take an accurate reading
 - example: a paper protractor marked only in 10° increments when a 45° angle needs to be measured
+- example: a ruler marked only in centimetres when millimetre precision is required
+- example: a measuring cylinder with wide graduation marks making small volume changes hard to detect
+- example: a spring balance with thick pointer lines that obscure the exact reading
+- example: a kitchen scale that displays mass only in whole grams when tenths of a gram are needed
+- example: a thermometer marked only every 5°C, preventing temperature readings to the nearest degree
+- example: a pH strip with colour blocks too similar to distinguish small pH differences
+
 
 **Zero error**
 
 - occurs when an instrument is not reset to zero before a measurement is taken
 - example: a stopwatch that is not cleared between trials
+- example: a spring balance whose pointer sits below zero due to overstretching
+- example: a pH meter that was not recalibrated to neutral (pH 7) before testing
+- example: a digital scale that shows 0.3 g even when nothing is on the platform
+- example: a voltmeter that displays a small voltage reading before the circuit is connected
 
 ----
 
