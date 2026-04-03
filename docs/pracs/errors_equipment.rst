@@ -5,19 +5,22 @@ Equipment errors
 Types of Equipment errors
 -------------------------------
 
-— problems caused by the instrument itself or how it is set up
+* problems caused by the instrument itself or how it is set up
 
 **Instrument error**
-| occurs when a piece of equipment is faulty or not set up correctly
-| example: a retort stand that is not securely clamped to the bench
+
+- occurs when a piece of equipment is faulty or not set up correctly
+- example: a retort stand that is not securely clamped to the bench
 
 **Reading error**
-| occurs when the measuring instrument does not have a fine enough scale to take an accurate reading
-| example: a paper protractor marked only in 10° increments when a 45° angle needs to be measured
+
+- occurs when the measuring instrument does not have a fine enough scale to take an accurate reading
+- example: a paper protractor marked only in 10° increments when a 45° angle needs to be measured
 
 **Zero error**
-| occurs when an instrument is not reset to zero before a measurement is taken
-| example: a stopwatch that is not cleared between trials
+
+- occurs when an instrument is not reset to zero before a measurement is taken
+- example: a stopwatch that is not cleared between trials
 
 ----
 

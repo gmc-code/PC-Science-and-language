@@ -32,7 +32,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🧪 Prac Ethics
+    :caption: 🧪 Prac Errors
     :numbered:
 
     pracs/errors_introduction.rst

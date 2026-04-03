@@ -6,19 +6,22 @@ Procedural errors
 Types of Procedural errors
 ---------------------------------
 
-— mistakes made by the researcher
+* mistakes made by the researcher
 
 **Personal error**
-| occurs when the researcher makes a mistake in carrying out the procedure
-| example: using incorrect masses, so a variable is not properly controlled
+
+- occurs when the researcher makes a mistake in carrying out the procedure
+- example: using incorrect masses, so a variable is not properly controlled
 
 **Parallax error**
-| occurs when a scale or measurement tool is read from an inconsistent eye level or angle
-| example: reading a protractor from different positions each time
+
+- occurs when a scale or measurement tool is read from an inconsistent eye level or angle
+- example: reading a protractor from different positions each time
 
 **Human error**
-| occurs when the researcher makes a mistake in recording or interpreting data
-| example: misreading a measurement or incorrectly calculating an average
+
+- occurs when the researcher makes a mistake in recording or interpreting data
+- example: misreading a measurement or incorrectly calculating an average
 
 ----
 

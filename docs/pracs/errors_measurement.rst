@@ -5,15 +5,17 @@ Measurement errors
 Types of Measurement errors
 -------------------------------
 
-— unpredictable or consistent variations in the measurement process
+* unpredictable or consistent variations in the measurement process
 
 **Random error**
-| occurs when there are unpredictable variations in the measurement process
-| example: fluctuations in room temperature affecting results
+
+- occurs when there are unpredictable variations in the measurement process
+- example: fluctuations in room temperature affecting results
 
 **Systematic error**
-| occurs when there is a consistent bias in the measurement process
-| example: a scale that always reads 5 grams too high
+
+- occurs when there is a consistent bias in the measurement process
+- example: a scale that always reads 5 grams too high
 
 ----
 
