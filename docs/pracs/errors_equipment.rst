@@ -17,7 +17,6 @@ Types of Equipment errors
 - example: a voltmeter with loose internal wiring producing inconsistent values
 - example: a stopwatch with a sticky start button delaying the timing
 - example: a measuring tape with stretched sections giving inaccurate lengths
-- example: a gas syringe with a worn plunger causing leaks during measurement
 - example: a microscope with a misaligned lens producing distorted images
 - example: a hot plate with a faulty thermostat causing temperature overshoot
 - example: a digital scale with a low battery causing fluctuating mass readings
@@ -42,9 +41,9 @@ Types of Equipment errors
 - occurs when an instrument is not reset to zero before a measurement is taken
 - example: a stopwatch that is not cleared between trials
 - example: a spring balance whose pointer sits below zero due to overstretching
-- example: a pH meter that was not recalibrated to neutral (pH 7) before testing
 - example: a digital scale that shows 0.3 g even when nothing is on the platform
 - example: a voltmeter that displays a small voltage reading before the circuit is connected
+- example: a pH meter that was not recalibrated to neutral (pH 7) before testing
 
 ----
 
