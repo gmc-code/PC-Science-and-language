@@ -1,30 +1,9 @@
 ================================================
-Errors in Scientific Experiments
+Equipment errors
 ================================================
 
-Errors in scientific experiments can be grouped into three main categories:
-
-**Equipment errors** — problems caused by the instrument itself or how it is set up:
-
-| instrument error
-| zero error
-| reading error
-
-**Procedural errors** — mistakes made by the researcher:
-
-| personal error
-| parallax error
-| human error
-
-**Measurement errors** — unpredictable or consistent variations in the measurement process:
-
-| random error
-| systematic error
-
-----
-
-**Equipment errors**
----------------------------
+Types of Equipment errors
+-------------------------------
 
 — problems caused by the instrument itself or how it is set up
 
@@ -42,34 +21,94 @@ Errors in scientific experiments can be grouped into three main categories:
 
 ----
 
-**Procedural errors**
-----------------------
+.. admonition:: Cloze Questions
+    :class: questions
 
-— mistakes made by the researcher
+    Complete the following by filling in the missing words.
 
-**Personal error**
-| occurs when the researcher makes a mistake in carrying out the procedure
-| example: using incorrect masses, so a variable is not properly controlled
+    **Word list (A → Z):**
+    adjust • check • reset • secure • select
 
-**Parallax error**
-| occurs when a scale or measurement tool is read from an inconsistent eye level or angle
-| example: reading a protractor from different positions each time
+    1. Before taking a measurement, researchers must __________ the instrument to ensure it is set up correctly.
 
-**Human error**
-| occurs when the researcher makes a mistake in recording or interpreting data
-| example: misreading a measurement or incorrectly calculating an average
+    2. A faulty or loose piece of equipment should be __________ so it does not affect the results.
+
+    3. When choosing a tool, scientists must __________ one with a scale fine enough for accurate readings.
+
+    4. Instruments must be __________ to zero before each measurement is taken.
+
+    5. If a reading seems unusual, researchers should __________ whether the equipment is functioning properly.
+
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Answers
+
+                1. check
+                2. secured
+                3. select
+                4. reset
+                5. adjust
 
 ----
 
-**Measurement errors**
---------------------------
+.. admonition:: Multiple-Choice Questions
+    :class: questions
 
-— unpredictable or consistent variations in the measurement process
+    Choose the best answer for each question.
 
-**Random error**
-| occurs when there are unpredictable variations in the measurement process
-| example: fluctuations in room temperature affecting results
+    1. What is an example of an **instrument error**?
 
-**Systematic error**
-| occurs when there is a consistent bias in the measurement process
-| example: a scale that always reads 5 grams too high
+        | a. A retort stand that is not securely clamped
+        | b. A student misreading the scale
+        | c. A stopwatch that is reset correctly
+        | d. A ruler with millimetre markings
+
+    2. What causes a **reading error**?
+
+        | a. The user forgets to record the measurement
+        | b. The sample size is too small
+        | c. The instrument is perfectly calibrated
+        | d. The instrument has a scale that is too coarse
+
+    3. What is the best example of a **zero error**?
+
+        | a. A stopwatch that was not zeroed between trials
+        | b. A thermometer stored in sunlight
+        | c. A ruler placed flat on the bench
+        | d. A measuring cylinder with a fine scale
+
+    4. How can a reading error be reduced?
+
+        | a. Taking only one measurement
+        | b. Tightening clamps on the retort stand
+        | c. Choosing an instrument with finer scale markings
+        | d. Ignoring small differences in measurements
+
+    5. Which action helps prevent instrument error?
+
+        | a. Recording results in a table
+        | b. Checking that equipment is set up correctly before use
+        | c. Taking measurements quickly to save time
+        | d. Using the same instrument for every experiment
+
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Answers
+
+                1. a — A retort stand that is not securely clamped
+                2. d — The instrument has a scale that is too coarse
+                3. a — A stopwatch that was not zeroed between trials
+                4. c — Choosing an instrument with finer scale markings
+                5. b — Checking that equipment is set up correctly before use

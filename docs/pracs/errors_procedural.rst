@@ -1,49 +1,10 @@
 ================================================
-Errors in Scientific Experiments
+Procedural errors
 ================================================
 
-Errors in scientific experiments can be grouped into three main categories:
 
-**Equipment errors** — problems caused by the instrument itself or how it is set up:
-
-| instrument error
-| zero error
-| reading error
-
-**Procedural errors** — mistakes made by the researcher:
-
-| personal error
-| parallax error
-| human error
-
-**Measurement errors** — unpredictable or consistent variations in the measurement process:
-
-| random error
-| systematic error
-
-----
-
-**Equipment errors**
----------------------------
-
-— problems caused by the instrument itself or how it is set up
-
-**Instrument error**
-| occurs when a piece of equipment is faulty or not set up correctly
-| example: a retort stand that is not securely clamped to the bench
-
-**Reading error**
-| occurs when the measuring instrument does not have a fine enough scale to take an accurate reading
-| example: a paper protractor marked only in 10° increments when a 45° angle needs to be measured
-
-**Zero error**
-| occurs when an instrument is not reset to zero before a measurement is taken
-| example: a stopwatch that is not cleared between trials
-
-----
-
-**Procedural errors**
-----------------------
+Types of Procedural errors
+---------------------------------
 
 — mistakes made by the researcher
 
@@ -61,15 +22,94 @@ Errors in scientific experiments can be grouped into three main categories:
 
 ----
 
-**Measurement errors**
---------------------------
+.. admonition:: Cloze Questions
+    :class: questions
 
-— unpredictable or consistent variations in the measurement process
+    Complete the following by filling in the missing verbs.
 
-**Random error**
-| occurs when there are unpredictable variations in the measurement process
-| example: fluctuations in room temperature affecting results
+    **Word list (A → Z):**
+    calculate • control • read • record • repeat
 
-**Systematic error**
-| occurs when there is a consistent bias in the measurement process
-| example: a scale that always reads 5 grams too high
+    1. To avoid personal error, researchers must __________ variables carefully during the procedure.
+
+    2. To prevent parallax error, scientists should __________ scales at eye level each time.
+
+    3. To reduce human error, researchers must __________ data accurately as it is collected.
+
+    4. When unsure about a measurement, scientists should __________ the reading to check for consistency.
+
+    5. Incorrect averages can be avoided when researchers __________ values correctly.
+
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Answers
+
+                1. control
+                2. read
+                3. record
+                4. repeat
+                5. calculate
+
+----
+
+.. admonition:: Multiple-Choice Questions
+    :class: questions
+
+    Choose the best answer for each question.
+
+    1. What is an example of a **personal error**?
+
+       | a. Using incorrect masses so a variable is not properly controlled
+       | b. Reading a scale from above eye level
+       | c. Recording a number in the wrong column
+       | d. Miscalculating an average
+
+    2. What causes a **parallax error**?
+
+       | a. Calculating an average incorrectly
+       | b. Forgetting to record a measurement
+       | c. Using the wrong equipment for the task
+       | d. Reading a measurement tool from an inconsistent angle
+
+    3. Which situation best illustrates a **human error**?
+
+       | a. A scale that always reads 5 grams too high
+       | b. A sudden gust of wind affecting a balance
+       | c. A thermometer that is cracked
+       | d. A student misreads a measurement or writes it down incorrectly
+
+    4. How can a researcher reduce **parallax error**?
+
+       | a. Ignoring small differences in readings
+       | b. Taking only one measurement
+       | c. Reading the scale at eye level each time
+       | d. Using a coarse-scaled instrument
+
+    5. Which action helps prevent **personal error**?
+
+       | a. Resetting the instrument to zero
+       | b. Controlling variables carefully during the procedure
+       | c. Using a digital instrument instead of an analogue one
+       | d. Comparing results with a known standard
+
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Answers
+
+                1. a — Using incorrect masses so a variable is not properly controlled
+                2. d — Reading a measurement tool from an inconsistent angle
+                3. d — A student misreads a measurement or writes it down incorrectly
+                4. b — Reading the scale at eye level each time
+                5. c — Controlling variables carefully during the procedure
