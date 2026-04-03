@@ -29,11 +29,16 @@ PC-Science-and-language
     pracs/ethics_avoidance_of_harm.rst
     pracs/ethics_doing_good.rst
 
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪 Prac Ethics
+    :numbered:
+
     pracs/errors_introduction.rst
     pracs/errors_equipment.rst
     pracs/errors_measurement.rst
     pracs/errors_procedural.rst
-
 
 
 
