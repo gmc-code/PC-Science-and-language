@@ -39,7 +39,7 @@ PC-Science-and-language
     pracs/errors_equipment.rst
     pracs/errors_procedural.rst
     pracs/errors_measurement.rst
-
+    pracs/errors_improvements.rst
 
 
 
