@@ -1,5 +1,5 @@
 ==================================================
-Ethics: General Principles of Scientific Research
+Ethics: General Principles
 ==================================================
 
 Ethical scientific research requires scientists to act responsibly, minimise harm, treat others fairly, and report their work truthfully.
