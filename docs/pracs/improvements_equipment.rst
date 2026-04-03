@@ -38,7 +38,7 @@ Improvements are specific strategies to minimise the impact of errors.
 
 ----
 
-.. admonition:: Multiple-Choice Questions — Set 1: Instrument Errors
+.. admonition:: Multiple-Choice Questions — Set 1: Improvements forInstrument Errors
     :class: questions
 
     Choose the best answer for each question.
@@ -95,7 +95,7 @@ Improvements are specific strategies to minimise the impact of errors.
 
 ----
 
-.. admonition:: Multiple-Choice Questions — Set 2: Reading Errors
+.. admonition:: Multiple-Choice Questions — Set 2: Improvements for Reading Errors
     :class: questions
 
     Choose the best answer for each question.
@@ -152,7 +152,7 @@ Improvements are specific strategies to minimise the impact of errors.
 
 ----
 
-.. admonition:: Multiple-Choice Questions — Set 3: Zero Errors
+.. admonition:: Multiple-Choice Questions — Set 3: Improvements for Zero Errors
     :class: questions
 
     Choose the best answer for each question.

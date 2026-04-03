@@ -24,7 +24,7 @@ Improvements are specific strategies to minimise the impact of errors.
 
 ----
 
-.. admonition:: Multiple-Choice Questions — Set 1
+.. admonition:: Multiple-Choice Questions — Set 1: Improvements for Random Errors
     :class: questions
 
     Choose the best answer for each question.
@@ -81,7 +81,7 @@ Improvements are specific strategies to minimise the impact of errors.
 
 ----
 
-.. admonition:: Multiple-Choice Questions — Set 2
+.. admonition:: Multiple-Choice Questions — Set 2: Improvements for Systematic Errors
     :class: questions
 
     Choose the best answer for each question.

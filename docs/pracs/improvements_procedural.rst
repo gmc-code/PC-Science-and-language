@@ -31,7 +31,7 @@ Improvements are specific strategies to minimise the impact of errors.
 
 ----
 
-.. admonition:: Multiple-Choice Questions — Set 1: Personal Errors
+.. admonition:: Multiple-Choice Questions — Set 1: Improvements for Personal Errors
     :class: questions
 
     Choose the best answer for each question.
@@ -88,7 +88,7 @@ Improvements are specific strategies to minimise the impact of errors.
 
 ----
 
-.. admonition:: Multiple-Choice Questions — Set 2: Parallax Errors
+.. admonition:: Multiple-Choice Questions — Set 2: Improvements for Parallax Errors
     :class: questions
 
     Choose the best answer for each question.
@@ -145,7 +145,7 @@ Improvements are specific strategies to minimise the impact of errors.
 
 ----
 
-.. admonition:: Multiple-Choice Questions — Set 3: Human Errors
+.. admonition:: Multiple-Choice Questions — Set 3: Improvements for Human Errors
     :class: questions
 
     Choose the best answer for each question.
