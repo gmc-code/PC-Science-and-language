@@ -46,13 +46,9 @@ Respect for Others
             .. tab-item:: Answers
 
                 1. respect
-
                 2. seek
-
                 3. treated
-
                 4. acknowledged
-
                 5. treat
 
 ----
@@ -109,11 +105,7 @@ Respect for Others
             .. tab-item:: Answers
 
                 1. b — Allowing participants to withdraw from the study at any point
-
                 2. a — It ensures respectful behaviour toward communities connected to the site
-
                 3. b — Behaving respectfully and following proper procedures
-
                 4. c — To acknowledge the contributions of those who supported the work
-
                 5. b — Providing enrichment and social housing appropriate to the species

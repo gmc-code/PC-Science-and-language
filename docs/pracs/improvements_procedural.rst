@@ -1,5 +1,5 @@
 ================================================
-Improvements for Equipment Errors
+Improvements for Procedural Errors
 ================================================
 
 Improvements are specific strategies to minimise the impact of errors.

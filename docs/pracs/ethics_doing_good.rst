@@ -47,13 +47,9 @@ Doing Good
             .. tab-item:: Answers
 
                 1. maximise
-
                 2. benefit
-
                 3. justify
-
                 4. address
-
                 5. share
 
 ----
@@ -110,12 +106,8 @@ Doing Good
             .. tab-item:: Answers
 
                 1. a — Choosing research questions that benefit the community
-
                 2. d — It helps maximise the positive impact of the research
-
                 3. d — When there is a clear and meaningful benefit
-
                 4. a — To allow the wider community to benefit from the results
-
                 5. c — Applying results to improve people's lives
 

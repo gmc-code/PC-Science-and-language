@@ -48,13 +48,9 @@ Avoidance of Harm
             .. tab-item:: Answers
 
                 1. avoid
-
                 2. respect
-
                 3. use
-
                 4. stop
-
                 5. protect
 
 ----
@@ -110,11 +106,7 @@ Avoidance of Harm
             .. tab-item:: Answers
 
                 1. d. Observing animals without disturbing their natural behaviour
-
                 2. a. They reduce the need to involve live animals
-
                 3. c. When it causes unexpected suffering to participants
-
                 4. a. It protects individuals from potential harm or misuse of information
-
                 5. d. Staying on approved paths and obtaining required permits

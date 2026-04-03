@@ -46,13 +46,9 @@ Fairness
             .. tab-item:: Answers
 
                 1. decide
-
                 2. convey
-
                 3. interpret
-
                 4. include
-
                 5. share
 
 ----
@@ -108,12 +104,8 @@ Fairness
             .. tab-item:: Answers
 
                 1. a — It ensures participation is voluntary
-
                 2. b — Writing it in plain, understandable language
-
                 3. a — Applying the same criteria to all data
-
                 4. d — To ensure conclusions apply fairly to different groups
-
                 5. c — It allows all researchers to use and build on the findings
 
