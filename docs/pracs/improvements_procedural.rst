@@ -4,9 +4,10 @@ Improvements for Procedural Errors
 
 Improvements are specific strategies to minimise the impact of errors.
 
-In practical investigations, results can also be affected by procedural errors—mistakes in how the experiment is carried out, observed, or recorded. These errors reduce the reliability of the data and make it harder to judge whether the results truly reflect what is happening in the experiment.
+In practical investigations, results can be affected by procedural errors — mistakes in how the experiment is carried out, observed, or recorded. These errors reduce the reliability of the data because they come from the researcher's actions rather than the equipment itself. Personal errors occur when steps are not followed correctly, parallax errors occur when measurements are read from the wrong angle, and human errors occur when data is recorded or interpreted incorrectly.
 
-Improving procedures involves following steps carefully, using consistent techniques, and paying close attention when taking and recording measurements. By recognising the type of procedural error and choosing the right improvement, students can collect data that is more consistent, more trustworthy, and easier to interpret.
+Improving procedures means using careful, consistent techniques at every stage of the experiment. This includes following each step accurately to avoid personal error, reading scales at eye level to prevent parallax error, and recording data immediately and checking entries to reduce human error. By recognising these procedural issues and applying the right improvement, students can produce results that are more consistent, more trustworthy, and easier to interpret.
+
 
 .. admonition:: Procedural Errors (Summary)
     :class: summary

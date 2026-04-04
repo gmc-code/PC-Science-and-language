@@ -10,7 +10,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: ✍️🖹 Introduction
+    :caption: ✍️ Introduction
     :numbered:
 
     introduction/introduction.rst
@@ -19,7 +19,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🧪 Prac Ethics
+    :caption: 🧪⚖️ Prac Ethics
     :numbered:
 
     pracs/ethics_introduction.rst
@@ -32,7 +32,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🧪 Prac Errors
+    :caption: 🧪⛔ Prac Errors
     :numbered:
 
     pracs/errors_introduction.rst
@@ -42,17 +42,18 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🧪 Prac Improvements
+    :caption: 🧪➕ Prac Improvements
     :numbered:
 
-    pracs/improvements_equipment.rst
+    pracs/improvements_introduction.rst
     pracs/improvements_procedural.rst
+    pracs/improvements_equipment.rst
     pracs/improvements_measurement.rst
 
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🧪 Prac Accuracy and Precision
+    :caption: 🧪🎯 Prac Accuracy and Precision
     :numbered:
 
     pracs/accuracy_and_precision.rst
@@ -60,7 +61,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🤔 PRO
+    :caption: 🤔👀🧩 PRO
     :numbered:
 
     language/PRO.rst
@@ -90,4 +91,23 @@ PC-Science-and-language
     .. chemistry/chemistry_PEEL.rst
     .. chemistry/chemistry_themes.rst
 
+.. toctree::
+    :maxdepth: 2
+    :caption: 🌱 Biology
+    :numbered:
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧲 Physics
+    :numbered:
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🌋 Earth
+    :numbered:
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🌜 Space
+    :numbered:
 

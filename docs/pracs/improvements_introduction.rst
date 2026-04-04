@@ -1,0 +1,155 @@
+================================================
+Improvements for Experiments
+================================================
+
+Improvements are specific strategies to minimise the impact of errors.
+
+Improvements in scientific investigations can be grouped into three main categories based on the types of errors they address: **procedural** errors (personal, parallax, human), **equipment** errors (instrument, reading, zero), and **measurement** errors (random, systematic). Each category targets a different source of inaccuracy in practical work.
+
+Procedural errors — personal, parallax, and human — are reduced by following the method carefully, reading scales at eye level, and recording data correctly.
+
+Equipment errors — instrument, reading, and zero — are reduced by checking that equipment is assembled properly, using tools with finer scales, and ensuring instruments start at zero.
+
+Measurement errors — random and systematic — are reduced by repeating measurements and averaging results, and by calibrating equipment and comparing readings with known standards.
+
+By identifying the type of error and applying the matching improvement, students can collect data that is more accurate, more precise, and more reliable.
+
+----
+
+.. admonition:: Procedural Errors (Summary)
+    :class: summary
+
+    **Personal errors**
+    To reduce personal error, follow the procedure carefully and practise the required techniques so each step is carried out correctly.
+
+    **Parallax errors**
+    To reduce parallax error, read all scales at eye level and use consistent viewing positions to avoid angled or distorted readings.
+
+    **Human errors**
+    To reduce human error, record data immediately and double-check entries to prevent mistakes in writing, reading, or interpreting results.
+
+
+
+.. admonition:: Improvements for Equipment Errors
+    :class: summary
+
+    **Instrument error**
+
+    To reduce instrument error, ensure the equipment is correctly assembled, securely positioned, and checked for faults before starting the experiment.
+
+    **Reading error**
+
+    To reduce reading error, use measuring instruments with finer scales or higher resolution so that values can be read more accurately.
+
+    **Zero error**
+
+    To reduce zero error, reset the instrument to zero before each measurement and check that the reading returns to zero after use.
+
+
+
+.. admonition:: Improvements for Measurement Errors
+    :class: summary
+
+    **Random errors**
+
+    To reduce random error, repeat measurements and average the results to smooth out unpredictable fluctuations.
+
+    **Systematic errors**
+
+    To reduce systematic error, calibrate equipment and compare measurements with known reference values to remove consistent biases.
+
+---
+
+.. admonition:: Cloze Questions
+    :class: questions
+
+    Complete the following by filling in the missing verbs.
+
+    **Word list (A → Z):**
+    average • calibrate • check • follow • read
+
+    1. To reduce personal error, students must ______________ the method carefully.
+    2. To reduce parallax error, students should ______________ scales at eye level.
+    3. To reduce instrument error, researchers must ______________ equipment for correct assembly.
+    4. To reduce random error, scientists should ______________ repeated measurements.
+    5. To reduce systematic error, investigators must ______________ instruments against known standards.
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Answers
+
+                1. follow
+                2. read
+                3. check
+                4. average
+                5. calibrate
+
+---
+
+.. admonition:: Multiple-Choice Questions
+    :class: questions
+
+    Choose the best answer for each question.
+
+    1. Which action best reduces **personal error**?
+
+        | a. Following the method carefully
+        | b. Resetting instruments to zero
+        | c. Averaging repeated measurements
+        | d. Calibrating equipment with standards
+
+    2. Which action helps reduce **parallax error**?
+
+        | a. Reading scales at eye level
+        | b. Using tools with finer scales
+        | c. Repeating measurements
+        | d. Checking for instrument faults
+
+    3. Which action best reduces **instrument error**?
+
+        | a. Ensuring equipment is assembled correctly
+        | b. Averaging results from multiple trials
+        | c. Reading scales from a consistent angle
+        | d. Calibrating against known values
+
+    4. Which action reduces **random error**?
+
+        | a. Repeating measurements and averaging them
+        | b. Resetting instruments to zero
+        | c. Following the method carefully
+        | d. Checking for loose components
+
+    5. Which action reduces **systematic error**?
+
+        | a. Calibrating equipment with known standards
+        | b. Reading scales at eye level
+        | c. Recording data immediately
+        | d. Using instruments with finer scales
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Answers
+
+                1. a — Following the method carefully
+                2. a — Reading scales at eye level
+                3. a — Ensuring equipment is assembled correctly
+                4. a — Repeating measurements and averaging them
+                5. a — Calibrating equipment with known standards
+
+
+
+
+
+
+
+

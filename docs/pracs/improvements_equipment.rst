@@ -4,9 +4,9 @@ Improvements for Equipment Errors
 
 Improvements are specific strategies to minimise the impact of errors.
 
-In any practical investigation, measurements can be affected by different types of equipment errors. These errors reduce the quality of the data and make results harder to trust. To improve an experiment, scientists look for ways to reduce these errors so that measurements become more accurate, more precise, or both.
+In practical investigations, measurements can be affected by equipment errors — problems that arise when instruments are faulty, poorly set up, or unable to provide readings with enough resolution. These errors reduce the quality of the data because they affect how accurately and precisely values can be measured. Instrument errors occur when equipment is damaged or incorrectly assembled, reading errors occur when the scale is too coarse to read values accurately, and zero errors occur when instruments are not reset before use.
 
-Making improvements usually involves checking that equipment is working properly, using tools with finer scales, and ensuring instruments are set up correctly before taking measurements. By identifying the type of error and choosing the right improvement, students can collect data that better represents what is really happening in the experiment.
+Improving equipment setup means choosing strategies that directly address these issues. Instrument error can be reduced by checking that equipment is correctly assembled and free from faults, reading error can be reduced by using instruments with finer scales or higher resolution, and zero error can be reduced by resetting instruments to zero before each measurement. By recognising the type of equipment error and applying the appropriate improvement, students can collect data that is more accurate, more precise, and more representative of the true value.
 
 
 .. admonition:: Improvements for Equipment Errors
