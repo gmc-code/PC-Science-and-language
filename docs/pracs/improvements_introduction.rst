@@ -4,28 +4,20 @@ Improvements for Experiments
 
 Improvements are specific strategies to minimise the impact of errors.
 
-Improvements in scientific investigations can be grouped into three main categories based on the types of errors they address: **procedural** errors (personal, parallax, human), **equipment** errors (instrument, reading, zero), and **measurement** errors (random, systematic). Each category targets a different source of inaccuracy in practical work.
-
-Procedural errors — personal, parallax, and human — are reduced by following the method carefully, reading scales at eye level, and recording data correctly.
-
-Equipment errors — instrument, reading, and zero — are reduced by checking that equipment is assembled properly, using tools with finer scales, and ensuring instruments start at zero.
-
-Measurement errors — random and systematic — are reduced by repeating measurements and averaging results, and by calibrating equipment and comparing readings with known standards.
-
-By identifying the type of error and applying the matching improvement, students can collect data that is more accurate, more precise, and more reliable.
+Improvements in scientific investigations can be grouped into three main categories based on the types of errors they address: **procedural** errors (personal, parallax, human), **equipment** errors (instrument, reading, zero), and **measurement** errors (random, systematic). Each category targets a different source of inaccuracy in practical work. By identifying the type of error and applying the matching improvement, students can collect data that is more accurate, more precise, and more reliable.
 
 ----
 
 .. admonition:: Procedural Errors (Summary)
     :class: summary
 
-    **Personal errors**
+    **Personal errors**:
     To reduce personal error, follow the procedure carefully and practise the required techniques so each step is carried out correctly.
 
-    **Parallax errors**
+    **Parallax errors**:
     To reduce parallax error, read all scales at eye level and use consistent viewing positions to avoid angled or distorted readings.
 
-    **Human errors**
+    **Human errors**:
     To reduce human error, record data immediately and double-check entries to prevent mistakes in writing, reading, or interpreting results.
 
 
@@ -33,16 +25,13 @@ By identifying the type of error and applying the matching improvement, students
 .. admonition:: Improvements for Equipment Errors
     :class: summary
 
-    **Instrument error**
-
+    **Instrument error**:
     To reduce instrument error, ensure the equipment is correctly assembled, securely positioned, and checked for faults before starting the experiment.
 
-    **Reading error**
-
+    **Reading error**:
     To reduce reading error, use measuring instruments with finer scales or higher resolution so that values can be read more accurately.
 
-    **Zero error**
-
+    **Zero error**:
     To reduce zero error, reset the instrument to zero before each measurement and check that the reading returns to zero after use.
 
 
@@ -50,12 +39,10 @@ By identifying the type of error and applying the matching improvement, students
 .. admonition:: Improvements for Measurement Errors
     :class: summary
 
-    **Random errors**
-
+    **Random errors**:
     To reduce random error, repeat measurements and average the results to smooth out unpredictable fluctuations.
 
-    **Systematic errors**
-
+    **Systematic errors**:
     To reduce systematic error, calibrate equipment and compare measurements with known reference values to remove consistent biases.
 
 ---
