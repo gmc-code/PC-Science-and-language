@@ -2,13 +2,15 @@
 Accuracy and Precision
 ================================================
 
-An experimental error is the difference between a measurement and the true value.
+Experimental error is the difference between a measured value and the true or accepted value.
 
-Precision refers to how close together two or more measurements are together. If equipment has a large error margin, then results will not be precise.
+Accuracy describes how close a measurement is to the true value.
+A measurement with high accuracy has only a small difference from the true value.
 
-Accuracy refers to how close a measurement is to the true value. If equipment has a large error margin, then results will not be accurate.
+Precision describes how close repeated measurements are to each other.
+A set of measurements with high precision shows very little variation between trials.
 
-In practice, scientists aim for both high accuracy and high precision in their measurements. However, it is possible to have one without the other, and understanding the difference is crucial for interpreting experimental results correctly.
+Accuracy and precision are independent. A result can be accurate but not precise, precise but not accurate, both, or neither. Understanding this distinction helps scientists evaluate the quality of their data and identify sources of error.
 
 ----
 
