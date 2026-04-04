@@ -4,30 +4,39 @@ Improvements for Procedural Errors
 
 Improvements are specific strategies to minimise the impact of errors.
 
+In practical investigations, results can also be affected by procedural errors—mistakes in how the experiment is carried out, observed, or recorded. These errors reduce the reliability of the data and make it harder to judge whether the results truly reflect what is happening in the experiment.
+
+Improving procedures involves following steps carefully, using consistent techniques, and paying close attention when taking and recording measurements. By recognising the type of procedural error and choosing the right improvement, students can collect data that is more consistent, more trustworthy, and easier to interpret.
+
+.. admonition:: Procedural Errors (Summary)
+    :class: summary
+
+    **Personal errors**
+    To reduce personal error, follow the procedure carefully and practise the required techniques so each step is carried out correctly.
+
+    **Parallax errors**
+    To reduce parallax error, read all scales at eye level and use consistent viewing positions to avoid angled or distorted readings.
+
+    **Human errors**
+    To reduce human error, record data immediately and double-check entries to prevent mistakes in writing, reading, or interpreting results.
+
 ----
+
+Improvements: Procedural Errors
+-----------------------------------------
 
 .. rubric:: Improvements: Procedural Errors
 
 **Personal errors** occur when the researcher makes a mistake in carrying out the procedure
 
+To reduce personal error, follow the procedure carefully and practise the required techniques so each step is carried out correctly.
+
+.. rubric:: Improvements:
+
 1. Follow the procedure carefully step by step — for example, measure out each mass precisely rather than estimating, so all variables remain properly controlled.
 2. Control all relevant variables during the experiment — for example, ensure the same volume of solution is used in each trial rather than refilling to an approximate level.
 3. Practice the technique before actual measurements — for example, rehearse releasing a pendulum from exactly 45° before recording timing data.
 4. Use checklists to ensure all steps are completed — for example, confirm the timer has been started before heating a sample begins.
-
-**Parallax errors** occur when a scale or measurement tool is read from an inconsistent eye level or angle
-
-1. Always read scales at eye level — for example, position eyes level with the meniscus of a measuring cylinder rather than looking down from above.
-2. Use instruments with mirrored scales — for example, align the needle with its reflection in a mirrored ammeter scale to ensure a straight-on reading.
-3. Take multiple readings from consistent positions — for example, mark a fixed standing position when reading a thermometer to ensure the same angle is used each time.
-4. Use appropriate markers or pointers to improve accuracy — for example, use a set square against a ruler to read a length measurement straight on rather than at an angle.
-
-**Human errors** occur when the researcher makes a mistake in recording or interpreting data
-
-1. Record data immediately after measurement — for example, write down the stopwatch reading straight away rather than trying to remember it after the next trial.
-2. Double-check entries and calculations — for example, verify that each mass value has been entered in the correct row of the results table before moving on.
-3. Use templates or tables to organise data — for example, prepare a pre-formatted results table so values are less likely to be recorded in the wrong column.
-4. Minimise distractions during data collection — for example, avoid conversation when reading and entering values to prevent transcription mistakes.
 
 ----
 
@@ -88,6 +97,22 @@ Improvements are specific strategies to minimise the impact of errors.
 
 ----
 
+Improvements: Parallax Errors
+-----------------------------------------
+
+**Parallax errors** occur when a scale or measurement tool is read from an inconsistent eye level or angle
+
+To reduce parallax error, read all scales at eye level and use consistent viewing positions to avoid angled or distorted readings.
+
+.. rubric:: Improvements:
+
+1. Always read scales at eye level — for example, position eyes level with the meniscus of a measuring cylinder rather than looking down from above.
+2. Use instruments with mirrored scales — for example, align the needle with its reflection in a mirrored ammeter scale to ensure a straight-on reading.
+3. Take multiple readings from consistent positions — for example, mark a fixed standing position when reading a thermometer to ensure the same angle is used each time.
+4. Use appropriate markers or pointers to improve accuracy — for example, use a set square against a ruler to read a length measurement straight on rather than at an angle.
+
+----
+
 .. admonition:: Multiple-Choice Questions — Set 2: Improvements for Parallax Errors
     :class: questions
 
@@ -142,6 +167,22 @@ Improvements are specific strategies to minimise the impact of errors.
                 3. b — It allows the needle to be aligned with its reflection to ensure a straight-on reading
                 4. c — To maintain a consistent angle and reduce parallax error across all readings
                 5. c — Using a set square against the ruler to read the measurement straight on
+
+----
+
+Improvements: Human Errors
+-----------------------------------------
+
+**Human errors** occur when the researcher makes a mistake in recording or interpreting data
+
+To reduce human error, record data immediately and double-check entries to prevent mistakes in writing, reading, or interpreting results.
+
+.. rubric:: Improvements:
+
+1. Record data immediately after measurement — for example, write down the stopwatch reading straight away rather than trying to remember it after the next trial.
+2. Double-check entries and calculations — for example, verify that each mass value has been entered in the correct row of the results table before moving on.
+3. Use templates or tables to organise data — for example, prepare a pre-formatted results table so values are less likely to be recorded in the wrong column.
+4. Minimise distractions during data collection — for example, avoid conversation when reading and entering values to prevent transcription mistakes.
 
 ----
 

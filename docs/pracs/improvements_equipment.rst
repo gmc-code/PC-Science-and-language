@@ -24,7 +24,6 @@ Making improvements usually involves checking that equipment is working properly
 
     To reduce zero error, reset the instrument to zero before each measurement and check that the reading returns to zero after use.
 
-
 ----
 
 Improvements: Instrument Errors
