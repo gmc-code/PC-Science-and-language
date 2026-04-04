@@ -85,15 +85,15 @@ Improvements in scientific investigations can be grouped into three main categor
 
     1. Which action best reduces **personal error**?
 
-        | a. Following the method carefully
+        | a. Calibrating equipment with standards
         | b. Resetting instruments to zero
         | c. Averaging repeated measurements
-        | d. Calibrating equipment with standards
+        | d. Following the method carefully
 
     2. Which action helps reduce **parallax error**?
 
-        | a. Reading scales at eye level
-        | b. Using tools with finer scales
+        | a. Using tools with finer scales
+        | b. Reading scales at eye level
         | c. Repeating measurements
         | d. Checking for instrument faults
 
@@ -106,9 +106,9 @@ Improvements in scientific investigations can be grouped into three main categor
 
     4. Which action reduces **random error**?
 
-        | a. Repeating measurements and averaging them
+        | a. Following the method carefully
         | b. Resetting instruments to zero
-        | c. Following the method carefully
+        | c. Repeating measurements and averaging them
         | d. Checking for loose components
 
     5. Which action reduces **systematic error**?
@@ -127,10 +127,10 @@ Improvements in scientific investigations can be grouped into three main categor
 
             .. tab-item:: Answers
 
-                1. a — Following the method carefully
-                2. a — Reading scales at eye level
+                1. d — Following the method carefully
+                2. b — Reading scales at eye level
                 3. a — Ensuring equipment is assembled correctly
-                4. a — Repeating measurements and averaging them
+                4. c — Repeating measurements and averaging them
                 5. a — Calibrating equipment with known standards
 
 
