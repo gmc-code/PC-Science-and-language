@@ -14,7 +14,7 @@ Each category targets a different source of inaccuracy in practical work. By ide
 
 ----
 
-.. admonition:: Procedural Errors (Summary)
+.. admonition:: Improvements for Procedural Errors
     :class: summary
 
     **Personal errors**:

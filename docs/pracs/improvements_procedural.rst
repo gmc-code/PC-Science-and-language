@@ -23,10 +23,10 @@ Improving procedures means using careful, consistent techniques at every stage o
 
 ----
 
-Improvements: Procedural Errors
+Improvements: Personal Errors
 -----------------------------------------
 
-.. rubric:: Improvements: Procedural Errors
+.. rubric:: Improvements: Personal Errors
 
 **Personal errors** occur when the researcher makes a mistake in carrying out the procedure
 
@@ -46,18 +46,18 @@ To reduce personal error, follow the procedure carefully and practise the requir
 
     Choose the best answer for each question.
 
-    1. What is a **personal error**?
+    1. Which action best helps reduce **personal error** during an experiment?
 
-        | a. A consistent bias caused by a faulty instrument
-        | b. A mistake made by the researcher when carrying out the procedure
-        | c. An unpredictable variation caused by environmental conditions
-        | d. An error caused by reading a scale from the wrong angle
+        | a. Calibrating the instrument before every reading
+        | b. Following each step of the procedure carefully and consistently
+        | c. Reading the scale at eye level to avoid parallax
+        | d. Averaging repeated measurements to reduce random variation
 
-    2. Which situation best illustrates a **personal error**?
+    2. Which situation best illustrates a researcher **preventing personal error**?
 
-        | a. A thermometer that consistently reads 2°C too low
+        | a. A researcher carefully selecting the correct masses to ensure variables are controlled
         | b. A balance pan disturbed by a sudden vibration
-        | c. A researcher using incorrect masses so a variable is not properly controlled
+        | c. A thermometer that consistently reads 2°C too low
         | d. A scale read from above eye level
 
     3. How can a researcher prevent **personal errors** when measuring volumes?
@@ -71,8 +71,8 @@ To reduce personal error, follow the procedure carefully and practise the requir
 
         | a. To calibrate the instrument before use
         | b. To reduce systematic bias in the results
-        | c. To build familiarity and reduce procedural mistakes during the experiment
-        | d. To avoid parallax errors when reading the scale
+        | c. To avoid parallax errors when reading the scale
+        | d. To build familiarity and reduce procedural mistakes during the experiment
 
     5. Which action best helps prevent **personal errors** during an experiment?
 
@@ -90,10 +90,10 @@ To reduce personal error, follow the procedure carefully and practise the requir
 
             .. tab-item:: Answers
 
-                1. b — A mistake made by the researcher when carrying out the procedure
-                2. c — A researcher using incorrect masses so a variable is not properly controlled
+                1. b — Following each step of the procedure carefully and consistently
+                2. a — A researcher carefully selecting the correct masses to ensure variables are controlled
                 3. b — Ensure the same volume of solution is used in each trial rather than approximating
-                4. c — To build familiarity and reduce procedural mistakes during the experiment
+                4. d — To build familiarity and reduce procedural mistakes during the experiment
                 5. c — Using a checklist to confirm each step has been completed
 
 ----
@@ -119,19 +119,19 @@ To reduce parallax error, read all scales at eye level and use consistent viewin
 
     Choose the best answer for each question.
 
-    1. What is a **parallax error**?
+   1. Which action best helps reduce **parallax error** when taking measurements?
 
-        | a. A consistent bias caused by an uncalibrated instrument
-        | b. A mistake made when recording data in a results table
-        | c. An error caused by reading a scale from an inconsistent eye level or angle
-        | d. An unpredictable variation caused by environmental conditions
+       | a. Resetting the instrument to zero before each reading
+       | b. Reading the scale at eye level rather than from above or below
+       | c. Using a digital instrument instead of an analogue one
+       | d. Averaging repeated measurements to smooth out fluctuations
 
-    2. Which situation best illustrates a **parallax error**?
+   2. Which situation best illustrates a researcher **preventing parallax error**?
 
-        | a. A researcher uses the wrong mass during an experiment
-        | b. A student reads the meniscus of a measuring cylinder from above rather than at eye level
-        | c. A thermometer consistently reads 2°C lower than the actual temperature
-        | d. A stopwatch is not reset to zero between trials
+       | a. A student positions their eyes level with the meniscus before taking a reading
+       | b. A researcher uses the wrong mass during an experiment
+       | c. A thermometer consistently reads 2°C lower than the actual temperature
+       | d. A stopwatch is not reset to zero between trials
 
     3. How does using a mirrored scale help reduce **parallax error**?
 
@@ -151,8 +151,8 @@ To reduce parallax error, read all scales at eye level and use consistent viewin
 
         | a. Repeating the measurement five times and averaging the results
         | b. Replacing the ruler with a digital measuring device
-        | c. Using a set square against the ruler to read the measurement straight on
-        | d. Calibrating the ruler against a known standard length
+        | c. Calibrating the ruler against a known standard length
+        | d. Using a set square against the ruler to read the measurement straight on
 
     .. dropdown::
         :icon: codescan
@@ -163,18 +163,18 @@ To reduce parallax error, read all scales at eye level and use consistent viewin
 
             .. tab-item:: Answers
 
-                1. c — An error caused by reading a scale from an inconsistent eye level or angle
-                2. b — A student reads the meniscus of a measuring cylinder from above rather than at eye level
+                1. b — Reading the scale at eye level rather than from above or below
+                2. a — A student positions their eyes level with the meniscus before taking a reading
                 3. b — It allows the needle to be aligned with its reflection to ensure a straight-on reading
                 4. c — To maintain a consistent angle and reduce parallax error across all readings
-                5. c — Using a set square against the ruler to read the measurement straight on
+                5. d — Using a set square against the ruler to read the measurement straight on
 
 ----
 
 Improvements: Human Errors
 -----------------------------------------
 
-**Human errors** occur when the researcher makes a mistake in recording or interpreting data
+**Human errors** occur when the researcher makes a mistake in recording or interpreting data.
 
 To reduce human error, record data immediately and double-check entries to prevent mistakes in writing, reading, or interpreting results.
 
@@ -192,38 +192,38 @@ To reduce human error, record data immediately and double-check entries to preve
 
     Choose the best answer for each question.
 
-    1. What is a **human error**?
+    1. Which action best reduces **human error** when recording measurements?
 
-        | a. An unpredictable variation caused by environmental conditions
-        | b. A consistent bias caused by a faulty or uncalibrated instrument
-        | c. A mistake made by the researcher when recording or interpreting data
-        | d. An error caused by reading a scale from an inconsistent angle
+        | a. Calibrating the instrument before every reading
+        | b. Repeating the measurement several times and averaging the results
+        | c. Reading the scale at eye level to avoid parallax
+        | d. Writing down each value immediately after it is taken
 
-    2. Which situation best illustrates a **human error**?
+    2. Which situation best illustrates a researcher **preventing human error**?
 
-        | a. A balance pan disturbed by air currents in the room
-        | b. A pH probe that consistently reads slightly acidic in a neutral solution
-        | c. A student writes a measurement value in the wrong row of the results table
-        | d. A thermometer that has not been reset before use
+        | a. Resetting a thermometer to zero before use
+        | b. Using a mirrored scale to avoid angled readings
+        | c. Entering each value directly into a pre-formatted results table
+        | d. Taking multiple readings to reduce random variation
 
-    3. Why should data be recorded immediately after each measurement?
+    3. Why should entries in a results table be **double-checked**?
 
-        | a. To avoid systematic bias affecting the results
-        | b. To prevent values from being forgotten or misremembered before they are written down
-        | c. To ensure the instrument has been calibrated correctly
-        | d. To reduce parallax errors when reading the scale
+        | a. To ensure the instrument has been calibrated correctly
+        | b. To prevent values from being placed in the wrong row or column
+        | c. To avoid environmental conditions affecting the reading
+        | d. To reduce systematic bias in the results
 
-    4. How does using a pre-formatted results table help reduce **human errors**?
+    4. How does using a **pre-formatted results table** help reduce human errors?
 
-        | a. It ensures the instrument is reset to zero before each measurement
+        | a. It reduces the chance of values being recorded in the wrong column
         | b. It controls environmental conditions during data collection
-        | c. It reduces the chance of values being recorded in the wrong column
+        | c. It ensures the instrument is reset to zero before each measurement
         | d. It calibrates the instrument against a known standard
 
     5. Which action best helps prevent **human errors** during data collection?
 
         | a. Closing windows to reduce temperature fluctuations in the room
-        | b. Avoiding conversation and minimising distractions when reading and entering values
+        | b. Avoiding conversation and minimising distractions when entering values
         | c. Using a mirrored scale to ensure a straight-on reading
         | d. Practising the technique before taking actual measurements
 
@@ -236,11 +236,11 @@ To reduce human error, record data immediately and double-check entries to preve
 
             .. tab-item:: Answers
 
-                1. c — A mistake made by the researcher when recording or interpreting data
-                2. c — A student writes a measurement value in the wrong row of the results table
-                3. b — To prevent values from being forgotten or misremembered before they are written down
-                4. c — It reduces the chance of values being recorded in the wrong column
-                5. b — Avoiding conversation and minimising distractions when reading and entering values
+                1. d — Writing down each value immediately after it is taken
+                2. c — Entering each value directly into a pre-formatted results table
+                3. b — To prevent values from being placed in the wrong row or column
+                4. a — It reduces the chance of values being recorded in the wrong column
+                5. b — Avoiding conversation and minimising distractions when entering values
 
 
 

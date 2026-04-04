@@ -51,19 +51,19 @@ To reduce instrument error, ensure the equipment is correctly assembled, securel
 
     Choose the best answer for each question.
 
-    1. What is an **instrument error**?
+    1. Which action best helps prevent an **instrument error** before starting an experiment?
 
-        | a. A mistake made when recording data in a results table
-        | b. An error caused by reading a scale from an inconsistent angle
-        | c. An error caused by faulty or incorrectly set up equipment
-        | d. An unpredictable variation caused by environmental conditions
+        | a. Checking that all equipment is correctly assembled and securely positioned
+        | b. Reading the scale at eye level to avoid parallax
+        | c. Repeating the measurement several times and averaging the results
+        | d. Recording data immediately after each measurement
 
-    2. Which situation best illustrates an **instrument error**?
+    2. Which situation best illustrates a researcher **preventing an instrument error**?
 
         | a. A student reads a thermometer from above rather than at eye level
-        | b. A stopwatch is not reset to zero between trials
-        | c. A researcher writes a value in the wrong row of the results table
-        | d. A water bath heater is faulty and causes temperature fluctuations during incubation
+        | b. A value is written in the wrong row of the results table
+        | c. A stopwatch is not reset to zero between trials
+        | d. A researcher performs a quick test run to confirm a heater maintains a stable temperature
 
     3. Why should a retort stand be firmly clamped to the bench before an experiment begins?
 
@@ -95,8 +95,8 @@ To reduce instrument error, ensure the equipment is correctly assembled, securel
 
             .. tab-item:: Answers
 
-                1. c — An error caused by faulty or incorrectly set up equipment
-                2. d — A water bath heater is faulty and causes temperature fluctuations during incubation
+                1. a — Checking that all equipment is correctly assembled and securely positioned
+                2. d — A researcher performs a quick test run to confirm a heater maintains a stable temperature
                 3. b — To ensure the equipment is correctly positioned and does not move during the investigation
                 4. c — To avoid low batteries causing fluctuating or inaccurate mass readings
                 5. c — Testing the instrument to confirm it is functioning correctly
@@ -125,18 +125,18 @@ To reduce reading error, use measuring instruments with finer scales or higher r
 
     Choose the best answer for each question.
 
-    1. What is a **reading error**?
+    1. Which action best helps prevent a **reading error** before taking a measurement?
 
-        | a. A consistent bias caused by an uncalibrated instrument
-        | b. A mistake made when the instrument scale is not fine enough to take an accurate reading
-        | c. An unpredictable variation caused by environmental conditions
-        | d. An error caused by not resetting an instrument to zero before use
+        | a. Choosing an instrument with scale markings appropriate for the required precision
+        | b. Resetting the instrument to zero before each measurement
+        | c. Repeating the measurement several times and averaging the results
+        | d. Clamping all equipment securely before starting
 
-    2. Which situation best illustrates a **reading error**?
+    2. Which situation best illustrates a researcher **reducing reading error**?
 
-        | a. A retort stand that is not securely clamped to the bench
-        | b. A digital scale that shows a reading before any mass is placed on it
-        | c. A ruler marked only in centimetres when millimetre precision is required
+        | a. A student selects a measuring cylinder with finer graduations to improve precision
+        | b. A digital scale shows a reading before any mass is placed on it
+        | c. A retort stand is not securely clamped to the bench
         | d. A student writes a measurement in the wrong column of a results table
 
     3. Why should fingers be repositioned when reading a spring balance?
@@ -157,8 +157,8 @@ To reduce reading error, use measuring instruments with finer scales or higher r
 
         | a. Clamping all equipment securely before starting
         | b. Resetting the instrument to zero before each measurement
-        | c. Using good lighting so scale markings can be seen clearly
-        | d. Practising the procedure before recording actual data
+        | c. Practising the procedure before recording actual data
+        | d. Using good lighting so scale markings can be seen clearly
 
     .. dropdown::
         :icon: codescan
@@ -169,11 +169,11 @@ To reduce reading error, use measuring instruments with finer scales or higher r
 
             .. tab-item:: Answers
 
-                1. b — A mistake made when the instrument scale is not fine enough to take an accurate reading
-                2. c — A ruler marked only in centimetres when millimetre precision is required
+                1. a — Choosing an instrument with scale markings appropriate for the required precision
+                2. a — A student selects a measuring cylinder with finer graduations to improve precision
                 3. b — To ensure the scale markings are fully visible and not obstructed
                 4. c — It provides finer graduations so smaller differences in mass can be detected
-                5. c — Using good lighting so scale markings can be seen clearly
+                5. d — Using good lighting so scale markings can be seen clearly
 
 ----
 
@@ -199,17 +199,17 @@ To reduce zero error, reset the instrument to zero before each measurement and c
 
     Choose the best answer for each question.
 
-    1. What is a **zero error**?
+    1. Which action best helps prevent a **zero error** before taking a measurement?
 
-        | a. An unpredictable variation caused by vibrations in the environment
-        | b. A mistake made when the researcher uses the wrong equipment
-        | c. An error caused by reading a scale from an inconsistent angle
-        | d. An error caused by an instrument not being reset to zero before a measurement is taken
+        | a. Clamping all equipment securely before starting
+        | b. Using good lighting so the scale markings are clearly visible
+        | c. Repeating the measurement several times and averaging the results
+        | d. Checking that the instrument's pointer or display sits exactly at zero before use
 
-    2. Which situation best illustrates a **zero error**?
+    2. Which situation best illustrates a researcher **preventing a zero error**?
 
-        | a. A microscope lens that is misaligned and produces a distorted image
-        | b. A digital scale that displays 0.3 g before any mass is placed on the platform
+        | a. A student performs a quick test reading to confirm the balance returns to zero after unloading
+        | b. A digital scale displays 0.3 g before any mass is placed on the platform
         | c. A researcher reads a thermometer from the side rather than straight on
         | d. A student records a value in the wrong row of the results table
 
@@ -243,8 +243,8 @@ To reduce zero error, reset the instrument to zero before each measurement and c
 
             .. tab-item:: Answers
 
-                1. d — An error caused by an instrument not being reset to zero before a measurement is taken
-                2. b — A digital scale that displays 0.3 g before any mass is placed on the platform
+                1. d — Checking that the instrument's pointer or display sits exactly at zero before use
+                2. a — A student performs a quick test reading to confirm the balance returns to zero after unloading
                 3. c — To avoid unnecessary movement that could cause pointer drift away from zero
                 4. b — To avoid extreme temperatures affecting the instrument baseline and causing a zero error
                 5. c — Inspecting the instrument to confirm the pointer or display sits at zero before use

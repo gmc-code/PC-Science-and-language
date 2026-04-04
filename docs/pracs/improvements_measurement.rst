@@ -42,19 +42,19 @@ To reduce random error, repeat measurements and average the results to smooth ou
 
     Choose the best answer for each question.
 
-    1. What is a **random error**?
+    1. Which action best helps reduce **random errors** when timing or measuring repeated events?
 
-        | a. A consistent bias caused by a faulty instrument
-        | b. A mistake made when recording data in a table
-        | c. An unpredictable variation in the measurement process
-        | d. An error caused by not resetting an instrument to zero
+        | a. Using a digital instrument instead of an analogue one
+        | b. Resetting the instrument to zero before each trial
+        | c. Reading the scale at eye level to avoid parallax
+        | d. Ensuring each trial is carried out under the same controlled conditions
 
-    2. Which situation best illustrates a **random error**?
+    2. Which situation best illustrates a researcher **minimising random error**?
 
-        | a. A thermometer that always reads 2°C lower than the actual temperature
-        | b. A ruler with a worn end that shortens every measurement
-        | c. A pH probe that has not been calibrated
-        | d. Small air currents causing unpredictable fluctuations in a balance pan
+        | a. A student repeats a reaction time measurement several times under identical conditions
+        | b. A thermometer consistently reads 2°C lower than the actual temperature
+        | c. A pH probe has not been calibrated before use
+        | d. A ruler with a worn end shortens every measurement
 
     3. How can a researcher reduce the effect of **random errors**?
 
@@ -72,8 +72,8 @@ To reduce random error, repeat measurements and average the results to smooth ou
 
     5. Why should a balance pan be allowed to settle before recording a reading?
 
-        | a. To prevent a systematic bias from affecting all results
-        | b. To avoid random errors caused by vibrations during measurement
+        | a. To avoid random errors caused by vibrations during measurement
+        | b. To prevent a systematic bias from affecting all results
         | c. To ensure the instrument has been calibrated correctly
         | d. To reduce parallax error when reading the display
 
@@ -86,11 +86,11 @@ To reduce random error, repeat measurements and average the results to smooth ou
 
             .. tab-item:: Answers
 
-                1. c — An unpredictable variation in the measurement process
-                2. d — Small air currents causing unpredictable fluctuations in a balance pan
+                1. d — Ensuring each trial is carried out under the same controlled conditions
+                2. a — A student repeats a reaction time measurement several times under identical  conditions
                 3. b — Repeat measurements and calculate the mean
                 4. c — To control environmental conditions and reduce random errors
-                5. b — To avoid random errors caused by vibrations during measurement
+                5. a — To avoid random errors caused by vibrations during measurement
 
 ----
 
@@ -116,19 +116,19 @@ To reduce systematic error, calibrate equipment and compare measurements with kn
 
     Choose the best answer for each question.
 
-    1. What is a **systematic error**?
+    1. Which action best helps prevent a **systematic error** before taking measurements?
 
-        | a. An unpredictable variation caused by environmental conditions
-        | b. A mistake made when entering data into a spreadsheet
-        | c. A consistent bias that affects all measurements in the same way
-        | d. An error caused by reading a scale from the wrong angle
+        | a. Calibrating the instrument against a known standard
+        | b. Repeating the measurement several times and averaging the results
+        | c. Allowing the instrument to settle before taking a reading
+        | d. Reading the scale at eye level to avoid parallax
 
-    2. Which situation best illustrates a **systematic error**?
+    2. Which situation best illustrates a researcher **preventing systematic error**?
 
-        | a. A sudden gust of wind disturbing a balance reading
-        | b. A student forgetting to start the timer
-        | c. A digital scale that consistently reads 5 grams too high
-        | d. Fluctuations in room temperature affecting results
+        | a. A student repeats a measurement five times to reduce fluctuations
+        | b. A balance pan is disturbed by a sudden vibration
+        | c. A researcher compares two thermometers to confirm they give consistent readings
+        | d. A student forgets to start the timer during a reaction
 
     3. How can a researcher detect a **systematic error** in a thermometer?
 
@@ -160,8 +160,8 @@ To reduce systematic error, calibrate equipment and compare measurements with kn
 
             .. tab-item:: Answers
 
-                1. c — A consistent bias that affects all measurements in the same way
-                2. c — A digital scale that consistently reads 5 grams too high
+                1. a — Calibrating the instrument against a known standard
+                2. c — A researcher compares two thermometers to confirm they give consistent readings
                 3. b — Compare recorded values against the accepted boiling point of 100°C
                 4. b — To cross-check measurements and detect a systematic bias in one instrument
                 5. d — Calibrating instruments against a known standard before use
