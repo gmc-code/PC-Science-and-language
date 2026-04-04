@@ -24,9 +24,12 @@ Making improvements usually involves checking that equipment is working properly
 
 ----
 
-.. rubric:: Improvements: Equipment Errors
+Improvements: Instrument Errors
+------------------------------------------
 
 **Instrument errors** occur when a piece of equipment is faulty or not set up correctly
+
+.. rubric:: Improvements:
 
 1. Regularly inspect and maintain equipment — for example, check that a water bath heater is functioning before beginning incubation trials.
 2. Ensure all equipment is securely clamped or positioned correctly — for example, clamp a retort stand firmly to the bench before attaching a pendulum.
@@ -37,26 +40,9 @@ Making improvements usually involves checking that equipment is working properly
 7. Avoid using equipment that has been dropped or damaged — for example, do not use a measuring tape that has stretched sections as it will give inaccurate lengths.
 8. Follow manufacturer instructions for setup and handling — for example, set the correct gas-to-air ratio on a Bunsen burner to prevent an unstable flame.
 
-
-**Reading errors** occur when the measuring instrument does not have a fine enough scale to take an accurate reading
-
-1. Use instruments with finer scales for better precision — for example, replace a ruler marked only in centimetres with one marked in millimetres.
-2. Avoid obstructing scale markings while reading — for example, reposition fingers when reading a spring balance so the pointer line is fully visible.
-3. Ensure good lighting to clearly see scales and markings — for example, use a lamp when reading a thermometer marked every 5°C to distinguish values between markings.
-4. Use digital instruments where appropriate — for example, replace a kitchen scale that displays only whole grams with a digital balance reading to the nearest 0.1 g.
-
-
-**Zero errors** occur when an instrument is not reset to zero before a measurement is taken
-
-1. Reset instruments to zero before each measurement — for example, zero a digital scale before placing each sample on the platform.
-2. Avoid moving instruments unnecessarily between measurements — for example, leave a spring balance in the same orientation between trials to prevent pointer drift.
-3. Check for pointer drift or misalignment before starting — for example, inspect a spring balance to confirm the pointer sits at zero before attaching any mass.
-4. Keep instruments on stable surfaces to prevent unintentional shifts — for example, place a voltmeter on a flat bench before checking the baseline reading.
-5. Avoid extreme temperatures that could affect instrument baseline — for example, allow a pH meter to reach room temperature and recalibrate to pH 7 before testing solutions
-
 ----
 
-.. admonition:: Multiple-Choice Questions — Set 1: Improvements forInstrument Errors
+.. admonition:: Multiple-Choice Questions — Set 1: Improvements for Instrument Errors
     :class: questions
 
     Choose the best answer for each question.
@@ -110,6 +96,20 @@ Making improvements usually involves checking that equipment is working properly
                 3. b — To ensure the equipment is correctly positioned and does not move during the investigation
                 4. c — To avoid low batteries causing fluctuating or inaccurate mass readings
                 5. c — Testing the instrument to confirm it is functioning correctly
+
+----
+
+Improvements: Reading Errors
+------------------------------------------
+
+**Reading errors** occur when the measuring instrument does not have a fine enough scale to take an accurate reading
+
+.. rubric:: Improvements:
+
+1. Use instruments with finer scales for better precision — for example, replace a ruler marked only in centimetres with one marked in millimetres.
+2. Avoid obstructing scale markings while reading — for example, reposition fingers when reading a spring balance so the pointer line is fully visible.
+3. Ensure good lighting to clearly see scales and markings — for example, use a lamp when reading a thermometer marked every 5°C to distinguish values between markings.
+4. Use digital instruments where appropriate — for example, replace a kitchen scale that displays only whole grams with a digital balance reading to the nearest 0.1 g.
 
 ----
 
@@ -167,6 +167,21 @@ Making improvements usually involves checking that equipment is working properly
                 3. b — To ensure the scale markings are fully visible and not obstructed
                 4. c — It provides finer graduations so smaller differences in mass can be detected
                 5. c — Using good lighting so scale markings can be seen clearly
+
+----
+
+Improvements: Zero Errors
+------------------------------------------
+
+**Zero errors** occur when an instrument is not reset to zero before a measurement is taken
+
+.. rubric:: Improvements:
+
+1. Reset instruments to zero before each measurement — for example, zero a digital scale before placing each sample on the platform.
+2. Avoid moving instruments unnecessarily between measurements — for example, leave a spring balance in the same orientation between trials to prevent pointer drift.
+3. Check for pointer drift or misalignment before starting — for example, inspect a spring balance to confirm the pointer sits at zero before attaching any mass.
+4. Keep instruments on stable surfaces to prevent unintentional shifts — for example, place a voltmeter on a flat bench before checking the baseline reading.
+5. Avoid extreme temperatures that could affect instrument baseline — for example, allow a pH meter to reach room temperature and recalibrate to pH 7 before testing solutions
 
 ----
 
