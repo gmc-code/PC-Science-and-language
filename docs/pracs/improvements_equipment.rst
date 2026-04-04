@@ -13,12 +13,15 @@ Making improvements usually involves checking that equipment is working properly
     :class: summary
 
     **Instrument error**
+
     To reduce instrument error, ensure the equipment is correctly assembled, securely positioned, and checked for faults before starting the experiment.
 
     **Reading error**
+
     To reduce reading error, use measuring instruments with finer scales or higher resolution so that values can be read more accurately.
 
     **Zero error**
+
     To reduce zero error, reset the instrument to zero before each measurement and check that the reading returns to zero after use.
 
 
