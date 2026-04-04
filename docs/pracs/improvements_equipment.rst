@@ -32,6 +32,8 @@ Improvements: Instrument Errors
 
 **Instrument errors** occur when a piece of equipment is faulty or not set up correctly
 
+To reduce instrument error, ensure the equipment is correctly assembled, securely positioned, and checked for faults before starting the experiment.
+
 .. rubric:: Improvements:
 
 1. Regularly inspect and maintain equipment — for example, check that a water bath heater is functioning before beginning incubation trials.
@@ -107,6 +109,9 @@ Improvements: Reading Errors
 
 **Reading errors** occur when the measuring instrument does not have a fine enough scale to take an accurate reading
 
+To reduce reading error, use measuring instruments with finer scales or higher resolution so that values can be read more accurately.
+
+
 .. rubric:: Improvements:
 
 1. Use instruments with finer scales for better precision — for example, replace a ruler marked only in centimetres with one marked in millimetres.
@@ -177,6 +182,8 @@ Improvements: Zero Errors
 ------------------------------------------
 
 **Zero errors** occur when an instrument is not reset to zero before a measurement is taken
+
+To reduce zero error, reset the instrument to zero before each measurement and check that the reading returns to zero after use.
 
 .. rubric:: Improvements:
 
