@@ -4,7 +4,13 @@ Improvements for Experiments
 
 Improvements are specific strategies to minimise the impact of errors.
 
-Improvements in scientific investigations can be grouped into three main categories based on the types of errors they address: **procedural** errors (personal, parallax, human), **equipment** errors (instrument, reading, zero), and **measurement** errors (random, systematic). Each category targets a different source of inaccuracy in practical work. By identifying the type of error and applying the matching improvement, students can collect data that is more accurate, more precise, and more reliable.
+Improvements in scientific investigations can be grouped into three main categories based on the types of errors they address:
+
+| **procedural** errors (personal, parallax, human),
+| **equipment** errors (instrument, reading, zero), and
+| **measurement** errors (random, systematic).
+
+Each category targets a different source of inaccuracy in practical work. By identifying the type of error and applying the matching improvement, students can collect data that is more accurate, more precise, and more reliable.
 
 ----
 
