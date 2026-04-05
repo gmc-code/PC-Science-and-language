@@ -35,6 +35,7 @@ Systematic Errors
       - Constant temperature / lighting bias
       - Conditions consistently differ from intended controls.
 
+
 **Reducing systematic errors**
 
 * Recalibrate or replace equipment

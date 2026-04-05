@@ -36,8 +36,18 @@ PC-Science-and-language
     :numbered:
 
     pracs/errors_in_science.rst
-    pracs/errors_systematic.rst
+
     pracs/errors_random.rst
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪⛔ Prac Systematic Errors
+    :numbered:
+
+    pracs/errors_systematic.rst
+    pracs/errors_zero.rst
+    pracs/errors_parallax.rst
+
 
 
 .. toctree::
@@ -48,23 +58,6 @@ PC-Science-and-language
     pracs/errors_personal.rst
     pracs/errors_operator.rst
     pracs/errors_recording.rst
-
-
-
-    .. pracs/errors_introduction.rst
-    .. pracs/errors_equipment.rst
-    .. pracs/errors_procedural.rst
-    .. pracs/errors_measurement.rst
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🧪➕ Prac Improvements
-    :numbered:
-
-    .. pracs/improvements_introduction.rst
-    .. pracs/improvements_procedural.rst
-    .. pracs/improvements_equipment.rst
-    .. pracs/improvements_measurement.rst
 
 
 .. toctree::
