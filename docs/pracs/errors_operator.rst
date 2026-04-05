@@ -11,7 +11,8 @@ Examples:
 * Heating a sample for too long because the timer was not started
 * Placing equipment in the wrong position during setup
 
-.. note::
+.. admonition:: Operator Errors: A Four-Step Analysis
+    :class: note
 
     Use the four-step framework to analyse any operator error:
 
