@@ -169,7 +169,7 @@ Quick Reference: Mapping Source to Classification
 
 .. list-table::
     :header-rows: 1
-    :widths: 24 24 20 36
+    :widths: 36 20 20 36
 
     * - Error
       - Source Category
