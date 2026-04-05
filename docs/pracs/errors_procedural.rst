@@ -1,15 +1,32 @@
 ================================================
-Procedural errors
+Procedural and Measurement Errors
 ================================================
 
-Procedural errors are mistakes made by the researcher during the experimental procedure.
+Procedural and Measurement Errors are mistakes made by the researcher during an experiment that can lead to inaccurate or imprecise measurements.
 
-----
+**Procedural and Measurement Errors**
+- Errors arising from how measurements are taken, recorded, or how procedures are followed.
 
-Types of Procedural errors
----------------------------------
+.. list-table::
+    :header-rows: 1
+    :widths: 25 75
 
-Procedural errors are mistakes made by the researcher during the experimental procedure.
+    * - Error Type
+      - Description
+
+    * - Parallax error
+      - Occurs when a scale is read from an incorrect viewing angle.
+
+    * - Operator (technique) error
+      - Occurs when equipment is used incorrectly or the procedure is not followed correctly.
+
+    * - Method limitation
+      - A limitation in the experimental design (not due to the operator) that introduces bias.
+
+    * - Recording error
+      - Occurs when data are written down or interpreted incorrectly.
+
+
 
 ----
 
