@@ -17,6 +17,7 @@ Examples:
 * Viewing a burette from an angle during a titration, giving a
   consistently incorrect volume reading
 
+
 .. admonition:: Parallax Error: A Four-Step Analysis
     :class: premise
 
@@ -42,7 +43,7 @@ Examples:
         Parallax error is eliminated, not averaged out — position the eye
         correctly before every reading.
 
-    ----
+----
 
 Effect
 ------
