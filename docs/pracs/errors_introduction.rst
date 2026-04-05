@@ -52,7 +52,7 @@ Errors in scientific experiments can be grouped into three main categories to he
 .. image:: images/Types_of_errors_infographic.png
     :alt: Types of Errors Infographic
     :align: center
-    :scale: 35%
+    :scale: 60%
 
 ----
 
