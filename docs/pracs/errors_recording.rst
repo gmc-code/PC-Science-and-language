@@ -2,8 +2,9 @@
 Recording Errors
 ================
 
-**Recording errors** occur when the researcher makes a mistake in writing
-down, reading, or transferring data. They are classified as **personal
+| **Recording errors** occur when the researcher makes a mistake in writing
+down, reading, or transferring data.
+| They are classified as **personal
 errors** — one-off mistakes rather than true measurement errors.
 
 Examples:
@@ -40,6 +41,8 @@ Examples:
         Recording errors are eliminated, not reduced — check the record
         immediately and re-read or repeat the measurement correctly.
 
+----
+
 Effect
 ------
 
@@ -50,6 +53,8 @@ one-off mistake rather than a consistent or random influence, they:
 * do **not** introduce systematic bias,
 * should **not** be included when calculating a mean or assessing
   uncertainty, as the data were not recorded correctly.
+
+----
 
 Improvements
 ------------
@@ -67,3 +72,4 @@ recorded rather than after the experiment is complete.
   are recorded in the correct row and column.
 * Read instruments at eye level and state the reading aloud before writing
   it down, to catch misreads before they are committed to the table.
+

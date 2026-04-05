@@ -10,6 +10,7 @@ Personal Errors
 * Not representative of measurement uncertainty
 * Excluded from uncertainty calculations
 
+
 **Common personal errors**
 
 .. list-table::
@@ -24,6 +25,7 @@ Personal Errors
       - Data written down or interpreted incorrectly.
     * - One-off misreading
       - Scale read incorrectly due to inattention.
+
 
 **Response to personal errors**
 

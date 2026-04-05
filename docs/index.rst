@@ -38,9 +38,18 @@ PC-Science-and-language
     pracs/errors_in_science.rst
     pracs/errors_systematic.rst
     pracs/errors_random.rst
-    pracs/errors_personal.rst
 
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪⛔ Prac Personal Errors
+    :numbered:
+
+    pracs/errors_personal.rst
     pracs/errors_operator.rst
+    pracs/errors_recording.rst
+
+
 
     .. pracs/errors_introduction.rst
     .. pracs/errors_equipment.rst
