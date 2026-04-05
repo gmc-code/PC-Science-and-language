@@ -35,6 +35,9 @@ PC-Science-and-language
     :caption: 🧪⛔ Prac Errors
     :numbered:
 
+
+    pracs/errors_in_science.rst
+
     pracs/errors_introduction.rst
     pracs/errors_equipment.rst
     pracs/errors_procedural.rst
