@@ -1,175 +1,161 @@
-================================================
-Errors in Scientific Experiments
-================================================
+Types of Errors in Scientific Experiments
+==========================================
 
-Errors in scientific experiments can be grouped into three main categories to help explain measurement quality:
+*Understanding error types helps evaluate the accuracy, precision, and
+validity of experimental results.*
 
-**Instrumental limitations**
-- Limitations due to the measuring device.
+.. note::
 
-.. list-table::
-    :header-rows: 1
-    :widths: 25 75
+   **⚠ VCAA Exam Note**
 
-    * - Error Type
-      - Description
-
-    * - Zero error
-      - Occurs when the instrument does not read zero when it should.
-
-    * - Calibration error
-      - Occurs when the instrument is incorrectly calibrated or faulty.
-
-    * - Resolution limitation
-      - Occurs when precision is limited by the smallest scale division of the instrument.
+   The three categories below are a teaching framework. For VCE exams
+   (Biology, Chemistry, Physics, Psychology), VCAA requires you to classify
+   all errors as **random** or **systematic** — and to treat operator
+   mistakes and recording errors as **personal errors**, which are *distinct*
+   from true measurement errors.
 
 
-**Procedural and Measurement errors**
-- Errors due to how measurements are taken or recorded.
+1. Instrumental Limitations
+----------------------------
+
+*Errors arising from the measuring device itself.*
 
 .. list-table::
-    :header-rows: 1
-    :widths: 25 75
+   :header-rows: 1
+   :widths: 22 52 26
 
-    * - Error Type
-      - Description
+   * - Error Type
+     - Description
+     - VCAA Classification
+   * - **Zero Error**
+     - Occurs when the instrument does not read zero when it should
+       (e.g. a balance reading 0.2 g with nothing on it).
+     - Systematic — consistently shifts all readings in one direction.
+   * - **Calibration Error**
+     - Occurs when the instrument is incorrectly calibrated or faulty,
+       giving inaccurate readings across its range.
+     - Systematic — affects accuracy; cannot be fixed by repeating
+       measurements.
+   * - **Resolution Limitation**
+     - Precision is limited by the smallest scale division of the instrument
+       (e.g. a ruler marked in mm cannot resolve 0.5 mm).
+     - Random — introduces spread when estimating between graduations.
 
-    * - Parallax error
-      - Occurs when a scale is read from an incorrect viewing angle.
+.. tip::
 
-    * - Operator (technique) error
-      - Occurs when equipment is used incorrectly or the procedure is not followed correctly.
-
-    * - Method limitation
-      - A limitation in the experimental design (not due to the operator) that introduces bias.
-
-    * - Recording error
-      - Occurs when data are written down or interpreted incorrectly.
+   Check instruments read zero before use and confirm they are within
+   calibration. The resolution limitation is inherent — report measurements
+   to the precision the instrument allows.
 
 
-**Random and Systematic Errors**
-- Describe variation in measured results.
--
+2. Procedural and Measurement Errors
+--------------------------------------
+
+*Errors arising from how measurements are taken or recorded.*
+
 .. list-table::
-    :header-rows: 1
-    :widths: 25 75
+   :header-rows: 1
+   :widths: 22 52 26
 
-    * - Error Type
-      - Description
+   * - Error Type
+     - Description
+     - VCAA Classification
+   * - **Parallax Error**
+     - Occurs when a scale is read from an incorrect viewing angle, causing
+       the apparent reading to differ from the true value.
+     - Systematic — consistently over- or under-reads in the same direction.
+   * - **Operator / Technique Error** ★
+     - Occurs when equipment is used incorrectly or the correct procedure is
+       not followed (e.g. not waiting for a thermometer to equilibrate).
+     - Personal error — treat as a mistake; eliminate by repeating the
+       measurement correctly.
+   * - **Method Limitation**
+     - A flaw in the experimental design itself (not the operator) that
+       introduces bias — e.g. using a coloured solution in a titration
+       without a suitable indicator.
+     - Systematic — a source of systematic error; cannot be corrected by
+       repetition.
+   * - **Recording Error** ★
+     - Occurs when data are written down or interpreted incorrectly
+       (e.g. transposing digits, misreading units).
+     - Personal error — treat as a mistake; correct by careful checking and
+       re-reading.
 
-    * - Random variation
-      - Unpredictable fluctuations between measurements that reduce precision.
-
-    * - Systematic bias
-      - A consistent shift in one direction from the true value, affecting accuracy.
-
-
-.. image:: images/Types_of_errors_infographic.png
-    :alt: Types of Errors Infographic
-    :align: center
-    :scale: 60%
-
-----
-
-.. admonition:: Cloze Questions
-    :class: questions
-
-    Complete each sentence with the correct verb.
-
-    **Word list (A → Z):**
-    align • check • detect • read • repeat
-
-    1. To avoid zero error, researchers must _______________ that the instrument begins at the correct baseline.
-
-    2. To prevent resolution limitations, scientists should _______________ scales with enough precision for the measurement.
-
-    3. To avoid parallax error, students must _______________ the scale from a straight-on viewing angle.
-
-    4. To identify random variation, researchers should _______________ measurements and compare the results.
-
-    5. To recognise systematic bias, scientists must _______________ patterns that consistently shift in one direction.
+★ Operator and recording errors are classified as **personal errors** by
+VCAA — they are mistakes, not true measurement errors, and should not be
+included in uncertainty calculations.
 
 
-    .. dropdown::
-        :icon: codescan
-        :color: primary
+3. Random and Systematic Errors
+---------------------------------
 
-        .. tab-set::
+*Describes how measurement errors behave and affect data quality.*
 
-            .. tab-item:: Answers
+.. list-table::
+   :header-rows: 1
+   :widths: 22 52 26
 
-                1. check
-                2. read
-                3. align
-                4. repeat
-                5. detect
-
-
-----
-
-.. admonition:: Multiple-Choice Questions
-    :class: questions
-
-    Choose the best answer for each question.
-
-    1. A balance consistently reads 0.05 g when empty. What type of error is this?
-
-        | a. Calibration error
-        | b. Zero error
-        | c. Random variation
-        | d. Recording error
-
-    2. A ruler marked only in centimetres is used to measure a small object. What is the main limitation?
-
-        | a. Zero error
-        | b. Resolution limitation
-        | c. Systematic bias
-        | d. Operator error
-
-    3. A student reads a measuring cylinder from above instead of at eye level. What error is introduced?
-
-        | a. Recording error
-        | b. Calibration error
-        | c. Parallax error
-        | d. Random variation
-
-    4. An experiment is designed so that heat is lost to the surroundings in every trial, even when performed correctly. What best describes this issue?
-
-        | a. Operator error
-        | b. Method limitation
-        | c. Random variation
-        | d. Recording error
-
-    5. Repeated measurements of the same quantity vary slightly above and below the true value. What does this indicate?
-
-        | a. Systematic bias
-        | b. Calibration error
-        | c. Random variation
-        | d. Zero error
-
-    6. All measurements in an experiment are consistently higher than the true value. What is the most likely explanation?
-
-        | a. Random variation
-        | b. Recording error
-        | c. Systematic bias
-        | d. Resolution limitation
+   * - Error Type
+     - Description
+     - Effect on Data
+   * - **Random Variation**
+     - Unpredictable fluctuations between measurements caused by instrument
+       resolution limits, environmental changes, or slight procedural
+       variation.
+     - Reduces precision. Can be minimised by repeating measurements and
+       averaging.
+   * - **Systematic Bias**
+     - A consistent shift of all measurements in one direction from the true
+       value. Sources include faulty calibration, zero error, parallax error,
+       and method flaws.
+     - Reduces accuracy. Repeating measurements does **NOT** help — the
+       source must be identified and eliminated.
 
 
-    .. dropdown::
-        :icon: codescan
-        :color: primary
+Quick Reference: VCAA Classification Summary
+---------------------------------------------
 
-        .. tab-set::
+.. list-table::
+   :header-rows: 1
+   :widths: 26 22 22 30
 
-            .. tab-item:: Answers
-
-                1. b — Zero error
-                2. b — Resolution limitation
-                3. c — Parallax error
-                4. b — Method limitation
-                5. c — Random variation
-                6. c — Systematic bias
-
-
-
-
+   * - Error
+     - Category (this framework)
+     - VCAA Classification
+     - Fix / Reduce by…
+   * - Zero error
+     - Instrumental
+     - Systematic
+     - Zero instrument before use
+   * - Calibration error
+     - Instrumental
+     - Systematic
+     - Verify/recalibrate instrument
+   * - Resolution limitation
+     - Instrumental
+     - Random
+     - Use higher-resolution instrument
+   * - Parallax error
+     - Procedural
+     - Systematic
+     - Read at eye level / straight-on
+   * - Operator / technique error
+     - Procedural
+     - Personal error (mistake)
+     - Follow procedure; repeat correctly
+   * - Method limitation
+     - Procedural
+     - Systematic
+     - Redesign experimental method
+   * - Recording error
+     - Procedural
+     - Personal error (mistake)
+     - Check and re-read data carefully
+   * - Random variation
+     - Random & Systematic
+     - Random
+     - Repeat measurements; calculate mean
+   * - Systematic bias
+     - Random & Systematic
+     - Systematic
+     - Identify and eliminate the source
