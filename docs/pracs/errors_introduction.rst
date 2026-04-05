@@ -24,7 +24,7 @@ Errors in scientific experiments can be grouped into three main categories to he
       - Occurs when precision is limited by the smallest scale division of the instrument.
 
 
-**Observational / Operator errors**
+**Procedural and Measurement errors**
 - Errors due to how measurements are taken or recorded.
 
 .. list-table::
