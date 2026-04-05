@@ -36,6 +36,10 @@ PC-Science-and-language
     :numbered:
 
     pracs/errors_in_science.rst
+    pracs/errors_systematic.rst
+    pracs/errors_random.rst
+    pracs/errors_personal.rst
+
     pracs/errors_operator.rst
 
     .. pracs/errors_introduction.rst
