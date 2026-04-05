@@ -6,6 +6,73 @@ Errors in scientific experiments can be grouped into three main categories to he
 
 Errors in scientific experiments can be grouped into three main categories to help explain measurement quality:
 
+**Instrumental limitations**
+
+.. list-table::
+    :header-rows: 1
+    :widths: 25 75
+
+    * - Error Type
+      - Description
+
+    * - Zero error
+      - Occurs when the instrument does not read zero when it should.
+
+    * - Calibration error
+      - Occurs when the instrument is incorrectly calibrated or faulty.
+
+    * - Resolution limitation
+      - Occurs when precision is limited by the smallest scale division of the instrument.
+
+
+**Observational / Operator errors**
+
+.. list-table::
+    :header-rows: 1
+    :widths: 25 75
+
+    * - Error Type
+      - Description
+
+    * - Parallax error
+      - Occurs when a scale is read from an incorrect viewing angle.
+
+    * - Operator (technique) error
+      - Occurs when equipment is used incorrectly or the procedure is not followed correctly.
+
+    * - Method limitation
+      - A limitation in the experimental design (not due to the operator) that introduces bias.
+
+    * - Recording error
+      - Occurs when data are written down or interpreted incorrectly.
+
+
+**Random and Systematic Errors**
+
+.. list-table::
+    :header-rows: 1
+    :widths: 25 75
+
+    * - Error Type
+      - Description
+
+    * - Random variation
+      - Unpredictable fluctuations between measurements that reduce precision.
+
+    * - Systematic bias
+      - A consistent shift in one direction from the true value, affecting accuracy.
+
+***
+
+✅ This structure is **clean, curriculum-aligned, and assessment-ready**, and works well in Markdown → Sphinx / reST workflows commonly used in Victorian teaching materials.
+
+If you want, I can also:
+
+*   Add **examples for each error**
+*   Adapt this for a **student worksheet**
+*   Simplify it for **Years 7–8** or tighten language for **VCE Units 3–4**
+
+
 .. list-table:: Types of Errors
     :header-rows: 1
     :widths: 25 75
