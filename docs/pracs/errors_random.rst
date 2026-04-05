@@ -14,7 +14,7 @@ Random Errors
 
 .. list-table::
     :header-rows: 1
-    :widths: 22 38 40
+    :widths: 22 30 48
 
     * - Source
       - Error Type
@@ -31,6 +31,130 @@ Random Errors
     * - Procedural
       - Minor technique variation
       - Small unavoidable variations between trials.
+
+Random Errors
+=============
+
+**Random errors** cause unpredictable, unsystematic variation between
+measurements. They affect **precision** and can be reduced — but never
+eliminated — by repeating measurements and calculating a mean.
+
+.. note::
+
+   Use the four-step framework to analyse any random error:
+
+   **Step 1 — Identify the source**
+      Instrument, observation/procedure, method, or environment — the
+      variation is unpredictable and differs in size and direction between
+      trials.
+
+   **Step 2 — Classify the behaviour**
+      Unpredictable spread → **Random error** → affects precision.
+
+   **Step 3 — Explain the impact**
+      Results are scattered around the true value. No single reading is
+      consistently too high or too low — the error averages out over many
+      measurements.
+
+   **Step 4 — Suggest an improvement** *(this is what VCAA marks)*
+      Repeat measurements and calculate a mean; increase sample size;
+      use a higher-resolution instrument where the source is instrumental.
+
+Sources and Examples
+--------------------
+
+.. list-table::
+    :header-rows: 1
+    :widths: 16 20 28 36
+
+    * - Source
+      - Error Type
+      - Explanation
+      - Examples
+    * - Instrumental
+      - Resolution limitation
+      - Estimation between scale divisions varies unpredictably from trial
+        to trial.
+      - Reading a ruler to the nearest mm when the true value falls between
+        graduations; estimating the last digit on an analogue thermometer.
+    * - Instrumental
+      - Reading fluctuation
+      - A needle or digital display oscillates unpredictably, so each
+        reading captures a different instantaneous value.
+      - A top-pan balance display flickering between 1.42 g and 1.44 g;
+        an ammeter needle that does not settle completely.
+    * - Instrumental
+      - Worn or loose components
+      - Mechanical play in the instrument introduces a different offset each
+        time it is used.
+      - A balance pan that wobbles slightly between measurements; a loose
+        clamp on a retort stand causing small positional changes.
+    * - Observation / Procedure
+      - Reaction time
+      - Stopping or starting a timer at slightly different points each trial
+        introduces a variable delay.
+      - Timing a pendulum swing by hand; recording the moment a colour
+        change occurs in a titration. *Note: the direction of error is
+        unpredictable, so this is random, not systematic.*
+    * - Observation / Procedure
+      - Meniscus reading variation
+      - Slight differences in eye position each time a liquid level is read,
+        even when the observer is trying to be consistent.
+      - Reading a burette or measuring cylinder across multiple trials.
+        *Distinct from parallax error, which is systematic because the
+        observer's position is consistently wrong.*
+    * - Observation / Procedure
+      - Sample variability
+      - Selecting slightly different amounts of a substance by eye rather
+        than by mass introduces unpredictable differences between trials.
+      - Scooping a "spatula tip" of powder; cutting a leaf disc by hand for
+        a photosynthesis experiment.
+    * - Method
+      - Natural biological variation
+      - Inherent variability in living systems means repeated measurements
+        on the same or different organisms differ unpredictably.
+      - Measuring resting heart rate across multiple trials; enzyme activity
+        assays repeated on the same sample.
+    * - Method
+      - Sampling variation
+      - Randomly selecting different subsets of a population introduces
+        unpredictable spread in results.
+      - Counting organisms in randomly placed quadrats; selecting
+        participants for a psychology study.
+    * - Environmental
+      - Temperature fluctuation
+      - Small uncontrolled temperature changes alter the physical or
+        chemical properties being measured between trials.
+      - Slight room temperature variation affecting the density of a liquid;
+        enzyme activity fluctuating as lab temperature drifts.
+    * - Environmental
+      - Vibration / interference
+      - Mechanical vibration or electromagnetic noise causes readings to
+        fluctuate unpredictably.
+      - A sensitive balance near a fume cupboard fan; electrical noise
+        causing fluctuations in a voltage sensor.
+    * - Environmental
+      - Air currents
+      - Drafts near a balance or open apparatus cause fluctuating readings
+        between trials.
+      - A nearby window or air-conditioning vent affecting a top-pan balance;
+        a draught disturbing a flame and altering temperature readings.
+    * - Environmental
+      - Humidity variation
+      - Changes in atmospheric humidity affect the mass of hygroscopic
+        substances unpredictably between measurements.
+      - Repeated mass readings of a dried salt sample left on the bench;
+        moisture absorption by filter paper between trials.
+
+.. tip::
+
+   **Common misclassification to avoid:** reaction time and meniscus
+   reading are often assumed to be systematic because a human is involved.
+   They are random because the direction and size of the mistake varies
+   unpredictably between trials. If the observer *always* positions their
+   eye from the same wrong angle, that becomes systematic (parallax error).
+   The key question is: *is the deviation consistent in direction, or
+   not?*
 
 **Reducing random errors**
 
