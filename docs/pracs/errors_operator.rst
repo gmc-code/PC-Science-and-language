@@ -12,7 +12,7 @@ Examples:
 * Placing equipment in the wrong position during setup
 
 .. admonition:: Operator Errors: A Four-Step Analysis
-    :class: note
+    :class: premise
 
     Use the four-step framework to analyse any operator error:
 

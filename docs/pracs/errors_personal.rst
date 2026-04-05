@@ -17,13 +17,13 @@ Personal Errors
     :widths: 28 72
 
     * - Personal Error
-        - Explanation
+      - Explanation
     * - Operator / technique error
-        - Procedure not followed correctly or equipment misused.
+      - Procedure not followed correctly or equipment misused.
     * - Recording error
-        - Data written down or interpreted incorrectly.
+      - Data written down or interpreted incorrectly.
     * - One-off misreading
-        - Scale read incorrectly due to inattention.
+      - Scale read incorrectly due to inattention.
 
 **Response to personal errors**
 
