@@ -50,9 +50,9 @@ Errors in scientific experiments can be grouped into three main categories to he
       - A consistent shift in one direction from the true value, affecting accuracy.
 
 .. image:: docs/pracs/images/Types_of_errors_infographic.png
-   :alt: Types of Errors Infographic
-   :align: center
-   :scale: 35%
+    :alt: Types of Errors Infographic
+    :align: center
+    :scale: 35%
 
 ----
 
