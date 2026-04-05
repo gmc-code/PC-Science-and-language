@@ -17,23 +17,23 @@ Systematic Errors
     :widths: 22 38 40
 
     * - Source
-        - Error Type
-        - Explanation
+      - Error Type
+      - Explanation
     * - Instrumental
-        - Zero error
-        - Instrument does not read zero, shifting all values.
+      - Zero error
+      - Instrument does not read zero, shifting all values.
     * - Instrumental
-        - Calibration error
-        - Scale or sensor is incorrectly calibrated.
+      - Calibration error
+      - Scale or sensor is incorrectly calibrated.
     * - Observational
-        - Parallax error
-        - Scale consistently viewed from an incorrect angle.
+      - Parallax error
+      - Scale consistently viewed from an incorrect angle.
     * - Method
-        - Method limitation
-        - Experimental design introduces inherent bias.
+      - Method limitation
+      - Experimental design introduces inherent bias.
     * - Environmental
-        - Constant temperature / lighting bias
-        - Conditions consistently differ from intended controls.
+      - Constant temperature / lighting bias
+      - Conditions consistently differ from intended controls.
 
 **Reducing systematic errors**
 
@@ -69,52 +69,52 @@ To reduce systematic error, calibrate equipment and compare measurements with kn
 
     1. Which action best helps prevent a **systematic error** before taking measurements?
 
-        | a. Calibrating the instrument against a known standard
-        | b. Repeating the measurement several times and averaging the results
-        | c. Allowing the instrument to settle before taking a reading
-        | d. Reading the scale at eye level to avoid parallax
+      | a. Calibrating the instrument against a known standard
+      | b. Repeating the measurement several times and averaging the results
+      | c. Allowing the instrument to settle before taking a reading
+      | d. Reading the scale at eye level to avoid parallax
 
     2. Which situation best illustrates a researcher **preventing systematic error**?
 
-        | a. A student repeats a measurement five times to reduce fluctuations
-        | b. A balance pan is disturbed by a sudden vibration
-        | c. A researcher compares two thermometers to confirm they give consistent readings
-        | d. A student forgets to start the timer during a reaction
+      | a. A student repeats a measurement five times to reduce fluctuations
+      | b. A balance pan is disturbed by a sudden vibration
+      | c. A researcher compares two thermometers to confirm they give consistent readings
+      | d. A student forgets to start the timer during a reaction
 
     3. How can a researcher detect a **systematic error** in a thermometer?
 
-        | a. Repeat the measurement five times and calculate the mean
-        | b. Compare recorded values against the accepted boiling point of 100°C
-        | c. Allow the thermometer to settle before taking a reading
-        | d. Close windows to reduce temperature fluctuations in the room
+      | a. Repeat the measurement five times and calculate the mean
+      | b. Compare recorded values against the accepted boiling point of 100°C
+      | c. Allow the thermometer to settle before taking a reading
+      | d. Close windows to reduce temperature fluctuations in the room
 
     4. Why should a researcher use two different rulers to measure the same length?
 
-        | a. To reduce random errors caused by environmental conditions
-        | b. To cross-check measurements and detect a systematic bias in one instrument
-        | c. To avoid parallax errors when reading the scale
-        | d. To ensure the instrument has been reset to zero before use
+      | a. To reduce random errors caused by environmental conditions
+      | b. To cross-check measurements and detect a systematic bias in one instrument
+      | c. To avoid parallax errors when reading the scale
+      | d. To ensure the instrument has been reset to zero before use
 
     5. Which action best helps prevent a **systematic error**?
 
-        | a. Repeating measurements and averaging the results
-        | b. Minimising movement and handling during measurement
-        | c. Controlling temperature and lighting in the laboratory
-        | d. Calibrating instruments against a known standard before use
+      | a. Repeating measurements and averaging the results
+      | b. Minimising movement and handling during measurement
+      | c. Controlling temperature and lighting in the laboratory
+      | d. Calibrating instruments against a known standard before use
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+      :icon: codescan
+      :color: primary
+      :class-container: sd-dropdown-container
 
-        .. tab-set::
+      .. tab-set::
 
-            .. tab-item:: Answers
+          .. tab-item:: Answers
 
-                1. a — Calibrating the instrument against a known standard
-                2. c — A researcher compares two thermometers to confirm they give consistent readings
-                3. b — Compare recorded values against the accepted boiling point of 100°C
-                4. b — To cross-check measurements and detect a systematic bias in one instrument
-                5. d — Calibrating instruments against a known standard before use
+            1. a — Calibrating the instrument against a known standard
+            2. c — A researcher compares two thermometers to confirm they give consistent readings
+            3. b — Compare recorded values against the accepted boiling point of 100°C
+            4. b — To cross-check measurements and detect a systematic bias in one instrument
+            5. d — Calibrating instruments against a known standard before use
 
 

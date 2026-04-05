@@ -17,20 +17,20 @@ Random Errors
     :widths: 22 38 40
 
     * - Source
-        - Error Type
-        - Explanation
+      - Error Type
+      - Explanation
     * - Instrumental
-        - Resolution limitation
-        - Estimation between scale divisions varies.
+      - Resolution limitation
+      - Estimation between scale divisions varies.
     * - Environmental
-        - Temperature fluctuation
-        - Small uncontrolled changes affect readings.
+      - Temperature fluctuation
+      - Small uncontrolled changes affect readings.
     * - Environmental
-        - Vibration / interference
-        - Readings fluctuate due to instability.
+      - Vibration / interference
+      - Readings fluctuate due to instability.
     * - Procedural
-        - Minor technique variation
-        - Small unavoidable variations between trials.
+      - Minor technique variation
+      - Small unavoidable variations between trials.
 
 **Reducing random errors**
 
