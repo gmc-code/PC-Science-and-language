@@ -13,8 +13,8 @@ Random Errors
 **Common sources of random error**
 
 .. list-table::
-   :header-rows: 1
-   :widths: 22 38 40
+    :header-rows: 1
+    :widths: 22 38 40
 
     * - Source
         - Error Type

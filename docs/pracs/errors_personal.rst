@@ -13,8 +13,8 @@ Personal Errors
 **Common personal errors**
 
 .. list-table::
-   :header-rows: 1
-   :widths: 28 72
+    :header-rows: 1
+    :widths: 28 72
 
     * - Personal Error
         - Explanation
