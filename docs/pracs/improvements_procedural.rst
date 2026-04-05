@@ -4,33 +4,33 @@ Improvements for Procedural Errors
 
 Improvements are specific strategies to minimise the impact of errors.
 
-In practical investigations, results can be affected by procedural errors — mistakes in how the experiment is carried out, observed, or recorded. These errors reduce the reliability of the data because they come from the researcher's actions rather than the equipment itself. Personal errors occur when steps are not followed correctly, parallax errors occur when measurements are read from the wrong angle, and human errors occur when data is recorded or interpreted incorrectly.
+In practical investigations, results can be affected by procedural errors — mistakes in how the experiment is carried out, observed, or recorded. These errors reduce the reliability of the data because they come from the researcher's actions rather than the equipment itself. Operator errors occur when steps are not followed correctly, parallax errors occur when measurements are read from the wrong angle, and Recording errors occur when data is recorded or interpreted incorrectly.
 
-Improving procedures means using careful, consistent techniques at every stage of the experiment. This includes following each step accurately to avoid personal error, reading scales at eye level to prevent parallax error, and recording data immediately and checking entries to reduce human error. By recognising these procedural issues and applying the right improvement, students can produce results that are more consistent, more trustworthy, and easier to interpret.
+Improving procedures means using careful, consistent techniques at every stage of the experiment. This includes following each step accurately to avoid Operator error, reading scales at eye level to prevent parallax error, and recording data immediately and checking entries to reduce Recording error. By recognising these procedural issues and applying the right improvement, students can produce results that are more consistent, more trustworthy, and easier to interpret.
 
 
 .. admonition:: Procedural Errors (Summary)
     :class: summary
 
-    **Personal errors**
-    To reduce personal error, follow the procedure carefully and practise the required techniques so each step is carried out correctly.
+    **Operator errors**
+    To reduce Operator error, follow the procedure carefully and practise the required techniques so each step is carried out correctly.
 
     **Parallax errors**
     To reduce parallax error, read all scales at eye level and use consistent viewing positions to avoid angled or distorted readings.
 
-    **Human errors**
-    To reduce human error, record data immediately and double-check entries to prevent mistakes in writing, reading, or interpreting results.
+    **Recording errors**
+    To reduce Recording error, record data immediately and double-check entries to prevent mistakes in writing, reading, or interpreting results.
 
 ----
 
-Improvements: Personal Errors
+Improvements: Operator errors
 -----------------------------------------
 
-.. rubric:: Improvements: Personal Errors
+.. rubric:: Improvements: Operator errors
 
-**Personal errors** occur when the researcher makes a mistake in carrying out the procedure
+**Operator errors** occur when the researcher makes a mistake in carrying out the procedure
 
-To reduce personal error, follow the procedure carefully and practise the required techniques so each step is carried out correctly.
+To reduce Operator error, follow the procedure carefully and practise the required techniques so each step is carried out correctly.
 
 .. rubric:: Improvements:
 
@@ -41,26 +41,26 @@ To reduce personal error, follow the procedure carefully and practise the requir
 
 ----
 
-.. admonition:: Multiple-Choice Questions — Set 1: Improvements for Personal Errors
+.. admonition:: Multiple-Choice Questions — Set 1: Improvements for Operator errors
     :class: questions
 
     Choose the best answer for each question.
 
-    1. Which action best helps reduce **personal error** during an experiment?
+    1. Which action best helps reduce **Operator error** during an experiment?
 
         | a. Calibrating the instrument before every reading
         | b. Following each step of the procedure carefully and consistently
         | c. Reading the scale at eye level to avoid parallax
         | d. Averaging repeated measurements to reduce random variation
 
-    2. Which situation best illustrates a researcher **preventing personal error**?
+    2. Which situation best illustrates a researcher **preventing Operator error**?
 
         | a. A researcher carefully selecting the correct masses to ensure variables are controlled
         | b. A balance pan disturbed by a sudden vibration
         | c. A thermometer that consistently reads 2°C too low
         | d. A scale read from above eye level
 
-    3. How can a researcher prevent **personal errors** when measuring volumes?
+    3. How can a researcher prevent **Operator errors** when measuring volumes?
 
         | a. Calibrate the measuring cylinder against a known standard
         | b. Ensure the same volume of solution is used in each trial rather than approximating
@@ -74,7 +74,7 @@ To reduce personal error, follow the procedure carefully and practise the requir
         | c. To avoid parallax errors when reading the scale
         | d. To build familiarity and reduce procedural mistakes during the experiment
 
-    5. Which action best helps prevent **personal errors** during an experiment?
+    5. Which action best helps prevent **Operator errors** during an experiment?
 
         | a. Comparing results against a known reference value
         | b. Reading all scales at a consistent eye level
@@ -145,7 +145,7 @@ To reduce parallax error, read all scales at eye level and use consistent viewin
         | a. To ensure the instrument is calibrated before each reading
         | b. To prevent the thermometer from moving between measurements
         | c. To maintain a consistent angle and reduce parallax error across all readings
-        | d. To avoid personal errors caused by incorrect technique
+        | d. To avoid Operator errors caused by incorrect technique
 
     5. Which action best helps prevent **parallax errors** when measuring length?
 
@@ -171,12 +171,12 @@ To reduce parallax error, read all scales at eye level and use consistent viewin
 
 ----
 
-Improvements: Human Errors
+Improvements: Recording errors
 -----------------------------------------
 
-**Human errors** occur when the researcher makes a mistake in recording or interpreting data.
+**Recording errors** occur when the researcher makes a mistake in recording or interpreting data.
 
-To reduce human error, record data immediately and double-check entries to prevent mistakes in writing, reading, or interpreting results.
+To reduce Recording error, record data immediately and double-check entries to prevent mistakes in writing, reading, or interpreting results.
 
 .. rubric:: Improvements:
 
@@ -187,19 +187,19 @@ To reduce human error, record data immediately and double-check entries to preve
 
 ----
 
-.. admonition:: Multiple-Choice Questions — Set 3: Improvements for Human Errors
+.. admonition:: Multiple-Choice Questions — Set 3: Improvements for Recording errors
     :class: questions
 
     Choose the best answer for each question.
 
-    1. Which action best reduces **human error** when recording measurements?
+    1. Which action best reduces **Recording error** when recording measurements?
 
         | a. Calibrating the instrument before every reading
         | b. Repeating the measurement several times and averaging the results
         | c. Reading the scale at eye level to avoid parallax
         | d. Writing down each value immediately after it is taken
 
-    2. Which situation best illustrates a researcher **preventing human error**?
+    2. Which situation best illustrates a researcher **preventing Recording error**?
 
         | a. Resetting a thermometer to zero before use
         | b. Using a mirrored scale to avoid angled readings
@@ -213,14 +213,14 @@ To reduce human error, record data immediately and double-check entries to preve
         | c. To avoid environmental conditions affecting the reading
         | d. To reduce systematic bias in the results
 
-    4. How does using a **pre-formatted results table** help reduce human errors?
+    4. How does using a **pre-formatted results table** help reduce Recording errors?
 
         | a. It reduces the chance of values being recorded in the wrong column
         | b. It controls environmental conditions during data collection
         | c. It ensures the instrument is reset to zero before each measurement
         | d. It calibrates the instrument against a known standard
 
-    5. Which action best helps prevent **human errors** during data collection?
+    5. Which action best helps prevent **Recording errors** during data collection?
 
         | a. Closing windows to reduce temperature fluctuations in the room
         | b. Avoiding conversation and minimising distractions when entering values

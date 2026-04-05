@@ -1,15 +1,15 @@
 ================================================
-Improvements for Measurement Errors
+Improvements for Random and Systematic Errors
 ================================================
 
 Improvements are specific strategies to minimise the impact of errors.
 
-In practical investigations, measurements can be affected by measurement errors — problems that arise from unpredictable fluctuations or from consistent biases in the way values are obtained. These errors reduce confidence in the data because they can make results less accurate, less precise, or both. Random errors cause measurements to vary unpredictably from trial to trial, while systematic errors shift all measurements in the same direction away from the true value.
+In practical investigations, measurements can be affected by Random and Systematic Errors — problems that arise from unpredictable fluctuations or from consistent biases in the way values are obtained. These errors reduce confidence in the data because they can make results less accurate, less precise, or both. Random errors cause measurements to vary unpredictably from trial to trial, while systematic errors shift all measurements in the same direction away from the true value.
 
 Improving measurement quality means choosing strategies that directly address these issues. Random error can be reduced by repeating measurements and averaging the results to smooth out fluctuations, while systematic error can be reduced by calibrating instruments and comparing readings with known reference values. By recognising the type of measurement error and applying the appropriate improvement, students can produce data that is more reliable, more consistent, and more representative of the true value.
 
 
-.. admonition:: Improvements for Measurement Errors
+.. admonition:: Improvements for Random and Systematic Errors
     :class: summary
 
     **Random errors**

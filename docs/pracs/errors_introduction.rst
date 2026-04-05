@@ -2,47 +2,57 @@
 Errors in Scientific Experiments
 ================================================
 
-Errors in scientific experiments can be grouped into three main categories:
+Errors in scientific experiments can be grouped into three main categories to help explain measurement quality:
+
+Errors in scientific experiments can be grouped into three main categories to help explain measurement quality:
 
 .. list-table:: Types of Errors
-   :header-rows: 1
-   :widths: 25 75
+    :header-rows: 1
+    :widths: 25 75
 
-   * - Error Type
-     - Description
+    * - Error Type
+      - Description
 
-   * - **Equipment errors**
-     - Problems caused by the instrument itself or how it is set up
+    * - **Instrumental limitations**
+      - Limitations due to the measuring device.
 
-   * - Instrument error
-     - Occurs when a piece of equipment is faulty or not set up correctly
+    * - Zero error
+      - Occurs when the instrument does not read zero when it should.
 
-   * - Reading error
-     - Occurs when the measuring instrument does not have a fine enough scale to take an accurate reading
+    * - Calibration error
+      - Occurs when the instrument is incorrectly calibrated or faulty.
 
-   * - Zero error
-     - Occurs when an instrument is not reset to zero before a measurement is taken
+    * - Resolution limitation
+      - Occurs when precision is limited by the smallest scale division of the instrument.
 
-   * - **Procedural errors**
-     - Mistakes made by the researcher
+    * - **Observational / Operator errors**
+      - Errors due to how measurements are taken or recorded.
 
-   * - Personal error
-     - Occurs when the researcher makes a mistake in carrying out the procedure
+    * - Parallax error
+      - Occurs when a scale is read from an incorrect viewing angle.
 
-   * - Parallax error
-     - Occurs when a scale or measurement tool is read from an inconsistent eye level or angle
+    * - Operator (technique) error
+      - Occurs when equipment is used incorrectly or the procedure is not followed correctly.
 
-   * - Human error
-     - Occurs when the researcher makes a mistake in recording or interpreting data
+    * - Method limitation
+      - A limitation in the experimental design (not due to the operator) that introduces bias.
 
-   * - **Measurement errors**
-     - Unpredictable or consistent variations in the measurement process
+    * - Recording error
+      - Occurs when data are written down or interpreted incorrectly.
 
-   * - Random error
-     - Occurs when there are unpredictable variations in the measurement process
+    * - **Random and Systematic Errors**
+      - Describe variation in measured results.
 
-   * - Systematic error
-     - Occurs when there is a consistent bias in the measurement process
+    * - Random variation
+      - Unpredictable fluctuations between measurements that reduce precision.
+
+    * - Systematic bias
+      - A consistent shift in one direction from the true value, affecting accuracy.
+
+.. image:: docs/pracs/images/Types_of_errors_infographic.png
+   :alt: Types of Errors Infographic
+   :align: center
+   :scale: 35%
 
 ----
 
@@ -54,9 +64,9 @@ Errors in scientific experiments can be grouped into three main categories:
     **Word list (A → Z):**
     calibrate • check • control • read • repeat
 
-    1. To avoid equipment errors, researchers must _______________ that instruments are set up correctly.
+    1. To avoid Instrumental errors, researchers must _______________ that instruments are set up correctly.
 
-    2. To prevent reading error, scientists should _______________ scales with enough precision.
+    2. To prevent Resolution error, scientists should _______________ scales with enough precision.
 
     3. To reduce zero error, instruments must be _______________ before measurements begin.
 
@@ -95,7 +105,7 @@ Errors in scientific experiments can be grouped into three main categories:
         | c. The measurement varies unpredictably
         | d. The instrument is faulty or incorrectly set up
 
-    2. What defines a **reading error**?
+    2. What defines a **Resolution error**?
 
         | a. The instrument is not reset to zero
         | b. The scale is too coarse to give an accurate reading

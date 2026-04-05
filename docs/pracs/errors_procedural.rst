@@ -16,7 +16,7 @@ Procedural errors are mistakes made by the researcher during the experimental pr
 Types of Procedural errors
 ---------------------------------
 
-**Personal errors** occur when the researcher makes a mistake in carrying out the procedure
+**Operator errors** occur when the researcher makes a mistake in carrying out the procedure
 
 - Using incorrect masses, so a variable is not properly controlled
 - Heating a sample for too long because the timer was not started
@@ -29,7 +29,7 @@ Types of Procedural errors
 - Viewing a thermometer from the side instead of straight on
 - Checking a balance display from an angle rather than directly in front
 
-**Human errors** occur when the researcher makes a mistake in recording or interpreting data
+**Recording errors** occur when the researcher makes a mistake in recording or interpreting data
 
 - Misreading a measurement or incorrectly calculating an average
 - Writing down a value in the wrong row of a results table
@@ -46,11 +46,11 @@ Types of Procedural errors
     **Word list (A → Z):**
     calculate • control • read • record • repeat
 
-    1. To avoid personal error, researchers must _______________ variables carefully during the procedure.
+    1. To avoid Operator error, researchers must _______________ variables carefully during the procedure.
 
     2. To prevent parallax error, scientists should _______________ scales at eye level each time.
 
-    3. To reduce human error, researchers must _______________ data accurately as it is collected.
+    3. To reduce Recording error, researchers must _______________ data accurately as it is collected.
 
     4. When unsure about a measurement, scientists should _______________ the reading to check for consistency.
 
@@ -79,7 +79,7 @@ Types of Procedural errors
 
     Choose the best answer for each question.
 
-    1. What is an example of a **personal error**?
+    1. What is an example of a **Operator error**?
 
        | a. Using incorrect masses so a variable is not properly controlled
        | b. Reading a scale from above eye level
@@ -93,7 +93,7 @@ Types of Procedural errors
        | c. Using the wrong equipment for the task
        | d. Reading a measurement tool from an inconsistent angle
 
-    3. Which situation best illustrates a **human error**?
+    3. Which situation best illustrates a **recording error**?
 
        | a. A scale that always reads 5 grams too high
        | b. A sudden gust of wind affecting a balance
@@ -107,7 +107,7 @@ Types of Procedural errors
        | c. Reading the scale at eye level each time
        | d. Using a coarse-scaled instrument
 
-    5. Which action helps prevent **personal error**?
+    5. Which action helps prevent **Operator error**?
 
        | a. Resetting the instrument to zero
        | b. Controlling variables carefully during the procedure

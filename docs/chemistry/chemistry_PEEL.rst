@@ -57,36 +57,6 @@ Changes in shape involve bending, folding, stretching, or inflating a material. 
 
 ----
 
-.. admonition:: Tasks
-    :class: questions
-
-    #. Write code to show an ARROW_N.
-    #. Write code to show a GIRAFFE.
-    #. Write code to show a SMILE.
-
-    .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
-
-        .. tab-set::
-
-            .. tab-item:: Q1
-
-                Write code to show an ARROW_N.
-
-                .. code-block:: python
-
-                    from microbit import *
-
-                    while True:
-                        display.show(Image.ARROW_N)
-
-            .. tab-item:: Q2
-
-
-
-
 
 
 PEEL Paragraphs on Types of Physical Changes

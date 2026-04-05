@@ -110,7 +110,7 @@ Accuracy and precision are independent. A result can be accurate but not precise
 
         | a. Random error
         | b. Systematic error
-        | c. Human error only
+        | c. Recording error only
         | d. Environmental noise
 
 

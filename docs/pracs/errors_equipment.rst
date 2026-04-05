@@ -1,12 +1,12 @@
 ================================================
-Equipment errors
+Instrumental errors
 ================================================
 
-Equipment errors are caused by the instrument itself or how it is set up
+Instrumental errors are caused by the instrument itself or how it is set up
 
 ----
 
-Types of Equipment errors
+Types of Instrumental errors
 -------------------------------
 
 **Instrument errors** occur when a piece of equipment is faulty or not set up correctly
@@ -22,7 +22,7 @@ Types of Equipment errors
 - A Bunsen burner with a clogged air hole producing an unstable flame
 - A water bath with a faulty heater causing temperature fluctuations during incubation
 
-**Reading errors** occur when the measuring instrument does not have a fine enough scale to take an accurate reading
+**Resolution errors** occur when the measuring instrument does not have a fine enough scale to take an accurate reading
 
 - A paper protractor marked only in 10° increments when a 45° angle needs to be measured
 - A ruler marked only in centimetres when millimetre precision is required
@@ -90,7 +90,7 @@ Types of Equipment errors
         | c. A stopwatch that is reset correctly
         | d. A ruler with millimetre markings
 
-    2. What causes a **reading error**?
+    2. What causes a **Resolution error**?
 
         | a. The user forgets to record the measurement
         | b. The sample size is too small
@@ -104,7 +104,7 @@ Types of Equipment errors
         | c. A ruler placed flat on the bench
         | d. A measuring cylinder with a fine scale
 
-    4. How can a reading error be reduced?
+    4. How can a Resolution error be reduced?
 
         | a. Taking only one measurement
         | b. Tightening clamps on the retort stand

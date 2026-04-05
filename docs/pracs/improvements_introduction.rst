@@ -17,32 +17,32 @@ Each category targets a different source of inaccuracy in practical work. By ide
 .. admonition:: Improvements for Procedural Errors
     :class: summary
 
-    **Personal errors**:
-    To reduce personal error, follow the procedure carefully and practise the required techniques so each step is carried out correctly.
+    **Operator errors**:
+    To reduce Operator error, follow the procedure carefully and practise the required techniques so each step is carried out correctly.
 
     **Parallax errors**:
     To reduce parallax error, read all scales at eye level and use consistent viewing positions to avoid angled or distorted readings.
 
-    **Human errors**:
-    To reduce human error, record data immediately and double-check entries to prevent mistakes in writing, reading, or interpreting results.
+    **Recording errors**:
+    To reduce Recording error, record data immediately and double-check entries to prevent mistakes in writing, reading, or interpreting results.
 
 
 
-.. admonition:: Improvements for Equipment Errors
+.. admonition:: Improvements for Instrumental errors
     :class: summary
 
     **Instrument error**:
     To reduce instrument error, ensure the equipment is correctly assembled, securely positioned, and checked for faults before starting the experiment.
 
-    **Reading error**:
-    To reduce reading error, use measuring instruments with finer scales or higher resolution so that values can be read more accurately.
+    **Resolution error**:
+    To reduce Resolution error, use measuring instruments with finer scales or higher resolution so that values can be read more accurately.
 
     **Zero error**:
     To reduce zero error, reset the instrument to zero before each measurement and check that the reading returns to zero after use.
 
 
 
-.. admonition:: Improvements for Measurement Errors
+.. admonition:: Improvements for Random and Systematic Errors
     :class: summary
 
     **Random errors**:
@@ -61,7 +61,7 @@ Each category targets a different source of inaccuracy in practical work. By ide
     **Word list (A → Z):**
     average • calibrate • check • follow • read
 
-    1. To reduce personal error, students must ______________ the method carefully.
+    1. To reduce Operator error, students must ______________ the method carefully.
     2. To reduce parallax error, students should ______________ scales at eye level.
     3. To reduce instrument error, researchers must ______________ equipment for correct assembly.
     4. To reduce random error, scientists should ______________ repeated measurements.
@@ -89,7 +89,7 @@ Each category targets a different source of inaccuracy in practical work. By ide
 
     Choose the best answer for each question.
 
-    1. Which action best reduces **personal error**?
+    1. Which action best reduces **Operator error**?
 
         | a. Calibrating equipment with standards
         | b. Resetting instruments to zero

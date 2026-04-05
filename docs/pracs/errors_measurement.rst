@@ -1,12 +1,12 @@
 ================================================
-Measurement errors
+Random and Systematic Errors
 ================================================
 
-Measurement errors are unpredictable or consistent variations in the measurement process.
+Random and Systematic Errors are unpredictable or consistent variations in the measurement process.
 
 ----
 
-Types of Measurement errors
+Types of Random and Systematic Errors
 -------------------------------
 
 **Random errors** occur when there are unpredictable variations in the measurement process

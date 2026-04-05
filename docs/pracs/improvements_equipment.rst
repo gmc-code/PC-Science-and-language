@@ -1,24 +1,24 @@
 ================================================
-Improvements for Equipment Errors
+Improvements for Instrumental errors
 ================================================
 
 Improvements are specific strategies to minimise the impact of errors.
 
-In practical investigations, measurements can be affected by equipment errors — problems that arise when instruments are faulty, poorly set up, or unable to provide readings with enough resolution. These errors reduce the quality of the data because they affect how accurately and precisely values can be measured. Instrument errors occur when equipment is damaged or incorrectly assembled, reading errors occur when the scale is too coarse to read values accurately, and zero errors occur when instruments are not reset before use.
+In practical investigations, measurements can be affected by Instrumental errors — problems that arise when instruments are faulty, poorly set up, or unable to provide readings with enough resolution. These errors reduce the quality of the data because they affect how accurately and precisely values can be measured. Instrument errors occur when equipment is damaged or incorrectly assembled, Resolution errors occur when the scale is too coarse to read values accurately, and zero errors occur when instruments are not reset before use.
 
-Improving equipment setup means choosing strategies that directly address these issues. Instrument error can be reduced by checking that equipment is correctly assembled and free from faults, reading error can be reduced by using instruments with finer scales or higher resolution, and zero error can be reduced by resetting instruments to zero before each measurement. By recognising the type of equipment error and applying the appropriate improvement, students can collect data that is more accurate, more precise, and more representative of the true value.
+Improving equipment setup means choosing strategies that directly address these issues. Instrument error can be reduced by checking that equipment is correctly assembled and free from faults, Resolution error can be reduced by using instruments with finer scales or higher resolution, and zero error can be reduced by resetting instruments to zero before each measurement. By recognising the type of equipment error and applying the appropriate improvement, students can collect data that is more accurate, more precise, and more representative of the true value.
 
 
-.. admonition:: Improvements for Equipment Errors
+.. admonition:: Improvements for Instrumental errors
     :class: summary
 
     **Instrument error**
 
     To reduce instrument error, ensure the equipment is correctly assembled, securely positioned, and checked for faults before starting the experiment.
 
-    **Reading error**
+    **Resolution error**
 
-    To reduce reading error, use measuring instruments with finer scales or higher resolution so that values can be read more accurately.
+    To reduce Resolution error, use measuring instruments with finer scales or higher resolution so that values can be read more accurately.
 
     **Zero error**
 
@@ -103,12 +103,12 @@ To reduce instrument error, ensure the equipment is correctly assembled, securel
 
 ----
 
-Improvements: Reading Errors
+Improvements: Resolution errors
 ------------------------------------------
 
-**Reading errors** occur when the measuring instrument does not have a fine enough scale to take an accurate reading
+**Resolution errors** occur when the measuring instrument does not have a fine enough scale to take an accurate reading
 
-To reduce reading error, use measuring instruments with finer scales or higher resolution so that values can be read more accurately.
+To reduce Resolution error, use measuring instruments with finer scales or higher resolution so that values can be read more accurately.
 
 
 .. rubric:: Improvements:
@@ -120,19 +120,19 @@ To reduce reading error, use measuring instruments with finer scales or higher r
 
 ----
 
-.. admonition:: Multiple-Choice Questions — Set 2: Improvements for Reading Errors
+.. admonition:: Multiple-Choice Questions — Set 2: Improvements for Resolution errors
     :class: questions
 
     Choose the best answer for each question.
 
-    1. Which action best helps prevent a **reading error** before taking a measurement?
+    1. Which action best helps prevent a **Resolution error** before taking a measurement?
 
         | a. Choosing an instrument with scale markings appropriate for the required precision
         | b. Resetting the instrument to zero before each measurement
         | c. Repeating the measurement several times and averaging the results
         | d. Clamping all equipment securely before starting
 
-    2. Which situation best illustrates a researcher **reducing reading error**?
+    2. Which situation best illustrates a researcher **reducing Resolution error**?
 
         | a. A student selects a measuring cylinder with finer graduations to improve precision
         | b. A digital scale shows a reading before any mass is placed on it
@@ -144,16 +144,16 @@ To reduce reading error, use measuring instruments with finer scales or higher r
         | a. To prevent the pointer from drifting away from zero
         | b. To ensure the scale markings are fully visible and not obstructed
         | c. To calibrate the instrument before taking a reading
-        | d. To avoid personal errors caused by incorrect technique
+        | d. To avoid Operator errors caused by incorrect technique
 
-    4. How does using a digital balance instead of a kitchen scale reduce **reading errors**?
+    4. How does using a digital balance instead of a kitchen scale reduce **Resolution errors**?
 
         | a. It eliminates the need to reset the instrument to zero before use
         | b. It prevents environmental conditions from affecting the reading
         | c. It provides finer graduations so smaller differences in mass can be detected
         | d. It removes the need to check for pointer drift before measurements begin
 
-    5. Which action best helps prevent **reading errors** during an experiment?
+    5. Which action best helps prevent **Resolution errors** during an experiment?
 
         | a. Clamping all equipment securely before starting
         | b. Resetting the instrument to zero before each measurement
