@@ -39,7 +39,9 @@ Random Errors
 measurements. They affect **precision** and can be reduced — but never
 eliminated — by repeating measurements and calculating a mean.
 
-.. note::
+
+.. admonition:: Random Errors: A Four-Step Analysis
+    :class: premise
 
    Use the four-step framework to analyse any random error:
 
@@ -93,8 +95,7 @@ Sources and Examples
       - Reaction time
       - Stopping or starting a timer at slightly different points each trial
         introduces a variable delay.
-      - Timing a pendulum swing by hand; recording the moment a colour
-        change occurs in a titration. *Note: the direction of error is
+      - Timing a pendulum swing by hand. *Note: the direction of error is
         unpredictable, so this is random, not systematic.*
     * - Observation / Procedure
       - Meniscus reading variation
@@ -107,14 +108,12 @@ Sources and Examples
       - Sample variability
       - Selecting slightly different amounts of a substance by eye rather
         than by mass introduces unpredictable differences between trials.
-      - Scooping a "spatula tip" of powder; cutting a leaf disc by hand for
-        a photosynthesis experiment.
+      - Scooping a "spatula tip" of powder.
     * - Method
       - Natural biological variation
       - Inherent variability in living systems means repeated measurements
         on the same or different organisms differ unpredictably.
-      - Measuring resting heart rate across multiple trials; enzyme activity
-        assays repeated on the same sample.
+      - Measuring resting heart rate across multiple trials.
     * - Method
       - Sampling variation
       - Randomly selecting different subsets of a population introduces
@@ -126,7 +125,7 @@ Sources and Examples
       - Small uncontrolled temperature changes alter the physical or
         chemical properties being measured between trials.
       - Slight room temperature variation affecting the density of a liquid;
-        enzyme activity fluctuating as lab temperature drifts.
+        chemical activity fluctuating as lab temperature drifts.
     * - Environmental
       - Vibration / interference
       - Mechanical vibration or electromagnetic noise causes readings to

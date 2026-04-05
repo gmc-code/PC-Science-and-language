@@ -35,23 +35,21 @@ Examples:
 Effect
 ------
 
-Operator errors produce **outliers** — single results that fall well outside
-the range of other measurements. Because they are caused by a one-off
-mistake rather than a consistent or random influence, they:
+Operator errors produce invalid results. Because they are caused by a one-off mistake rather than a consistent or random influence, they:
 
-* do **not** affect the precision of the remaining valid results,
-* do **not** introduce systematic bias,
-* should **not** be included when calculating a mean or assessing
-  uncertainty.
+ - do not affect the precision of the remaining valid results,
+ - do not introduce systematic bias,
+ - should not be included when calculating a mean or assessing uncertainty, as the measurement was not taken correctly.
 
 Improvements
 ------------
 
-To reduce operator error, follow the procedure carefully and practise
-required techniques so each step is carried out correctly.
+To reduce operator error, follow the procedure carefully and check each step as you go. Suggestions include:
 
 * Discard the incorrect result and repeat the measurement correctly.
 * Improve checking and recording procedures to catch mistakes early.
 * Follow the correct procedure and allow sufficient time for equipment to be ready for use, if necessary
-* Ensure consistent technique across trials to maximise precision and minimize operator-induced variability, within the limits of the instrument's precision.
+* Have a second person check critical readings or calculations to catch mistakes at the time they occur.
+* Practise unfamiliar techniques before collecting data so procedural steps are carried out correctly from the start.
+
 
