@@ -4,22 +4,12 @@ Types of Errors in Scientific Experiments
 *Understanding error types helps evaluate the accuracy, precision, and
 validity of experimental results.*
 
-This resource follows the **VCAA evaluation-first model** used across VCE
-Science subjects (Biology, Chemistry, Physics, Psychology):
+This resource uses a **two-level model**:
 
 * **Primary classification (assessment level):**
   **Systematic errors**, **Random errors**, and **Personal errors**
 * **Secondary classification (explanation level):**
   Instrumental, observational/procedural, method, or environmental sources
-
-.. note::
-
-   **⚠ VCAA Exam Note**
-
-   In VCE exams, VCAA requires students to classify errors as
-   **systematic** or **random**. One‑off operator or recording mistakes are
-   treated as **personal errors** and are *not* true measurement errors.
-   Personal errors should not be included in uncertainty calculations.
 
 ----
 
@@ -48,7 +38,7 @@ sources of error.
 * **Random:** results scattered around the true value
 * **Personal:** isolated outlier, not representative
 
-**Step 4 — Suggest an improvement** *(this is what VCAA marks)*
+**Step 4 — Suggest an improvement**
 
 * **Systematic** → eliminate the source (recalibrate, redesign, correct setup)
 * **Random** → repeat and average; increase sample size
@@ -171,7 +161,7 @@ sources of error.
 
 ----
 
-Quick Reference: Mapping Source to VCAA Classification
+Quick Reference: Mapping Source to Classification
 ------------------------------------------------------
 
 .. list-table::
