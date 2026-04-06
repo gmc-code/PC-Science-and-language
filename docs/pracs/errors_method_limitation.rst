@@ -1,99 +1,99 @@
-=======================
-Resolution Limitation
-=======================
+======================
+Method Limitation
+======================
 
-| **Resolution limitation** occurs when the smallest scale division of an instrument is too large to distinguish between values that differ by less than that division.
-| It is classified as a **random error** — the uncertainty introduced when estimating between graduations varies unpredictably between readings.
+| **Method limitations** occur when a flaw in the experimental design itself introduces a consistent bias into the results, independent of the operator or the instruments used.
+| They are classified as a **systematic error** — the flaw affects every measurement in the same way, shifting all results in the same direction.
 
 Examples:
 
-* A ruler marked in millimetres cannot reliably measure a length of
-  3.4 mm — the true value must be estimated between the 3 mm and 4 mm
-  graduations, introducing uncertainty
-* A stopwatch reading to 0.1 s cannot distinguish between reaction times
-  of 1.21 s and 1.24 s — both would be recorded as 1.2 s
-* A thermometer graduated in 1 °C divisions cannot reliably record a
-  temperature of 36.6 °C — the observer must estimate between 36 °C
-  and 37 °C
-* A balance reading to 0.1 g cannot detect a mass difference of 0.04 g
-  between two samples
-* A measuring cylinder graduated in 2 mL divisions requires estimation
-  for any volume that falls between graduations, introducing uncertainty
-  in every reading
+
+* Measuring the temperature of a liquid by placing a thermometer near
+  the heat source rather than in the bulk of the liquid, so all
+  readings are consistently too high
+* Using a coloured solution in a titration without a suitable indicator,
+  making it impossible to identify the true endpoint consistently
+* Using a control group that is not matched to the experimental group
+  in a Biology investigation, introducing a consistent confounding
+  variable
+* Timing a reaction by colour change observed by eye when the change is
+  gradual, introducing a consistent delay across all trials
+* Using a sample size that is too small to represent the population,
+  so results are systematically biased toward the characteristics of
+  the sample
+* Assuming a linear relationship between variables when the true
+  relationship is non-linear, causing consistent underestimation or
+  overestimation across the range
 
 
-
-.. admonition:: Resolution Limitation: A Four-Step Analysis
+.. admonition:: Method Limitation: A Four-Step Analysis
     :class: premise
 
-    Use the four-step framework to analyse a resolution limitation:
+    Use the four-step framework to analyse a method limitation:
 
     **Step 1 — Identify the source**
-        *Instrumental* — the scale divisions of the measuring instrument
-        are too coarse to capture the precision required by the
-        investigation.
+        *Method* — a flaw in the experimental design itself introduces
+        bias, not the operator's technique or the instrument's condition.
+        The same error would occur even if a different researcher used
+        the same method with the same equipment.
 
     **Step 2 — Classify the behaviour**
-        Unpredictable spread → **Random error** → affects precision. The
-        amount and direction of the estimation error varies between
-        readings, producing a spread of results around the true value.
+        Consistent, one-direction shift → **Systematic error** → affects
+        accuracy. The flaw affects every trial in the same way, so all
+        results are displaced from the true value in the same direction.
 
     **Step 3 — Explain the impact**
-        Each reading carries an inherent uncertainty of at least half the
-        smallest scale division. Because the estimation varies between
-        trials, results are scattered around the true value rather than
-        consistently displaced in one direction. Accuracy is not affected
-        — the readings are centred on the true value — but precision is
-        reduced.
+        All results are shifted consistently too high or too low due to
+        the design flaw. The error cannot be detected or reduced by
+        repeating measurements, as every repeat uses the same flawed
+        method. Precision may be unaffected — results can agree closely
+        with each other — but the design prevents them from reflecting
+        the true value.
 
     **Step 4 — Suggest an improvement**
-        Resolution limitation is reduced by using an instrument with
-        smaller scale divisions — it cannot be eliminated by repeating
-        measurements alone, though averaging multiple readings will reduce
-        its effect.
+        Method limitations are eliminated by redesigning the relevant
+        part of the experimental method — repeating measurements or
+        recalibrating instruments will not help.
 
 ----
 
 Effect
 ------
 
-Resolution limitation produces **random scatter** around the true value.
-Because the estimation between graduations varies unpredictably:
+Method limitations produce a **consistent bias** across all measurements
+and trials. Because the flaw is built into the design itself:
 
-* results are scattered above and below the true value rather than
-  consistently displaced in one direction,
-* **precision is reduced** — repeated readings may not agree closely
-  with each other,
-* **accuracy is not affected** — there is no consistent bias; readings
-  are centred on the true value on average,
-* the minimum uncertainty introduced is half the smallest scale
-  division — for example, a ruler marked in 1 mm divisions introduces
-  an uncertainty of at least ±0.5 mm per reading,
-* repeating measurements and averaging will reduce the effect, but the
-  limitation remains unless a higher-resolution instrument is used.
+* results will appear **precise** (repeats agree with each other,
+  since every trial uses the same flawed method),
+* but **accuracy is reduced** — all values are systematically displaced
+  from the true value,
+* repeating measurements does **not** help, as every repeat is subject
+  to the same design flaw,
+* the bias may not be apparent from the data alone — it can only be
+  identified by critically evaluating the method itself.
 
 ----
 
 Improvements
 ------------
 
-To reduce resolution limitation, use an instrument with a finer scale
-or a higher-resolution sensor.
+To eliminate a method limitation, identify the design flaw and modify
+the experimental method before data collection begins.
 
-* Replace the instrument with one that has smaller scale divisions —
-  for example, use a digital calliper (0.01 mm resolution) instead of
-  a ruler (1 mm resolution).
-* Use a digital instrument rather than an analogue one where possible,
-  as digital displays typically offer greater resolution.
-* Repeat measurements and calculate a mean to reduce the effect of
-  random estimation error across trials.
-* Report all measurements to the correct number of significant figures
-  consistent with the instrument's resolution — do not record more
-  decimal places than the instrument can support.
-* When designing the investigation, select instruments whose resolution
-  is appropriate for the precision required — consider the magnitude
-  of the quantity being measured and the differences expected between
-  conditions.
+* Identify assumptions built into the method and assess whether they
+  are valid for the conditions of the investigation.
+* Reposition measurement points so they reflect the quantity of
+  interest — for example, place a thermometer in the bulk of the
+  liquid rather than near the heat source.
+* Use an objective detection method in place of subjective observation
+  — for example, a colorimeter rather than visual colour judgement.
+* Ensure control and experimental groups are matched on all relevant
+  variables to prevent confounding.
+* Increase sample size and use random sampling to ensure results are
+  representative of the population.
+* Pilot the method before full data collection to identify and correct
+  design flaws early.
+
 
 
 
