@@ -186,13 +186,14 @@ of fluctuation and increase the number of trials.
 
             .. tab-item:: Marking Guidance
 
-                * **Part (a):** accept "environmental variation" or "random
+                **Part (a):** accept "environmental variation" or "random
                 environmental fluctuation." Do not accept "environmental bias"
                 — the wind is unpredictable in direction and strength, so there
                 is no consistent offset in one direction. Do not accept
                 "operator error" or "method limitation" — the wind is an
                 uncontrolled external condition, not a mistake or design flaw.
-                * **Part (b):** award the direction mark for a response that
+
+                **Part (b):** award the direction mark for a response that
                 correctly identifies there is no consistent direction — results
                 are scattered both above and below the true value. Do not award
                 this mark for a response that identifies only one direction of
@@ -201,14 +202,16 @@ of fluctuation and increase the number of trials.
                 between trials. Award the accuracy mark for correctly stating
                 accuracy is not systematically affected because errors tend to
                 cancel out across trials.
-                * **Part (c):** this question deliberately differs from the
+
+                **Part (c):** this question deliberately differs from the
                 previous structured questions — repeating and averaging
                 **does** help for random errors. Award both marks only if the
                 student correctly identifies that averaging helps and explains
                 why: opposing errors partially cancel out. A response that
                 states repeating always reduces error without this reasoning
                 should receive only 1 mark.
-                * **Part (d):** accept "shield the apparatus with a barrier to
+
+                **Part (d):** accept "shield the apparatus with a barrier to
                 block air movement" or "conduct the experiment in a corridor
                 away from windows" as alternative valid responses. Do not
                 accept "repeat measurements" as this has already been
