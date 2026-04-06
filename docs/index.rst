@@ -37,7 +37,6 @@ PC-Science-and-language
 
     pracs/errors_in_science.rst
 
-    pracs/errors_random.rst
 
 .. toctree::
     :maxdepth: 2
@@ -50,6 +49,13 @@ PC-Science-and-language
     pracs/errors_parallax.rst
     pracs/errors_method_limitation.rst
 
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪⛔ Prac Random Errors
+    :numbered:
+
+    pracs/errors_random.rst
 
 
 .. toctree::
