@@ -156,6 +156,19 @@ instruments designed to minimise the effect.
                 meniscus before taking each reading, ensuring the line of sight
                 is horizontal and perpendicular to the burette scale. *(1 mark)*
 
+            .. tab-item:: Marking Guidance
+
+                * **Part (b):** award marks only if the student correctly
+                identifies the direction (overestimate, since the eye is below
+                the meniscus) and correctly distinguishes between accuracy
+                (reduced) and precision (unaffected). A response that states
+                precision is also reduced should not receive the precision mark.
+                * **Part (c):** a response that simply states "repeating reduces
+                error" without explaining *why* it does not apply to systematic
+                error should not receive full marks.
+                * **Part (d):** accept "use a digital burette" or "use a burette
+                with a mirror scale and align the pointer with its reflection"
+                as alternative valid responses.
 
 ----
 

@@ -76,6 +76,97 @@ verify it is within calibration.
 * Have the instrument professionally calibrated or replaced if the zero
   error cannot be reliably corrected.
 
+----
 
+.. admonition:: Structured Question: Zero Error
+    :class: questions
+
+    A Year 8 class is investigating how the mass of a paper cup changes
+    when different volumes of water are added to it. Before beginning,
+    the teacher instructs students to place the empty cup on the balance
+    and record the starting mass. One group notices their balance displays
+    **0.4 g** before they place anything on it. They do not adjust the
+    balance and proceed to record all their measurements.
+
+    **(a)** Identify the type of error present in this investigation and
+    classify it as random, systematic, or personal. *(2 marks)*
+
+    **(b)** Explain how this error would affect the group's mass
+    measurements. In your answer, refer to the direction of the error and
+    its effect on the accuracy and precision of the results. *(3 marks)*
+
+    **(c)** The group repeats each measurement three times and calculates
+    a mean. Evaluate whether this would reduce the effect of the error
+    identified in part (a). *(2 marks)*
+
+    **(d)** Describe one improvement the group could make to eliminate
+    this error before collecting data. *(1 mark)*
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                **(a)**
+
+                The error is a **zero error**, classified as a **systematic
+                error**.
+
+                *(1 mark for naming zero error; 1 mark for systematic)*
+
+                **(b)**
+
+                Because the balance displays 0.4 g before anything is placed on
+                it, every mass reading includes an extra 0.4 g that is not part
+                of the cup or water. This means all measurements will be
+                consistently **overestimated** by 0.4 g — every reading is
+                displaced in the same direction by the same amount. *(1 mark)*
+
+                The **accuracy** of the results is reduced, as all recorded
+                masses are 0.4 g higher than the true mass. *(1 mark)*
+
+                The **precision** is unaffected — because the same offset is
+                present in every reading, the repeated measurements will agree
+                closely with each other. *(1 mark)*
+
+                **(c)**
+
+                Repeating measurements and calculating a mean would **not** reduce
+                the effect of this error. *(1 mark)*
+
+                Because the balance displays 0.4 g before every reading, each
+                repeat includes the same offset in the same direction. Averaging
+                does not cancel a consistent offset — it only reduces the effect
+                of random errors, which vary unpredictably between trials. *(1 mark)*
+
+                **(d)**
+
+                The group should use the tare or zero function on the balance to
+                set the display to 0.0 g before placing the cup on it, or select
+                a different balance that reads zero when empty. *(1 mark)*
+
+            .. tab-item:: Marking Guidance
+
+                * **Part (a):** accept "zero error" or "the balance has not been
+                zeroed." Do not accept "human error" or "mistake" — the balance
+                itself has a fault, so this is an instrumental error, not a
+                personal error.
+                * **Part (b):** award the direction mark only if the student
+                identifies overestimation specifically, not just "the results
+                are wrong." Award the precision mark only if the student
+                correctly states precision is unaffected and provides a reason.
+                A response that states precision is also reduced should not
+                receive the precision mark.
+                * **Part (c):** a response that simply states "repeating reduces
+                error" without explaining why it does not apply here should not
+                receive full marks. The key reasoning is that the offset is
+                identical in every trial.
+                * **Part (d):** accept "subtract 0.4 g from all readings as a
+                correction factor" as an alternative valid response, since the
+                offset is known and constant.
 
 
