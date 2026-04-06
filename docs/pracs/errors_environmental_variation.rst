@@ -1,29 +1,47 @@
-============================
+=========================
 Environmental Variation
-============================
+=========================
 
-| **Environmental variation** occurs when uncontrolled conditions in the
-| experimental setting introduce unpredictable changes into measurements
-| between trials.
-| It is most commonly classified as a **random error** — fluctuations in
-| the environment vary unpredictably in size and direction between readings.
-| It can become **systematic** if an environmental condition is consistently
-| different from the intended condition across all trials.
 
-Examples:
+| **Environmental variation** occurs when uncontrolled conditions in the experimental setting introduce unpredictable changes into measurements between trials.
+| It is most commonly classified as a **random error** — fluctuations in the environment vary unpredictably in size and direction between readings.
+| It can become **systematic** if an environmental condition is consistently different from the intended condition across all trials.
 
-* Room temperature gradually rising during a long experiment, causing
-  readings taken later in the session to differ from those taken earlier
+Examples — Random
+-----------------
+
+These conditions fluctuate unpredictably between trials, causing results
+to scatter around the true value:
+
 * Air currents near a top-pan balance causing the display to fluctuate
   between readings
-* Variation in ambient light levels affecting the readings of a
-  light-dependent resistor or colorimeter between trials
-* Humidity changes between sessions causing the mass of a hygroscopic
-  substance to vary slightly between repeated measurements
 * Electrical noise from nearby equipment introducing fluctuations into
   the readings of a sensitive voltage or current sensor
 * Vibrations from foot traffic or nearby machinery causing instability
   in balance readings between trials
+* Variation in ambient light levels affecting the readings of a
+  light-dependent resistor or colorimeter between trials
+* Humidity fluctuating between readings, causing the mass of a
+  hygroscopic substance to vary slightly between trials
+
+Examples — Systematic
+----------------------
+
+These conditions are consistently different from the intended condition
+across all trials, shifting every result in the same direction:
+
+* A laboratory that is consistently warmer than the specified temperature,
+  causing all enzyme activity readings to be consistently too high
+* Conducting an investigation near a window where direct sunlight falls
+  on the apparatus throughout the session, consistently elevating
+  temperature readings
+* Humidity consistently higher than the standard condition between
+  sessions, causing all mass readings of a hygroscopic substance to be
+  consistently too high
+* A persistent low-frequency vibration from nearby equipment that
+  consistently depresses balance readings in one direction
+
+
 
 .. admonition:: Environmental Variation: A Four-Step Analysis
     :class: premise
