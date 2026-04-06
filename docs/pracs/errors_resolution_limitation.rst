@@ -98,6 +98,9 @@ or a higher-resolution sensor.
 
 ----
 
+new:
+
+
 .. admonition:: Structured Question: Resolution Limitation
     :class: questions
 
