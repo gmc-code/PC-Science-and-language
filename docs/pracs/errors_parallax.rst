@@ -2,8 +2,6 @@
 Parallax Error
 =================
 
-
-
 | **Parallax error** occurs when a scale is read from an angle rather than straight on, causing the apparent position of the pointer or meniscus to differ from its true position.
 | It is classified as a **systematic error** — if the observer's eye is consistently in the same wrong position, every reading is shifted in the same direction.
 
@@ -83,6 +81,78 @@ instruments designed to minimise the effect.
 * Mark a consistent eye-level reference point when repeated readings are
   taken at the same position.
 
+----
 
 
+.. admonition:: Structured Question: Parallax Error
+    :class: questions
+
+    A student is investigating the relationship between the volume of sodium
+    hydroxide solution and the temperature change produced when it is added
+    to a fixed volume of hydrochloric acid. The student uses a burette to
+    measure the volume of sodium hydroxide delivered in each trial.
+    Throughout the experiment, the student reads the burette from slightly
+    below eye level.
+
+    **(a)** Identify the type of error introduced by the student's reading
+    technique and classify it as random, systematic, or personal. *(2 marks)*
+
+    **(b)** Explain how this error would affect the student's volume
+    measurements. In your answer, refer to the direction of the error and
+    its effect on the accuracy and precision of the results. *(3 marks)*
+
+    **(c)** The student repeats each volume measurement three times and
+    calculates a mean. Evaluate whether this would reduce the effect of the
+    error identified in part (a). *(2 marks)*
+
+    **(d)** Describe one improvement the student could make to eliminate
+    this error. *(1 mark)*
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                **(a)**
+
+                The error is a **parallax error**, classified as a **systematic
+                error**.
+
+                *(1 mark for naming parallax error; 1 mark for systematic)*
+
+                **(b)**
+
+                Because the student's eye is consistently positioned below the
+                level of the meniscus, the meniscus appears higher on the burette
+                scale than its true position. This means the volume reading will
+                be consistently **overestimated** — every reading is displaced in
+                the same direction by a similar amount. *(1 mark)*
+
+                The **accuracy** of the results is reduced, as all recorded
+                volumes are higher than the true volume delivered. *(1 mark)*
+
+                The **precision** is unaffected — because the eye is in the same
+                wrong position for every reading, the repeated measurements will
+                agree closely with each other. *(1 mark)*
+
+                **(c)**
+
+                Repeating measurements and calculating a mean would **not** reduce
+                the effect of this error. *(1 mark)*
+
+                Because the eye is in the same incorrect position for every
+                reading, each repeat is displaced by the same amount in the same
+                direction. Averaging does not cancel a consistent offset — it only
+                reduces the effect of random errors, which vary unpredictably
+                between trials. *(1 mark)*
+
+                **(d)**
+
+                The student should position their eye directly level with the
+                meniscus before taking each reading, ensuring the line of sight
+                is horizontal and perpendicular to the burette scale. *(1 mark)*
 
