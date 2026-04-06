@@ -18,7 +18,7 @@ Random Errors
 * Precision is reduced
 * Averaging improves reliability
 
-**Common sources of random error**
+**Common random error**
 
 .. list-table::
     :header-rows: 1
