@@ -43,24 +43,26 @@ eliminated — by repeating measurements and calculating a mean.
 .. admonition:: Random Errors: A Four-Step Analysis
     :class: premise
 
-   Use the four-step framework to analyse any random error:
+    Use the four-step framework to analyse any random error:
 
-   **Step 1 — Identify the source**
-      Instrument, observation/procedure, method, or environment — the
-      variation is unpredictable and differs in size and direction between
-      trials.
+    **Step 1 — Identify the source**
+        Instrument, observation/procedure, method, or environment — the
+        variation is unpredictable and differs in size and direction between
+        trials.
 
-   **Step 2 — Classify the behaviour**
-      Unpredictable spread → **Random error** → affects precision.
+    **Step 2 — Classify the behaviour**
+        Unpredictable spread → **Random error** → affects precision.
 
-   **Step 3 — Explain the impact**
-      Results are scattered around the true value. No single reading is
-      consistently too high or too low — the error averages out over many
-      measurements.
+    **Step 3 — Explain the impact**
+        Results are scattered around the true value. No single reading is
+        consistently too high or too low — the error averages out over many
+        measurements.
 
-   **Step 4 — Suggest an improvement** *(this is what VCAA marks)*
-      Repeat measurements and calculate a mean; increase sample size;
-      use a higher-resolution instrument where the source is instrumental.
+    **Step 4 — Suggest an improvement** *(this is what VCAA marks)*
+        Repeat measurements and calculate a mean; increase sample size;
+        use a higher-resolution instrument where the source is instrumental.
+
+
 
 Sources and Examples
 --------------------
