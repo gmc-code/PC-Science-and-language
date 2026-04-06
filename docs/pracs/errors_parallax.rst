@@ -156,3 +156,35 @@ instruments designed to minimise the effect.
                 meniscus before taking each reading, ensuring the line of sight
                 is horizontal and perpendicular to the burette scale. *(1 mark)*
 
+
+----
+
+
+.. admonition:: Cloze Questions
+    :class: questions
+
+    Complete the following by filling in the missing verbs.
+
+    **Word list (A → Z):**
+    average • calibrate • check • follow • read
+
+    1. To reduce Operator error, students must ______________ the method carefully.
+    2. To reduce parallax error, students should ______________ scales at eye level.
+    3. To reduce instrument error, researchers must ______________ equipment for correct assembly.
+    4. To reduce random error, scientists should ______________ repeated measurements.
+    5. To reduce systematic error, investigators must ______________ instruments against known standards.
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Answers
+
+                1. follow
+                2. read
+                3. check
+                4. average
+                5. calibrate
