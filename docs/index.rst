@@ -48,6 +48,7 @@ PC-Science-and-language
     pracs/errors_calibration.rst
     pracs/errors_parallax.rst
     pracs/errors_method_limitation.rst
+    pracs/errors_environmental_bias.rst
 
 
 .. toctree::
