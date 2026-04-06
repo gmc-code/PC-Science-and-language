@@ -30,23 +30,23 @@ sources of error.
       - :P:`Systematic`
       - :R:`Random`
       - :O:`Personal`
-    * - **Instrument**
-      - :P:`zero error`, :P:`calibration fault`
-      - :R:`resolution limit`
+    * - **Instrumental**
+      - :P:`zero error`, :P:`calibration error`
+      - :R:`resolution limitation`
       -
-    * - **Observation / Procedure**
-      - :P:`parallax`
+    * - **Observational / Procedural**
+      - :P:`parallax error`
       - :R:`technique variation`
-      - :O:`operator error`, :O:`recording mistake`
+      - :O:`operator error`, :O:`recording error`
     * - **Method Limitation**
       - :P:`design flaw`, :P:`built-in assumption`
       -
       -
-    * - **Environment (variation)**
+    * - **Environmental (variation)**
       -
       - :R:`temperature fluctuation`, :R:`vibration`, :R:`lighting variation`
       -
-    * - **Environment (bias)**
+    * - **Environmental (bias)**
       - :P:`consistently elevated temperature`, :P:`persistent interference`,
         :P:`constant lighting offset`
       -
