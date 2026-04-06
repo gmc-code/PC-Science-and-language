@@ -10,7 +10,7 @@ This resource uses a **two-level model**:
 * **Primary classification (assessment level):**
   :P:`Systematic errors`, :R:`Random errors`, and :O:`Personal errors`
 * **Secondary classification (explanation level):**
-  Instrumental, observational/procedural, method limitation, or environmental sources
+  Instrumental, observational/procedural, method, or environmental sources
 
 ----
 
