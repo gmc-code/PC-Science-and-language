@@ -52,8 +52,8 @@ Examples
 
 ----
 
-Effect
-------
+Effects
+----------------
 
 Minor technique variation produces **random scatter** around the true
 value. Because the direction and size of variation differs unpredictably

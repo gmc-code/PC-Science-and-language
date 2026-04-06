@@ -47,8 +47,8 @@ Examples
 
 ----
 
-Effect
-------
+Effects
+----------------
 
 Zero error produces a **consistent offset** across all measurements.
 Because every reading is shifted by the same amount in the same direction:

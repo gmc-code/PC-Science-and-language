@@ -61,8 +61,8 @@ across all trials, shifting every result in the same direction:
 
 ----
 
-Effect
-------
+Effects
+----------------
 
 Environmental bias produces a **consistent offset** across all
 measurements. Because the environmental condition is the same for every

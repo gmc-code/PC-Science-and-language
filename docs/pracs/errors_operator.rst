@@ -43,8 +43,8 @@ Examples
 
 ----
 
-Effect
-------
+Effects
+----------------
 
 Operator errors produce **invalid results**. Because they are caused by a
 one-off mistake in technique rather than a consistent or random measurement

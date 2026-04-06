@@ -44,8 +44,8 @@ Examples
 
 ----
 
-Effect
-------
+Effects
+----------------
 
 Recording errors produce **invalid results**. Because they are caused by a
 one-off mistake rather than a consistent or random influence, they:

@@ -48,8 +48,8 @@ Examples
 
 ----
 
-Effect
-------
+Effects
+----------------
 
 Calibration error produces a **consistent or proportional offset** across
 all measurements. Because every reading is displaced by the same instrument

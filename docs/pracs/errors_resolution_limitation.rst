@@ -24,6 +24,7 @@ Examples
 
 
 
+
 .. admonition:: Resolution Limitation: A Four-Step Analysis
     :class: premise
 
@@ -55,8 +56,8 @@ Examples
 
 ----
 
-Effect
-------
+Effects
+----------------
 
 Resolution limitation produces **random scatter** around the true value.
 Because the estimation between graduations varies unpredictably:

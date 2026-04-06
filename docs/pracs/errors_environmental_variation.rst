@@ -62,8 +62,8 @@ to scatter around the true value:
 
 ----
 
-Effect
-------
+Effects
+----------------
 
 Environmental variation produces **random scatter** around the true
 value. Because environmental fluctuations vary unpredictably between

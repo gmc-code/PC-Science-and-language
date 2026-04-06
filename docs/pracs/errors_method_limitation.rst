@@ -58,8 +58,8 @@ Examples
 
 ----
 
-Effect
-------
+Effects
+----------------
 
 Method limitations produce a **consistent bias** across all measurements
 and trials. Because the flaw is built into the design itself:

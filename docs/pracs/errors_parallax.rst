@@ -47,8 +47,8 @@ Examples
 
 ----
 
-Effect
-------
+Effects
+----------------
 
 Parallax error produces a **consistent offset** across all measurements.
 Because the observer's eye is in the same wrong position for every reading:
