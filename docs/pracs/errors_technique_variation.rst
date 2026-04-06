@@ -7,9 +7,6 @@ Minor Technique Variation
 
 Examples:
 
-* Slight differences in the angle or pressure applied when cutting leaf
-  discs for a photosynthesis experiment, producing discs of slightly
-  different sizes each time
 * Small variations in how firmly a stopper is pushed into a flask
   between trials, affecting gas pressure readings slightly
 * Inconsistent stirring speed or duration when dissolving a substance,

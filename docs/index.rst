@@ -58,7 +58,7 @@ PC-Science-and-language
     pracs/errors_random.rst
     pracs/errors_resolution_limitation.rst
     pracs/errors_technique_variation.rst
-
+    pracs/errors_environmental_variation.rst
 
 
 .. toctree::
