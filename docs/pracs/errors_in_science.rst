@@ -108,6 +108,10 @@ Quick Reference: Mapping Source to Classification
       - Instrumental
       - :R:`Random`
       - :R:`Higher-resolution instrument`
+    * - :R:`Minor technique variation`
+      - Observational
+      - :R:`Random`
+      - :R:`Standardise procedure; repeat and average`
     * - :R:`Environmental variation`
       - Environmental
       - :R:`Random`
