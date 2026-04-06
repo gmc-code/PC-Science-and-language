@@ -31,6 +31,37 @@ sources of error.
 * **Environment (bias)** — :P:`consistently elevated temperature`,
   :P:`persistent interference`, :P:`constant lighting offset`
 
+.. list-table::
+    :header-rows: 1
+    :widths: 22 26 26 26
+
+    * - Source
+        - :P:`Systematic`
+        - :R:`Random`
+        - :O:`Personal`
+    * - **Instrument**
+        - :P:`zero error`, :P:`calibration fault`
+        - :R:`resolution limit`
+        -
+    * - **Observation / Procedure**
+        - :P:`parallax`
+        - :R:`technique variation`
+        - :O:`operator error`, :O:`recording mistake`
+    * - **Method**
+        - :P:`design flaw`, :P:`built-in assumption`
+        -
+        -
+    * - **Environment (variation)**
+        -
+        - :R:`temperature fluctuation`, :R:`vibration`, :R:`lighting variation`
+        -
+    * - **Environment (bias)**
+        - :P:`consistently elevated temperature`, :P:`persistent interference`,
+        :P:`constant lighting offset`
+        -
+        -
+
+
 **Step 2 — Classify the behaviour** *(how does it affect the data?)*
 
 * Consistent, one-direction shift → :P:`Systematic error` → affects accuracy
