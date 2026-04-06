@@ -91,5 +91,127 @@ precisely as possible and increase the number of trials.
   is critical, or train multiple researchers to follow an identical
   procedure.
 
+----
+
+.. admonition:: Structured Question: Minor Technique Variation
+    :class: questions
+
+    A Year 8 class is investigating whether the drop height of a ball
+    affects how high it bounces. Each student drops a tennis ball from
+    four different heights — 25 cm, 50 cm, 75 cm, and 100 cm — and
+    measures the height of the first bounce using a ruler taped to the
+    wall. The student releases the ball by hand for each trial. The
+    teacher notices that the ball is not always released from exactly
+    the same position — sometimes the student's hand is slightly above
+    or below the marked height, and the ball is not always released
+    cleanly without a small downward push.
+
+    **(a)** Identify the type of error introduced by releasing the ball
+    by hand and classify it as random, systematic, or personal. *(2 marks)*
+
+    **(b)** Explain how this error would affect the group's bounce height
+    measurements. In your answer, refer to the direction of the error
+    and its effect on the accuracy and precision of the results. *(3 marks)*
+
+    **(c)** The student repeats each trial five times and calculates a
+    mean bounce height. Evaluate whether this would reduce the effect of
+    the error identified in part (a). *(2 marks)*
+
+    **(d)** Describe one improvement the student could make to reduce
+    this error before collecting data. *(1 mark)*
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                **(a)**
+
+                The error is **minor technique variation**, classified as a
+                **random error**.
+
+                *(1 mark for naming minor technique variation; 1 mark for random)*
+
+                **(b)**
+
+                Because the ball is released slightly above or below the marked
+                height, and sometimes with a small unintentional push, the
+                effective drop height varies unpredictably between trials. On
+                some trials the ball travels slightly further than intended,
+                giving a higher bounce; on others it travels slightly less,
+                giving a lower bounce. There is no consistent direction to the
+                error — results are scattered both above and below the true
+                bounce height for each drop height. *(1 mark)*
+
+                The **precision** of the results is reduced — repeated trials
+                at the same drop height will give noticeably different bounce
+                heights because the release point and technique vary between
+                trials. *(1 mark)*
+
+                The **accuracy** is not systematically affected — because the
+                variation in release technique is unpredictable in direction,
+                the errors tend to cancel out over many trials and the mean
+                is likely to be close to the true bounce height. *(1 mark)*
+
+                **(c)**
+
+                Repeating each trial five times and averaging **would** help
+                reduce the effect of this error, although it cannot eliminate
+                it entirely. *(1 mark)*
+
+                Because the release technique varies unpredictably — sometimes
+                too high, sometimes too low, sometimes with a slight push —
+                some trials will give bounce heights that are too high and
+                others too low. Averaging across multiple trials allows these
+                opposing variations to partially cancel out, bringing the mean
+                closer to the true bounce height. Increasing the number of
+                trials further would improve this effect. *(1 mark)*
+
+                **(d)**
+
+                The student should use a mechanical release device — for example,
+                a clamp or tube at each marked height — so the ball is always
+                released from exactly the correct position without any
+                unintentional force being applied. *(1 mark)*
+
+            .. tab-item:: Marking Guidance
+
+                **Part (a):** accept "minor technique variation" or "small
+                unavoidable variation in release technique." Do not accept
+                "operator error" — the student is not making a one-off mistake
+                or failing to follow the method; the variation is small and
+                inherent in manual release across many trials. Do not accept
+                "environmental variation" — the source of variation is the
+                student's technique, not an external environmental condition.
+                **Part (b):** award the direction mark for a response that
+                correctly identifies there is no consistent direction — results
+                are scattered both above and below the true value depending on
+                the release. Do not award this mark for a response that
+                identifies only one direction. Award the precision mark for
+                correctly stating precision is reduced and linking this to
+                the unpredictable variation between trials. Award the accuracy
+                mark for correctly stating accuracy is not systematically
+                affected because errors tend to cancel out across trials.
+                **Part (c):** as with environmental variation, repeating and
+                averaging **does** help for random errors. Award both marks
+                only if the student correctly identifies that averaging helps
+                and explains why: opposing variations partially cancel out.
+                A response that states repeating always reduces error without
+                this reasoning should receive only 1 mark.
+                **Part (d):** accept "have another student observe and call
+                out when the hand is at exactly the correct height before each
+                release" or "mark the release point precisely on a stand and
+                use it as a physical guide" as alternative valid responses.
+                Do not accept "repeat measurements" as this has already been
+                addressed in part (c) and only reduces rather than eliminates
+                the error.
+
+
+
+
 
 
