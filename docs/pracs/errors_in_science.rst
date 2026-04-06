@@ -39,7 +39,7 @@ sources of error.
       - :R:`minor technique variation`
       - :O:`operator error`, :O:`recording error`
     * - **Method**
-      - :P:`Method limitation`
+      - :P:`method limitation`
       -
       -
     * - **Environmental (variation)**
