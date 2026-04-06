@@ -14,7 +14,7 @@ Random Errors
 
 .. list-table::
     :header-rows: 1
-    :widths: 16 22 34 28
+    :widths: 16 16 34 34
 
     * - Source
       - Error Type
