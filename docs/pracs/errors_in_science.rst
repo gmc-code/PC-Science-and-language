@@ -73,8 +73,8 @@ sources of error.
 
 ----
 
-Quick Reference: Mapping Source to Classification
-------------------------------------------------------
+Quick Reference: Error Source to Classification to Fix
+----------------------------------------------------------
 
 .. list-table::
     :header-rows: 1
@@ -125,6 +125,10 @@ Quick Reference: Mapping Source to Classification
       - :O:`Personal`
       - :O:`Check and re-read data`
 
+.. image:: images/errors_infographic.png
+   :alt: Errors Infographic
+   :align: center
+   :scale: 35%
 
 
 
