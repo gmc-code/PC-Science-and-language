@@ -168,6 +168,7 @@ to be faulty.
                 a consistently incorrect reading across its range due to
                 physical damage. Do not accept "human error" or "mistake" —
                 the fault is in the instrument itself.
+
                 * **Part (b):** award the direction mark only if the student
                 identifies overestimation specifically, not just "the results
                 are wrong." The question states the balance reads 112 g for a
@@ -176,10 +177,12 @@ to be faulty.
                 states precision is unaffected and provides a reason. A response
                 that states precision is also reduced should not receive the
                 precision mark.
+
                 * **Part (c):** a response that simply states "repeating reduces
                 error" without explaining why it does not apply here should not
                 receive full marks. The key reasoning is that the faulty spring
                 produces the same offset in every trial.
+
                 * **Part (d):** accept "apply a correction factor based on the
                 known offset" as an alternative valid response. Do not accept
                 "repeat measurements" as this has already been evaluated in

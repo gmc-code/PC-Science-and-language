@@ -155,16 +155,19 @@ verify it is within calibration.
                 zeroed." Do not accept "human error" or "mistake" — the balance
                 itself has a fault, so this is an instrumental error, not a
                 personal error.
+
                 * **Part (b):** award the direction mark only if the student
                 identifies overestimation specifically, not just "the results
                 are wrong." Award the precision mark only if the student
                 correctly states precision is unaffected and provides a reason.
                 A response that states precision is also reduced should not
                 receive the precision mark.
+
                 * **Part (c):** a response that simply states "repeating reduces
                 error" without explaining why it does not apply here should not
                 receive full marks. The key reasoning is that the offset is
                 identical in every trial.
+
                 * **Part (d):** accept "subtract 0.4 g from all readings as a
                 correction factor" as an alternative valid response, since the
                 offset is known and constant.
