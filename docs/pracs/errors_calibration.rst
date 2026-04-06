@@ -162,14 +162,14 @@ to be faulty.
 
             .. tab-item:: Marking Guidance
 
-                * **Part (a):** accept "calibration error" or "the spring balance
+                **Part (a):** accept "calibration error" or "the spring balance
                 is incorrectly calibrated." Do not accept "zero error" — the
                 instrument was not giving a false zero reading, it was giving
                 a consistently incorrect reading across its range due to
                 physical damage. Do not accept "human error" or "mistake" —
                 the fault is in the instrument itself.
 
-                * **Part (b):** award the direction mark only if the student
+                **Part (b):** award the direction mark only if the student
                 identifies overestimation specifically, not just "the results
                 are wrong." The question states the balance reads 112 g for a
                 100 g mass, so the direction can be reasoned directly from the
@@ -178,12 +178,12 @@ to be faulty.
                 that states precision is also reduced should not receive the
                 precision mark.
 
-                * **Part (c):** a response that simply states "repeating reduces
+                **Part (c):** a response that simply states "repeating reduces
                 error" without explaining why it does not apply here should not
                 receive full marks. The key reasoning is that the faulty spring
                 produces the same offset in every trial.
 
-                * **Part (d):** accept "apply a correction factor based on the
+                **Part (d):** accept "apply a correction factor based on the
                 known offset" as an alternative valid response. Do not accept
                 "repeat measurements" as this has already been evaluated in
                 part (c) as ineffective.

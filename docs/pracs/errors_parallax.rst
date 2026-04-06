@@ -159,18 +159,18 @@ instruments designed to minimise the effect.
             .. tab-item:: Marking Guidance
 
                 * **Part (b):** award marks only if the student correctly
-                identifies the direction (overestimate, since the eye is below
-                the meniscus) and correctly distinguishes between accuracy
-                (reduced) and precision (unaffected). A response that states
-                precision is also reduced should not receive the precision mark.
+                    identifies the direction (overestimate, since the eye is below
+                    the meniscus) and correctly distinguishes between accuracy
+                    (reduced) and precision (unaffected). A response that states
+                    precision is also reduced should not receive the precision mark.
 
                 * **Part (c):** a response that simply states "repeating reduces
-                error" without explaining *why* it does not apply to systematic
-                error should not receive full marks.
+                    error" without explaining *why* it does not apply to systematic
+                    error should not receive full marks.
 
                 * **Part (d):** accept "use a digital burette" or "use a burette
-                with a mirror scale and align the pointer with its reflection"
-                as alternative valid responses.
+                    with a mirror scale and align the pointer with its reflection"
+                    as alternative valid responses.
 
 
 
