@@ -36,7 +36,7 @@ PC-Science-and-language
     :numbered:
 
     pracs/errors_in_science.rst
-    pracs/index.rst
+
 
 .. toctree::
     :maxdepth: 2
@@ -67,9 +67,9 @@ PC-Science-and-language
     :caption: 🧪⛔ Prac Personal Errors
     :numbered:
 
-    .. pracs/errors_personal.rst
-    .. pracs/errors_operator.rst
-    .. pracs/errors_recording.rst
+    pracs/errors_personal.rst
+    pracs/errors_operator.rst
+    pracs/errors_recording.rst
 
 
 .. toctree::
