@@ -14,7 +14,7 @@ Systematic Errors
 
 .. list-table::
     :header-rows: 1
-    :widths: 16 22 32 30
+    :widths: 16 16 34 34
 
     * - Source
       - Error Type
