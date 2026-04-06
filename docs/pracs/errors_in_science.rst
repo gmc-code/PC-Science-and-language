@@ -23,9 +23,13 @@ sources of error.
 **Step 1 — Identify the source** *(what caused it?)*
 
 * **Instrument** — :P:`zero error`, :P:`calibration fault`, :R:`resolution limit`
-* **Observation / procedure** — :P:`parallax`, :R:`technique variation`, :O:`recording mistake`
+* **Observation / procedure** — :P:`parallax`, :R:`technique variation`,
+  :O:`operator error`, :O:`recording mistake`
 * **Method** — :P:`design flaw`, :P:`built-in assumption`
-* **Environment** — :R:`temperature fluctuation`, :R:`vibration`, :R:`lighting`
+* **Environment (variation)** — :R:`temperature fluctuation`, :R:`vibration`,
+  :R:`lighting variation`
+* **Environment (bias)** — :P:`consistently elevated temperature`,
+  :P:`persistent interference`, :P:`constant lighting offset`
 
 **Step 2 — Classify the behaviour** *(how does it affect the data?)*
 
