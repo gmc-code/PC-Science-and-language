@@ -1,6 +1,6 @@
 ==========================
 Environmental Variation
-=========================
+==========================
 
 | **Environmental variation** occurs when uncontrolled conditions in the experimental setting fluctuate unpredictably between trials, introducing random changes into measurements.
 | It is classified as a **random error** — the direction and size of the fluctuation differs between readings, causing results to scatter around the true value.
