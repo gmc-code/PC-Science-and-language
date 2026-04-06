@@ -10,7 +10,7 @@ This resource uses a **two-level model**:
 * **Primary classification (assessment level):**
   :P:`Systematic errors`, :R:`Random errors`, and :O:`Personal errors`
 * **Secondary classification (explanation level):**
-  Instrumental, observational/procedural, method, or environmental sources
+  Instrumental, observational/procedural, method limitation, or environmental sources
 
 ----
 
@@ -47,7 +47,7 @@ sources of error.
       - :P:`parallax`
       - :R:`technique variation`
       - :O:`operator error`, :O:`recording mistake`
-    * - **Method**
+    * - **Method Limitation**
       - :P:`design flaw`, :P:`built-in assumption`
       -
       -
@@ -93,75 +93,43 @@ Quick Reference: Mapping Source to Classification
       - Source Category
       - Classification
       - Fix / Reduce by…
-    * - Zero error
+    * - :P:`Zero error`
       - Instrumental
-      - Systematic
-      - Zero instrument before use
-    * - Calibration error
-      - Instrumental
-      - Systematic
-      - Verify or recalibrate equipment
-    * - Resolution limitation
-      - Instrumental
-      - Random
-      - Higher-resolution instrument
-    * - Parallax error
-      - Observational
-      - Systematic
-      - Read scale at eye level
-    * - Operator / technique error
-      - Observational
-      - Personal
-      - Follow procedure; repeat trial
-    * - Method limitation
-      - Method
-      - Systematic
-      - Redesign experiment
-    * - Recording error
-      - Observational
-      - Personal
-      - Check and re-read data
-    * - Temperature variation
-      - Environmental
-      - Random or Systematic
-      - Control or monitor conditions
-    * - Vibration / interference
-      - Environmental
-      - Random
-      - Isolate apparatus
-    * - Lighting conditions
-      - Environmental
-      - Random or Systematic
-      - Ensure consistent lighting
-
-----
-
-.. list-table::
-    :header-rows: 1
-    :widths: 22 26 26 26
-
-    * - Source
       - :P:`Systematic`
+      - :P:`Zero instrument before use`
+    * - :P:`Calibration error`
+      - Instrumental
+      - :P:`Systematic`
+      - :P:`Verify or recalibrate equipment`
+    * - :R:`Resolution limitation`
+      - Instrumental
       - :R:`Random`
+      - :R:`Higher-resolution instrument`
+    * - :P:`Parallax error`
+      - Observational
+      - :P:`Systematic`
+      - :P:`Read scale at eye level`
+    * - :O:`Operator / technique error`
+      - Observational
       - :O:`Personal`
-    * - **Instrument**
-      - :P:`zero error`, :P:`calibration fault`
-      - :R:`resolution limit`
-      -
-    * - **Observation / Procedure**
-      - :P:`parallax`
-      - :R:`technique variation`
-      - :O:`operator error`, :O:`recording mistake`
-    * - **Method**
-      - :P:`design flaw`, :P:`built-in assumption`
-      -
-      -
-    * - **Environment (variation)**
-      -
-      - :R:`temperature fluctuation`, :R:`vibration`, :R:`lighting variation`
-      -
-    * - **Environment (bias)**
-      - :P:`consistently elevated temperature`, :P:`persistent interference`,
-        :P:`constant lighting offset`
-      -
-      -
+      - :O:`Follow procedure; repeat trial`
+    * - :P:`Method limitation`
+      - Method
+      - :P:`Systematic`
+      - :P:`Redesign experiment`
+    * - :O:`Recording error`
+      - Observational
+      - :O:`Personal`
+      - :O:`Check and re-read data`
+    * - :P:`Temperature variation` / :R:`fluctuation`
+      - Environmental
+      - :P:`Systematic` / :R:`Random`
+      - :P:`Control` or :R:`monitor conditions`
+    * - :R:`Vibration / interference`
+      - Environmental
+      - :R:`Random`
+      - :R:`Isolate apparatus`
+    * - :P:`Lighting bias` / :R:`lighting variation`
+      - Environmental
+      - :P:`Systematic` / :R:`Random`
+      - :P:`Correct` or :R:`shield light source`
