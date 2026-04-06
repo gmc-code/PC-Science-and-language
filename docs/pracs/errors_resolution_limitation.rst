@@ -96,4 +96,134 @@ or a higher-resolution sensor.
   conditions.
 
 
+----
+
+.. admonition:: Structured Question: Resolution Limitation
+    :class: questions
+
+    A Year 8 class is investigating whether the width of a rubber band
+    affects how far it stretches when a 100 g mass is hung from it. Each
+    student measures the length of the rubber band before and after the
+    mass is added, then calculates the extension by subtracting the
+    original length. The students use a ruler marked in centimetres only,
+    with no millimetre graduations. Several students notice that the end
+    of the rubber band often falls between two centimetre marks, and each
+    student estimates the position slightly differently.
+
+    **(a)** Identify the type of error introduced by using a ruler with
+    centimetre-only graduations and classify it as random, systematic,
+    or personal. *(2 marks)*
+
+    **(b)** Explain how this error would affect the group's extension
+    measurements. In your answer, refer to the direction of the error
+    and its effect on the accuracy and precision of the results. *(3 marks)*
+
+    **(c)** The group repeats each measurement five times and calculates
+    a mean extension. Evaluate whether this would reduce the effect of
+    the error identified in part (a). *(2 marks)*
+
+    **(d)** Describe one improvement the group could make to reduce this
+    error before collecting data. *(1 mark)*
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                **(a)**
+
+                The error is a **resolution limitation**, classified as a
+                **random error**.
+
+                *(1 mark for naming resolution limitation; 1 mark for random)*
+
+                **(b)**
+
+                Because the ruler has centimetre-only graduations, the true
+                length of the rubber band often falls between two marks and
+                must be estimated. Each student estimates this differently —
+                sometimes rounding up, sometimes rounding down — so the
+                recorded values are scattered unpredictably above and below
+                the true length. There is no consistent direction to the
+                error. *(1 mark)*
+
+                The **precision** of the results is reduced — repeated
+                measurements of the same extension will not always agree,
+                as each reading involves a different estimate between the
+                centimetre marks. The minimum uncertainty introduced is at
+                least ±0.5 cm per reading, and since the extension is
+                calculated by subtracting two measurements, this uncertainty
+                accumulates across both readings. *(1 mark)*
+
+                The **accuracy** is not systematically affected — because
+                estimates are sometimes too high and sometimes too low, the
+                errors tend to cancel out over many measurements and the
+                mean is likely to be close to the true extension. *(1 mark)*
+
+                **(c)**
+
+                Repeating each measurement five times and averaging **would**
+                help reduce the effect of this error, although it cannot
+                eliminate it entirely. *(1 mark)*
+
+                Because the estimation error varies unpredictably — sometimes
+                above, sometimes below the true value — averaging across
+                multiple readings allows these opposing errors to partially
+                cancel out, bringing the mean closer to the true extension.
+                However, the resolution limitation remains as long as the
+                same ruler is used; increasing the number of trials further
+                would reduce but never fully eliminate the effect. *(1 mark)*
+
+                **(d)**
+
+                The group should replace the centimetre-only ruler with one
+                that has millimetre graduations, reducing the minimum
+                uncertainty from ±0.5 cm to ±0.5 mm per reading and
+                allowing the extension to be measured with greater precision.
+                *(1 mark)*
+
+            .. tab-item:: Marking Guidance
+
+                **Part (a):** accept "resolution limitation" or "the
+                instrument's scale divisions are too coarse to measure the
+                quantity precisely." Do not accept "parallax error" — the
+                stem does not describe an incorrect viewing angle. Do not
+                accept "operator error" or "recording error" — estimating
+                between graduations is an inherent limitation of the
+                instrument, not a one-off mistake by the student.
+
+                **Part (b):** award the direction mark for a response that
+                correctly identifies there is no consistent direction —
+                estimates are scattered both above and below the true value.
+                Do not award this mark for a response that states results
+                are consistently too high or too low. Award the precision
+                mark for correctly stating precision is reduced and linking
+                this to the uncertainty in estimating between graduations.
+                A stronger response may note that the uncertainty accumulates
+                across both the before and after measurements. Award the
+                accuracy mark for correctly stating accuracy is not
+                systematically affected because estimation errors tend to
+                cancel out across trials.
+
+                **Part (c):** repeating and averaging **does** help for
+                random errors. Award both marks only if the student correctly
+                identifies that averaging helps and explains why: opposing
+                estimation errors partially cancel out. A response that states
+                repeating always reduces error without this reasoning should
+                receive only 1 mark. A response that correctly notes the
+                limitation remains unless a better instrument is used may
+                receive full marks if the averaging reasoning is also present.
+
+                **Part (d):** accept "use a digital calliper" or "use a ruler
+                with millimetre graduations" as valid responses. Do not accept
+                "repeat measurements" as this has already been addressed in
+                part (c) and only reduces rather than eliminates the error.
+                Do not accept "be more careful when reading" — the limitation
+                is in the instrument's scale, not the student's attention.
+
+
 
