@@ -10,14 +10,6 @@ Random Errors
 * Precision is reduced
 * Averaging improves reliability
 
-**Common sources of random error**
-
-**Key features**
-
-* Results vary unpredictably around the true value
-* Precision is reduced
-* Averaging improves reliability
-
 **Common random error**
 
 .. list-table::
@@ -46,26 +38,4 @@ Random Errors
       - Isolate apparatus from the source of vibration.
 
 
-
-
-
-.. list-table::
-    :header-rows: 1
-    :widths: 22 30 48
-
-    * - Source
-      - Error Type
-      - Explanation
-    * - Instrumental
-      - Resolution limitation
-      - Estimation between scale divisions varies.
-    * - Procedural
-      - Minor technique variation
-      - Small unavoidable variations between trials.
-    * - Environmental
-      - Temperature fluctuation
-      - Small uncontrolled changes affect readings.
-    * - Environmental
-      - Vibration / interference
-      - Readings fluctuate due to instability.
 
