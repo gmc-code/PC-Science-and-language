@@ -42,7 +42,60 @@ Systematic Errors
       - Control or correct the environmental condition before data collection.
 
 
+Improvements: Systematic Errors
+--------------------------------
 
+Because systematic errors shift all results consistently in one direction,
+repeating measurements does **not** help — the source must be identified
+and eliminated.
+
+**Instrumental sources**
+
+Zero or tare the instrument before use. Verify readings against a known
+standard and recalibrate or replace if a consistent offset is found.
+
+* Calibrate instruments using known standards — for example, check a
+  thermometer against a calibrated reference and adjust readings if it
+  consistently reads 2 °C below the true temperature.
+* Use multiple instruments to cross-check measurements — for example,
+  measure the same length with two different rulers to detect whether
+  one has a worn or chipped end shortening every reading.
+* Maintain equipment properly and replace faulty components — for
+  example, recalibrate or replace a pH probe that consistently reads
+  slightly acidic even in a neutral solution.
+
+**Observational sources**
+
+Correct reading position before every measurement. Read scales at eye
+level and use a mirror scale where available to confirm the eye is
+directly in front of the pointer.
+
+**Method sources**
+
+Critically evaluate the experimental design before data collection begins.
+Identify any assumptions or flaws built into the method and redesign the
+relevant steps to remove the source of bias.
+
+* Identify and remove consistent biases in the method — for example,
+  check a digital scale against a known mass to confirm whether it is
+  consistently reading 5 g too high before beginning trials.
+
+**Environmental sources**
+
+Identify the condition causing the consistent offset and correct it before
+collecting data. Monitor and record environmental conditions throughout
+so any drift can be detected and discussed.
+
+* Compare results with reference data or accepted values — for example,
+  check recorded boiling point values against the accepted value of
+  100 °C at sea level to detect whether a consistent environmental or
+  instrumental offset is present.
+
+
+----
+
+Improvements: Systematic Errors
+------------------------------------------
 
 **Reducing systematic errors**
 
@@ -61,19 +114,6 @@ and eliminated. Use the fix that matches the source:
   offset and correct it before collecting data; monitor and record
   environmental conditions throughout.
 
-
-* Recalibrate or replace equipment
-* Redesign the method
-* Correct reading position or setup
-* Control environmental conditions
-
-----
-
-
-Improvements: Systematic Errors
-------------------------------------------
-
-To reduce systematic error, calibrate equipment and compare measurements with known reference values to remove consistent biases.
 
 .. rubric:: Improvements:
 
