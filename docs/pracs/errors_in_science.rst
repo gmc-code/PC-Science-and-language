@@ -22,15 +22,6 @@ sources of error.
 
 **Step 1 — Identify the source** *(what caused it?)*
 
-* **Instrument** — :P:`zero error`, :P:`calibration fault`, :R:`resolution limit`
-* **Observation / procedure** — :P:`parallax`, :R:`technique variation`,
-  :O:`operator error`, :O:`recording mistake`
-* **Method** — :P:`design flaw`, :P:`built-in assumption`
-* **Environment (variation)** — :R:`temperature fluctuation`, :R:`vibration`,
-  :R:`lighting variation`
-* **Environment (bias)** — :P:`consistently elevated temperature`,
-  :P:`persistent interference`, :P:`constant lighting offset`
-
 .. list-table::
     :header-rows: 1
     :widths: 22 26 26 26
@@ -101,35 +92,31 @@ Quick Reference: Mapping Source to Classification
       - Instrumental
       - :P:`Systematic`
       - :P:`Verify or recalibrate equipment`
-    * - :R:`Resolution limitation`
-      - Instrumental
-      - :R:`Random`
-      - :R:`Higher-resolution instrument`
     * - :P:`Parallax error`
       - Observational
       - :P:`Systematic`
       - :P:`Read scale at eye level`
-    * - :O:`Operator / technique error`
-      - Observational
-      - :O:`Personal`
-      - :O:`Follow procedure; repeat trial`
     * - :P:`Method limitation`
       - Method
       - :P:`Systematic`
       - :P:`Redesign experiment`
+    * - :P:`Environmental bias`
+      - Environmental
+      - :P:`Systematic`
+      - :P:`Identify and correct the condition before data collection`
+    * - :R:`Resolution limitation`
+      - Instrumental
+      - :R:`Random`
+      - :R:`Higher-resolution instrument`
+    * - :R:`Environmental variation`
+      - Environmental
+      - :R:`Random`
+      - :R:`Monitor conditions; repeat and average`
+    * - :O:`Operator / technique error`
+      - Observational
+      - :O:`Personal`
+      - :O:`Follow procedure; repeat trial`
     * - :O:`Recording error`
       - Observational
       - :O:`Personal`
       - :O:`Check and re-read data`
-    * - :P:`Temperature variation` / :R:`fluctuation`
-      - Environmental
-      - :P:`Systematic` / :R:`Random`
-      - :P:`Control` or :R:`monitor conditions`
-    * - :R:`Vibration / interference`
-      - Environmental
-      - :R:`Random`
-      - :R:`Isolate apparatus`
-    * - :P:`Lighting bias` / :R:`lighting variation`
-      - Environmental
-      - :P:`Systematic` / :R:`Random`
-      - :P:`Correct` or :R:`shield light source`
