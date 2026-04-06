@@ -69,7 +69,7 @@ sources of error.
 
 * :P:`Systematic` → eliminate the source (recalibrate, redesign, correct setup)
 * :R:`Random` → repeat and average; increase sample size
-* :O:`Personal` → repeat the measurement correctly
+* :O:`Personal` → repeat the measurement or re-read the data correctly
 
 ----
 
