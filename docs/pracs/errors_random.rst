@@ -63,6 +63,30 @@ eliminated — by repeating measurements and calculating a mean.
         use a higher-resolution instrument where the source is instrumental.
 
 
+**Reducing random errors**
+
+* Repeat measurements and calculate a mean
+* Increase sample size
+* Use higher-resolution instruments
+* Stabilise environmental conditions
+
+----
+
+Improvements: Random Errors
+------------------------------------------
+
+**Random errors** occur when there are unpredictable variations in the measurement process
+
+To reduce random error, repeat measurements and average the results to smooth out unpredictable fluctuations.
+
+.. rubric:: Improvements:
+
+1. Repeat measurements to average out fluctuations — for example, time a pendulum swing at least five times and calculate the mean to reduce the effect of small air currents disturbing the motion.
+2. Control environmental conditions — for example, close windows and doors before measuring reaction rates to prevent fluctuations in room temperature affecting the results.
+3. Minimise handling or movement during measurement — for example, allow a balance pan to settle completely before recording a mass reading to avoid vibrations causing fluctuating values.
+
+
+----
 
 Sources and Examples
 --------------------
@@ -157,27 +181,6 @@ Sources and Examples
    The key question is: *is the deviation consistent in direction, or
    not?*
 
-**Reducing random errors**
-
-* Repeat measurements and calculate a mean
-* Increase sample size
-* Use higher-resolution instruments
-* Stabilise environmental conditions
-
-----
-
-Improvements: Random Errors
-------------------------------------------
-
-**Random errors** occur when there are unpredictable variations in the measurement process
-
-To reduce random error, repeat measurements and average the results to smooth out unpredictable fluctuations.
-
-.. rubric:: Improvements:
-
-1. Repeat measurements to average out fluctuations — for example, time a pendulum swing at least five times and calculate the mean to reduce the effect of small air currents disturbing the motion.
-2. Control environmental conditions — for example, close windows and doors before measuring reaction rates to prevent fluctuations in room temperature affecting the results.
-3. Minimise handling or movement during measurement — for example, allow a balance pan to settle completely before recording a mass reading to avoid vibrations causing fluctuating values.
 
 ----
 
