@@ -46,6 +46,22 @@ Systematic Errors
 
 **Reducing systematic errors**
 
+Because systematic errors shift all results consistently in one direction,
+repeating measurements does **not** help — the source must be identified
+and eliminated. Use the fix that matches the source:
+
+* **Instrumental** — zero or tare the instrument before use; verify
+  against a known standard and recalibrate or replace if necessary.
+* **Observational** — correct reading position; read at eye level and
+  use a mirror scale where available.
+* **Method** — critically evaluate the experimental design; identify
+  the flaw and redesign the relevant part of the method before
+  data collection begins.
+* **Environmental** — identify the condition causing the consistent
+  offset and correct it before collecting data; monitor and record
+  environmental conditions throughout.
+
+
 * Recalibrate or replace equipment
 * Redesign the method
 * Correct reading position or setup
