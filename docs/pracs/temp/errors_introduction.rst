@@ -4,15 +4,6 @@ Types of Errors in Scientific Experiments
 *Understanding error types helps evaluate the accuracy, precision, and
 validity of experimental results.*
 
-.. note::
-
-   **⚠ VCAA Exam Note**
-
-   The three categories below are a teaching framework. For VCE exams
-   (Biology, Chemistry, Physics, Psychology), VCAA requires you to classify
-   all errors as **random** or **systematic** — and to treat operator
-   mistakes and recording errors as **personal errors**, which are *distinct*
-   from true measurement errors.
 
 
 1. Instrumental Limitations
@@ -26,7 +17,6 @@ validity of experimental results.*
 
    * - Error Type
      - Description
-     - VCAA Classification
    * - **Zero Error**
      - Occurs when the instrument does not read zero when it should
        (e.g. a balance reading 0.2 g with nothing on it).
@@ -59,7 +49,7 @@ validity of experimental results.*
 
    * - Error Type
      - Description
-     - VCAA Classification
+     - Classification
    * - **Parallax Error**
      - Occurs when a scale is read from an incorrect viewing angle, causing
        the apparent reading to differ from the true value.
@@ -81,12 +71,11 @@ validity of experimental results.*
      - Personal error — treat as a mistake; correct by careful checking and
        re-reading.
 
-★ Operator and recording errors are classified as **personal errors** by
-VCAA — they are mistakes, not true measurement errors, and should not be
+★ Operator and recording errors are classified as **personal errors** — they are mistakes, not true measurement errors, and should not be
 included in uncertainty calculations.
 
 
-3. Random and Systematic Errors
+1. Random and Systematic Errors
 ---------------------------------
 
 *Describes how measurement errors behave and affect data quality.*
@@ -112,7 +101,7 @@ included in uncertainty calculations.
        source must be identified and eliminated.
 
 
-Quick Reference: VCAA Classification Summary
+Quick Reference: Classification Summary
 ---------------------------------------------
 
 .. list-table::
@@ -121,7 +110,7 @@ Quick Reference: VCAA Classification Summary
 
    * - Error
      - Category (this framework)
-     - VCAA Classification
+     - Classification
      - Fix / Reduce by…
    * - Zero error
      - Instrumental

@@ -4,8 +4,8 @@ Ethics: Respect for Others
 
 Respect for others is a fundamental ethical principle in scientific research that requires scientists to treat all individuals with dignity and fairness.
 
-Respect for Others
--------------------------
+Examples
+------------
 
 • Obtain consent from participants before using their personal information.
 • Respect participants' right to withdraw from a study at any time without penalty.

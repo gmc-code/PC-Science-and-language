@@ -4,8 +4,8 @@ Ethics: Doing Good
 
 Doing good is a fundamental ethical principle in scientific research that requires scientists to strive to maximise the positive impact of their work on people, animals, and the environment.
 
-Doing Good
-------------------------
+Examples
+------------
 
 - Aim to maximise wellbeing for people, animals, and the environment through science.
 - Ensure every investigation has a clear educational or social purpose.

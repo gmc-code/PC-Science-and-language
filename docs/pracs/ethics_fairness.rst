@@ -4,8 +4,8 @@ Ethics: Fairness
 
 Fairness in interpretation is a key ethical principle that ensures scientists select and interpret data without bias, so no group is disadvantaged.
 
-Fairness
-----------
+Examples
+------------
 
 - Allow participants to choose whether to take part in a survey.
 - Write survey questions in plain language that everyone can understand.

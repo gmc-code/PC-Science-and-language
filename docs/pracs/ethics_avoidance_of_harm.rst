@@ -4,8 +4,8 @@ Ethics: Avoidance of Harm
 
 Avoidance of harm is a fundamental ethical principle in scientific research that requires scientists to take steps to minimize potential negative consequences of their work.
 
-Avoidance of Harm
-------------------------
+Examples
+------------
 
 - Keep survey respondents' answers private.
 - Do not misuse personal or medical data beyond what participants consented to.
