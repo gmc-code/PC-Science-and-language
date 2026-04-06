@@ -43,29 +43,6 @@ Systematic Errors
 
 
 
-.. list-table::
-    :header-rows: 1
-    :widths: 22 38 40
-
-    * - Source
-      - Error Type
-      - Explanation
-    * - Instrumental
-      - Zero error
-      - Instrument does not read zero, shifting all values.
-    * - Instrumental
-      - Calibration error
-      - Scale or sensor is incorrectly calibrated.
-    * - Observational
-      - Parallax error
-      - Scale consistently viewed from an incorrect angle.
-    * - Method
-      - Method limitation
-      - Experimental design introduces inherent bias.
-    * - Environmental
-      - Constant temperature / lighting bias
-      - Conditions consistently differ from intended controls.
-
 
 **Reducing systematic errors**
 
@@ -79,8 +56,6 @@ Systematic Errors
 
 Improvements: Systematic Errors
 ------------------------------------------
-
-**Systematic errors** occur when there is a consistent bias in the measurement process
 
 To reduce systematic error, calibrate equipment and compare measurements with known reference values to remove consistent biases.
 
