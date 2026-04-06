@@ -36,10 +36,10 @@ sources of error.
       -
     * - **Observational / Procedural**
       - :P:`parallax error`
-      - :R:`minortechnique variation`
+      - :R:`minor technique variation`
       - :O:`operator error`, :O:`recording error`
-    * - **Method Limitation**
-      - :P:`design flaw`, :P:`built-in assumption`
+    * - **Method**
+      - :P:`Method limitation`
       -
       -
     * - **Environmental (variation)**
