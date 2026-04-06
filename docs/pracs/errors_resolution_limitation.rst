@@ -5,7 +5,8 @@ Resolution Limitation
 | **Resolution limitation** occurs when the smallest scale division of an instrument is too large to distinguish between values that differ by less than that division.
 | It is classified as a **random error** — the uncertainty introduced when estimating between graduations varies unpredictably between readings.
 
-Examples:
+Examples
+------------
 
 * A ruler marked in millimetres cannot reliably measure a length of
   3.4 mm — the true value must be estimated between the 3 mm and 4 mm

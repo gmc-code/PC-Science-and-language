@@ -5,7 +5,8 @@ Calibration Error
 | **Calibration error** occurs when an instrument gives readings that are consistently offset from the true value across its entire range, due to incorrect calibration or a fault in the instrument itself.
 | It is classified as a **systematic error** — every reading is shifted in the same direction by a consistent or proportional amount.
 
-Examples:
+Examples
+------------
 
 * A thermometer that reads 2 °C too high across its entire range due to
   incorrect calibration at the factory

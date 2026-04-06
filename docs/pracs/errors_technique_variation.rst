@@ -5,7 +5,8 @@ Minor Technique Variation
 | **Minor technique variation** occurs when small, unavoidable differences in how a procedure is carried out between trials introduce unpredictable variation into measurements.
 | It is classified as a **random error** — the direction and size of the variation differs between trials, producing a spread of results around the true value.
 
-Examples:
+Examples
+------------
 
 * Small variations in how firmly a stopper is pushed into a flask
   between trials, affecting gas pressure readings slightly

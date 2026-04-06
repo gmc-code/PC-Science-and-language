@@ -5,8 +5,9 @@ Method Limitation
 | **Method limitations** occur when a flaw in the experimental design itself introduces a consistent bias into the results, independent of the operator or the instruments used.
 | They are classified as a **systematic error** — the flaw affects every measurement in the same way, shifting all results in the same direction.
 
-Examples:
 
+Examples
+------------
 
 * Measuring the temperature of a liquid by placing a thermometer near
   the heat source rather than in the bulk of the liquid, so all

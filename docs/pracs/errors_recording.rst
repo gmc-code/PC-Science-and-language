@@ -7,7 +7,8 @@ down, reading, or transferring data.
 | They are classified as **personal
 errors** — one-off mistakes rather than true measurement errors.
 
-Examples:
+Examples
+------------
 
 * Reading the wrong scale on a dual-scale instrument (e.g. Fahrenheit
   instead of Celsius)

@@ -5,8 +5,8 @@ Environmental Bias
 | **Environmental bias** occurs when an uncontrolled environmental condition is consistently different from the intended or standard condition across all trials, shifting every measurement in the same direction.
 | It is classified as a **systematic error** — the consistent offset affects accuracy but not precision, and cannot be reduced by repeating measurements.
 
-Examples — Systematic
-----------------------
+Examples
+------------
 
 These conditions are consistently different from the intended condition
 across all trials, shifting every result in the same direction:

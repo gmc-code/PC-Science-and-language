@@ -5,7 +5,8 @@ Zero Error
 | **Zero error** occurs when an instrument does not read zero when it should before any quantity is applied or measured.
 | It is classified as a **systematic error** — it shifts every reading by the same amount in the same direction.
 
-Examples:
+Examples
+------------
 
 * A top-pan balance displaying 0.3 g before any sample is placed on it,
   so every mass reading is 0.3 g too high

@@ -12,7 +12,7 @@ Environmental Variation
    — a systematic error treated separately.
 
 Examples
---------
+------------
 
 These conditions fluctuate unpredictably between trials, causing results
 to scatter around the true value:

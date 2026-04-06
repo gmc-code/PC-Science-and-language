@@ -5,7 +5,8 @@ Operator Error
 | **Operator errors** occur when the researcher makes a mistake in carrying out the experimental technique or procedure.
 | They are classified as **personal errors** — one-off mistakes rather than true measurement errors.
 
-Examples:
+Examples
+------------
 
 * Using incorrect masses, so a variable is not properly controlled
 * Heating a sample for too long because the timer was not started
