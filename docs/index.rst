@@ -46,7 +46,9 @@ PC-Science-and-language
 
     pracs/errors_systematic.rst
     pracs/errors_zero.rst
+    pracs/errors_calibration.rst
     pracs/errors_parallax.rst
+    pracs/errors_method_limitation.rst
 
 
 

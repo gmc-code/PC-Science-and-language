@@ -1,5 +1,5 @@
 ================
-Operator Errors
+Operator Error
 ================
 
 | **Operator errors** occur when the researcher makes a mistake in carrying out the experimental technique or procedure.

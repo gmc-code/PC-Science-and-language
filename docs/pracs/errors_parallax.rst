@@ -1,5 +1,8 @@
+=================
 Parallax Error
-==============
+=================
+
+
 
 | **Parallax error** occurs when a scale is read from an angle rather than straight on, causing the apparent position of the pointer or meniscus to differ from its true position.
 | It is classified as a **systematic error** — if the observer's eye is consistently in the same wrong position, every reading is shifted in the same direction.

@@ -1,5 +1,5 @@
 ================
-Recording Errors
+Recording Error
 ================
 
 | **Recording errors** occur when the researcher makes a mistake in writing
