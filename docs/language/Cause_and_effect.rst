@@ -1,9 +1,9 @@
-===========================
+============================
 Cause and Effect Patterns
-===========================
+============================
 
 O → R Cause-Effect Construction
-===============================
+================================
 
 This pattern expresses a **reason (R)** following an **observation (O)**.
 The examples below show how to move from an observed phenomenon and its underlying reason to a fully nominalised cause-effect statement.
