@@ -56,7 +56,6 @@ This table shows which forms fit each context, along with examples and reasons w
       -
         - nomA causes nomB
         - nomA results in nomB
-        - nomB results from nomA
       - Precise, mechanism‑focused
 
     * - Historical or analytical writing
