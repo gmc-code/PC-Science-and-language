@@ -26,7 +26,7 @@ Observation (Effect)
 Reason (Cause)
 ----------------
 
-| **Reason (R):** *The lines of force around the magnet are greatest at the poles.*
+| **Reason (R):** *The lines of force around the magnet are most concentrated at the poles.*
 | This identifies the **cause**: the distribution of magnetic field lines.
 | Key idea: The magnetic field is strongest at the poles.
 
@@ -35,7 +35,7 @@ Combining R → O
 
 The causal relationship can be expressed explicitly:
 
-*The lines of force around the magnet are greatest at the poles, **and as a result**, iron filings accumulate at the poles of the magnet.*
+*The lines of force around the magnet are most concentrated at the poles, **and as a result**, iron filings accumulate at the poles of the magnet.*
 
 **Features of this form:**
 
