@@ -20,6 +20,12 @@ This table shows which forms fit each context, along with examples and reasons w
         - nomA causes nomB
         - nomA results in nomB
       - Objective, concise
+    * - Scientific explanations
+      - Verb forms (“causes”, “results in”)
+      -
+        - nomA causes nomB
+        - nomA results in nomB
+      - Precise, mechanism-focused
     * - News articles
       - Text connectives
       -
@@ -46,12 +52,6 @@ This table shows which forms fit each context, along with examples and reasons w
         - the reason for nomB is nomA
         - the cause of nomB is nomA
       - Formal, structured
-    * - Scientific explanations
-      - Verb forms (“causes”, “results in”)
-      -
-        - nomA causes nomB
-        - nomA results in nomB
-      - Precise, mechanism‑focused
     * - Historical or analytical writing
       - “Results from”, “as a consequence of”
       -
