@@ -35,7 +35,7 @@ Features of this final form:
 
 - Formal and scientific
 - Reason comes first (R → O)
-- Uses an explicit causal connector (**as a result**)
+- Uses an explicit causal connector (**and as a result**)
 - Clearly links the underlying cause to the observed effect
 
 
