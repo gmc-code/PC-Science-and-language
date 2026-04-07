@@ -6,7 +6,7 @@ O → R Cause-Effect Construction
 --------------------------------
 
 This pattern, **O → R** expresses a **reason (R)** following an **observation (O)**.
-The examples below show how to move from an observed phenomenon and its underlying reason to a fully nominalised cause-effect statement.
+The examples below show how to move from an observed phenomenon or outcome and its underlying reason to a fully nominalised cause-effect statement.
 
 Observation (the effect)
 -------------------------
