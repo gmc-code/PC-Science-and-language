@@ -128,7 +128,7 @@ Quick Reference: Error Source to Classification to Fix
 .. image:: images/errors_infographic.png
    :alt: Errors Infographic
    :align: center
-   :scale: 35%
+   :scale: 60%
 
 
 
