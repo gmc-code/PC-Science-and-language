@@ -10,8 +10,8 @@ This table shows which forms fit each context, along with examples and reasons w
     :header-rows: 1
 
     * - Context
-      - Best Forms
-      - Matching Cause-Effect Structures
+      - Forms
+      - Cause-Effect Structures
       - Features and Benefits
 
     * - Lab reports
