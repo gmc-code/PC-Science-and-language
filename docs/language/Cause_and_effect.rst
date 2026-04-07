@@ -2,6 +2,8 @@
 Cause and Effect Patterns
 ============================
 
+Cause-and-effect relationships in scientific writing can be expressed in two directions: moving from an observation, **O**, to the reason, **R**, behind it (**O → R**), or from a reason to the observation it produces (**R → O**). The material below illustrates both pathways and shows how each can be developed into more formal, nominalised constructions for precise explanation.
+
 O → R Cause-Effect Construction
 --------------------------------
 
@@ -22,6 +24,23 @@ Reason (the cause)
 | This sentence identifies the **cause**: the distribution of magnetic lines of force.
 | Key idea: The poles of a magnet have the highest concentration of magnetic field lines.
 
+Combining R → O
+-------------------------
+
+Using the original reason and observation clauses, we can now express the causal relationship clearly:
+
+*The lines of force around the magnet are greatest at the poles, **and as a result**, iron filings accumulate at the poles of the magnet.*
+
+Features of this final form:
+
+- Formal and scientific
+- Reason comes first (R → O)
+- Uses an explicit causal connector (**as a result**)
+- Clearly links the underlying cause to the observed effect
+
+
+----
+
 Nominalising R (nomR)
 -------------------------
 
@@ -38,7 +57,7 @@ Nominalising O (nomO)
 | Benefits: It allows nomO to be linked to nomR using formal scientific verbs (e.g., *results in*, *causes*).
 | It creates a compact, academic expression of the effect.
 
-Combining nomR → nomO (full R → O form)
+Combining nomR → nomO
 -----------------------------------------
 
 | Using the nominalised forms, we can now express the causal relationship clearly:
