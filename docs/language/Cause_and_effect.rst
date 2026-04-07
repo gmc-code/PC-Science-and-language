@@ -91,6 +91,39 @@ The nominalised forms produce a more formal causal statement:
 - Uses a precise causal verb (**results in**)
 - Typical of scientific reports and explanations
 
+----
+
+Combining O → R
+----------------
+
+The causal relationship can also be expressed by presenting the observation first:
+
+*Iron filings accumulate at the poles of the magnet **because** the lines of force around the magnet are most concentrated at the poles.*
+
+**Features of this form:**
+
+- Observation is presented first (**O → R**)
+- Uses an explicit causal connector (**because**)
+- Moves from observed effect to underlying reason
+- Useful for explanation starting from evidence
+
+
+----
+
+Combining nomO → nomR
+----------------------
+
+The nominalised forms can also be reversed to foreground the effect:
+
+*The accumulation of iron filings at the poles of the magnet* **results from** *the high concentration of lines of force at the poles.*
+
+**Features of this form:**
+
+- Fully nominalised (abstract and formal)
+- Observation comes first (**O → R**)
+- Uses an effect-focused causal verb (**results from**)
+- Emphasises explanation of an observed outcome
+- Typical of analytical and scientific writing
 
 ----
 
