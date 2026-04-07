@@ -49,7 +49,7 @@ This nominalisation expresses the **observation** as a noun phrase.
 
 Benefits:
 
-- It allows nomO to be linked to nomR using formal scientific verbs (e.g., *results from*, *is due to*).
+- It allows nomO to be linked to nomR using formal scientific verbs (e.g., *results in*, *causes*).
 - It creates a compact, academic expression of the effect.
 
 Combining nomR → nomO (full R → O form)
@@ -57,9 +57,10 @@ Combining nomR → nomO (full R → O form)
 
 Using the nominalised forms, we can now express the causal relationship clearly:
 
-**The high concentration of lines of force at the poles results in the accumulation of iron filings at the poles of the magnet.**
+The high concentration of lines of force at the poles **results in** the accumulation of iron filings at the poles of the magnet.
 
 Features of this final form:
+
 - Formal and scientific
 - Reason comes first (R → O)
 - Uses a strong causal verb (*results in*)
