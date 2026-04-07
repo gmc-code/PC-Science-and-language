@@ -2,84 +2,149 @@
 Cause and Effect Patterns
 ===========================
 
+O → R Cause-Effect Construction
+===============================
+
+This pattern expresses a **reason (R)** following an **observation (O)**.
+The examples below show how to move from an observed phenomenon and its underlying reason to a fully nominalised cause-effect statement.
+
+Observation (the effect)
+-------------------------
+
+**Observation (O):** *Iron filings accumulate at the poles of the magnet.*
+
+This sentence identifies the **effect**: the behaviour of iron filings in response to the magnetic field.
+
+Key idea:
+Iron filings gather where the magnetic field is strongest.
+
+Reason (the cause)
+-------------------------
+
+**Reason (R):** *The lines of force around the magnet are greatest at the poles.*
+
+This sentence identifies the **cause**: the distribution of magnetic lines of force.
+
+Key idea:
+The poles of a magnet have the highest concentration of magnetic field lines.
+
+Nominalising R (nomR)
+-------------------------
+
+**nomR:** *The high concentration of lines of force at the poles*
+
+This nominalisation expresses the **reason** as a noun phrase.
+
+Benefits:
+- Nominalisation turns the clause into a **thing**, allowing it to function as the grammatical subject of a more formal cause-effect sentence.
+- It supports precise, mechanism-focused explanation.
+
+Nominalising O (nomO)
+-------------------------
+
+**nomO:** *The accumulation of iron filings at the poles of the magnet*
+
+This nominalisation expresses the **observation** as a noun phrase.
+
+Benefits:
+- It allows nomO to be linked to nomR using formal scientific verbs (e.g., *results from*, *is due to*).
+- It creates a compact, academic expression of the effect.
+
+Combining nomR → nomO (full R → O form)
+-----------------------------------------
+
+Using the nominalised forms, we can now express the causal relationship clearly:
+
+**The high concentration of lines of force at the poles results in the accumulation of iron filings at the poles of the magnet.**
+
+Features of this final form:
+- Formal and scientific
+- Reason comes first (R → O)
+- Uses a strong causal verb (*results in*)
+
+----
+
+Patterns
+--------
+
 Writers choose different cause-and-effect structures depending on the purpose, audience, and level of formality of their text.
-The table below shows which forms are most appropriate in each context, along with examples and explanations of how these choices support clarity and communication.
+The table below shows which forms are typically effective in each context, while recognising that writers may adapt these choices to suit their needs.
 
 .. list-table::
     :widths: 20 30 30 20
     :header-rows: 1
 
     * - Pattern Type
-      - Cause–Effect Structures
+      - Cause-Effect Structures
       - Features and Benefits
       - Context
 
     * - Implied logical connection
       -
-        - A. B.
+        - O. R.
       - Objective, concise; lets readers infer the link
       - Lab reports, observational notes
 
     * - Text connective
       -
-        - A as a result B
-        - A consequently B
-        - A therefore B
-        - A for this reason B
+        - O. As a result R
+        - O. Consequently R
+        - O. Therefore R
+        - O. For this reason R
       - Smooth flow; makes the relationship explicit for general readers
       - News articles, explanatory writing
 
-    * - Conjunction (A → B)
+    * - Conjunction (O → R)
       -
-        - A hence B
-        - A so nomB occurs
+        - O hence R
+        - O so nomR occurs
       - Natural, conversational; emphasises the effect
       - Everyday speech, informal explanation
 
     * - Preposition
       -
-        - Because A, B
-        - Since A, B
-        - Due to nomA, B
-        - Because of nomA, B
-        - As a result of nomA, B
-      - Formal, structured; foregrounds the cause
+        - Because R, O
+        - Since R, O
+        - Due to nomR, O
+        - Because of nomR, O
+        - As a result of nomR, O
+      - Formal, structured; foregrounds the reason
       - Academic essays, formal writing
 
-    * - Verb (A → B)
+    * - Verb (R → O)
       -
-        - nomA causes nomB
-        - nomA results in nomB
-        - nomA is the cause of nomB
-        - nomA is the reason for nomB
+        - nomR causes nomO
+        - nomR results in nomO
+        - nomR is the cause of nomO
+        - nomR is the reason for nomO
       - Precise, mechanism-focused; strong causal force
       - Scientific explanations, technical writing
 
-    * - Noun (A → B)
+    * - Noun (R → O)
       -
-        - The result of nomA is nomB
+        - The result of nomR is nomO
       - Abstract, formal; useful for topic sentences
       - Academic essays, definitions
 
-    * - Conjunction (B → A)
+    * - Conjunction (O → R)
       -
-        - B because A
-        - B since A
-      - Natural, conversational; emphasises the outcome first
+        - O because R
+        - O since R
+      - Natural, conversational; emphasises the observation first
       - Everyday speech, informal explanation
 
-    * - Verb (B → A)
+    * - Verb (O → R)
       -
-        - nomB results from nomA
-        - nomB occurs as a consequence of nomA
-        - nomB is the result of nomA
-        - nomB is due to nomA
+        - nomO results from nomR
+        - nomO occurs as a consequence of nomR
+        - nomO is the result of nomR
+        - nomO is due to nomR
       - Effect-focused; useful for explaining outcomes
       - Historical or analytical writing
 
-    * - Noun (B → A)
+    * - Noun (O → R)
       -
-        - The reason for nomB is nomA
-        - The cause of nomB is nomA
+        - The reason for nomO is nomR
+        - The cause of nomO is nomR
       - Clear, authoritative; frames causation as a fact
       - Academic essays, formal explanation
