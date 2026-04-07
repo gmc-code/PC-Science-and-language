@@ -130,3 +130,101 @@ Accuracy and precision are independent. A result can be accurate but not precise
                 5. b — Systematic error
 
 
+----
+
+Accuracy and Precision (Dartboard Representation)
+================================================
+
+Experimental error is the difference between a measured value and the true or accepted value.
+
+Accuracy describes how close a measurement is to the true value (the bullseye).
+Precision describes how close repeated measurements are to each other (the spread).
+
+The dartboard diagrams below show how accuracy and precision relate.
+
+----
+
+.. list-table::
+    :widths: 50 50
+    :gutter: 3
+
+    * - **High Accuracy + High Precision**
+
+        .. code-block:: text
+
+               ┌───────────────┐
+               │      ●        │
+               │    ● ◎ ●      │
+               │      ●        │
+               │               │
+               └───────────────┘
+
+        • Tight cluster (low spread)
+        • Centred on bullseye
+        • Correct and consistent
+
+      - **High Accuracy + Low Precision**
+
+        .. code-block:: text
+
+               ┌───────────────┐
+               │   ●     ●     │
+               │      ◎        │
+               │  ●      ●     │
+               │     ●         │
+               └───────────────┘
+
+        • Wide spread
+        • Average near centre
+        • Correct on average, inconsistent
+
+    * - **Low Accuracy + High Precision**
+
+        .. code-block:: text
+
+               ┌───────────────┐
+               │ ●●●           │
+               │ ●●●           │
+               │      ◎        │
+               │               │
+               └───────────────┘
+
+        • Tight cluster (low spread)
+        • Away from centre
+        • Consistent but wrong (systematic error)
+
+      - **Low Accuracy + Low Precision**
+
+        .. code-block:: text
+
+               ┌───────────────┐
+               │ ●      ●      │
+               │     ◎         │
+               │   ●      ●    │
+               │        ●      │
+               └───────────────┘
+
+        • Large spread
+        • Not centred
+        • Neither accurate nor precise
+
+----
+
+Key Idea
+--------
+
+- **Accuracy → closeness to bullseye (true value)**
+- **Precision → spread of points (consistency)**
+
+Low spread = high precision
+High spread = low precision
+
+----
+
+Summary
+-------
+
+- Accurate + Precise → correct and consistent
+- Accurate only → correct on average, scattered
+- Precise only → consistent but biased
+- Neither → unreliable data
