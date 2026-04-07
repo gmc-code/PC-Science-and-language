@@ -78,7 +78,7 @@ Combining nomR → nomO
 
 The nominalised forms produce a more formal causal statement:
 
-*The high concentration of lines of force at the poles **results in** the accumulation of iron filings at the poles of the magnet.*
+*The high concentration of lines of force at the poles* **results in** *the accumulation of iron filings at the poles of the magnet.*
 
 **Features of this form:**
 
