@@ -13,7 +13,6 @@ This table shows which forms fit each context, along with examples and reasons w
       - Forms
       - Cause-Effect Structures
       - Features and Benefits
-
     * - Lab reports
       - Implied connection, verb forms
       -
@@ -21,7 +20,6 @@ This table shows which forms fit each context, along with examples and reasons w
         - nomA causes nomB
         - nomA results in nomB
       - Objective, concise
-
     * - News articles
       - Text connectives
       -
@@ -29,7 +27,6 @@ This table shows which forms fit each context, along with examples and reasons w
         - A consequently B
         - A therefore B
       - Clear flow for general readers
-
     * - Everyday speech
       - “So”, “because”
       -
@@ -38,7 +35,6 @@ This table shows which forms fit each context, along with examples and reasons w
         - B because A
         - B since A
       - Natural, conversational
-
     * - Academic essays
       - Prepositional phrases, noun phrases
       -
@@ -50,14 +46,12 @@ This table shows which forms fit each context, along with examples and reasons w
         - the reason for nomB is nomA
         - the cause of nomB is nomA
       - Formal, structured
-
     * - Scientific explanations
       - Verb forms (“causes”, “results in”)
       -
         - nomA causes nomB
         - nomA results in nomB
       - Precise, mechanism‑focused
-
     * - Historical or analytical writing
       - “Results from”, “as a consequence of”
       -
