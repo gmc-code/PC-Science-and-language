@@ -2,25 +2,8 @@
 Cause and Effect Patterns
 ===========================
 
-.. list-table::
-    :widths: 20 25 35 40
-    :header-rows: 1
-
-    * - Context
-      - Best Forms
-      - Matching Cause-Effect Structures
-      - Features and Benefits
-
-    * - Lab reports
-      - Implied connection, verb forms
-      - | 1 (Implied A. B.)
-        | 5a (nomA causes nomB)
-        | 5b (nomA results in nomB)
-      - Objective, concise
-
-
-
-tables 2
+Writers choose different cause-and-effect phrases depending on what they are writing and who they are writing for.
+This table shows which forms fit each context, along with examples and reasons why those choices make sense.
 
 .. list-table::
     :widths: 20 25 35 40
@@ -34,7 +17,7 @@ tables 2
     * - Lab reports
       - Implied connection, verb forms
       -
-        - implied A then B
+        - A. B.
         - nomA causes nomB
         - nomA results in nomB
       - Objective, concise
@@ -42,9 +25,9 @@ tables 2
     * - News articles
       - Text connectives
       -
-        - as a result B
-        - consequently B
-        - therefore B
+        - A as a result B
+        - A consequently B
+        - A therefore B
       - Clear flow for general readers
 
     * - Everyday speech
