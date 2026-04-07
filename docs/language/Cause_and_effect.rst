@@ -10,11 +10,11 @@ Cause-and-effect relationships in scientific writing can be expressed in two dir
 The material below illustrates both pathways and shows how each can be developed into more formal, **nominalised** constructions for precise scientific explanation.
 
 
-R → O Cause–Effect Construction
+R → O Cause-Effect Construction
 -------------------------------
 
-The **R → O** pattern presents a **reason (R)** followed by the **observation (O)** it produces.
-This is the most common structure in scientific explanation because it foregrounds the mechanism.
+| The **R → O** pattern presents a **reason (R)** followed by the **observation (O)** it produces.
+| This is the most common structure in scientific explanation because it foregrounds the mechanism.
 
 Observation (Effect)
 --------------------
@@ -53,7 +53,7 @@ Nominalising the Reason (nomR)
 | **nomR:** *The high concentration of lines of force at the poles*
 | The **reason** is expressed as a noun phrase.
 
-**Why nominalise?**
+**Benefits:**
 
 - Turns a process into a **thing**
 - Allows it to function as the **subject** of the sentence
