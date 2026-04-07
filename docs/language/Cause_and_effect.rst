@@ -50,6 +50,8 @@ The causal relationship can be expressed explicitly:
 Nominalising the Reason (nomR)
 -------------------------------
 
+| **Reason (R):** *The lines of force around the magnet are most concentrated at the poles.*
+| becomes:
 | **nomR:** *The high concentration of lines of force at the poles*
 | The **reason** is expressed as a noun phrase.
 
@@ -63,6 +65,8 @@ Nominalising the Reason (nomR)
 Nominalising the Observation (nomO)
 -----------------------------------
 
+| **Observation (O):** *Iron filings accumulate at the poles of the magnet.*
+| becomes:
 | **nomO:** *The accumulation of iron filings at the poles of the magnet*
 | The **observation** is expressed as a noun phrase.
 
