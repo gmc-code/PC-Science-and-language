@@ -3,9 +3,9 @@ Cause and Effect Patterns
 ============================
 
 O → R Cause-Effect Construction
-================================
+--------------------------------
 
-This pattern expresses a **reason (R)** following an **observation (O)**.
+This pattern, **O → R** expresses a **reason (R)** following an **observation (O)**.
 The examples below show how to move from an observed phenomenon and its underlying reason to a fully nominalised cause-effect statement.
 
 Observation (the effect)
@@ -36,6 +36,7 @@ Nominalising R (nomR)
 This nominalisation expresses the **reason** as a noun phrase.
 
 Benefits:
+
 - Nominalisation turns the clause into a **thing**, allowing it to function as the grammatical subject of a more formal cause-effect sentence.
 - It supports precise, mechanism-focused explanation.
 
@@ -47,6 +48,7 @@ Nominalising O (nomO)
 This nominalisation expresses the **observation** as a noun phrase.
 
 Benefits:
+
 - It allows nomO to be linked to nomR using formal scientific verbs (e.g., *results from*, *is due to*).
 - It creates a compact, academic expression of the effect.
 
