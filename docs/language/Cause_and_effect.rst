@@ -35,7 +35,7 @@ Combining R → O
 
 The causal relationship can be expressed explicitly:
 
-*The lines of force around the magnet are most concentrated at the poles, **and as a result**, iron filings accumulate at the poles of the magnet.*
+*The lines of force around the magnet are most concentrated at the poles*, **and as a result**, *iron filings accumulate at the poles of the magnet.*
 
 **Features of this form:**
 
@@ -98,7 +98,7 @@ Combining O → R
 
 The causal relationship can also be expressed by presenting the observation first:
 
-*Iron filings accumulate at the poles of the magnet **because** the lines of force around the magnet are most concentrated at the poles.*
+*Iron filings accumulate at the poles of the magnet* **because** *the lines of force around the magnet are most concentrated at the poles.*
 
 **Features of this form:**
 
