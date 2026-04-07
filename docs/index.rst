@@ -19,6 +19,14 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
+    :caption: 🧪🎯 Prac Accuracy and Precision
+    :numbered:
+
+    pracs/accuracy_and_precision.rst
+
+
+.. toctree::
+    :maxdepth: 2
     :caption: 🧪⚖️ Prac Ethics
     :numbered:
 
@@ -74,14 +82,6 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🧪🎯 Prac Accuracy and Precision
-    :numbered:
-
-    pracs/accuracy_and_precision.rst
-
-
-.. toctree::
-    :maxdepth: 2
     :caption: 🤔👀🧩 PRO
     :numbered:
 
@@ -100,8 +100,7 @@ PC-Science-and-language
 
     language/Sequential_explanations.rst
     language/marked_themes.rst
-
-    .. language/Cause_and_effect.rst
+    language/Cause_and_effect.rst
 
 
 .. toctree::
