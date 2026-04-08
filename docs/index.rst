@@ -19,6 +19,40 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
+    :caption: ✏️👉 Language features
+    :numbered:
+
+    language/Sequential_explanations.rst
+    language/marked_themes.rst
+    language/Cause_and_effect.rst
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: ✏️🔧 Nominalisation
+    :numbered:
+
+    earth/nominalisations_earth.rst
+    earth/nominalisations_earth_answers.rst
+    earth/nominalisation_sentences_earth.rst
+    earth/nominalisation_sentences_earth_answers.rst
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🤔👀🧩 PRO
+    :numbered:
+
+    language/PRO.rst
+    chemistry/PRO_Physical_Changes.rst
+    chemistry/PRO_Physical_Changes_B.rst
+    chemistry/PRO_Physical_Changes_scaffold.rst
+    chemistry/PRO_Chemical_Changes.rst
+    chemistry/PRO_Chemical_Changes_B.rst
+
+
+.. toctree::
+    :maxdepth: 2
     :caption: 🧪🎯 Prac Accuracy and Precision
     :numbered:
 
@@ -79,28 +113,6 @@ PC-Science-and-language
     pracs/errors_operator.rst
     pracs/errors_recording.rst
 
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🤔👀🧩 PRO
-    :numbered:
-
-    language/PRO.rst
-    chemistry/PRO_Physical_Changes.rst
-    chemistry/PRO_Physical_Changes_B.rst
-    chemistry/PRO_Physical_Changes_scaffold.rst
-    chemistry/PRO_Chemical_Changes.rst
-    chemistry/PRO_Chemical_Changes_B.rst
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: ✏️👉 Language features
-    :numbered:
-
-    language/Sequential_explanations.rst
-    language/marked_themes.rst
-    language/Cause_and_effect.rst
 
 
 .. toctree::
