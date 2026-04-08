@@ -1,14 +1,13 @@
 ========================================
-Verb and Nominalisations
+Verbs and Nominalisations
 ========================================
 
 
 In scientific writing, actions (**processes**) are often rewritten as
-**things**. This shift is called **grammatical metaphor** in
-Systemic Functional Grammar (SFG).
+**things**.
 
-Part 1: Process → Participant
-------------------------------
+Process → Participant
+----------------------
 
 In everyday language, actions are usually expressed as **verbs**.
 In science, these actions are often rewritten as **nouns** so they
@@ -27,6 +26,7 @@ This involves changing a **process** into a **participant**.
 +-----------------------------+-------------------------------+
 
 In SFG terms:
+
 - **Verbs** realise *processes*
 - **Nominalisations** realise *participants*
 - This allows processes to be treated as *things*
@@ -35,6 +35,7 @@ Why science uses this pattern
 ------------------------------
 
 Turning processes into participants allows scientists to:
+
 - explain **cause and effect**
 - compare processes
 - build chains of reasoning
