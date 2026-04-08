@@ -16,7 +16,7 @@ can be described, linked, measured, or used as causes.
 
 This involves changing a **process** into a **participant**.
 
-.. list-table:: Process → Participant
+.. list-table:: Process to Participant
    :header-rows: 1
    :widths: 35 45
 
