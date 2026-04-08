@@ -32,10 +32,11 @@ PC-Science-and-language
     :caption: ✏️🔧 Nominalisation
     :numbered:
 
+    earth/nominalisation.rst
+
     earth/nominalisations_earth.rst
     earth/nominalisations_earth_answers.rst
     earth/nominalisation_sentences_earth.rst
-    earth/nominalisation_sentences_earth_answers.rst
 
 
 .. toctree::
@@ -149,11 +150,6 @@ PC-Science-and-language
     :maxdepth: 2
     :caption: 🌋 Earth
     :numbered:
-
-    earth/nominalisations_earth.rst
-    earth/nominalisations_earth_answers.rst
-    earth/nominalisation_sentences_earth.rst
-    earth/nominalisation_sentences_earth_answers.rst
 
 
 .. toctree::
