@@ -120,26 +120,46 @@ PC-Science-and-language
     :caption: 🧪 Chemistry
     :numbered:
 
+    chemistry/PRO_Physical_Changes.rst
+    chemistry/PRO_Physical_Changes_B.rst
+    chemistry/PRO_Physical_Changes_scaffold.rst
+    chemistry/PRO_Chemical_Changes.rst
+    chemistry/PRO_Chemical_Changes_B.rst
+
     .. chemistry/chemistry_PEEL.rst
     .. chemistry/chemistry_themes.rst
+
+
 
 .. toctree::
     :maxdepth: 2
     :caption: 🌱 Biology
     :numbered:
 
+
+
 .. toctree::
     :maxdepth: 2
     :caption: 🧲 Physics
     :numbered:
+
+
 
 .. toctree::
     :maxdepth: 2
     :caption: 🌋 Earth
     :numbered:
 
+    earth/nominalisations_earth.rst
+    earth/nominalisations_earth_answers.rst
+    earth/nominalisation_sentences_earth.rst
+    earth/nominalisation_sentences_earth_answers.rst
+
+
 .. toctree::
     :maxdepth: 2
     :caption: 🌜 Space
     :numbered:
+
+
 
