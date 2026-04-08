@@ -93,6 +93,11 @@ Nominalisation: movement
     | weaken    |                |
     +-----------+----------------+
 
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
         .. tab-set::
 
             .. tab-item:: Model Answer
