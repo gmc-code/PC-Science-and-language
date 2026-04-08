@@ -2,14 +2,13 @@
 Verb and Nominalisation Sentence Pairs
 ========================================
 
-.. admonition:: Structured Question: Nominalisation
+.. admonition:: Nominalisation Sentences
     :class: questions
 
     For each pair:
 
     - Read the verb sentence.
     - Rewrite it using a **nominalisation**.
-    - Write your answer on the blank line.
 
     #. **spread → spreading**
 
