@@ -16,7 +16,7 @@ can be described, linked, measured, or used as causes.
 This involves changing a **process** into a **participant**.
 
 +-----------------------------+-------------------------------+
-| Everyday (congruent) clause | Scientific (metaphorical)     |
+| Everyday (process)          | Scientific (participant)      |
 +=============================+===============================+
 | Plates collide              | The collision of plates       |
 +-----------------------------+-------------------------------+
@@ -30,6 +30,8 @@ In SFG terms:
 - **Verbs** realise *processes*
 - **Nominalisations** realise *participants*
 - This allows processes to be treated as *things*
+
+
 
 Why science uses this pattern
 ------------------------------
