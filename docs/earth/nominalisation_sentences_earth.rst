@@ -6,165 +6,140 @@ Verb and Nominalisation Sentence Pairs
     :class: questions
 
     For each pair:
+
     - Read the verb sentence.
     - Rewrite it using a **nominalisation**.
     - Write your answer on the blank line.
 
-    spread → spreading
-    --------------------
+    #. **spread → spreading**
 
-    Verb: New crust spreads away from the mid-ocean ridge.
-    Nominalisation: ________________________________________________________
+       | Verb: New crust spreads away from the mid-ocean ridge.
+       | Nominalisation:: ________________________________________________________
 
-    erupt → eruption
-    -------------------
+    #. **erupt → eruption**
 
-    Verb: The volcano erupts, releasing lava and ash.
-    Nominalisation: ________________________________________________________
+       | Verb: The volcano erupts, releasing lava and ash.
+       | Nominalisation:: ________________________________________________________
 
-    collide → collision
-    ----------------------
+    #. **collide → collision**
 
-    Verb: Two continental plates collide, forming mountains.
-    Nominalisation: ________________________________________________________
+       | Verb: Two continental plates collide, forming mountains.
+       | Nominalisation:: ________________________________________________________
 
-    diverge → divergence
-    ----------------------
+    #. **diverge → divergence**
 
-    Verb: Plates diverge at mid-ocean ridges.
-    Nominalisation: ________________________________________________________
+       | Verb: Plates diverge at mid-ocean ridges.
+       | Nominalisation:: ________________________________________________________
 
-    converge → convergence
-    ------------------------
+    #. **converge → convergence**
 
-    Verb: Plates converge, causing earthquakes and volcanoes.
-    Nominalisation: ________________________________________________________
+       | Verb: Plates converge, causing earthquakes and volcanoes.
+       | Nominalisation:: ________________________________________________________
 
-    transform → transformation
-    -----------------------------
+    #. **transform → transformation**
 
-    Verb: Tectonic forces transform Earth’s surface over time.
-    Nominalisation: ________________________________________________________
+       | Verb: Tectonic forces transform Earth's surface over time.
+       | Nominalisation:: ________________________________________________________
 
-    form → formation
-    ------------------
+    #. **form → formation**
 
-    Verb: Mountains form when plates push together.
-    Nominalisation: ________________________________________________________
+       | Verb: Mountains form when plates push together.
+       | Nominalisation:: ________________________________________________________
 
-    interact → interaction
-    ------------------------
+    #. **interact → interaction**
 
-    Verb: Plates interact at their boundaries.
-    Nominalisation: ________________________________________________________
+       | Verb: Plates interact at their boundaries.
+       | Nominalisation:: ________________________________________________________
 
-    create → creation
-    -------------------
+    #. **create → creation**
 
-    Verb: Magma creates new oceanic crust.
-    Nominalisation: ________________________________________________________
+       | Verb: Magma creates new oceanic crust.
+       | Nominalisation:: ________________________________________________________
 
-    destroy → destruction
-    ------------------------
+    #. **destroy → destruction**
 
-    Verb: Subduction destroys oceanic crust.
-    Nominalisation: ________________________________________________________
+       | Verb: Subduction destroys oceanic crust.
+       | Nominalisation:: ________________________________________________________
 
-    detect → detection
-    ---------------------
+    #. **detect → detection**
 
-    Verb: Seismometers detect ground movement.
-    Nominalisation: ________________________________________________________
+       | Verb: Seismometers detect ground movement.
+       | Nominalisation:: ________________________________________________________
 
-    reduce → reduction
-    ---------------------
+    #. **reduce → reduction**
 
-    Verb: Strong building design reduces earthquake damage.
-    Nominalisation: ________________________________________________________
+       | Verb: Strong building design reduces earthquake damage.
+       | Nominalisation:: ________________________________________________________
 
-    predict → prediction
-    -----------------------
+    #. **predict → prediction**
 
-    Verb: Scientists struggle to predict earthquakes accurately.
-    Nominalisation: ________________________________________________________
+       | Verb: Scientists struggle to predict earthquakes accurately.
+       | Nominalisation:: ________________________________________________________
 
-    construct → construction
-    ----------------------------
+    #. **construct → construction**
 
-    Verb: Builders construct structures to withstand earthquakes.
-    Nominalisation: ________________________________________________________
+       | Verb: Builders construct structures to withstand earthquakes.
+       | Nominalisation:: ________________________________________________________
 
-    evacuate → evacuation
-    -------------------------
+    #. **evacuate → evacuation**
 
-    Verb: Authorities evacuate coastal communities before tsunamis.
-    Nominalisation: ________________________________________________________
+       | Verb: Authorities evacuate coastal communities before tsunamis.
+       | Nominalisation:: ________________________________________________________
 
-    subduct → subduction
-    -----------------------
+    #. **subduct → subduction**
 
-    Verb: One tectonic plate subducts beneath another.
-    Nominalisation: ________________________________________________________
+       | Verb: One tectonic plate subducts beneath another.
+       | Nominalisation:: ________________________________________________________
 
-    erode → erosion
-    ------------------
+    #. **erode → erosion**
 
-    Verb: Water erodes weakened rock.
-    Nominalisation: ________________________________________________________
+       | Verb: Water erodes weakened rock.
+       | Nominalisation:: ________________________________________________________
 
-    compress → compression
-    -------------------------
+    #. **compress → compression**
 
-    Verb: Plates compress the crust at convergent boundaries.
-    Nominalisation: ________________________________________________________
+       | Verb: Plates compress the crust at convergent boundaries.
+       | Nominalisation:: ________________________________________________________
 
-    extend → extension
-    ---------------------
+    #. **extend → extension**
 
-    Verb: The crust extends at divergent boundaries.
-    Nominalisation: ________________________________________________________
+       | Verb: The crust extends at divergent boundaries.
+       | Nominalisation:: ________________________________________________________
 
-    fracture → fracturing
-    ------------------------
+    #. **fracture → fracturing**
 
-    Verb: Stress fractures the crust.
-    Nominalisation: ________________________________________________________
+       | Verb: Stress fractures the crust.
+       | Nominalisation:: ________________________________________________________
 
-    slip → slippage
-    ------------------
+    #. **slip → slippage**
 
-    Verb: Plates suddenly slip along faults.
-    Nominalisation: ________________________________________________________
+       | Verb: Plates suddenly slip along faults.
+       | Nominalisation:: ________________________________________________________
 
-    melt → melting
-    -----------------
+    #. **melt → melting**
 
-    Verb: Rock melts beneath Earth’s crust.
-    Nominalisation: ________________________________________________________
+       | Verb: Rock melts beneath Earth's crust.
+       | Nominalisation:: ________________________________________________________
 
-    cool → cooling
-    ----------------
+    #. **cool → cooling**
 
-    Verb: Lava cools after an eruption.
-    Nominalisation: ________________________________________________________
+       | Verb: Lava cools after an eruption.
+       | Nominalisation:: ________________________________________________________
 
-    harden → hardening
-    ---------------------
+    #. **harden → hardening**
 
-    Verb: Lava hardens as it cools.
-    Nominalisation: ________________________________________________________
+       | Verb: Lava hardens as it cools.
+       | Nominalisation:: ________________________________________________________
 
-    sink → sinking
-    ------------------
+    #. **sink → sinking**
 
-    Verb: Dense crust sinks into the mantle.
-    Nominalisation: ________________________________________________________
+       | Verb: Dense crust sinks into the mantle.
+       | Nominalisation:: ________________________________________________________
 
-    weaken → weakening
-    ---------------------
+    #. **weaken → weakening**
 
-    Verb: Heat weakens the crust.
-    Nominalisation: ________________________________________________________
+       | Verb: Heat weakens the crust.
+       | Nominalisation:: ________________________________________________________
 
     .. dropdown::
         :icon: codescan
@@ -175,162 +150,135 @@ Verb and Nominalisation Sentence Pairs
 
             .. tab-item:: Model Answer
 
-                Each pair of sentences below expresses the **same scientific meaning**.
-                The first sentence uses a **verb**.
-                The second sentence uses a **nominalisation (noun)**.
+                Each answer rewrites the sentence using a **nominalisation**
+                while keeping the scientific meaning the same.
 
-                spread → spreading
-                --------------------
+                #. **spread → spreading**
 
-                - Verb: New crust spreads away from the mid-ocean ridge.
-                - Noun: The spreading of new crust occurs away from the mid-ocean ridge.
+                   New crust spreads away from the mid-ocean ridge.
+                   → The spreading of new crust occurs away from the mid-ocean ridge.
 
-                erupt → eruption
-                -------------------
+                #. **erupt → eruption**
 
-                - Verb: The volcano erupts, releasing lava and ash.
-                - Noun: The eruption of the volcano releases lava and ash.
+                   The volcano erupts, releasing lava and ash.
+                   → The eruption of the volcano releases lava and ash.
 
-                collide → collision
-                ----------------------
+                #. **collide → collision**
 
-                - Verb: Two continental plates collide, forming mountains.
-                - Noun: The collision of two continental plates forms mountains.
+                   Two continental plates collide, forming mountains.
+                   → The collision of two continental plates forms mountains.
 
-                diverge → divergence
-                ----------------------
+                #. **diverge → divergence**
 
-                - Verb: Plates diverge at mid-ocean ridges.
-                - Noun: The divergence of plates occurs at mid-ocean ridges.
+                   Plates diverge at mid-ocean ridges.
+                   → The divergence of plates occurs at mid-ocean ridges.
 
-                converge → convergence
-                ------------------------
+                #. **converge → convergence**
 
-                - Verb: Plates converge, causing earthquakes and volcanoes.
-                - Noun: The convergence of plates causes earthquakes and volcanoes.
+                   Plates converge, causing earthquakes and volcanoes.
+                   → The convergence of plates causes earthquakes and volcanoes.
 
-                transform → transformation
-                -----------------------------
+                #. **transform → transformation**
 
-                - Verb: Tectonic forces transform Earth's surface over time.
-                - Noun: The transformation of Earth's surface occurs over time due to tectonic forces.
+                   Tectonic forces transform Earth's surface over time.
+                   → The transformation of Earth's surface occurs over time due to tectonic forces.
 
-                form → formation
-                ------------------
+                #. **form → formation**
 
-                - Verb: Mountains form when plates push together.
-                - Noun: The formation of mountains occurs when plates push together.
+                   Mountains form when plates push together.
+                   → The formation of mountains occurs when plates push together.
 
-                interact → interaction
-                ------------------------
+                #. **interact → interaction**
 
-                - Verb: Plates interact at their boundaries.
-                - Noun: The interaction between plates occurs at their boundaries.
+                   Plates interact at their boundaries.
+                   → The interaction between plates occurs at their boundaries.
 
-                create → creation
-                -------------------
+                #. **create → creation**
 
-                - Verb: Magma creates new oceanic crust.
-                - Noun: The creation of new oceanic crust occurs from magma.
+                   Magma creates new oceanic crust.
+                   → The creation of new oceanic crust occurs from magma.
 
-                destroy → destruction
-                -------------------------
+                #. **destroy → destruction**
 
-                - Verb: Subduction destroys oceanic crust.
-                - Noun: The destruction of oceanic crust occurs through subduction.
+                   Subduction destroys oceanic crust.
+                   → The destruction of oceanic crust occurs through subduction.
 
-                detect → detection
-                ---------------------
+                #. **detect → detection**
 
-                - Verb: Seismometers detect ground movement.
-                - Noun: The detection of ground movement is carried out by seismometers.
+                   Seismometers detect ground movement.
+                   → The detection of ground movement is carried out by seismometers.
 
-                reduce → reduction
-                ---------------------
+                #. **reduce → reduction**
 
-                - Verb: Strong building design reduces earthquake damage.
-                - Noun: The reduction of earthquake damage occurs through strong building design.
+                   Strong building design reduces earthquake damage.
+                   → The reduction of earthquake damage occurs through strong building design.
 
-                predict → prediction
-                -----------------------
+                #. **predict → prediction**
 
-                - Verb: Scientists struggle to predict earthquakes accurately.
-                - Noun: The accurate prediction of earthquakes is difficult for scientists.
+                   Scientists struggle to predict earthquakes accurately.
+                   → The accurate prediction of earthquakes is difficult for scientists.
 
-                construct → construction
-                ----------------------------
+                #. **construct → construction**
 
-                - Verb: Builders construct structures to withstand earthquakes.
-                - Noun: The construction of structures to withstand earthquakes is carried out by builders.
+                   Builders construct structures to withstand earthquakes.
+                   → The construction of structures to withstand earthquakes is carried out by builders.
 
-                evacuate → evacuation
-                -------------------------
+                #. **evacuate → evacuation**
 
-                - Verb: Authorities evacuate coastal communities before tsunamis.
-                - Noun: The evacuation of coastal communities occurs before tsunamis.
+                   Authorities evacuate coastal communities before tsunamis.
+                   → The evacuation of coastal communities occurs before tsunamis.
 
-                subduct → subduction
-                -----------------------
+                #. **subduct → subduction**
 
-                - Verb: One tectonic plate subducts beneath another.
-                - Noun: The subduction of one tectonic plate occurs beneath another.
+                   One tectonic plate subducts beneath another.
+                   → The subduction of one tectonic plate occurs beneath another.
 
-                erode → erosion
-                ------------------
+                #. **erode → erosion**
 
-                - Verb: Water erodes weakened rock.
-                - Noun: The erosion of weakened rock is caused by water.
+                   Water erodes weakened rock.
+                   → The erosion of weakened rock is caused by water.
 
-                compress → compression
-                -------------------------
+                #. **compress → compression**
 
-                - Verb: Plates compress the crust at convergent boundaries.
-                - Noun: The compression of the crust occurs at convergent boundaries.
+                   Plates compress the crust at convergent boundaries.
+                   → The compression of the crust occurs at convergent boundaries.
 
-                extend → extension
-                ---------------------
+                #. **extend → extension**
 
-                - Verb: The crust extends at divergent boundaries.
-                - Noun: The extension of the crust occurs at divergent boundaries.
+                   The crust extends at divergent boundaries.
+                   → The extension of the crust occurs at divergent boundaries.
 
-                fracture → fracturing
-                ------------------------
+                #. **fracture → fracturing**
 
-                - Verb: Stress fractures the crust.
-                - Noun: The fracturing of the crust is caused by stress.
+                   Stress fractures the crust.
+                   → The fracturing of the crust is caused by stress.
 
-                slip → slippage
-                ------------------
+                #. **slip → slippage**
 
-                - Verb: Plates suddenly slip along faults.
-                - Noun: The sudden slippage of plates occurs along faults.
+                   Plates suddenly slip along faults.
+                   → The sudden slippage of plates occurs along faults.
 
-                melt → melting
-                -----------------
+                #. **melt → melting**
 
-                - Verb: Rock melts beneath Earth's crust.
-                - Noun: The melting of rock occurs beneath Earth's crust.
+                   Rock melts beneath Earth's crust.
+                   → The melting of rock occurs beneath Earth's crust.
 
-                cool → cooling
-                ----------------
+                #. **cool → cooling**
 
-                - Verb: Lava cools after an eruption.
-                - Noun: The cooling of lava occurs after an eruption.
+                   Lava cools after an eruption.
+                   → The cooling of lava occurs after an eruption.
 
-                harden → hardening
-                ---------------------
+                #. **harden → hardening**
 
-                - Verb: Lava hardens as it cools.
-                - Noun: The hardening of lava occurs as it cools.
+                   Lava hardens as it cools.
+                   → The hardening of lava occurs as it cools.
 
-                sink → sinking
-                ------------------
+                #. **sink → sinking**
 
-                - Verb: Dense crust sinks into the mantle.
-                - Noun: The sinking of dense crust occurs into the mantle.
+                   Dense crust sinks into the mantle.
+                   → The sinking of dense crust occurs into the mantle.
 
-                weaken → weakening
-                ---------------------
+                #. **weaken → weakening**
 
-                - Verb: Heat weakens the crust.
-                - Noun: The weakening of the crust is caused by heat.
+                   Heat weakens the crust.
+                   → The weakening of the crust is caused by heat.
