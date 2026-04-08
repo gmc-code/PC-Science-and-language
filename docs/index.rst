@@ -35,6 +35,7 @@ PC-Science-and-language
     language/nominalisation.rst
 
     earth/nominalisations_earth.rst
+    earth/nominalisations2_earth.rst
     earth/nominalisation_sentences_earth.rst
 
 
