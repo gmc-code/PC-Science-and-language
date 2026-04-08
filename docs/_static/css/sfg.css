@@ -171,12 +171,12 @@ span.O, .O {
     font-weight: bold;
     margin-top: 1.0em;
     margin-bottom: 0.4em;
-    border-bottom: 1px dotted lightgray;
+    /* border-bottom: 1px dotted lightgray; */
 }
 
 /* Optional: default rubric style */
 .rst-content p.rubric {
     font-size: 16pt;
     font-weight: bold;
-    border-bottom: 1px dotted silver;
+    /* border-bottom: 1px dotted silver; */
 }

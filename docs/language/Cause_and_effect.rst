@@ -93,8 +93,8 @@ The nominalised forms produce a more formal causal statement:
 
 ----
 
-Combining O → R
-----------------
+Reversing the order: Combining O → R
+---------------------------------------
 
 The causal relationship can also be expressed by presenting the observation first:
 
