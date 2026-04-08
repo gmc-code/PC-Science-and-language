@@ -76,11 +76,6 @@ Verb and Nominalisation Sentence Pairs
        | Verb: Scientists struggle to predict earthquakes accurately.
        | Nominalisation:: ________________________________________________________
 
-    #. **construct → construction**
-
-       | Verb: Builders construct structures to withstand earthquakes.
-       | Nominalisation:: ________________________________________________________
-
     #. **evacuate → evacuation**
 
        | Verb: Authorities evacuate coastal communities before tsunamis.
@@ -155,130 +150,125 @@ Verb and Nominalisation Sentence Pairs
 
                 #. **spread → spreading**
 
-                   New crust spreads away from the mid-ocean ridge.
-                   → The spreading of new crust occurs away from the mid-ocean ridge.
+                | New crust spreads away from the mid-ocean ridge.
+                | → The spreading of new crust occurs away from the mid-ocean ridge.
 
                 #. **erupt → eruption**
 
-                   The volcano erupts, releasing lava and ash.
-                   → The eruption of the volcano releases lava and ash.
+                | The volcano erupts, releasing lava and ash.
+                | → The eruption of the volcano releases lava and ash.
 
                 #. **collide → collision**
 
-                   Two continental plates collide, forming mountains.
-                   → The collision of two continental plates forms mountains.
+                | Two continental plates collide, forming mountains.
+                | → The collision of two continental plates forms mountains.
 
                 #. **diverge → divergence**
 
-                   Plates diverge at mid-ocean ridges.
-                   → The divergence of plates occurs at mid-ocean ridges.
+                | Plates diverge at mid-ocean ridges.
+                | → The divergence of plates occurs at mid-ocean ridges.
 
                 #. **converge → convergence**
 
-                   Plates converge, causing earthquakes and volcanoes.
-                   → The convergence of plates causes earthquakes and volcanoes.
+                | Plates converge, causing earthquakes and volcanoes.
+                | → The convergence of plates causes earthquakes and volcanoes.
 
                 #. **transform → transformation**
 
-                   Tectonic forces transform Earth's surface over time.
-                   → The transformation of Earth's surface occurs over time due to tectonic forces.
+                | Tectonic forces transform Earth's surface over time.
+                | → The transformation of Earth's surface occurs over time due to tectonic forces.
 
                 #. **form → formation**
 
-                   Mountains form when plates push together.
-                   → The formation of mountains occurs when plates push together.
+                | Mountains form when plates push together.
+                | → The formation of mountains occurs when plates push together.
 
                 #. **interact → interaction**
 
-                   Plates interact at their boundaries.
-                   → The interaction between plates occurs at their boundaries.
+                | Plates interact at their boundaries.
+                | → The interaction between plates occurs at their boundaries.
 
                 #. **create → creation**
 
-                   Magma creates new oceanic crust.
-                   → The creation of new oceanic crust occurs from magma.
+                | Magma creates new oceanic crust.
+                | → The creation of new oceanic crust occurs from magma.
 
                 #. **destroy → destruction**
 
-                   Subduction destroys oceanic crust.
-                   → The destruction of oceanic crust occurs through subduction.
+                | Subduction destroys oceanic crust.
+                | → The destruction of oceanic crust occurs through subduction.
 
                 #. **detect → detection**
 
-                   Seismometers detect ground movement.
-                   → The detection of ground movement is carried out by seismometers.
+                | Seismometers detect ground movement.
+                | → The detection of ground movement is carried out by seismometers.
 
                 #. **reduce → reduction**
 
-                   Strong building design reduces earthquake damage.
-                   → The reduction of earthquake damage occurs through strong building design.
+                | Strong building design reduces earthquake damage.
+                | → The reduction of earthquake damage occurs through strong building design.
 
                 #. **predict → prediction**
 
-                   Scientists struggle to predict earthquakes accurately.
-                   → The accurate prediction of earthquakes is difficult for scientists.
-
-                #. **construct → construction**
-
-                   Builders construct structures to withstand earthquakes.
-                   → The construction of structures to withstand earthquakes is carried out by builders.
+                | Scientists struggle to predict earthquakes accurately.
+                | → The accurate prediction of earthquakes is difficult for scientists.
 
                 #. **evacuate → evacuation**
 
-                   Authorities evacuate coastal communities before tsunamis.
-                   → The evacuation of coastal communities occurs before tsunamis.
+                | Authorities evacuate coastal communities before tsunamis.
+                | → The evacuation of coastal communities occurs before tsunamis.
 
                 #. **subduct → subduction**
 
-                   One tectonic plate subducts beneath another.
-                   → The subduction of one tectonic plate occurs beneath another.
+                | One tectonic plate subducts beneath another.
+                | → The subduction of one tectonic plate occurs beneath another.
 
                 #. **erode → erosion**
 
-                   Water erodes weakened rock.
-                   → The erosion of weakened rock is caused by water.
+                | Water erodes weakened rock.
+                | → The erosion of weakened rock is caused by water.
 
                 #. **compress → compression**
 
-                   Plates compress the crust at convergent boundaries.
-                   → The compression of the crust occurs at convergent boundaries.
+                | Plates compress the crust at convergent boundaries.
+                | → The compression of the crust occurs at convergent boundaries.
 
                 #. **extend → extension**
 
-                   The crust extends at divergent boundaries.
-                   → The extension of the crust occurs at divergent boundaries.
+                | The crust extends at divergent boundaries.
+                | → The extension of the crust occurs at divergent boundaries.
 
                 #. **fracture → fracturing**
 
-                   Stress fractures the crust.
-                   → The fracturing of the crust is caused by stress.
+                | Stress fractures the crust.
+                | → The fracturing of the crust is caused by stress.
 
                 #. **slip → slippage**
 
-                   Plates suddenly slip along faults.
-                   → The sudden slippage of plates occurs along faults.
+                | Plates suddenly slip along faults.
+                | → The sudden slippage of plates occurs along faults.
 
                 #. **melt → melting**
 
-                   Rock melts beneath Earth's crust.
-                   → The melting of rock occurs beneath Earth's crust.
+                | Rock melts beneath Earth's crust.
+                | → The melting of rock occurs beneath Earth's crust.
 
                 #. **cool → cooling**
 
-                   Lava cools after an eruption.
-                   → The cooling of lava occurs after an eruption.
+                | Lava cools after an eruption.
+                | → The cooling of lava occurs after an eruption.
 
                 #. **harden → hardening**
 
-                   Lava hardens as it cools.
-                   → The hardening of lava occurs as it cools.
+                | Lava hardens as it cools.
+                | → The hardening of lava occurs as it cools.
 
                 #. **sink → sinking**
 
-                   Dense crust sinks into the mantle.
-                   → The sinking of dense crust occurs into the mantle.
+                | Dense crust sinks into the mantle.
+                | → The sinking of dense crust occurs into the mantle.
 
                 #. **weaken → weakening**
 
-                   Heat weakens the crust.
-                   → The weakening of the crust is caused by heat.
+                | Heat weakens the crust.
+                | → The weakening of the crust is caused by heat.
