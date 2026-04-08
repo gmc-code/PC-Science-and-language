@@ -25,57 +25,57 @@ Nominalisation: The **collision** of plates
         :widths: 35 45
 
         * - Everyday (process)
-            - Scientific (participant)
+          - Scientific (participant)
         * - Plates **collide**
-            - The **collision** of plates
+          - The **collision** of plates
         * - Plates **compress** crust
-            -
+          -
         * - Plates **converge**
-            -
+          -
         * - Lava **cools**
-            -
+          -
         * - Magma **creates** crust
-            -
+          -
         * - Subduction **destroys** crust
-            -
+          -
         * - Seismometers **detect** movement
-            -
+          -
         * - Plates **diverge**
-            -
+          -
         * - Water **erodes** rock
-            -
+          -
         * - Volcano **erupts**
-            -
+          -
         * - Authorities **evacuate** communities
-            -
+          -
         * - Crust **extends**
-            -
+          -
         * - Stress **fractures** crust
-            -
+          -
         * - Mountains **form**
-            -
+          -
         * - Lava **hardens**
-            -
+          -
         * - Plates **interact**
-            -
+          -
         * - Rock **melts**
-            -
+          -
         * - Scientists **predict** earthquakes
-            -
+          -
         * - Design **reduces** damage
-            -
+          -
         * - Crust **sinks**
-            -
+          -
         * - Plates **slip**
-            -
+          -
         * - Crust **spreads**
-            -
+          -
         * - One plate **subducts**
-            -
+          -
         * - Forces **transform** Earth’s surface
-            -
+          -
         * - Heat **weakens** crust
-            -
+          -
 
 
     .. dropdown::
@@ -93,54 +93,57 @@ Nominalisation: The **collision** of plates
                     :widths: 35 45
 
                     * - Everyday (process)
-                        - Scientific (participant)
+                      - Scientific (participant)
                     * - Plates **collide**
-                        - The **collision** of plates
+                      - The **collision** of plates
                     * - Plates **compress** crust
-                        - The **compression** of crust
+                      - The **compression** of crust
                     * - Plates **converge**
-                        - The **convergence** of plates
+                      - The **convergence** of plates
                     * - Lava **cools**
-                        - The **cooling** of lava
+                      - The **cooling** of lava
                     * - Magma **creates** crust
-                        - The **creation** of crust
+                      - The **creation** of crust
                     * - Subduction **destroys** crust
-                        - The **destruction** of crust
+                      - The **destruction** of crust
                     * - Seismometers **detect** movement
-                        - The **detection** of movement
+                      - The **detection** of movement
                     * - Plates **diverge**
-                        - The **divergence** of plates
+                      - The **divergence** of plates
                     * - Water **erodes** rock
-                        - The **erosion** of rock
+                      - The **erosion** of rock
                     * - Volcano **erupts**
-                        - The **eruption** of a volcano
+                      - The **eruption** of a volcano
                     * - Authorities **evacuate** communities
-                        - The **evacuation** of communities
+                      - The **evacuation** of communities
                     * - Crust **extends**
-                        - The **extension** of crust
+                      - The **extension** of crust
                     * - Stress **fractures** crust
-                        - The **fracturing** of crust
+                      - The **fracturing** of crust
                     * - Mountains **form**
-                        - The **formation** of mountains
+                      - The **formation** of mountains
                     * - Lava **hardens**
-                        - The **hardening** of lava
+                      - The **hardening** of lava
                     * - Plates **interact**
-                        - The **interaction** of plates
+                      - The **interaction** of plates
                     * - Rock **melts**
-                        - The **melting** of rock
+                      - The **melting** of rock
                     * - Scientists **predict** earthquakes
-                        - The **prediction** of earthquakes
+                      - The **prediction** of earthquakes
                     * - Design **reduces** damage
-                        - The **reduction** of damage
+                      - The **reduction** of damage
                     * - Crust **sinks**
-                        - The **sinking** of crust
+                      - The **sinking** of crust
                     * - Plates **slip**
-                        - The **slippage** of plates
+                      - The **slippage** of plates
                     * - Crust **spreads**
-                        - The **spreading** of crust
+                      - The **spreading** of crust
                     * - One plate **subducts**
-                        - The **subduction** of one plate
+                      - The **subduction** of one plate
                     * - Forces **transform** Earth’s surface
-                        - The **transformation** of Earth’s surface
+                      - The **transformation** of Earth’s surface
                     * - Heat **weakens** crust
-                        - The **weakening** of crust
+                      - The **weakening** of crust
+
+
+

@@ -10,88 +10,98 @@ Your task is to **rewrite each verb as its correct nominalisation**.
 Example
 -------
 
-Verb: move
-Nominalisation: movement
+.. list-table::
+    :header-rows: 1
+    :widths: 30 40
+
+    * - Verb
+      - Nominalisation
+    * - move
+      - movement
 
 
 .. admonition:: Nominalisation of verbs
     :class: questions
 
     Rewrite each verb as a noun.
+    The first one has been done for you.
 
-    +-----------+----------------+
-    | Verb      | Nominalisation |
-    +===========+================+
-    | build     |                |
-    +-----------+----------------+
-    | collide   |                |
-    +-----------+----------------+
-    | collapse  |                |
-    +-----------+----------------+
-    | compress  |                |
-    +-----------+----------------+
-    | converge  |                |
-    +-----------+----------------+
-    | cool      |                |
-    +-----------+----------------+
-    | crack     |                |
-    +-----------+----------------+
-    | create    |                |
-    +-----------+----------------+
-    | detect    |                |
-    +-----------+----------------+
-    | destroy   |                |
-    +-----------+----------------+
-    | diverge   |                |
-    +-----------+----------------+
-    | erode     |                |
-    +-----------+----------------+
-    | erupt     |                |
-    +-----------+----------------+
-    | evacuate  |                |
-    +-----------+----------------+
-    | extend    |                |
-    +-----------+----------------+
-    | flow      |                |
-    +-----------+----------------+
-    | form      |                |
-    +-----------+----------------+
-    | fracture  |                |
-    +-----------+----------------+
-    | grind     |                |
-    +-----------+----------------+
-    | harden    |                |
-    +-----------+----------------+
-    | interact  |                |
-    +-----------+----------------+
-    | melt      |                |
-    +-----------+----------------+
-    | move      |                |
-    +-----------+----------------+
-    | predict   |                |
-    +-----------+----------------+
-    | pull      |                |
-    +-----------+----------------+
-    | push      |                |
-    +-----------+----------------+
-    | reduce    |                |
-    +-----------+----------------+
-    | release   |                |
-    +-----------+----------------+
-    | rise      |                |
-    +-----------+----------------+
-    | sink      |                |
-    +-----------+----------------+
-    | slip      |                |
-    +-----------+----------------+
-    | spread    |                |
-    +-----------+----------------+
-    | subduct   |                |
-    +-----------+----------------+
-    | transform |                |
-    +-----------+----------------+
-    | weaken    |                |
-    +-----------+----------------+
+    .. list-table::
+        :header-rows: 1
+        :widths: 30 40
+
+        * - Verb
+          - Nominalisation
+        * - build
+          - buildup
+        * - collide
+          -
+        * - collapse
+          -
+        * - compress
+          -
+        * - converge
+          -
+        * - cool
+          -
+        * - crack
+          -
+        * - create
+          -
+        * - detect
+          -
+        * - destroy
+          -
+        * - diverge
+          -
+        * - erode
+          -
+        * - erupt
+          -
+        * - evacuate
+          -
+        * - extend
+          -
+        * - flow
+          -
+        * - form
+          -
+        * - fracture
+          -
+        * - grind
+          -
+        * - harden
+          -
+        * - interact
+          -
+        * - melt
+          -
+        * - move
+          -
+        * - predict
+          -
+        * - pull
+          -
+        * - push
+          -
+        * - reduce
+          -
+        * - release
+          -
+        * - rise
+          -
+        * - sink
+          -
+        * - slip
+          -
+        * - spread
+          -
+        * - subduct
+          -
+        * - transform
+          -
+        * - weaken
+          -
 
     .. dropdown::
         :icon: codescan
@@ -102,76 +112,79 @@ Nominalisation: movement
 
             .. tab-item:: Model Answer
 
-                +-------------+-------------------+
-                | Verb        | Nominalisation    |
-                +=============+===================+
-                | build       | buildup           |
-                +-------------+-------------------+
-                | collide     | collision         |
-                +-------------+-------------------+
-                | collapse    | collapse          |
-                +-------------+-------------------+
-                | compress    | compression       |
-                +-------------+-------------------+
-                | converge    | convergence       |
-                +-------------+-------------------+
-                | cool        | cooling           |
-                +-------------+-------------------+
-                | crack       | cracking          |
-                +-------------+-------------------+
-                | create      | creation          |
-                +-------------+-------------------+
-                | detect      | detection         |
-                +-------------+-------------------+
-                | destroy     | destruction       |
-                +-------------+-------------------+
-                | diverge     | divergence        |
-                +-------------+-------------------+
-                | erode       | erosion           |
-                +-------------+-------------------+
-                | erupt       | eruption          |
-                +-------------+-------------------+
-                | evacuate    | evacuation        |
-                +-------------+-------------------+
-                | extend      | extension         |
-                +-------------+-------------------+
-                | flow        | flow              |
-                +-------------+-------------------+
-                | form        | formation         |
-                +-------------+-------------------+
-                | fracture    | fracturing        |
-                +-------------+-------------------+
-                | grind       | grinding          |
-                +-------------+-------------------+
-                | harden      | hardening         |
-                +-------------+-------------------+
-                | interact    | interaction       |
-                +-------------+-------------------+
-                | melt        | melting           |
-                +-------------+-------------------+
-                | move        | movement          |
-                +-------------+-------------------+
-                | predict     | prediction        |
-                +-------------+-------------------+
-                | pull        | tension           |
-                +-------------+-------------------+
-                | push        | pressure          |
-                +-------------+-------------------+
-                | reduce      | reduction         |
-                +-------------+-------------------+
-                | release     | release           |
-                +-------------+-------------------+
-                | rise        | rise              |
-                +-------------+-------------------+
-                | sink        | sinking           |
-                +-------------+-------------------+
-                | slip        | slippage          |
-                +-------------+-------------------+
-                | spread      | spreading         |
-                +-------------+-------------------+
-                | subduct     | subduction        |
-                +-------------+-------------------+
-                | transform   | transformation    |
-                +-------------+-------------------+
-                | weaken      | weakening         |
-                +-------------+-------------------+
+                .. list-table::
+                    :header-rows: 1
+                    :widths: 30 40
+
+                    * - Verb
+                      - Nominalisation
+                    * - build
+                      - buildup
+                    * - collide
+                      - collision
+                    * - collapse
+                      - collapse
+                    * - compress
+                      - compression
+                    * - converge
+                      - convergence
+                    * - cool
+                      - cooling
+                    * - crack
+                      - cracking
+                    * - create
+                      - creation
+                    * - detect
+                      - detection
+                    * - destroy
+                      - destruction
+                    * - diverge
+                      - divergence
+                    * - erode
+                      - erosion
+                    * - erupt
+                      - eruption
+                    * - evacuate
+                      - evacuation
+                    * - extend
+                      - extension
+                    * - flow
+                      - flow
+                    * - form
+                      - formation
+                    * - fracture
+                      - fracturing
+                    * - grind
+                      - grinding
+                    * - harden
+                      - hardening
+                    * - interact
+                      - interaction
+                    * - melt
+                      - melting
+                    * - move
+                      - movement
+                    * - predict
+                      - prediction
+                    * - pull
+                      - tension
+                    * - push
+                      - pressure
+                    * - reduce
+                      - reduction
+                    * - release
+                      - release
+                    * - rise
+                      - rise
+                    * - sink
+                      - sinking
+                    * - slip
+                      - slippage
+                    * - spread
+                      - spreading
+                    * - subduct
+                      - subduction
+                    * - transform
+                      - transformation
+                    * - weaken
+                      - weakening
