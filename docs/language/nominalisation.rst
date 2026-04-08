@@ -15,15 +15,19 @@ can be described, linked, measured, or used as causes.
 
 This involves changing a **process** into a **participant**.
 
-+-----------------------------+-------------------------------+
-| Everyday (process)          | Scientific (participant)      |
-+=============================+===============================+
-| Plates collide              | The collision of plates       |
-+-----------------------------+-------------------------------+
-| Crust spreads               | The spreading of crust        |
-+-----------------------------+-------------------------------+
-| Plates converge             | The convergence of plates     |
-+-----------------------------+-------------------------------+
+.. list-table:: Process → Participant
+   :header-rows: 1
+   :widths: 35 45
+
+    * - Everyday (process)
+        - Scientific (participant)
+    * - Plates **collide**
+        - The **collision** of plates
+    * - Crust **spreads**
+        - The **spreading** of crust
+    * - Plates **converge**
+        - The **convergence** of plates
+
 
 In SFG terms:
 

@@ -32,7 +32,7 @@ PC-Science-and-language
     :caption: ✏️🔧 Nominalisation
     :numbered:
 
-    earth/nominalisation.rst
+    language/nominalisation.rst
 
     earth/nominalisations_earth.rst
     earth/nominalisation_sentences_earth.rst
