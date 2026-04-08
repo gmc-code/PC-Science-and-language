@@ -20,13 +20,13 @@ This involves changing a **process** into a **participant**.
    :widths: 35 45
 
     * - Everyday (process)
-        - Scientific (participant)
+      - Scientific (participant)
     * - Plates **collide**
-        - The **collision** of plates
+      - The **collision** of plates
     * - Crust **spreads**
-        - The **spreading** of crust
+      - The **spreading** of crust
     * - Plates **converge**
-        - The **convergence** of plates
+      - The **convergence** of plates
 
 
 In SFG terms:
