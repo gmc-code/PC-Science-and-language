@@ -6,6 +6,7 @@ Verbs and Nominalisations
 In scientific writing, actions (**processes**) are often rewritten as
 **things**.
 
+
 Process → Participant
 ----------------------
 
@@ -35,7 +36,7 @@ In SFG terms:
 - **Nominalisations** realise *participants*
 - This allows processes to be treated as *things*
 
-
+----
 
 Why science uses this pattern
 ------------------------------
@@ -54,3 +55,4 @@ For example:
 
 The scientific meaning stays the same, but the grammar becomes
 more compact and more formal.
+
