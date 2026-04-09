@@ -2,10 +2,9 @@
 Language Resources for Circumstances
 ===========================================
 
-| Although circumstances are often expressed as **prepositional phrases**, SFG allows
-many different grammatical resources to realise circumstantial meaning.
-| These include adverbs, adverbial groups, nominal groups, prepositional phrases,
-and dependent clauses.
+| Although circumstances are often expressed as **prepositional phrases**,
+| SFG allows many different grammatical resources to realise circumstantial meaning.
+| These include adverbs, adverbial groups, nominal groups, prepositional phrases, and dependent clauses.
 
 The examples below are based on Earth Science contexts.
 
@@ -20,12 +19,12 @@ The examples below are based on Earth Science contexts.
     * - Prepositional phrase
       - Most common form; expresses time, place, manner, cause, etc.
       - Lava cooled **after the eruption**.
-        Plates collide **at the boundary**.
+         Plates collide **at the boundary**.
 
     * - Adverb
       - Single-word circumstance, often time or manner
       - Ash spread **quickly**.
-        The ground shook **briefly**.
+       The ground shook **briefly**.
 
     * - Adverbial group
       - Expanded adverb expressing degree, manner, or frequency

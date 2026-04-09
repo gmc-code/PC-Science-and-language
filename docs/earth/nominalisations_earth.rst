@@ -24,8 +24,8 @@ Example
 .. admonition:: Nominalisation of verbs
     :class: questions
 
-    Rewrite each verb as a noun.
-    The first one has been done for you.
+    | Rewrite each verb as a noun.
+    | The first one has been done for you.
 
     .. list-table::
         :header-rows: 1
