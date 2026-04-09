@@ -55,6 +55,15 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
+    :caption: ✏️🔧 Qualifiers
+    :numbered:
+
+    earth/adding_qualifiers_earth.rst
+
+
+
+.. toctree::
+    :maxdepth: 2
     :caption: 🤔👀🧩 PRO
     :numbered:
 
