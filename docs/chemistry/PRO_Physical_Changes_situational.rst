@@ -1,10 +1,11 @@
 ==============================================
-PRO Physical Changes: "When..." premise
+PRO Physical Changes: empirical premise
 ==============================================
 
 
 | Examine the following examples of PRO (Premise-Reasoning-Outcome) structures in scientific explanations.
-| “When…” premise = situation-specific condition
+| An empirical premise is based on observation, measurement, or experience.
+| Many empirical premises are phrased as situation-dependent conditions, frequently starting with “When…”, “If…”, or “In this case…”.
 | e.g “When a metal spoon is touched, heat transfers quickly.”
 
 .. rubric::  Why does ice melt when it is heated?

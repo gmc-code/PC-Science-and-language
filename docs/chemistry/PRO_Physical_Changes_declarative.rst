@@ -3,8 +3,8 @@ PRO Physical Changes: declarative premise
 ================================================
 
 | Examine the following examples of PRO (Premise-Reasoning-Outcome) structures in scientific explanations.
-| Declarative premise = general rule / property
-| e.g. “Metals conduct heat efficiently.”
+| They use a declarative premise which is a statement of a general rule, principle, or property. It declares how something works in general rather than describing a specific situation.
+| e.g. "All mammals are warm blooded."
 
 .. rubric::  Why does ice melt when it is heated?
 

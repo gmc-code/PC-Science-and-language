@@ -44,7 +44,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: ✏️🔧 Circumstances
+    :caption: ✏️⏱️ Circumstances
     :numbered:
 
     language/circumstance_resources.rst
@@ -57,7 +57,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: ✏️🔧 Qualifiers
+    :caption: ✏️🧷 Qualifiers
     :numbered:
 
     earth/adding_qualifiers_earth.rst
@@ -77,12 +77,14 @@ PC-Science-and-language
     chemistry/PRO_Chemical_Changes_B.rst
 
 
+
 .. toctree::
     :maxdepth: 2
     :caption: 🧪🎯 Prac Accuracy and Precision
     :numbered:
 
     pracs/accuracy_and_precision.rst
+
 
 
 .. toctree::
@@ -98,12 +100,14 @@ PC-Science-and-language
     pracs/ethics_doing_good.rst
 
 
+
 .. toctree::
     :maxdepth: 2
     :caption: 🧪⛔ Prac Errors
     :numbered:
 
     pracs/errors_in_science.rst
+
 
 
 .. toctree::
@@ -119,6 +123,7 @@ PC-Science-and-language
     pracs/errors_environmental_bias.rst
 
 
+
 .. toctree::
     :maxdepth: 2
     :caption: 🧪⛔ Prac Random Errors
@@ -128,6 +133,7 @@ PC-Science-and-language
     pracs/errors_resolution_limitation.rst
     pracs/errors_technique_variation.rst
     pracs/errors_environmental_variation.rst
+
 
 
 .. toctree::
@@ -175,6 +181,7 @@ PC-Science-and-language
     :maxdepth: 2
     :caption: 🌋 Earth
     :numbered:
+
 
 
 .. toctree::
