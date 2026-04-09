@@ -29,18 +29,18 @@ The examples below are based on Earth Science contexts.
     :widths: 22 78
 
     * - Resource type
-        - How it realises a circumstance
+      - How it realises a circumstance
 
         Example (Earth Science)
 
     * - Prepositional phrase
-        - Most common form; expresses time, place, manner, cause, etc.
+      - Most common form; expresses time, place, manner, cause, etc.
 
         - Lava cooled **after the eruption**.
         - Plates collide **at the boundary**.
 
     * - Adverb
-        - Single-word circumstance, often time or manner
+      - Single-word circumstance, often time or manner
 
         - Ash spread **quickly**.
         - The ground shook **briefly**.
