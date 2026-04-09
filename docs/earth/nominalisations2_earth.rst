@@ -24,7 +24,7 @@ Example
 
     .. list-table:: Process to Participant
         :header-rows: 1
-        :widths: 35 45
+        :widths: 40 50
 
         * - Everyday (process)
           - Scientific (participant)
@@ -92,7 +92,7 @@ Example
 
                 .. list-table:: Process to Participant
                     :header-rows: 1
-                    :widths: 35 45
+                    :widths: 40 50
 
                     * - Everyday (process)
                       - Scientific (participant)

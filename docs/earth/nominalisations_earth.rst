@@ -13,7 +13,7 @@ Example
 
 .. list-table::
     :header-rows: 1
-    :widths: 30 40
+    :widths: 40 50
 
     * - Verb
       - Nominalisation
@@ -29,7 +29,7 @@ Example
 
     .. list-table::
         :header-rows: 1
-        :widths: 30 40
+        :widths: 40 50
 
         * - Verb
           - Nominalisation
