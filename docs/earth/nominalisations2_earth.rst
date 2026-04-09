@@ -6,18 +6,20 @@ Science explanations often turn actions (**verbs**) into things (**nouns**).
 This grammatical change is called **nominalisation** and is commonly used in
 scientific writing to describe processes clearly and efficiently.
 
-Your task is to rewrite each verb as its correct nominalisation.
+Your task is to rewrite each short clause by expressing its process as a noun group.
+
 
 Example
 -------
 
-Verb: Plates **collide**
-Nominalisation: The **collision** of plates
+| Verb: Plates **collide**
+| Nominalisation: The **collision** of plates
 
 .. admonition:: Nominalisation of verbs
     :class: questions
 
-    Rewrite each sentence by changing the verb (process) into a noun (participant).
+    Rewrite each short clause so the process it describes is expressed as a noun group.
+    Keep the meaning the same.
     The first one has been done for you.
 
     .. list-table:: Process to Participant

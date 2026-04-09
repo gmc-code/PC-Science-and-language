@@ -175,7 +175,7 @@ Verb and Nominalisation Sentence Pairs
                 #. **transform → transformation**
 
                     | Tectonic forces transform Earth's surface over time.
-                    | → The transformation of Earth's surface occurs over time due to tectonic forces.
+                    | → The transformation of Earth's surface occurs over time .
 
                 #. **form → formation**
 

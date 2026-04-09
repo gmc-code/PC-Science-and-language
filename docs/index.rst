@@ -27,6 +27,8 @@ PC-Science-and-language
     language/Cause_and_effect.rst
 
 
+
+
 .. toctree::
     :maxdepth: 2
     :caption: ✏️🔧 Nominalisation
@@ -37,6 +39,18 @@ PC-Science-and-language
     earth/nominalisations_earth.rst
     earth/nominalisations2_earth.rst
     earth/nominalisation_sentences_earth.rst
+
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: ✏️🔧 Circumstances
+    :numbered:
+
+    language/circumstance_resources.rst
+    language/circumstance_prepositional_phrases.rst
+    language/circumstances_manner.rst
+    earth/adding_circumstances_earth.rst
 
 
 .. toctree::
