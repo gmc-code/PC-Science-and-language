@@ -25,7 +25,7 @@ PC-Science-and-language
     language/Sequential_explanations.rst
     language/marked_themes.rst
     language/Cause_and_effect.rst
-
+    transitivity/procedure_Bunsen_burner.rst
 
 
 
