@@ -8,30 +8,30 @@ Adding qualifiers: Earth
 | In scientific writing, qualifiers often express:
 
 - **Time** (when the noun is involved)
-  e.g., rock **from millions of years ago**,
-  e.g., damage **during earthquakes**
+    e.g., rock **from millions of years ago**,
+    e.g., damage **during earthquakes**
 
 - **Place** (where the noun is located)
-  e.g., crust **beneath the surface**,
-  e.g., boundaries **between plates**
+    e.g., crust **beneath the surface**,
+    e.g., boundaries **between plates**
 
 - **Manner / quality** (what kind of noun)
-  e.g., movement **with great force**,
-  e.g., layers **in thin sheets**
+    e.g., movement **with great force**,
+    e.g., layers **in thin sheets**
 
 Choose the type of qualifier shown in brackets for each clause.
 
 Example
 -------
 
-| Clause: Plates collide
-| With qualifier: Plates collide **at convergent boundaries**.
+| Clause: Water erodes weakened rock
+| With qualifier: Water erodes weakened rock **over** long periods.
+
 
 .. admonition:: Adding qualifiers
     :class: questions
 
     | Rewrite each short clause by adding a qualifier.
-    | Keep the meaning the same.
     | The first one has been done for you.
 
     .. list-table:: noun process noun + qualifier
@@ -41,7 +41,7 @@ Example
         * - Simple
           - With added qualifier
         * - Water erodes weakened rock.
-          - Water erodes weakened rock (time) ________________________________
+          - Water erodes weakened rock (time) **over** long periods.
         * - Stress fractures the crust.
           - Stress fractures the crust (place) ________________________________
         * - Subduction destroys oceanic crust.
