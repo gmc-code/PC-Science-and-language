@@ -3,9 +3,9 @@ Adding circumstances: Earth
 ===================================
 
 
-Your task is to add a circumstance to each short clause.
-A circumstance is a group of words that tells us **where**, **when**, or **how** the process happens.
-Common types of circumstances include:
+| Your task is to add a circumstance to each short clause.
+| A circumstance is a group of words that tells us **where**, **when**, or **how** the process happens.
+| Common types of circumstances include:
 
 - **Time** (when something happens)
   e.g., over millions of years, during an earthquake

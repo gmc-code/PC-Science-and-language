@@ -10,11 +10,10 @@ things (**participants**).
 Process → Participant
 ----------------------
 
-In everyday language, actions are usually expressed as **verbs**.
-In science, these actions are often rewritten as **nouns** so they
+| In everyday language, actions are usually expressed as **verbs**.
+| In science, these actions are often rewritten as **nouns** so they
 can be described, linked, measured, or used as causes.
-
-This involves changing a **process** into a **participant**.
+| This involves changing a **process** into a **participant**.
 
 This table begins with a process only (a single verb). No participant is included.
 

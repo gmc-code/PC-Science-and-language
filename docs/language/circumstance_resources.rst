@@ -2,9 +2,9 @@
 Language Resources for Circumstances
 ===========================================
 
-Although circumstances are often expressed as **prepositional phrases**, SFG allows
+| Although circumstances are often expressed as **prepositional phrases**, SFG allows
 many different grammatical resources to realise circumstantial meaning.
-These include adverbs, adverbial groups, nominal groups, prepositional phrases,
+| These include adverbs, adverbial groups, nominal groups, prepositional phrases,
 and dependent clauses.
 
 The examples below are based on Earth Science contexts.

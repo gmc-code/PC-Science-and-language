@@ -2,8 +2,8 @@
 Verbs → Nouns 2: Earth
 ===================================
 
-Science explanations often turn actions (**verbs**) into things (**nouns**).
-This grammatical change is called **nominalisation** and is commonly used in
+| Science explanations often turn actions (**verbs**) into things (**nouns**).
+| This grammatical change is called **nominalisation** and is commonly used in
 scientific writing to describe processes clearly and efficiently.
 
 Your task is to rewrite each short clause by expressing its process as a noun group.

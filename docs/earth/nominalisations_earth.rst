@@ -2,8 +2,9 @@
 Verbs → Nouns: Earth
 ===================================
 
-In science writing, actions are often turned into **nouns**. These nouns are called
-**nominalisations**. They help make explanations sound more formal and scientific.
+| In science writing, actions are often turned into **nouns**.
+| These nouns are called **nominalisations**.
+| They help make explanations sound more formal and scientific.
 
 Your task is to **rewrite each verb as its correct nominalisation**.
 
