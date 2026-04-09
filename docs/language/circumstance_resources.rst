@@ -24,6 +24,12 @@ The examples below are based on Earth Science contexts.
         - Lava cooled **after the eruption**.
         - Plates collide **at the boundary**.
 
+    * - Prepositional phrase with embedded nominal group
+      - the noun has a classifier or describer
+
+        - Magma rose **through the upper mantle**.
+        - Ash drifted **over the Pacific region**.
+
     * - Adverb
       - Single-word circumstance, often time or manner
 
@@ -52,7 +58,7 @@ The examples below are based on Earth Science contexts.
       - -ing or -ed clause functioning as a circumstance (often manner or cause)
 
         - **Flowing rapidly**, lava covered the slope.
-        **Weakened by heat**, the crust fractured.
+        - **Weakened by heat**, the crust fractured.
 
     * - Finite dependent clause (adverbial clause)
       - Introduced by when, because, although, if, as, while, etc.
