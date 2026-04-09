@@ -51,6 +51,8 @@ PC-Science-and-language
     language/circumstance_prepositional_phrases.rst
     language/circumstances_manner.rst
     earth/adding_circumstances_earth.rst
+    earth/match_circumstances_earth.rst
+
 
 
 .. toctree::
