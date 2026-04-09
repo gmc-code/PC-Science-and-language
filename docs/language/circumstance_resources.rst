@@ -24,6 +24,22 @@ The examples below are based on Earth Science contexts.
         - Plates collide **at the boundary**.
 
 
+.. list-table:: Language Resources for Circumstances
+   :header-rows: 1
+   :widths: 22 78
+
+   * - Resource type
+     - How it realises a circumstance
+
+       Example (Earth Science)
+
+   * - Prepositional phrase
+     - Most common form; expresses time, place, manner, cause, etc.
+
+       - Lava cooled **after the eruption**.
+       - Plates collide **at the boundary**.
+
+
 
 * - Adverb
     - Single-word circumstance, often time or manner
