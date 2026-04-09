@@ -7,29 +7,29 @@ Match the **Circumstance (Prepositional Phrase)** in Column A to the correct **P
 .. admonition:: Plate Tectonics: Matching Circumstances
     :class: questions
 
-    Match the **Circumstance (Prepositional Phrase)** from Column A with the correct **Process (Nominal Group + Verb)** from Column B.
+    Match the **Plate Process** from Column A with the correct **Circumstance** from Column B.
 
     .. list-table::
         :header-rows: 1
         :widths: 50 50
 
-        * - Column A: Circumstance (Stem)
-          - Column B: Plate Process (Options)
+        * - Column A: Plate Process (Options)
+          - Column B: Circumstance (Stem)
 
-        * - 1) ...at the divergent ridge.
-          - A) Tectonic plates slide horizontally...
+        * - A) Plates move apart...
+          - 1) ...along the transform boundary.
 
-        * - 2) ...into the subduction zone.
-          - B) Huge slabs of rock move...
+        * - B) Plates collide...
+          - 2) ...at constructive plate boundaries.
 
-        * - 3) ...along the transform fault.
-          - C) Oceanic crust sinks...
+        * - C) Oceanic crust sinks...
+          - 3) ...at divergent plate boundaries.
 
-        * - 4) ...past each other.
-          - D) Molten magma rises...
+        * - D) Tectonic plates slide horizontally...
+          - 4) ...at convergent plate boundaries.
 
-        * - 5) ...toward the continental margin.
-          - E) Massive lithospheric plates travel...
+        * - E) New crust forms...
+          - 5) ...into the subduction zone.
 
     .. dropdown:: Check your answers
         :icon: codescan
@@ -40,7 +40,7 @@ Match the **Circumstance (Prepositional Phrase)** in Column A to the correct **P
 
             .. tab-item:: Model Answer
 
-                The sentences below follow the pattern: **Nominal Group + Verb + Prepositional Phrase**.
+                The sentences below follow the pattern: **Process (A-E) + Circumstance (1-5)**.
 
                 .. list-table::
                     :header-rows: 1
@@ -49,17 +49,20 @@ Match the **Circumstance (Prepositional Phrase)** in Column A to the correct **P
                     * - Match
                       - Full Grammatical Realisation
 
-                    * - 1 + D
-                      - 1) Molten magma rises **at the divergent ridge**.
+                    * - A + 3
+                      - A) Plates move apart **at divergent plate boundaries**.
 
-                    * - 2 + C
-                      - 2) Oceanic crust sinks **into the subduction zone**.
+                    * - B + 4
+                      - B) Plates collide **at convergent plate boundaries**.
 
-                    * - 3 + A
-                      - 3) Tectonic plates slide horizontally **along the transform fault**.
+                    * - C + 5
+                      - C) Oceanic crust sinks **into the subduction zone**.
 
-                    * - 4 + B
-                      - 4) Huge slabs of rock move **past each other**.
+                    * - D + 1
+                      - D) Tectonic plates slide horizontally **along the transform boundary**.
 
-                    * - 5 + E
-                      - 5) Massive lithospheric plates travel **toward the continental margin**.
+                    * - E + 2
+                      - E) New crust forms **at constructive plate boundaries**.
+
+
+
