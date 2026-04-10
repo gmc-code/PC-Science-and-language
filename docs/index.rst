@@ -25,6 +25,15 @@ PC-Science-and-language
     language/Sequential_explanations.rst
     language/marked_themes.rst
     language/Cause_and_effect.rst
+    language/genre_procedure.rst
+
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: ✏️👉 Transitivity
+    :numbered:
+
     transitivity/procedure_Bunsen_burner.rst
 
 

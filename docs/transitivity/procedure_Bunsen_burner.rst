@@ -1,8 +1,8 @@
-========================================
-Lighting the Bunsen burner
-========================================
+======================================================
+Procedure: Transitivity - Lighting the Bunsen burner
+======================================================
 
-
+A simple procdu
 Procedure
 --------------------
 
@@ -25,118 +25,44 @@ SFG Transitivity Analysis is a grammatical framework used to explore how meaning
 Step 1: identify the processes.
 --------------------------------
 
-.. role:: process
+In these procedural steps, the **Process** is the command verb that starts each instruction.
 
-.. admonition:: Transitivity Analysis: Lighting a Bunsen Burner
-    :class: questions
-
-    This table identifies the **Process** in each step of the procedure.
-
-    .. list-table::
-       :header-rows: 1
-       :widths: 20 30 50
-
-       * - Process
-         - Participant
-         - Circumstance
-
-       * - :process:`Place`
-         - the Bunsen burner
-         - on the heatproof mat
-
-       * - :process:`Connect`
-         - the rubber tubing
-         - to the gas tap
-
-       * - :process:`Close`
-         - the collar
-         -
-
-       * - :process:`Light`
-         - the match
-         -
-
-       * - :process:`Hold`
-         - the lit match
-         - above the barrel of the Bunsen burner
-
-       * - :process:`Turn on`
-         - the gas
-         -
-
-       * - :process:`Shake out`
-         - the match
-         -
-
-       * - :process:`Observe`
-         - the flame
-         -
-
-       * - :process:`Turn off`
-         - the gas
-         -
-
+#. :process:`Place` the Bunsen burner on the heatproof mat.
+#. :process:`Connect` the rubber tubing to the gas tap.
+#. :process:`Close` the collar.
+#. :process:`Light` the match.
+#. :process:`Hold` the lit match above the barrel of the Bunsen burner.
+#. :process:`Turn on` the gas.
+#. :process:`Shake out` the match.
+#. :process:`Observe` the flame.
+#. :process:`Turn off` the gas.
 
 Step 2: Identify the participants
 ------------------------------------
 
-.. role:: process
-.. role:: participant
-
-.. admonition:: Transitivity Analysis: Lighting a Bunsen Burner
-    :class: questions
-
-    This table identifies both the **Process** and the **Participant** in each step.
-
-    .. list-table::
-        :header-rows: 1
-        :widths: 20 30 50
-
-        * - Process
-          - Participant
-          - Circumstance
-
-        * - :process:`Place`
-          - :participant:`the Bunsen burner`
-          - on the heatproof mat
-
-        * - :process:`Connect`
-          - :participant:`the rubber tubing`
-          - to the gas tap
-
-        * - :process:`Close`
-          - :participant:`the collar`
-          -
-
-        * - :process:`Light`
-          - :participant:`the match`
-          -
-
-        * - :process:`Hold`
-          - :participant:`the lit match`
-          - above the barrel of the Bunsen burner
-
-        * - :process:`Turn on`
-          - :participant:`the gas`
-          -
-
-        * - :process:`Shake out`
-          - :participant:`the match`
-          -
-
-        * - :process:`Observe`
-          - :participant:`the flame`
-          -
-
-        * - :process:`Turn off`
-          - :participant:`the gas`
-          -
+#. :process:`Place` :participant:`the Bunsen burner` on the heatproof mat.
+#. :process:`Connect` :participant:`the rubber tubing` to the gas tap.
+#. :process:`Close` :participant:`the collar`.
+#. :process:`Light` :participant:`the match`.
+#. :process:`Hold` :participant:`the lit match` above the barrel of the Bunsen burner.
+#. :process:`Turn on` :participant:`the gas`.
+#. :process:`Shake out` :participant:`the match`.
+#. :process:`Observe` :participant:`the flame`.
+#. :process:`Turn off` :participant:`the gas`.
 
 
-
-
-Step 2: Identify the circumstances
+Step 3: Identify the circumstances
 ------------------------------------
+
+#. :process:`Place` :participant:`the Bunsen burner` :circ:`on the heatproof mat`.
+#. :process:`Connect` :participant:`the rubber tubing` :circ:`to the gas tap`.
+#. :process:`Close` :participant:`the collar`.
+#. :process:`Light` :participant:`the match`.
+#. :process:`Hold` :participant:`the lit match` :circ:`above the barrel of the Bunsen burner`.
+#. :process:`Turn on` :participant:`the gas`.
+#. :process:`Shake out` :participant:`the match`.
+#. :process:`Observe` :participant:`the flame`.
+#. :process:`Turn off` :participant:`the gas`.
 
 
 .. admonition:: Transitivity Analysis: Lighting a Bunsen Burner
