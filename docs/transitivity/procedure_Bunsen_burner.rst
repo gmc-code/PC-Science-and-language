@@ -497,7 +497,8 @@ This table breaks down each step into its functional grammatical parts.
 Heating Zinc Oxide
 ------------------------
 
-
+| Steps for light a Bunsen burner are listed below.
+| Some sentences start with a circumstance.
 
 .. admonition:: Circumstances
     :class: questions
@@ -534,12 +535,12 @@ Heating Zinc Oxide
 
             .. tab-item:: Model Answer
 
-                #. First, :process:`fill` :participant:`a test tube` :circ:`with zinc oxide powder` :circ:`to a height of about 1 cm`.
-                #. Then, :process:`place` :participant:`the test tube` :circ:`in a test tube rack` :circ:`until ready to heat it`.
+                #. :circ:`First`, :process:`fill` :participant:`a test tube` :circ:`with zinc oxide powder` :circ:`to a height of about 1 cm`.
+                #. :circ:`Then`, :process:`place` :participant:`the test tube` :circ:`in a test tube rack` :circ:`until ready to heat it`.
                 #. :process:`Place` :participant:`the Bunsen burner` :circ:`centrally` :circ:`on the heatproof mat`.
                 #. :process:`Connect` :participant:`the rubber tubing` :circ:`firmly` :circ:`to the gas tap`.
                 #. :process:`Close` :participant:`the collar` :circ:`completely`.
-                #. Next, :process:`light` :participant:`the match` :circ:`at a safe distance from the body`.
+                #. :circ:`Next`, :process:`light` :participant:`the match` :circ:`at a safe distance from the body`.
                 #. :process:`Hold` :participant:`the lit match` :circ:`just above the barrel of the Bunsen burner`.
                 #. :circ:`Simultaneously`, :process:`turn on` :participant:`the gas` :circ:`at the wall tap`.
                 #. :process:`Shake out` :participant:`the match` :circ:`immediately once the flame is lit`.
@@ -550,7 +551,7 @@ Heating Zinc Oxide
                 #. :process:`Move` :participant:`the test tube` :circ:`constantly` :circ:`in and out of the flame` :circ:`until the powder changes color from white to yellow`.
                 #. :circ:`Once finished`, :process:`close` :participant:`the collar` :circ:`to return to the yellow safety flame`.
                 #. :process:`Place` :participant:`the hot test tube` :circ:`carefully` :circ:`into a wooden test tube rack` :circ:`to cool undisturbed`.
-                #. Finally, :process:`turn off` :participant:`the gas` :circ:`at the tap` :circ:`completely`.
+                #. :circ:`Finally`, :process:`turn off` :participant:`the gas` :circ:`at the tap` :circ:`completely`.
 
 
 
