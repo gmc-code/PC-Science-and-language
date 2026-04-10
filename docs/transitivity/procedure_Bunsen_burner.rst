@@ -13,7 +13,7 @@ A scientific procedure follows a strict "register" or style of writing:
  - Processes: Verbs are command-based "imperative" verbs (e.g., Pour, Measure, Heat).
  - Participants: Nouns are variables and equipment (5g Zinc Oxide, 100mL Beaker).
  - Precise: It includes exact measurements (e.g., 50 mL, 10 minutes, 25°C).
- - Circumstances: Objective; avoids personal opinions and focuses only on the actions.
+ - Circumstances: They are objective, avoiding personal opinions and focusing only on the actions.
 
 ----
 

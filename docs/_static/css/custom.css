@@ -42,7 +42,7 @@ hr {
 
 div.admonition.answer,
 div.admonition.answers{
-    color: 404040;
+    color: #404040;
     border-left: 6px solid blue;
     /* border: 2px solid; */
     background-color: #e7f2fa;
@@ -51,13 +51,13 @@ div.admonition.answers{
 div.admonition.answer p.admonition-title,
 div.admonition.answers p.admonition-title{
     text-transform: capitalize;
-    color: 404040!important;
+    color: #404040!important;
     background-color: #6ab0de;
 }
 
 div.admonition.question,
 div.admonition.questions{
-    color: 404040;
+    color: #404040;
     border-left: 6px solid gold;
     /* border: 2px solid gold; */
     background-color: lightyellow!important;
@@ -66,13 +66,13 @@ div.admonition.questions{
 div.admonition.question p.admonition-title,
 div.admonition.questions p.admonition-title{
     text-transform: capitalize;
-    color: 404040!important;
+    color: #404040!important;
     background-color: gold!important;
 }
 
 div.admonition.task,
 div.admonition.tasks {
-    color: 404040;
+    color: #404040;
     border-left: 6px solid gold;
     /* border: 2px solid gold; */
     background-color: lightyellow!important;
@@ -81,13 +81,13 @@ div.admonition.tasks {
 div.admonition.task p.admonition-title,
 div.admonition.tasks p.admonition-title {
     text-transform: capitalize;
-    color: 404040!important;
+    color: #404040!important;
     background-color: gold!important;
 }
 
 div.admonition.exercise,
 div.admonition.exercises {
-    color: 404040;
+    color: #404040;
     border-left: 6px solid rgb(0, 255, 0);
     /* border: 2px solid rgb(0, 255, 0); */
     background-color: lightyellow!important;
@@ -96,13 +96,13 @@ div.admonition.exercises {
 div.admonition.exercise p.admonition-title,
 div.admonition.exercises p.admonition-title {
     text-transform: capitalize;
-    color: 404040!important;
+    color: #404040!important;
     background-color: rgb(0, 255, 0)!important;
 }
 
 div.admonition.project,
 div.admonition.projects {
-    color: 404040;
+    color: #404040;
     border-left: 6px solid gold;
     /* border: 2px solid gold; */
     background-color: lightyellow!important;
@@ -111,7 +111,7 @@ div.admonition.projects {
 div.admonition.project p.admonition-title,
 div.admonition.projects p.admonition-title {
     text-transform: capitalize;
-    color: 404040!important;
+    color: #404040!important;
     background-color: gold!important;
 }
 
