@@ -59,6 +59,16 @@ In these procedural steps, the **Process** is the command verb that starts each 
 
     Identify each Process : "What is happening? What is the doing, sensing, saying, or being?"
 
+    #. Place the Bunsen burner on the heatproof mat.
+    #. Connect the rubber tubing to the gas tap.
+    #. Close the collar.
+    #. Light the match.
+    #. Hold the lit match above the barrel of the Bunsen burner.
+    #. Turn on the gas.
+    #. Shake out the match.
+    #. Observe the flame.
+    #. Turn off the gas.
+
     .. dropdown::
         :icon: codescan
         :color: primary
@@ -87,6 +97,17 @@ In these procedural steps, the **Participant** is usually a concrete noun — th
     :class: questions
 
     Identify each Participant : "Who or what is involved in this process?"
+
+    #. Place the Bunsen burner on the heatproof mat.
+    #. Connect the rubber tubing to the gas tap.
+    #. Close the collar.
+    #. Light the match.
+    #. Hold the lit match above the barrel of the Bunsen burner.
+    #. Turn on the gas.
+    #. Shake out the match.
+    #. Observe the flame.
+    #. Turn off the gas.
+
 
     .. dropdown::
         :icon: codescan
@@ -117,6 +138,16 @@ In these procedural steps, circumstances of Manner (how), Place (where), and Ext
     :class: questions
 
     Identify each Circumstances : "Where, when, why, how is it happening?"
+
+    #. Place the Bunsen burner on the heatproof mat.
+    #. Connect the rubber tubing to the gas tap.
+    #. Close the collar.
+    #. Light the match.
+    #. Hold the lit match above the barrel of the Bunsen burner.
+    #. Turn on the gas.
+    #. Shake out the match.
+    #. Observe the flame.
+    #. Turn off the gas.
 
     .. dropdown::
         :icon: codescan
