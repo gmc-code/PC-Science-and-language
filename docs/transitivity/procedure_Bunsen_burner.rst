@@ -270,15 +270,23 @@ In these procedural steps, the **Process** is the command verb that starts each 
 
     Identify each Process : "What is happening? What is the doing, sensing, saying, or being?"
 
+    #. Fill a test tube with water to one third full.
+    #. Place the test tube in a test tube rack until ready to heat it.
     #. Place the Bunsen burner on the heatproof mat.
     #. Connect the rubber tubing to the gas tap.
     #. Close the collar.
     #. Light the match.
-    #. Hold the lit match above the barrel of the Bunsen burner.
+    #. Hold the lit match just above the barrel of the Bunsen burner.
     #. Turn on the gas.
     #. Shake out the match.
-    #. Observe the flame.
-    #. Turn off the gas.
+    #. Observe the yellow safety flame.
+    #. Hold the test tube with a wooden test tube holder.
+    #. Open the collar to get a blue heating flame.
+    #. Place the test tube in the blue flame at a 45-degree angle, pointing away from others.
+    #. Move the test tube gently in and out of the flame to ensure even heating.
+    #. Close the collar to return to the yellow safety flame once heating is finished.
+    #. Turn off the gas at the tap.
+    #. Place the hot test tube into a wooden test tube rack to cool.
 
     .. dropdown::
         :icon: codescan
