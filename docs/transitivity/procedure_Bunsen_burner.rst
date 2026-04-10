@@ -265,23 +265,47 @@ Step 1: identify the processes.
 
 In these procedural steps, the **Process** is the command verb that starts each instruction.
 
-#. :process:`Fill` a test tube with water to one third full.
-#. :process:`Place` the test tube in a test tube rack until ready to heat it.
-#. :process:`Place` the Bunsen burner on the heatproof mat.
-#. :process:`Connect` the rubber tubing to the gas tap.
-#. :process:`Close` the collar.
-#. :process:`Light` the match.
-#. :process:`Hold` the lit match just above the barrel of the Bunsen burner.
-#. :process:`Turn on` the gas.
-#. :process:`Shake out` the match.
-#. :process:`Observe` the yellow safety flame.
-#. :process:`Hold` the test tube with a wooden test tube holder.
-#. :process:`Open` the collar to get a blue heating flame.
-#. :process:`Place` the test tube in the blue flame at a 45-degree angle, pointing away from others.
-#. :process:`Move` the test tube gently in and out of the flame to ensure even heating.
-#. :process:`Close` the collar to return to the yellow safety flame once heating is finished.
-#. :process:`Turn off` the gas at the tap.
-#. :process:`Place` the hot test tube into a wooden test tube rack to cool.
+.. admonition:: Process
+    :class: questions
+
+    Identify each Process : "What is happening? What is the doing, sensing, saying, or being?"
+
+    #. Place the Bunsen burner on the heatproof mat.
+    #. Connect the rubber tubing to the gas tap.
+    #. Close the collar.
+    #. Light the match.
+    #. Hold the lit match above the barrel of the Bunsen burner.
+    #. Turn on the gas.
+    #. Shake out the match.
+    #. Observe the flame.
+    #. Turn off the gas.
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                #. :process:`Fill` a test tube with water to one third full.
+                #. :process:`Place` the test tube in a test tube rack until ready to heat it.
+                #. :process:`Place` the Bunsen burner on the heatproof mat.
+                #. :process:`Connect` the rubber tubing to the gas tap.
+                #. :process:`Close` the collar.
+                #. :process:`Light` the match.
+                #. :process:`Hold` the lit match just above the barrel of the Bunsen burner.
+                #. :process:`Turn on` the gas.
+                #. :process:`Shake out` the match.
+                #. :process:`Observe` the yellow safety flame.
+                #. :process:`Hold` the test tube with a wooden test tube holder.
+                #. :process:`Open` the collar to get a blue heating flame.
+                #. :process:`Place` the test tube in the blue flame at a 45-degree angle, pointing away from others.
+                #. :process:`Move` the test tube gently in and out of the flame to ensure even heating.
+                #. :process:`Close` the collar to return to the yellow safety flame once heating is finished.
+                #. :process:`Turn off` the gas at the tap.
+                #. :process:`Place` the hot test tube into a wooden test tube rack to cool.
 
 
 Step 2: Identify the participants
@@ -289,23 +313,56 @@ Step 2: Identify the participants
 
 In these procedural steps, the **Participant** is usually a concrete noun — the specific tool or ingredient being used. The person doing the action is omitted (ellipsed).
 
-#. :process:`Fill` :participant:`a test tube` with water to one third full.
-#. :process:`Place` :participant:`the test tube` in a test tube rack until ready to heat it.
-#. :process:`Place` :participant:`the Bunsen burner` on the heatproof mat.
-#. :process:`Connect` :participant:`the rubber tubing` to the gas tap.
-#. :process:`Close` :participant:`the collar`.
-#. :process:`Light` :participant:`the match`.
-#. :process:`Hold` :participant:`the lit match` just above the barrel of the Bunsen burner.
-#. :process:`Turn on` :participant:`the gas`.
-#. :process:`Shake out` :participant:`the match`.
-#. :process:`Observe` :participant:`the yellow safety flame`.
-#. :process:`Hold` :participant:`the test tube` with a wooden test tube holder.
-#. :process:`Open` :participant:`the collar` to get a blue heating flame.
-#. :process:`Place` :participant:`the test tube` in the blue flame at a 45-degree angle, pointing away from others.
-#. :process:`Move` :participant:`the test tube` gently in and out of the flame to ensure even heating.
-#. :process:`Close` :participant:`the collar` to return to the yellow safety flame once heating is finished.
-#. :process:`Turn off` :participant:`the gas` at the tap.
-#. :process:`Place` :participant:`the hot test tube` into a wooden test tube rack to cool.
+.. admonition:: Participants
+    :class: questions
+
+    Identify each Participant : "Who or what is involved in this process?"
+
+    #. Fill a test tube with water to one third full.
+    #. Place the test tube in a test tube rack until ready to heat it.
+    #. Place the Bunsen burner on the heatproof mat.
+    #. Connect the rubber tubing to the gas tap.
+    #. Close the collar.
+    #. Light the match.
+    #. Hold the lit match just above the barrel of the Bunsen burner.
+    #. Turn on the gas.
+    #. Shake out the match.
+    #. Observe the yellow safety flame.
+    #. Hold the test tube with a wooden test tube holder.
+    #. Open the collar to get a blue heating flame.
+    #. Place the test tube in the blue flame at a 45-degree angle, pointing away from others.
+    #. Move the test tube gently in and out of the flame to ensure even heating.
+    #. Close the collar to return to the yellow safety flame once heating is finished.
+    #. Turn off the gas at the tap.
+    #. Place the hot test tube into a wooden test tube rack to cool.
+
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                #. :process:`Fill` :participant:`a test tube` with water to one third full.
+                #. :process:`Place` :participant:`the test tube` in a test tube rack until ready to heat it.
+                #. :process:`Place` :participant:`the Bunsen burner` on the heatproof mat.
+                #. :process:`Connect` :participant:`the rubber tubing` to the gas tap.
+                #. :process:`Close` :participant:`the collar`.
+                #. :process:`Light` :participant:`the match`.
+                #. :process:`Hold` :participant:`the lit match` just above the barrel of the Bunsen burner.
+                #. :process:`Turn on` :participant:`the gas`.
+                #. :process:`Shake out` :participant:`the match`.
+                #. :process:`Observe` :participant:`the yellow safety flame`.
+                #. :process:`Hold` :participant:`the test tube` with a wooden test tube holder.
+                #. :process:`Open` :participant:`the collar` to get a blue heating flame.
+                #. :process:`Place` :participant:`the test tube` in the blue flame at a 45-degree angle, pointing away from others.
+                #. :process:`Move` :participant:`the test tube` gently in and out of the flame to ensure even heating.
+                #. :process:`Close` :participant:`the collar` to return to the yellow safety flame once heating is finished.
+                #. :process:`Turn off` :participant:`the gas` at the tap.
+                #. :process:`Place` :participant:`the hot test tube` into a wooden test tube rack to cool.
 
 
 Step 3: Identify the circumstances
@@ -313,23 +370,55 @@ Step 3: Identify the circumstances
 
 In these procedural steps, circumstances of Manner (how), Place (where), and Extent (how long) are used to ensure safety and accuracy.
 
-#. :process:`Fill` :participant:`a test tube` :circ:`with water` :circ:`to one third full`.
-#. :process:`Place` :participant:`the test tube` :circ:`in a test tube rack` :circ:`until ready to heat it`.
-#. :process:`Place` :participant:`the Bunsen burner` :circ:`on the heatproof mat`.
-#. :process:`Connect` :participant:`the rubber tubing` :circ:`to the gas tap`.
-#. :process:`Close` :participant:`the collar`.
-#. :process:`Light` :participant:`the match`.
-#. :process:`Hold` :participant:`the lit match` :circ:`just above the barrel of the Bunsen burner`.
-#. :process:`Turn on` :participant:`the gas`.
-#. :process:`Shake out` :participant:`the match`.
-#. :process:`Observe` :participant:`the yellow safety flame`.
-#. :process:`Hold` :participant:`the test tube` :circ:`with a wooden test tube holder`.
-#. :process:`Open` :participant:`the collar` :circ:`to get a blue heating flame`.
-#. :process:`Place` :participant:`the test tube` :circ:`in the blue flame` :circ:`at a 45-degree angle`, :circ:`pointing away from others`.
-#. :process:`Move` :participant:`the test tube` :circ:`gently` :circ:`in and out of the flame` :circ:`to ensure even heating`.
-#. :process:`Close` :participant:`the collar` :circ:`to return to the yellow safety flame` :circ:`once heating is finished`.
-#. :process:`Turn off` :participant:`the gas` :circ:`at the tap`.
-#. :process:`Place` :participant:`the hot test tube` :circ:`into a wooden test tube rack` :circ:`to cool`.
+.. admonition:: Circumstances
+    :class: questions
+
+    Identify each Circumstances : "Where, when, why, how is it happening?"
+
+    #. Fill a test tube with water to one third full.
+    #. Place the test tube in a test tube rack until ready to heat it.
+    #. Place the Bunsen burner on the heatproof mat.
+    #. Connect the rubber tubing to the gas tap.
+    #. Close the collar.
+    #. Light the match.
+    #. Hold the lit match just above the barrel of the Bunsen burner.
+    #. Turn on the gas.
+    #. Shake out the match.
+    #. Observe the yellow safety flame.
+    #. Hold the test tube with a wooden test tube holder.
+    #. Open the collar to get a blue heating flame.
+    #. Place the test tube in the blue flame at a 45-degree angle, pointing away from others.
+    #. Move the test tube gently in and out of the flame to ensure even heating.
+    #. Close the collar to return to the yellow safety flame once heating is finished.
+    #. Turn off the gas at the tap.
+    #. Place the hot test tube into a wooden test tube rack to cool.
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                #. :process:`Fill` :participant:`a test tube` :circ:`with water` :circ:`to one third full`.
+                #. :process:`Place` :participant:`the test tube` :circ:`in a test tube rack` :circ:`until ready to heat it`.
+                #. :process:`Place` :participant:`the Bunsen burner` :circ:`on the heatproof mat`.
+                #. :process:`Connect` :participant:`the rubber tubing` :circ:`to the gas tap`.
+                #. :process:`Close` :participant:`the collar`.
+                #. :process:`Light` :participant:`the match`.
+                #. :process:`Hold` :participant:`the lit match` :circ:`just above the barrel of the Bunsen burner`.
+                #. :process:`Turn on` :participant:`the gas`.
+                #. :process:`Shake out` :participant:`the match`.
+                #. :process:`Observe` :participant:`the yellow safety flame`.
+                #. :process:`Hold` :participant:`the test tube` :circ:`with a wooden test tube holder`.
+                #. :process:`Open` :participant:`the collar` :circ:`to get a blue heating flame`.
+                #. :process:`Place` :participant:`the test tube` :circ:`in the blue flame` :circ:`at a 45-degree angle`, :circ:`pointing away from others`.
+                #. :process:`Move` :participant:`the test tube` :circ:`gently` :circ:`in and out of the flame` :circ:`to ensure even heating`.
+                #. :process:`Close` :participant:`the collar` :circ:`to return to the yellow safety flame` :circ:`once heating is finished`.
+                #. :process:`Turn off` :participant:`the gas` :circ:`at the tap`.
+                #. :process:`Place` :participant:`the hot test tube` :circ:`into a wooden test tube rack` :circ:`to cool`.
 
 
 This table breaks down each step into its functional grammatical parts.
@@ -400,23 +489,60 @@ This table breaks down each step into its functional grammatical parts.
 Heating Zinc Oxide
 ------------------------
 
-#. First, fill a test tube with zinc oxide powder to a height of about 1 cm.
-#. Then, place the test tube in a test tube rack until ready to heat it.
-#. Place the Bunsen burner centrally on the heatproof mat.
-#. Connect the rubber tubing firmly to the gas tap.
-#. Close the collar completely.
-#. Next, light the match at a safe distance from the body.
-#. Hold the lit match just above the barrel of the Bunsen burner.
-#. Simultaneously, turn on the gas at the wall tap.
-#. Shake out the match immediately once the flame is lit.
-#. Observe the yellow safety flame for a moment to ensure stability.
-#. Before heating, secure the test tube firmly with a wooden test tube holder.
-#. Slowly open the collar until a blue heating flame is achieved.
-#. Place the test tube in the blue flame at a 45-degree angle, pointing the mouth away from other people.
 
-#. Move the test tube constantly in and out of the flame until the powder changes color from white to yellow.
-#. Once finished, close the collar to return to the yellow safety flame.
-#. Place the hot test tube carefully into a wooden test tube rack to cool undisturbed.
-#. Finally, turn off the gas at the tap completely.
+
+.. admonition:: Circumstances
+    :class: questions
+
+    Identify each Process : "What is happening? What is the doing, sensing, saying, or being?"
+    Identify each Participant : "Who or what is involved in this process?"
+    Identify each Circumstances : "Where, when, why, how is it happening?"
+
+    #. First, fill a test tube with zinc oxide powder to a height of about 1 cm.
+    #. Then, place the test tube in a test tube rack until ready to heat it.
+    #. Place the Bunsen burner centrally on the heatproof mat.
+    #. Connect the rubber tubing firmly to the gas tap.
+    #. Close the collar completely.
+    #. Next, light the match at a safe distance from the body.
+    #. Hold the lit match just above the barrel of the Bunsen burner.
+    #. Simultaneously, turn on the gas at the wall tap.
+    #. Shake out the match immediately once the flame is lit.
+    #. Observe the yellow safety flame for a moment to ensure stability.
+    #. Before heating, secure the test tube firmly with a wooden test tube holder.
+    #. Slowly open the collar until a blue heating flame is achieved.
+    #. Place the test tube in the blue flame at a 45-degree angle, pointing the mouth away from other people.
+    #. Move the test tube constantly in and out of the flame until the powder changes color from white to yellow.
+    #. Once finished, close the collar to return to the yellow safety flame.
+    #. Place the hot test tube carefully into a wooden test tube rack to cool undisturbed.
+    #. Finally, turn off the gas at the tap completely.
+
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                #. First, :process:`fill` :participant:`a test tube` :circ:`with zinc oxide powder` :circ:`to a height of about 1 cm`.
+                #. Then, :process:`place` :participant:`the test tube` :circ:`in a test tube rack` :circ:`until ready to heat it`.
+                #. :process:`Place` :participant:`the Bunsen burner` :circ:`centrally` :circ:`on the heatproof mat`.
+                #. :process:`Connect` :participant:`the rubber tubing` :circ:`firmly` :circ:`to the gas tap`.
+                #. :process:`Close` :participant:`the collar` :circ:`completely`.
+                #. Next, :process:`light` :participant:`the match` :circ:`at a safe distance from the body`.
+                #. :process:`Hold` :participant:`the lit match` :circ:`just above the barrel of the Bunsen burner`.
+                #. :circ:`Simultaneously`, :process:`turn on` :participant:`the gas` :circ:`at the wall tap`.
+                #. :process:`Shake out` :participant:`the match` :circ:`immediately once the flame is lit`.
+                #. :process:`Observe` :participant:`the yellow safety flame` :circ:`for a moment` :circ:`to ensure stability`.
+                #. :circ:`Before heating`, :process:`secure` :participant:`the test tube` :circ:`firmly` :circ:`with a wooden test tube holder`.
+                #. :circ:`Slowly` :process:`open` :participant:`the collar` :circ:`until a blue heating flame is achieved`.
+                #. :process:`Place` :participant:`the test tube` :circ:`in the blue flame` :circ:`at a 45-degree angle`, :circ:`pointing the mouth away from other people`.
+                #. :process:`Move` :participant:`the test tube` :circ:`constantly` :circ:`in and out of the flame` :circ:`until the powder changes color from white to yellow`.
+                #. :circ:`Once finished`, :process:`close` :participant:`the collar` :circ:`to return to the yellow safety flame`.
+                #. :process:`Place` :participant:`the hot test tube` :circ:`carefully` :circ:`into a wooden test tube rack` :circ:`to cool undisturbed`.
+                #. Finally, :process:`turn off` :participant:`the gas` :circ:`at the tap` :circ:`completely`.
+
 
 
