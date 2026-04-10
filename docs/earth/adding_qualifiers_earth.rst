@@ -36,6 +36,17 @@ Example
 
     | Rewrite each short clause by adding a qualifier.
     | The first one has been done for you.
+    | Choose from these:
+
+      - along active fault zones
+      - at convergent boundaries
+      - at convergent boundaries
+      - at mid-ocean ridges
+      - beneath volcanic regions
+      - during earthquakes
+      - during major seismic events
+      - during seismic rupture
+      - over long periods
 
     .. list-table:: noun process noun + qualifier
         :header-rows: 1
