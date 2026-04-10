@@ -31,7 +31,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: ✏️👉 Transitivity
+    :caption: 🎭 Transitivity
     :numbered:
 
     transitivity/procedure_Bunsen_burner.rst
@@ -40,7 +40,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: ✏️🔧 Nominalisation
+    :caption: 🔧 Nominalisation
     :numbered:
 
     language/nominalisation.rst
@@ -53,7 +53,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: ✏️⏱️ Circumstances
+    :caption: ⏱️ Circumstances
     :numbered:
 
     language/circumstance_resources.rst
@@ -66,7 +66,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: ✏️🧷 Qualifiers
+    :caption: 🧷 Qualifiers
     :numbered:
 
     earth/adding_qualifiers_earth.rst

@@ -40,6 +40,8 @@ In these procedural steps, the **Process** is the command verb that starts each 
 Step 2: Identify the participants
 ------------------------------------
 
+In these procedural steps, the **Participant** is usually a concrete noun — the specific tool or ingredient being used. The person doing the action is omitted (ellipsed).
+
 #. :process:`Place` :participant:`the Bunsen burner` on the heatproof mat.
 #. :process:`Connect` :participant:`the rubber tubing` to the gas tap.
 #. :process:`Close` :participant:`the collar`.
@@ -53,6 +55,8 @@ Step 2: Identify the participants
 
 Step 3: Identify the circumstances
 ------------------------------------
+
+In these procedural steps, circumstances of Manner (how), Place (where), and Extent (how long) are used to ensure safety and accuracy.
 
 #. :process:`Place` :participant:`the Bunsen burner` :circ:`on the heatproof mat`.
 #. :process:`Connect` :participant:`the rubber tubing` :circ:`to the gas tap`.
