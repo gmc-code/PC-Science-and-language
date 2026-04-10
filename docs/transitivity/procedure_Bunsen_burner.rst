@@ -47,11 +47,17 @@ Probe questions are used to identify the Process, Participants and Circumstances
 | Participants : "Who or what is involved in this process?"
 | Circumstances : "Where, when, why, how is it happening?"
 
-
 Step 1: identify the processes.
 --------------------------------
 
 In these procedural steps, the **Process** is the command verb that starts each instruction.
+
+To identify each Process, ask "What is happening? What is the doing, sensing, saying, or being?"
+
+| Place the Bunsen burner on the heatproof mat.
+| "Place" is the process.
+| :process:`Place` the Bunsen burner on the heatproof mat.
+
 
 .. admonition:: Process
     :class: questions
@@ -91,6 +97,12 @@ Step 2: Identify the participants
 ------------------------------------
 
 In these procedural steps, the **Participant** is usually a concrete noun — the specific tool or ingredient being used. The person doing the action is omitted (ellipsed).
+
+To identify each Participant, ask "Who or what is involved in this process?"
+
+| Place the Bunsen burner on the heatproof mat.
+| "the Bunsen burner" is the participant.
+| :process:`Place` :participant:`the Bunsen burner` on the heatproof mat.
 
 .. admonition:: Participants
     :class: questions
@@ -132,6 +144,12 @@ Step 3: Identify the circumstances
 ------------------------------------
 
 In these procedural steps, circumstances of Manner (how), Place (where), and Extent (how long) are used to ensure safety and accuracy.
+
+To identify each Circumstance, ask "Where, when, why, how is it happening?".
+
+| Place the Bunsen burner on the heatproof mat.
+| "on the heatproof mat" is the circumstance.
+| :process:`Place` :participant:`the Bunsen burner` :circ:`on the heatproof mat`.
 
 .. admonition:: Circumstances
     :class: questions
