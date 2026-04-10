@@ -500,7 +500,7 @@ Heating Zinc Oxide
 | Steps for light a Bunsen burner are listed below.
 | Some sentences start with a circumstance.
 
-.. admonition:: Circumstances
+.. admonition:: Transitivity Analysis: Heating Zinc Oxide
     :class: questions
 
     Identify each Process : "What is happening? What is the doing, sensing, saying, or being?"
@@ -562,7 +562,7 @@ Reaction: hydrochloric acid with magnesium ribbon
 | Here is the procedure for reacting hydrochloric acid with magnesium ribbon.
 | Some sentences start with a circumstance.
 
-.. admonition:: Circumstances
+.. admonition:: Transitivity Analysis: Mg in HCl
     :class: questions
 
     Identify each Process : "What is happening? What is the doing, sensing, saying, or being?"
@@ -601,5 +601,45 @@ Reaction: hydrochloric acid with magnesium ribbon
 
 
 
+Reaction: lead(II) nitrate with potassium iodide
+-------------------------------------------------------------
+
+| Here is the procedure for performing a precipitation reaction.
+| Some sentences start with a circumstance.
+
+.. admonition:: Transitivity Analysis: Mg in HCl
+    :class: questions
+
+    Identify each Process : "What is happening? What is the doing, sensing, saying, or being?"
+    Identify each Participant : "Who or what is involved in this process?"
+    Identify each Circumstances : "Where, when, why, how is it happening?"
+
+    #. First, pour 10 mL of lead(II) nitrate solution into a clean beaker.
+    #. Then, measure 10 mL of potassium iodide solution using a graduated cylinder.
+    #. Carefully add the potassium iodide to the beaker.
+    #. Observe the immediate formation of a bright yellow precipitate.
+    #. Stir the mixture gently with a glass rod to ensure the reaction is complete.
+    #. Next, place a funnel lined with filter paper into a conical flask.
+    #. Slowly pour the mixture through the filter paper to separate the solid.
+    #. Once the liquid has drained, rinse the solid with a small amount of deionized water.
+    #. Finally, dispose of the heavy metal waste in the designated container and clean the glassware.
 
 
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                #. :circ:`First`, :process:`pour` :participant:`10 mL of lead(II) nitrate solution` :circ:`into a clean beaker`.
+                #. :circ:`Then`, :process:`measure` :participant:`10 mL of potassium iodide solution` :circ:`using a graduated cylinder`.
+                #. :circ:`Carefully`, :process:`add` :participant:`the potassium iodide` :circ:`to the beaker`.
+                #. :process:`Observe` :participant:`the immediate formation of a bright yellow precipitate`.
+                #. :process:`Stir` :participant:`the mixture` :circ:`gently` :circ:`with a glass rod` :circ:`to ensure the reaction is complete`.
+                #. :circ:`Next`, :process:`place` :participant:`a funnel lined with filter paper` :circ:`into a conical flask`.
+                #. :circ:`Slowly`, :process:`pour` :participant:`the mixture` :circ:`through the filter paper` :circ:`to separate the solid`.
+                #. :circ:`Once the liquid has drained`, :process:`rinse` :participant:`the solid` :circ:`with a small amount of deionized water`.
+                #. :circ:`Finally`, :process:`dispose of` :participant:`the heavy metal waste` :circ:`in the designated container` and :process:`clean` :participant:`the glassware`.
