@@ -48,7 +48,7 @@ Example
       - during seismic rupture
       - over long periods
 
-    .. list-table:: noun process noun + qualifier
+    .. list-table::
         :header-rows: 1
         :widths: 35 45
 
@@ -82,7 +82,7 @@ Example
 
             .. tab-item:: Model Answer
 
-                .. list-table:: Process + Qualifier
+                .. list-table::
                     :header-rows: 1
                     :widths: 35 45
 
@@ -105,4 +105,101 @@ Example
                     * - Plates compress the crust.
                       - Plates compress the crust **at** convergent boundaries.
                     * - Plates slip along faults.
+                      - Plates slip along faults **during** seismic rupture.
+
+
+.. admonition:: Adding qualifiers
+    :class: questions
+
+    | Rewrite each short clause by adding a qualifier.
+    | The first one has been done for you.
+    | Choose from these:
+
+      - along active fault zones
+      - at convergent boundaries
+      - at convergent boundaries
+      - at mid-ocean ridges
+      - beneath volcanic regions
+      - during earthquakes
+      - during major seismic events
+      - during seismic rupture
+      - over long periods
+
+    .. list-table::
+        :header-rows: 1
+        :widths: 5 35 45
+
+        * - #
+          - Simple
+          - With added qualifier
+        * - 1.
+          - Water erodes weakened rock.
+          - Water erodes weakened rock (time) **over** long periods.
+        * - 2.
+          - Stress fractures the crust.
+          - Stress fractures the crust (place) ________________________________
+        * - 3.
+          - Subduction destroys oceanic crust.
+          - Subduction destroys oceanic crust (place) ________________________________
+        * - 4.
+          - Heat weakens the crust.
+          - Heat weakens the crust (place) ________________________________
+        * - 5.
+          - Strong building design reduces earthquake damage.
+          - Strong building design reduces earthquake damage (time) ________________________________
+        * - 6.
+          - Seismometers detect ground movement.
+          - Seismometers detect ground movement (time) ________________________________
+        * - 7.
+          - Magma creates new oceanic crust.
+          - Magma creates new oceanic crust (place) ________________________________
+        * - 8.
+          - Plates compress the crust.
+          - Plates compress the crust (place) ________________________________
+        * - 9.
+          - Plates slip along faults.
+          - Plates slip along faults (time) ________________________________
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                .. list-table::
+                    :header-rows: 1
+                    :widths: 5 35 45
+
+                    * - #
+                      - Simple
+                      - With added qualifier
+                    * - 1.
+                      - Water erodes weakened rock.
+                      - Water erodes weakened rock **over** long periods.
+                    * - 2.
+                      - Stress fractures the crust.
+                      - Stress fractures the crust **along** active fault zones.
+                    * - 3.
+                      - Subduction destroys oceanic crust.
+                      - Subduction destroys oceanic crust **at** convergent boundaries.
+                    * - 4.
+                      - Heat weakens the crust.
+                      - Heat weakens the crust **beneath** volcanic regions.
+                    * - 5.
+                      - Strong building design reduces earthquake damage.
+                      - Strong building design reduces earthquake damage **during** major seismic events.
+                    * - 6.
+                      - Seismometers detect ground movement.
+                      - Seismometers detect ground movement **during** earthquakes.
+                    * - 7.
+                      - Magma creates new oceanic crust.
+                      - Magma creates new oceanic crust **at** mid-ocean ridges.
+                    * - 8.
+                      - Plates compress the crust.
+                      - Plates compress the crust **at** convergent boundaries.
+                    * - 9.
+                      - Plates slip along faults.
                       - Plates slip along faults **during** seismic rupture.
