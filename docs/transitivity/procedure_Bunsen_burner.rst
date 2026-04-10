@@ -643,3 +643,19 @@ Reaction: lead(II) nitrate with potassium iodide
                 #. :circ:`Slowly`, :process:`pour` :participant:`the mixture` :circ:`through the filter paper` :circ:`to separate the solid`.
                 #. :circ:`Once the liquid has drained`, :process:`rinse` :participant:`the solid` :circ:`with a small amount of deionized water`.
                 #. :circ:`Finally`, :process:`dispose of` :participant:`the heavy metal waste` :circ:`in the designated container` and :process:`clean` :participant:`the glassware`.
+
+
+
+----
+
+.. admonition:: Tasks
+    :class: tasks
+
+    Write a procedure for:
+
+    #. Filtering sand form a slat solution.
+    #. Making a saturated salt solution.
+    #. Testing the pH of acetic aid.
+
+
+
