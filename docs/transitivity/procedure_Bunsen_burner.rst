@@ -5,16 +5,15 @@ Procedure: Transitivity
 Procedures
 ----------------
 
-The tests below are examples of procedures.
-
 In science, a procedure is a specific, step-by-step set of instructions used to conduct an experiment or investigation. Its primary purpose is to ensure that the experiment is fair, safe, and reproducible.
 
 A scientific procedure follows a strict "register" or style of writing:
 
  - Sequential: It follows a chronological order (1, 2, 3...).
- - Command-based: It uses "imperative" verbs (e.g., Pour, Measure, Heat).
+ - Processes: Verbs are command-based "imperative" verbs (e.g., Pour, Measure, Heat).
+ - Participants: Nouns are variables and equipment (5g Zinc Oxide, 100mL Beaker).
  - Precise: It includes exact measurements (e.g., 50 mL, 10 minutes, 25°C).
- - Objective: It avoids personal opinions and focuses only on the actions.
+ - Circumstances: Objective; avoids personal opinions and focuses only on the actions.
 
 ----
 
