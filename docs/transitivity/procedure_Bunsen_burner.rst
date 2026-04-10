@@ -589,15 +589,15 @@ Reaction: hydrochloric acid with magnesium ribbon
 
             .. tab-item:: Model Answer
 
-                #. :circ:First, :process:pour :participant:5 mL of dilute hydrochloric acid :circ:into a clean test tube.
-                #. :circ:Then, :process:place :participant:the test tube :circ:securely :circ:in a test tube rack.
-                #. :process:Cut :participant:a 2 cm strip of magnesium ribbon :circ:using scissors.
-                #. :process:Clean :participant:the surface of the magnesium ribbon :circ:with emery paper :circ:to remove any oxide layer.
-                #. :process:Coil :participant:the magnesium ribbon :circ:slightly :circ:so it fits easily into the test tube.
-                #. :circ:Next, :process:drop :participant:the magnesium ribbon :circ:into the acid.
-                #. :process:Observe :participant:the rapid effervescence and the heat produced by the reaction.
-                #. :circ:Once the reaction has ceased, :process:place :participant:the test tube :circ:back into the rack :circ:to cool.
-                #. :circ:Finally, :process:dispose of :participant:the remaining solution :circ:according to laboratory safety instructions and :process:rinse :participant:the equipment.
+                #. :circ:`First`, :process:`pour` :participant:`5 mL of dilute hydrochloric acid` :circ:`into a clean test tube`.
+                #. :circ:`Then`, :process:`place` :participant:`the test tube` :circ:`securely` :circ:`in a test tube rack`.
+                #. :process:`Cut` :participant:`a 2 cm strip of magnesium ribbon` :circ:`using scissors`.
+                #. :process:`Clean` :participant:`the surface of the magnesium ribbon` :circ:`with emery paper` :circ:`to remove any oxide layer`.
+                #. :process:`Coil` :participant:`the magnesium ribbon` :circ:`slightly` :circ:`so it fits easily into the test tube`.
+                #. :circ:`Next`, :process:`drop` :participant:`the magnesium ribbon` :circ:`into the acid`.
+                #. :process:`Observe` :participant:`the rapid effervescence and the heat produced by the reaction`.
+                #. :circ:`Once the reaction has ceased`, :process:`place` :participant:`the test tube` :circ:`back into the rack` :circ:`to cool`.
+                #. :circ:`Finally`, :process:`dispose of` :participant:`the remaining solution` :circ:`according to laboratory safety instructions` and :process:`rinse` :participant:`the equipment`.
 
 
 
