@@ -42,7 +42,7 @@ hr {
 
 div.admonition.answer,
 div.admonition.answers{
-    color: blue;
+    color: black;
     border-left: 6px solid blue;
     /* border: 2px solid; */
     background-color: #e7f2fa;
@@ -57,7 +57,7 @@ div.admonition.answers p.admonition-title{
 
 div.admonition.question,
 div.admonition.questions{
-    color: blue;
+    color: black;
     border-left: 6px solid gold;
     /* border: 2px solid gold; */
     background-color: lightyellow!important;
@@ -72,7 +72,7 @@ div.admonition.questions p.admonition-title{
 
 div.admonition.task,
 div.admonition.tasks {
-    color: blue;
+    color: black;
     border-left: 6px solid gold;
     /* border: 2px solid gold; */
     background-color: lightyellow!important;
@@ -87,7 +87,7 @@ div.admonition.tasks p.admonition-title {
 
 div.admonition.exercise,
 div.admonition.exercises {
-    color: blue;
+    color: black;
     border-left: 6px solid rgb(0, 255, 0);
     /* border: 2px solid rgb(0, 255, 0); */
     background-color: lightyellow!important;
@@ -102,7 +102,7 @@ div.admonition.exercises p.admonition-title {
 
 div.admonition.project,
 div.admonition.projects {
-    color: blue;
+    color: black;
     border-left: 6px solid gold;
     /* border: 2px solid gold; */
     background-color: lightyellow!important;
