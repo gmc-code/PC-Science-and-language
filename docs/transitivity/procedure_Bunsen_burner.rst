@@ -554,4 +554,51 @@ Heating Zinc Oxide
                 #. :circ:`Finally`, :process:`turn off` :participant:`the gas` :circ:`at the tap` :circ:`completely`.
 
 
+----
+
+Reaction: hydrochloric acid with magnesium ribbon
+-------------------------------------------------------
+
+| Here is the procedure for reacting hydrochloric acid with magnesium ribbon.
+| Some sentences start with a circumstance.
+
+.. admonition:: Circumstances
+    :class: questions
+
+    Identify each Process : "What is happening? What is the doing, sensing, saying, or being?"
+    Identify each Participant : "Who or what is involved in this process?"
+    Identify each Circumstances : "Where, when, why, how is it happening?"
+
+    #. First, pour 5 mL of dilute hydrochloric acid into a clean test tube.
+    #. Then, place the test tube securely in a test tube rack.
+    #. Cut a 2 cm strip of magnesium ribbon using scissors.
+    #. Clean the surface of the magnesium ribbon with emery paper to remove any oxide layer.
+    #. Coil the magnesium ribbon slightly so it fits easily into the test tube.
+    #. Next, drop the magnesium ribbon into the acid.
+    #. Observe the rapid effervescence and the heat produced by the reaction.
+    #. Once the reaction has ceased, place the test tube back into the rack to cool.
+    #. Finally, dispose of the remaining solution according to laboratory safety instructions and rinse the equipment.
+
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                #. :circ:First, :process:pour :participant:5 mL of dilute hydrochloric acid :circ:into a clean test tube.
+                #. :circ:Then, :process:place :participant:the test tube :circ:securely :circ:in a test tube rack.
+                #. :process:Cut :participant:a 2 cm strip of magnesium ribbon :circ:using scissors.
+                #. :process:Clean :participant:the surface of the magnesium ribbon :circ:with emery paper :circ:to remove any oxide layer.
+                #. :process:Coil :participant:the magnesium ribbon :circ:slightly :circ:so it fits easily into the test tube.
+                #. :circ:Next, :process:drop :participant:the magnesium ribbon :circ:into the acid.
+                #. :process:Observe :participant:the rapid effervescence and the heat produced by the reaction.
+                #. :circ:Once the reaction has ceased, :process:place :participant:the test tube :circ:back into the rack :circ:to cool.
+                #. :circ:Finally, :process:dispose of :participant:the remaining solution :circ:according to laboratory safety instructions and :process:rinse :participant:the equipment.
+
+
+
 
