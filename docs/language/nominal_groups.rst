@@ -3,43 +3,44 @@ Nominal Groups
 ========================================
 
 
-.. dropdown:: Analyzing the Nominal Group: "The several small marble chips in the conical flask"
-    :icon: search
-    :color: info
-    :class-container: sd-dropdown-container
+Analyzing the Nominal Group: "The several small marble chips in the conical flask"
+-----------------------------------------------------------------------------------------------------
 
-    .. list-table:: Nominal Group Functional Analysis
-        :header-rows: 1
-        :widths: 20 25 30 25
+| In Systemic Functional Grammar, SFG, the Nominal Group is the primary grammatical resource for representing "things" and their qualities.
+| The nominal group is viewed as a functional structure where every word before or after the core noun serves a specific role in defining, quantifying, or classifying that entity.
 
-        * - Element
-          - Word(s)
-          - Probe Question
-          - Functional Role
-        * - **Pointer**
-          - The
-          - *Which ones are you pointing to?*
-          - Pointer (identifying specific ones)
-        * - **Numerative**
-          - several
-          - *How many?*
-          - Numerative (quantity)
-        * - **Describer**
-          - small
-          - *What are they like?*
-          - Describer (size/quality)
-        * - **Classifier**
-          - marble
-          - *What type or kind?*
-          - Classifier (material/sub-type)
-        * - **Thing**
-          - chips
-          - *Who or what is the object?*
-          - Thing (the core noun)
-        * - **Qualifier**
-          - in the conical flask
-          - *What more about them?*, *Which in particular?*
-          - Qualifier (location/context)
+.. list-table:: Nominal Group Functional Analysis
+    :header-rows: 1
+    :widths: 20 25 30 25
+
+    * - Element
+        - Word(s)
+        - Probe Question
+        - Functional Role
+    * - **Pointer**
+        - The
+        - *Which ones are you pointing to?*
+        - Pointer (identifying specific ones)
+    * - **Numerative**
+        - several
+        - *How many?*
+        - Numerative (quantity)
+    * - **Describer**
+        - small
+        - *What are they like?*
+        - Describer (size/quality)
+    * - **Classifier**
+        - marble
+        - *What type or kind?*
+        - Classifier (material/sub-type)
+    * - **Thing**
+        - chips
+        - *Who or what is the object?*
+        - Thing (the core noun)
+    * - **Qualifier**
+        - in the conical flask
+        - *What more about them?*, *Which in particular?*
+        - Qualifier (location/context)
 
 
 ----
