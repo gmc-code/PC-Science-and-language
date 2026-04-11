@@ -28,7 +28,8 @@ To convert a Report into a Procedure, make the following changes:
 
 1. **Remove the Auxiliary Verb:** Delete words like *was* or *were* that sit before the action.
 2. **Shift Verb Tense:** Change the past participle ending (*-ed*) back to the present base form. Change *"was replaced"* to *"replace"*.
-3. **Reorder the Clause:** Swap the position of the Participant and the Process so the action leads the way. Change *"the bunng was placed"* to *"replace the bung"*.
+3. **Reorder the Clause:** Swap the position of the Participant and the Process so the action leads the way. Change *"the bung was replaced"* to *"replace the bung"*.
+4. **Reposition the Circumstances (Adverbs)**: Move adverbs of manner or timing (like carefully, briefly, or immediately) from the end of the sentence to the front. In a procedure, these provide important context before the reader performs the step. For example, change "The bung was removed briefly" to ":circ:Briefly, :process:remove :participant:the bung."
 
 .. list-table:: Passive to Active Conversion Example
    :header-rows: 1
@@ -41,22 +42,45 @@ To convert a Report into a Procedure, make the following changes:
    * - :circ:`Next`, :participant:`the acid` :process:`was added`.
      - :circ:`Next`, :process:`add` :participant:`the acid`.
 
+.. list-table:: Adverb Positioning: Report vs. Procedure
+   :header-rows: 1
+   :widths: 40 40 20
+
+   * - Passive Report (Adverb at end)
+     - Active Procedure (Adverb at front)
+     - Reason
+   * - :participant:`The acid` :process:`was added` :circ:`carefully`.
+     - :circ:`Carefully`, :process:`add` :participant:`the acid`.
+     - Highlights the safety requirement *before* the action.
+   * - :participant:`The bung` :process:`was removed` :circ:`briefly`.
+     - :circ:`Briefly`, :process:`remove` :participant:`the bung`.
+     - Sets the timing expectation *before* the action.
+   * - :participant:`The water` :process:`was monitored` :circ:`simultaneously`.
+     - :circ:`Simultaneously`, :process:`monitor` :participant:`the water`.
+     - Directs the reader to multi-task.
+
 ----
 
 
 .. admonition:: Report to a Procedure
     :class: questions
 
-    Rewrite the following report steps into clear instructions by applying the grammar shifts described above.
+    | Rewrite the following report steps into clear instructions by applying the grammar shifts described above.
+    | Note that while sequence markers (*first*, *then*) are at the front, descriptive adverbs (*briefly*, *carefully) are after the process.
+
+.. admonition:: Analysis Task: Information Flow
+    :class: questions
+
+    Observe how moving the "manner" of the action (e.g., *carefully*) to the end of the sentence makes the report feel more objective.
 
     #. :circ:`First`, :participant:`several marble chips` :process:`were placed` :circ:`into a clean conical flask`.
     #. :circ:`Then`, :participant:`a rubber bung with a delivery tube` :process:`was fitted` :circ:`into the mouth of the flask`.
     #. :circ:`Next`, :participant:`the other end of the delivery tube` :process:`was submerged` :circ:`in a beaker of limewater`.
-    #. :circ:`Briefly`, :participant:`the bung` :process:`was removed`.
-    #. :circ:`Carefully`, :participant:`20 mL of dilute hydrochloric acid` :process:`was added` :circ:`to the flask`.
+    #. :circ:`After the setup was ready`, :participant:`the bung` :process:`was removed` :circ:`briefly`.
+    #. :participant:`20 mL of dilute hydrochloric acid` :process:`was added` :circ:`carefully` :circ:`to the flask`.
     #. :circ:`Immediately`, :participant:`the bung` :process:`was replaced` :circ:`to ensure no gas escaped`.
     #. :circ:`During the reaction`, :participant:`effervescence` :process:`was observed` :circ:`inside the conical flask`.
-    #. :circ:`Simultaneously`, :participant:`the limewater` :process:`was monitored` :circ:`as gas bubbled through it`.
+    #. :participant:`The limewater` :process:`was monitored` :circ:`simultaneously` :circ:`as gas bubbled through it`.
     #. :circ:`After a short period`, :participant:`a milky white color` :process:`was observed` :circ:`in the limewater`.
     #. :circ:`Finally`, :participant:`the delivery tube` :process:`was removed` :circ:`from the limewater` :circ:`before the reaction was stopped`.
 
