@@ -3,8 +3,8 @@ Nominal Groups
 ========================================
 
 
-Analyzing the Nominal Group: "The several small marble chips in the conical flask"
------------------------------------------------------------------------------------------------------
+Analyzing the Nominal Group
+--------------------------------
 
 | In Systemic Functional Grammar, SFG, the Nominal Group is the primary grammatical resource for representing "things" and their qualities.
 | The nominal group is viewed as a functional structure where every word before or after the core noun serves a specific role in defining, quantifying, or classifying that entity.
@@ -62,9 +62,9 @@ The following sequence shows how a technical participant is constructed in scien
     :widths: 10 10 12 12 12 14 30
 
     * - Step
-      - Pointer (Deictic)
+      - Pointer
       - Numerative
-      - Describer (Epithet)
+      - Describer
       - Classifier
       - Thing
       - Qualifier
@@ -118,6 +118,13 @@ The following sequence shows how a technical participant is constructed in scien
 Tectonic Classification Exercise
 -------------------------------
 
+| In scientific discourse, general nouns like *plate* or *zone* are rarely used on their own.
+| Instead, **Classifiers** are used to specify the exact sub-type of the "Thing" being discussed.
+| Classifiers are essential for technical precision because they categorize entities into specific geological systems.
+| Unlike simple descriptions, a Classifier indicate what **type** something is (e.g., an *Oceanic* crust is fundamentally different from a *Continental* crust).
+
+Use the following exercises to practice identifying the correct Classifiers for primary tectonic structures and dynamic features.
+
 .. admonition:: Question 1: Matching Classifiers
     :class: questions
 
@@ -166,7 +173,7 @@ Tectonic Classification Exercise
 
     Complete the nominal groups by matching the correct **Classifier** from the list below to the core **Thing**.
 
-    **Options:** (F) Deep-sea, (G) Oceanic, (H) Subduction, (I) Transform, (J) Volcanic
+    **Options:** (A) Deep-sea, (B) Oceanic, (C) Subduction, (D) Transform, (E) Volcanic
 
     .. list-table:: Dynamic Features
         :header-rows: 1
@@ -197,13 +204,63 @@ Tectonic Classification Exercise
         :color: success
 
         | **Answers:**
-        | 2.1 (G) **Oceanic** crust
-        | 2.2 (I) **Transform** fault
-        | 2.3 (H) **Subduction** zone
-        | 2.4 (F) **Deep-sea** trench
-        | 2.5 (J) **Volcanic** arc.
+        | 2.1 (B) **Oceanic** crust
+        | 2.2 (D) **Transform** fault
+        | 2.3 (C) **Subduction** zone
+        | 2.4 (A) **Deep-sea** trench
+        | 2.5 (E) **Volcanic** arc.
 
 
+----
 
+Adding Describers
+-------------------
+
+| While Classifiers define the *type* of a geological entity, **Describers** (also known as Epithets) provide information about its **qualities** or **characteristics**.
+| In technical writing, Describers allow scientists to add layers of detail regarding size, speed, or intensity.
+
+| Notice how the Describers in this exercise — such as *slow-moving* or *high-pressure* — often use compound words to maintain a formal, objective tone.
+| By adding a Describer to an existing technical term, a "heavy" nominal group carries a high density of information.
+
+
+.. admonition:: Matching Technical Describers
+    :class: questions
+
+    The following technical terms already have a **Classifier** and a **Thing**. Choose the most appropriate **Describer** from the list below.
+
+    **Describer Options:** (A) Immense, (B) Slow-moving, (C) High-pressure, (D) Highly-active, (E) Low-density
+
+    .. list-table:: Describing Tectonic Features
+        :header-rows: 1
+        :widths: 10 40 50
+
+        * - No.
+          - Technical Term (Classifier + Thing)
+          - Full Nominal Group (Describer + ...)
+        * - 1.1
+          - tectonic plates
+          - [______] tectonic plates
+        * - 1.2
+          - subduction zone
+          - [______] subduction zone
+        * - 1.3
+          - mid-ocean ridge
+          - [______] mid-ocean ridge
+        * - 1.4
+          - convection current
+          - [______] convection current
+        * - 1.5
+          - continental crust
+          - [______] continental crust
+
+    .. dropdown:: Reveal Answer Key
+        :icon: check-circle
+        :color: success
+
+        1.1 (A) **Immense** tectonic plates
+        1.2 (C) **High-pressure** subduction zone
+        1.3 (D) **Highly-active** mid-ocean ridge
+        1.4 (B) **Slow-moving** convection current
+        1.5 (E) **Low-density** continental crust
 
 
