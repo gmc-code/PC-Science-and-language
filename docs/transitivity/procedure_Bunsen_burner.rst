@@ -607,7 +607,7 @@ Reaction: lead(II) nitrate with potassium iodide
 | Here is the procedure for performing a precipitation reaction.
 | Some sentences start with a circumstance.
 
-.. admonition:: Transitivity Analysis: Mg in HCl
+.. admonition:: Transitivity Analysis: precipitation reaction
     :class: questions
 
     Identify each Process : "What is happening? What is the doing, sensing, saying, or being?"
@@ -648,12 +648,12 @@ Reaction: lead(II) nitrate with potassium iodide
 
 ----
 
-.. admonition:: Tasks
-    :class: tasks
+.. admonition:: Procedures & Transitivity Analysis
+    :class: exercise
 
-    Write a procedure for:
+    Write a procedure for and carry out Transitivity Analysis for:
 
-    #. Filtering sand form a slat solution.
+    #. Filtering sand from a slat solution.
     #. Making a saturated salt solution.
     #. Testing the pH of acetic aid.
 
