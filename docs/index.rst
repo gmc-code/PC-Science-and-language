@@ -22,11 +22,13 @@ PC-Science-and-language
     :caption: ✏️👉 Language features
     :numbered:
 
+    language/nominal_groups.rst
+    language/report_to_procedure.rst
     language/Sequential_explanations.rst
     language/marked_themes.rst
     language/Cause_and_effect.rst
     language/genre_procedure.rst
-    language/report_to_procedure.rst
+
 
 
 .. toctree::
