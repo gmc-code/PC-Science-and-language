@@ -40,7 +40,7 @@ Genre: Procedure
             * **Measurement:** Precise quantities are used (e.g., "**50 mL**" instead of "a bit").
             * **Safety Verbs:** Specific actions like ":process:`Extinguish`" or ":process:`Saturate`" provide more clarity than "put out" or "soak."
 
-        .. tab-item:: 4. Why this matters
+        .. tab-item:: 5. Why this matters
 
             * Using these features ensures that the text is **objective** and **repeatable**.
             * By removing the "I" or "You," the focus remains entirely on the task at hand, which is essential for scientific and technical documentation.
