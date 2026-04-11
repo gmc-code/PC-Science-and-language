@@ -653,7 +653,7 @@ Reaction: lead(II) nitrate with potassium iodide
 
     Write a procedure for and carry out Transitivity Analysis for:
 
-    #. Filtering sand from a slat solution.
+    #. Filtering sand from a salt solution.
     #. Making a saturated salt solution.
     #. Testing the pH of acetic aid.
 

@@ -34,7 +34,7 @@ PC-Science-and-language
     :caption: 🎭 Transitivity
     :numbered:
 
-    transitivity/procedure_Bunsen_burner.rst
+    transitivity/procedure_transitivity.rst
 
 
 
@@ -160,12 +160,6 @@ PC-Science-and-language
     :maxdepth: 2
     :caption: 🧪 Chemistry
     :numbered:
-
-    chemistry/PRO_Physical_Changes.rst
-    chemistry/PRO_Physical_Changes_B.rst
-    chemistry/PRO_Physical_Changes_scaffold.rst
-    chemistry/PRO_Chemical_Changes.rst
-    chemistry/PRO_Chemical_Changes_B.rst
 
     .. chemistry/chemistry_PEEL.rst
     .. chemistry/chemistry_themes.rst
