@@ -29,7 +29,7 @@ To convert a Report into a Procedure, make the following changes:
 1. **Remove the Auxiliary Verb:** Delete words like *was* or *were* that sit before the action.
 2. **Shift Verb Tense:** Change the past participle ending (*-ed*) back to the present base form. Change *"was replaced"* to *"replace"*.
 3. **Reorder the Clause:** Swap the position of the Participant and the Process so the action leads the way. Change *"the bung was replaced"* to *"replace the bung"*.
-4. **Reposition the Circumstances (Adverbs)**: Move adverbs of manner or timing (like carefully, briefly, or immediately) from the end of the sentence to the front. In a procedure, these provide important context before the reader performs the step. For example, change "The bung was removed briefly" to ":circ:Briefly, :process:remove :participant:the bung."
+4. **Reposition the Circumstances (Adverbs)**: Move adverbs of manner or timing (like carefully, briefly, or immediately) from the end of the sentence to the front. In a procedure, these provide important context before the reader performs the step. For example, change "The bung was removed briefly" to ":circ:`Briefly`, :process:`remove` :participant:`the bung`."
 
 .. list-table:: Passive to Active Conversion Example
    :header-rows: 1
