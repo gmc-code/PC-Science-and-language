@@ -13,35 +13,36 @@ Nominal Groups
         :widths: 20 25 30 25
 
         * - Element
-        - Word(s)
-        - Probe Question
-        - Functional Role
-        * - **Deictic**
-        - The
-        - *Which ones are you pointing to?*
-        - Pointer (identifying specific ones)
+          - Word(s)
+          - Probe Question
+          - Functional Role
+        * - **Pointer**
+          - The
+          - *Which ones are you pointing to?*
+          - Pointer (identifying specific ones)
         * - **Numerative**
-        - several
-        - *How many?*
-        - Numerative (quantity)
-        * - **Epithet**
-        - small
-        - *What are they like?*
-        - Describer (size/quality)
+          - several
+          - *How many?*
+          - Numerative (quantity)
+        * - **Describer**
+          - small
+          - *What are they like?*
+          - Describer (size/quality)
         * - **Classifier**
-        - marble
-        - *What type or kind?*
-        - Classifier (material/sub-type)
+          - marble
+          - *What type or kind?*
+          - Classifier (material/sub-type)
         * - **Thing**
-        - chips
-        - *Who or what is the object?*
-        - Thing (the core noun)
+          - chips
+          - *Who or what is the object?*
+          - Thing (the core noun)
         * - **Qualifier**
-        - in the conical flask
-        - *What more about them?*, *Which in particular?*
-        - Qualifier (location/context)
+          - in the conical flask
+          - *What more about them?*, *Which in particular?*
+          - Qualifier (location/context)
 
 
+----
 
 Building the Nominal Group
 ---------------------------
@@ -50,27 +51,80 @@ The following sequence shows how a technical participant is constructed in scien
 
 1. **Thing only:** *chips*
 2. **Adding Classifier:** *marble chips*
-3. **Adding Epithet:** *small marble chips*
+3. **Adding Describer:** *small marble chips*
 4. **Adding Numerative:** *several small marble chips*
-5. **Adding Deictic:** *The several small marble chips*
+5. **Adding Pointer:** *The several small marble chips*
 6. **Adding Qualifier (Full Group):** *The several small marble chips in the conical flask*
 
-.. tip::
-   In a **Procedure**, the Qualifier (Step 6) is often the most important part because it tells the reader exactly where the materials should be located.
+.. list-table:: Layered Nominal Group Construction
+    :header-rows: 1
+    :widths: 10 10 12 12 12 14 30
+
+    * - Step
+      - Pointer (Deictic)
+      - Numerative
+      - Describer (Epithet)
+      - Classifier
+      - Thing
+      - Qualifier
+    * - 1
+      -
+      -
+      -
+      -
+      - chips
+      -
+    * - 2
+      -
+      -
+      -
+      - marble
+      - chips
+      -
+    * - 3
+      -
+      -
+      - small
+      - marble
+      - chips
+      -
+    * - 4
+      -
+      - several
+      - small
+      - marble
+      - chips
+      -
+    * - 5
+      - The
+      - several
+      - small
+      - marble
+      - chips
+      -
+    * - 6
+      - The
+      - several
+      - small
+      - marble
+      - chips
+      - in the conical flask
+
+
 
 ----
 
 Tectonic Classification Exercise
 -------------------------------
 
-.. admonition:: Question 1: Matching Classifiers (Set A)
+.. admonition:: Question 1: Matching Classifiers
     :class: questions
 
     Complete the nominal groups by matching the correct **Classifier** from the list below to the core **Thing**.
 
     **Options:** (A) Continental, (B) Convection, (C) Convergent, (D) Mid-ocean, (E) Tectonic
 
-    .. list-table:: Set A: Primary Structures
+    .. list-table:: Primary Structures
         :header-rows: 1
         :widths: 15 40 45
 
@@ -97,7 +151,7 @@ Tectonic Classification Exercise
         :icon: check-circle
         :color: success
 
-        | **Set A Answers:**
+        | **Answers:**
         | 1.1 (E) **Tectonic** plates;
         | 1.2 (C) **Convergent** boundary;
         | 1.3 (D) **Mid-ocean** ridge;
@@ -106,19 +160,14 @@ Tectonic Classification Exercise
 
 
 
-
-
-
-
-
-.. admonition:: Question 2: Matching Classifiers (Set B)
+.. admonition:: Question 2: Matching Classifiers
     :class: questions
 
     Complete the nominal groups by matching the correct **Classifier** from the list below to the core **Thing**.
 
     **Options:** (F) Deep-sea, (G) Oceanic, (H) Subduction, (I) Transform, (J) Volcanic
 
-    .. list-table:: Set B: Dynamic Features
+    .. list-table:: Dynamic Features
         :header-rows: 1
         :widths: 15 40 45
 
@@ -146,9 +195,14 @@ Tectonic Classification Exercise
         :icon: check-circle
         :color: success
 
-        | **Set B Answers:**
+        | **Answers:**
         | 2.1 (G) **Oceanic** crust
         | 2.2 (I) **Transform** fault
         | 2.3 (H) **Subduction** zone
         | 2.4 (F) **Deep-sea** trench
         | 2.5 (J) **Volcanic** arc.
+
+
+
+
+
