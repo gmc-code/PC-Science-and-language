@@ -657,5 +657,3 @@ Reaction: lead(II) nitrate with potassium iodide
     #. Making a saturated salt solution.
     #. Testing the pH of acetic aid.
 
-
-

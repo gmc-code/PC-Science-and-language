@@ -26,7 +26,7 @@ PC-Science-and-language
     language/marked_themes.rst
     language/Cause_and_effect.rst
     language/genre_procedure.rst
-
+    language/passive_to_commands.rst
 
 
 .. toctree::
