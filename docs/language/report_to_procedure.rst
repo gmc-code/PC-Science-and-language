@@ -1,14 +1,16 @@
 ========================================
-Verbs and Nominalisations
+Report to a Procedure
 ========================================
 
 
-In scientific writing, actions (**processes**) are often rewritten as
-things (**participants**).
+Transforming Scientific Writing
+----------------------------------
 
+In science, different "voices" are utilized depending on the communicative purpose. A Procedure employs the active voice to provide clear, direct instructions. A Report shifts to the passive voice to describe events objectively, focusing on the experiment rather than the operator.
+Task: Converting a Report to a Procedure
 
-Report to a Procedure
-----------------------
+This activity involves converting a past-tense report back into a set of instructions. This requires changing the mood of the sentences from declarative (stating a fact) to imperative (giving a command).
+
 
 In a **Passive Voice Report**:
 
@@ -22,7 +24,7 @@ In an **Active Voice Procedure**:
 * The **Process** uses the **base form** of the verb (the imperative mood), such as *place*, *fit*, or *pour*.
 * The **Participant** (the equipment or chemical) follows the process as the direct object of the command.
 
-To convert a Report into a Procedure, you must make the following mechanical changes:
+To convert a Report into a Procedure, make the following mechanical changes:
 
 1. **Remove the Auxiliary Verb:** Delete words like *was* or *were* that sit before the action.
 2. **Shift Verb Tense:** Change the past participle ending (*-ed*) back to the present base form.
@@ -44,9 +46,10 @@ To convert a Report into a Procedure, you must make the following mechanical cha
 ----
 
 
-
 .. admonition:: Report to a Procedure
     :class: questions
+
+    Rewrite the following report steps into clear instructions by applying the grammar shifts described above.
 
     #. :circ:`First`, :participant:`several marble chips` :process:`were placed` :circ:`into a clean conical flask`.
     #. :circ:`Then`, :participant:`a rubber bung with a delivery tube` :process:`was fitted` :circ:`into the mouth of the flask`.
