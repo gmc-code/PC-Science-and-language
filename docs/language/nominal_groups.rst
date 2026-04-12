@@ -9,6 +9,23 @@ Nominal Group
 | In Systemic Functional Grammar, SFG, the Nominal Group is the primary grammatical resource for representing "things" and their qualities.
 | The nominal group is viewed as a functional structure where every word before or after the core noun serves a specific role in defining, quantifying, or classifying that entity.
 
+.. list-table:: Nominal Group Elements
+   :header-rows: 1
+
+   * - The
+     - several
+     - small
+     - marble
+     - chips
+     - in the conical flask
+   * - Pointer
+     - Numerative
+     - Describer
+     - Classifier
+     - Thing
+     - Qualifier
+
+
 .. list-table:: Nominal Group Functional Analysis
     :header-rows: 1
     :widths: 20 25 30 25
