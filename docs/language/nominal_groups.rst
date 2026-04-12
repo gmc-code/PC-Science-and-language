@@ -16,18 +16,19 @@ Nominal Group
     :header-rows: 2
     :widths: 35 30 35
 
-    * - ..
-      - Pre-modifiers (Before the noun)
+    * - Pre-modifiers (Before the noun)
       - Core Noun
       - Post-modifier
     * - The 5 small marble
       - **chips**
       - in the conical flask
 
-| | Probe questions can be asked ot identify each part of the noun group.
+
+| Probe questions can be asked ot identify each part of the noun group.
 
 .. list-table:: Nominal Group Elements
     :header-rows: 1
+    :widths: 10 15 15 15 15 30
 
     * - Which?
       - How many?
@@ -50,7 +51,7 @@ Nominal Group
 
 .. list-table:: Nominal Group Functional Analysis
     :header-rows: 1
-    :widths: 20 25 30 25
+    :widths: 10 15 15 15 15 15 15
 
     * - Element
       - Word(s)
