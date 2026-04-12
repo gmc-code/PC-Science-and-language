@@ -68,11 +68,11 @@ Building the Nominal Group
 The following sequence shows how a technical participant is constructed in scientific writing:
 
 1. **Thing only:** *chips*
-2. **Adding Pointer:** *The chips*
-3. **Adding Classifier:** *The marble chips*
-4. **Adding Describer:** *The small marble chips*
-5. **Adding Numerative:** *The several small marble chips*
-6. **Adding Qualifier (Full Group):** *The several small marble chips in the conical flask*
+2. **Add Pointer:** *The chips*
+3. **Add Classifier:** *The marble chips*
+4. **Add Describer:** *The small marble chips*
+5. **Add Numerative:** *The several small marble chips*
+6. **Add Qualifier (Full Group):** *The several small marble chips in the conical flask*
 
 .. list-table:: Layered Nominal Group Construction
     :header-rows: 1
