@@ -5,9 +5,38 @@ Nominal Groups
 Nominal Group
 --------------------------------
 
-| A nominal group is a phrase centered on a noun (the “head noun”) and may include words that describe, limit, or quantify that noun
-| In Systemic Functional Grammar, SFG, the Nominal Group is the primary grammatical resource for representing "things" and their qualities.
-| The nominal group is viewed as a functional structure where every word before or after the core noun serves a specific role in defining, quantifying, or classifying that entity.
+| A Nominal Group is a group of words centered around a core noun (called the Thing).
+| Every word added before or after that core noun has a specific job to do: it might describe its qualities, classify its type, or quantify how many there are.
+
+.. list-table:: Functional Structure of a Nominal Group
+    :header-rows: 2
+    :widths: 15 15 15 15 15 25
+
+    * - ..
+      - Pre-modifiers (Before the noun)
+      -
+      -
+      - Core Noun
+      - Post-modifier
+    * -
+      -
+      -
+      -
+      - Who or what?
+      -
+    * - The
+      - several
+      - small
+      - marble
+      - **chips**
+      - in the conical flask
+    * - Pointer
+      - Numerative
+      - Describer
+      - Classifier
+      - **Thing**
+      - Qualifier
+
 
 .. list-table:: Nominal Group Elements
     :header-rows: 1
