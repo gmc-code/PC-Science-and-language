@@ -24,10 +24,11 @@ PC-Science-and-language
 
     language/nominal_groups.rst
     language/clauses.rst
+    language/sentences.rst
     language/report_to_procedure.rst
     language/Sequential_explanations.rst
     language/marked_themes.rst
-    language/Cause_and_effect.rst
+
     language/genre_procedure.rst
 
 
@@ -73,6 +74,15 @@ PC-Science-and-language
     :numbered:
 
     earth/adding_qualifiers_earth.rst
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: ⚙️ Cause and EFfect
+    :numbered:
+
+    language/cause_and_effect.rst
+    language/complex_sentences.rst
 
 
 
