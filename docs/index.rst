@@ -23,6 +23,7 @@ PC-Science-and-language
     :numbered:
 
     language/nominal_groups.rst
+    language/clauses.rst
     language/report_to_procedure.rst
     language/Sequential_explanations.rst
     language/marked_themes.rst
