@@ -2,10 +2,10 @@
 Nominal Groups
 ========================================
 
-
-Analyzing the Nominal Group
+Nominal Group
 --------------------------------
 
+| A nominal group is a phrase centered on a noun (the “head noun”) and may include words that describe, limit, or quantify that noun
 | In Systemic Functional Grammar, SFG, the Nominal Group is the primary grammatical resource for representing "things" and their qualities.
 | The nominal group is viewed as a functional structure where every word before or after the core noun serves a specific role in defining, quantifying, or classifying that entity.
 
@@ -14,33 +14,33 @@ Analyzing the Nominal Group
     :widths: 20 25 30 25
 
     * - Element
-        - Word(s)
-        - Probe Question
-        - Functional Role
+      - Word(s)
+      - Probe Question
+      - Functional Role
     * - **Pointer**
-        - The
-        - *Which ones are you pointing to?*
-        - Pointer (identifying specific ones)
+      - The
+      - *Which ones are you pointing to?*
+      - Pointer (identifying specific ones)
     * - **Numerative**
-        - several
-        - *How many?*
-        - Numerative (quantity)
+      - several
+      - *How many?*
+      - Numerative (quantity)
     * - **Describer**
-        - small
-        - *What are they like?*
-        - Describer (size/quality)
+      - small
+      - *What are they like?*
+      - Describer (size/quality)
     * - **Classifier**
-        - marble
-        - *What type or kind?*
-        - Classifier (material/sub-type)
+      - marble
+      - *What type or kind?*
+      - Classifier (material/sub-type)
     * - **Thing**
-        - chips
-        - *Who or what is the object?*
-        - Thing (the core noun)
+      - chips
+      - *Who or what is the object?*
+      - Thing (the core noun)
     * - **Qualifier**
-        - in the conical flask
-        - *What more about them?*, *Which in particular?*
-        - Qualifier (location/context)
+      - in the conical flask
+      - *What more about them?*, *Which in particular?*
+      - Qualifier (location/context)
 
 
 ----
