@@ -10,21 +10,26 @@ Nominal Group
 | The nominal group is viewed as a functional structure where every word before or after the core noun serves a specific role in defining, quantifying, or classifying that entity.
 
 .. list-table:: Nominal Group Elements
-   :header-rows: 1
+    :header-rows: 1
 
-   * - The
-     - several
-     - small
-     - marble
-     - chips
-     - in the conical flask
-   * - Pointer
-     - Numerative
-     - Describer
-     - Classifier
-     - Thing
-     - Qualifier
-
+    * - Which?
+      - How many?
+      - What like?
+      - What type?
+      - Who or what?
+      - What else?
+    * - The
+      - several
+      - small
+      - marble
+      - chips
+      - in the conical flask
+    * - Pointer
+      - Numerative
+      - Describer
+      - Classifier
+      - Thing
+      - Qualifier
 
 .. list-table:: Nominal Group Functional Analysis
     :header-rows: 1
