@@ -8,35 +8,23 @@ Nominal Group
 | A Nominal Group is a group of words centered around a core noun (called the Thing).
 | Every word added before or after that core noun has a specific job to do: it might describe its qualities, classify its type, or quantify how many there are.
 
+
+| Consider the noun group: *The 5 small marble chips in the conical flask*
+| It can be broken up into 3 sections:
+
 .. list-table:: Functional Structure of a Nominal Group
     :header-rows: 2
-    :widths: 15 15 15 15 15 25
+    :widths: 35 30 35
 
     * - ..
       - Pre-modifiers (Before the noun)
-      -
-      -
       - Core Noun
       - Post-modifier
-    * -
-      -
-      -
-      -
-      - Who or what?
-      -
-    * - The
-      - several
-      - small
-      - marble
+    * - The 5 small marble
       - **chips**
       - in the conical flask
-    * - Pointer
-      - Numerative
-      - Describer
-      - Classifier
-      - **Thing**
-      - Qualifier
 
+| | Probe questions can be asked ot identify each part of the noun group.
 
 .. list-table:: Nominal Group Elements
     :header-rows: 1
@@ -48,7 +36,7 @@ Nominal Group
       - Who or what?
       - What else?
     * - The
-      - several
+      - 5
       - small
       - marble
       - chips
@@ -73,7 +61,7 @@ Nominal Group
       - *Which ones are you pointing to?*
       - Pointer (identifying specific ones)
     * - **Numerative**
-      - several
+      - 5
       - *How many?*
       - Numerative (quantity)
     * - **Describer**
@@ -105,8 +93,8 @@ The following sequence shows how a technical participant is constructed in scien
 2. **Add Pointer:** *The chips*
 3. **Add Classifier:** *The marble chips*
 4. **Add Describer:** *The small marble chips*
-5. **Add Numerative:** *The several small marble chips*
-6. **Add Qualifier (Full Group):** *The several small marble chips in the conical flask*
+5. **Add Numerative:** *The 5 small marble chips*
+6. **Add Qualifier (Full Group):** *The 5 small marble chips in the conical flask*
 
 .. list-table:: Layered Nominal Group Construction
     :header-rows: 1
@@ -149,14 +137,14 @@ The following sequence shows how a technical participant is constructed in scien
       -
     * - 5
       - The
-      - several
+      - 5
       - small
       - marble
       - chips
       -
     * - 6
       - The
-      - several
+      - 5
       - small
       - marble
       - chips
