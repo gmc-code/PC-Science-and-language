@@ -51,10 +51,10 @@ Building the Nominal Group
 The following sequence shows how a technical participant is constructed in scientific writing:
 
 1. **Thing only:** *chips*
-2. **Adding Classifier:** *marble chips*
-3. **Adding Describer:** *small marble chips*
-4. **Adding Numerative:** *several small marble chips*
-5. **Adding Pointer:** *The several small marble chips*
+2. **Adding Pointer:** *The chips*
+3. **Adding Classifier:** *The marble chips*
+4. **Adding Describer:** *The small marble chips*
+5. **Adding Numerative:** *The several small marble chips*
 6. **Adding Qualifier (Full Group):** *The several small marble chips in the conical flask*
 
 .. list-table:: Layered Nominal Group Construction
@@ -76,22 +76,22 @@ The following sequence shows how a technical participant is constructed in scien
       - chips
       -
     * - 2
+      - The
       -
       -
       -
-      - marble
       - chips
       -
     * - 3
+      - The
       -
       -
-      - small
       - marble
       - chips
       -
     * - 4
+      - The
       -
-      - several
       - small
       - marble
       - chips
@@ -110,6 +110,113 @@ The following sequence shows how a technical participant is constructed in scien
       - marble
       - chips
       - in the conical flask
+
+
+
+----
+
+Identifying parts of a nominal group
+--------------------------------------------
+
+.. admonition:: Exercise: Identifying Nominal Group Functions
+    :class: questions
+
+    Analyze the following nominal group used in tectonic theory:
+
+    **"The dense oceanic crust at the subduction zone"**
+
+    Identify which word or phrase performs each of the following functions:
+    (A) Pointer, (B) Describer, (C) Classifier, (D) Thing, (E) Qualifier.
+
+    .. dropdown:: Reveal Functional Analysis
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                * **The:** Pointer
+                * **dense:** Describer
+                * **oceanic:** Classifier
+                * **crust:** Thing
+                * **at the subduction zone:** Qualifier
+
+            .. tab-item:: Scientific Logic
+
+                * **Pointer:** *The* — **Probe:** Which specific one? (Identifies the specific crust being observed in this tectonic context).
+                * **Describer:** *dense* — **Probe:** What is it like? (Describes a physical property; it is gradable, e.g., "extremely dense").
+                * **Classifier:** *oceanic* — **Probe:** What type? (Categorizes the crustal material, distinguishing it from continental crust).
+                * **Thing:** *crust* — **Probe:** What is the core object? (The central participant that the other words are specifying).
+                * **Qualifier:** *at the subduction zone* — **Probe:** Where or which one in detail? (Provides the precise location where the action is occurring).
+
+
+.. admonition:: Exercise: Identifying Nominal Group Functions
+    :class: questions
+
+    Analyze the following nominal group used to describe seafloor spreading:
+
+    **"The hot molten magma beneath the mid-ocean ridge"**
+
+    Identify which word or phrase performs each of the following functions:
+    (A) Pointer, (B) Describer, (C) Classifier, (D) Thing, (E) Qualifier.
+
+    .. dropdown:: Reveal Functional Analysis
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                * **The:** Pointer (Deictic)
+                * **hot:** Describer (Epithet)
+                * **molten:** Classifier
+                * **magma:** Thing (Core Noun)
+                * **beneath the mid-ocean ridge:** Qualifier
+
+            .. tab-item:: Scientific Logic
+
+                * **Pointer:** *The* — **Probe:** Which specific one? (It identifies the particular magma being discussed).
+                * **Describer:** *hot* — **Probe:** What is it like? (It describes the thermal quality; it is gradable, e.g., "very hot").
+                * **Classifier:** *molten* — **Probe:** What type/state? (It categorizes the state of matter, distinguishing it from solid mantle rock).
+                * **Thing:** *magma* — **Probe:** What is the core object? (The central participant that all other words are modifying).
+                * **Qualifier:** *beneath the mid-ocean ridge* — **Probe:** Where or which one in detail? (It provides the essential spatial context following the Thing).
+
+
+
+Making nominal groups
+----------------------------
+
+.. admonition:: Exercise: Reconstruct the Nominal Group
+    :class: questions
+
+    Reorder the following parts to create a scientifically accurate nominal group:
+
+    *at the convergent plate boundary, continental, massive, plates, the, two*
+
+    .. dropdown:: Check Your Logic
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                **The two massive continental plates at the convergent plate boundary**
+
+            .. tab-item:: Functional Probe
+
+                1. **Pointer:** The (Which ones?)
+                2. **Numerative:** two (How many?)
+                3. **Describer:** massive (What are they like?)
+                4. **Classifier:** continental (What type?)
+                5. **Thing:** plates (What is the main thing?)
+                6. **Qualifier:** at the convergent plate boundary (Where are they?)
+
 
 
 
