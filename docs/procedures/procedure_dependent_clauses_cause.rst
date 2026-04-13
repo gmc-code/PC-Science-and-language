@@ -7,10 +7,9 @@ Conjunctions of Cause
 
 *Used to highlight hazards or prevent equipment damage.*
 
-specify a point in time (**When?**), a duration (**How long?**), or a frequency (**How often?**).
-
 The subordinating conjunctions of cause can be categorized based on whether they focus onz the  **Reason** (the "Why"; the existing threat) or **Purpose** (the "Goal"; the intended outcome).
 
+----
 
 Conjunctions of Reason (The "Why")
 -------------------------------------------
