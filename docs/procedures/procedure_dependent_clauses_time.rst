@@ -182,32 +182,25 @@ How Often? (Frequency / Recurrence)
 
     1. **Physics:** Ensure all capacitors are fully discharged __________ beginning any modifications to the circuit wiring.
 
-        .. grid:: 4
+    .. grid:: 4
+        :gutter: 2
 
-            .. grid-item::
-                (A) After
-            .. grid-item::
-                (B) Before
-            .. grid-item::
-                (C) As soon as
-            .. grid-item::
-                (D) Once
+        .. grid-item::
+            (A) After
 
+        .. grid-item::
+            (B) Before
+
+        .. grid-item::
+            (C) As soon as
+
+        .. grid-item::
+            (D) Once
 
 
     2. **Biology:** Observe the specimen under the microscope __________ the staining agent is gradually absorbed by the cell walls.
         (A) When | (B) As | (C) Before | (D) Every time
 
-        .. grid:: 4
-
-        .. grid-item::
-            (A) After
-        .. grid-item::
-            (B) Before
-        .. grid-item::
-            (C) As soon as
-        .. grid-item::
-            (D) Once
 
 
     3. **Chemistry:** Record the final mass of the precipitate __________ the heating cycle is completed and the crucible has cooled to room temperature.
