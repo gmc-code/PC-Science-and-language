@@ -149,7 +149,7 @@ To identify each Circumstance, ask "Where, when, why, how is it happening?".
 
 | Place the Bunsen burner on the heatproof mat.
 | "on the heatproof mat" is the circumstance.
-| :process:`Place` :participant:`the Bunsen burner` :circ:`on the heatproof mat`.
+| :processb:`Place` :participantb:`the Bunsen burner` :circb:`on the heatproof mat`.
 
 .. admonition:: Circumstances
     :class: questions

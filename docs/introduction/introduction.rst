@@ -10,7 +10,13 @@ By using this resource, students can improve their ability to communicate scient
 
 
 
+Suggested reading
+--------------------
 
+Derewianka, B. (2022). A new grammar companion for teachers (3rd ed.). Primary English Teaching Association Australia (PETAA).
 
+Humphrey, S., Feez, S., & Droga, L. (2024). Grammar and meaning (3rd ed.). Primary English Teaching Association Australia (PETAA).
 
+Derewianka, B., & Jones, P. (2016). Teaching language in context (2nd ed.). Oxford University Press.
 
+Dare, B. (n.d.). Introducing students to the functional groupings: Processes, participants and circumstances. Lexis Education. https://lexised.com/wp-content/uploads/2026/02/Introducing-students-to-the-functional-groupings.pdf
