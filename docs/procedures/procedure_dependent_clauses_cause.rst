@@ -7,7 +7,7 @@ Conjunctions of Cause
 
 *Used to highlight hazards or prevent equipment damage.*
 
-The subordinating conjunctions of cause can be categorized based on whether they focus onz the  **Reason** (the "Why"; the existing threat) or **Purpose** (the "Goal"; the intended outcome).
+The subordinating conjunctions of cause can be categorized based on whether they focus on the  **Reason** (the "Why"; the existing threat) or **Purpose** (the "Goal"; the intended outcome).
 
 ----
 
@@ -25,9 +25,9 @@ Conjunctions of Reason (The "Why")
 
 
 1. **Chemistry:** Handle the glass rod carefully **as** it becomes extremely brittle after heating.
-2. **Chemistry:** Evacuate the fume cupboard and ventilate the room immediately as a result of any detected rise in hydrogen sulphide above 1 ppm.
+2. **Chemistry:** Evacuate the fume cupboard and ventilate the room immediately **as a result of** any detected rise in hydrogen sulphide above 1 part per million (ppm).
 3. **Chemistry:** Add the acid dropwise **because** a rapid addition may cause the solution to splatter.
-4. **Physics:** Store the radioactive source in the lead-lined container when not in use, **for** prolonged exposure to unshielded gamma radiation poses a serious health hazard to laboratory personnel.
+4. **Physics:** Store the radioactive source in the lead-lined container at all times when not in active use, **for** prolonged exposure to unshielded gamma radiation poses a serious health hazard to laboratory personnel.
 5. **Biology:** Label all specimen jars before beginning dissection **in case** samples become mixed up during the procedure.
 6. **Physics:** Do not exceed 5 volts **since** the resistor is prone to overheating at higher currents.
 
@@ -38,29 +38,17 @@ Conjunctions of Reason (The "Why")
     Fill in the gaps with the most appropriate conjunction:
     **as**, **as a result of**, **because**, **for**, **in case**, or **since**.
 
-    1. **Chemistry:** Handle the glass rod with care __________ it becomes
-        extremely brittle once it has been heated.
+    1. **Chemistry:** Handle the glass rod with care __________ it becomes extremely brittle once it has been heated.
 
-    2. **Earth Science:** Halt the drilling operation immediately
-        __________ any observed increase in methane readings above the safe
-        threshold, and do not resume until the site has been ventilated.
+    2. **Earth Science:** Halt the drilling operation immediately __________ any observed increase in methane readings above the safe threshold, and do not resume until the site has been ventilated.
 
-    3. **Chemistry:** Add the acid to the solution dropwise __________
-        a rapid addition will cause an exothermic surge that may shatter the
-        beaker.
+    3. **Chemistry:** Add the acid to the solution dropwise __________ a rapid addition will cause an exothermic surge that may shatter the beaker.
 
-    4. **Physics:** The radioactive source must be returned to its lead-lined
-        container after every use, __________ unshielded gamma radiation
-        presents a cumulative and serious health hazard to all laboratory
-        personnel.
+    4. **Physics:** The radioactive source must be returned to its lead-lined container after every use, __________ unshielded gamma radiation presents a cumulative and serious health hazard to all laboratory personnel.
 
-    5. **Biology:** Label every specimen jar with the sample ID before
-        beginning dissection __________ two or more samples are accidentally
-        mixed during the procedure.
+    5. **Biology:** Label every specimen jar with the sample ID before beginning dissection __________ two or more samples are accidentally mixed during the procedure.
 
-    6. **Physics:** Do not allow the supply voltage to exceed 5 volts,
-        __________ this resistor has a well-documented tendency to overheat
-        at higher currents.
+    6. **Physics:** Do not allow the supply voltage to exceed 5 volts, __________ this resistor has a well-documented tendency to overheat at higher currents.
 
     .. dropdown:: Check Answers
         :icon: codescan
@@ -88,7 +76,7 @@ Conjunctions of Reason (The "Why")
                 imply this is background knowledge the reader already holds,
                 but the risk mechanism is being stated explicitly for the first time.
 
-                4. **for** — the formal, placard-style register of the full sentence
+                4. **for** — the formal register of the full sentence
                 ("must be returned… after every use") calls for *for* as a written
                 justification; *because* or *since* would sound like spoken
                 explanation rather than a documented safety protocol.
