@@ -97,6 +97,10 @@ PC-Science-and-language
     :numbered:
 
     reporting/information_reports.rst
+    reporting/descriptive_report.rst
+    reporting/classifying_report.rst
+    reporting/compositional_report.rst
+    reporting/comparative_report.rst
 
 
 .. toctree::
