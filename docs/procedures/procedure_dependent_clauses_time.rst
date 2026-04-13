@@ -181,16 +181,18 @@ How Often? (Frequency / Recurrence)
     Select the most appropriate conjunction for each scientific instruction to ensure maximum clarity and precision.
 
     1. **Physics:** Ensure all capacitors are fully discharged __________ beginning any modifications to the circuit wiring.
-    .. grid:: 4
 
-        .. grid-item::
-            (A) After
-        .. grid-item::
-            (B) Before
-        .. grid-item::
-            (C) As soon as
-        .. grid-item::
-            (D) Once
+        .. grid:: 4
+
+            .. grid-item::
+                (A) After
+            .. grid-item::
+                (B) Before
+            .. grid-item::
+                (C) As soon as
+            .. grid-item::
+                (D) Once
+
 
 
     2. **Biology:** Observe the specimen under the microscope __________ the staining agent is gradually absorbed by the cell walls.
