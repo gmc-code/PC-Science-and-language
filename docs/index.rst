@@ -109,7 +109,7 @@ PC-Science-and-language
     :numbered:
 
     procedures/procedure_transitivity.rst
-
+    procedures/procedure_dependent_clauses.rst
 
 
 
