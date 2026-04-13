@@ -21,17 +21,17 @@ Warning / Safety / Hazard Prevention
 2.  **Chemistry:** Keep the ethanol away from the Bunsen burner **because** it is a highly flammable substance. (Purpose: Hazard Warning)
 3.  **Chemistry:** Place the beaker on a heat-proof mat **lest** the bench surface becomes damaged by high temperatures. (Purpose: Prevention)
 4.  **Physics:** Do not exceed 5 volts **since** the resistor is prone to overheating at higher currents. (Purpose: Warning)
-5.  **Biology:** Wear protective gloves **if** you are handling live cultures or concentrated stains. (Purpose: Safety Condition)
+5.  **Biology:** Wear protective gloves **if** handling live cultures or concentrated stains. (Purpose: Safety Condition)
 6.  **Chemistry:** Handle the glass rod carefully **as** it becomes extremely brittle after heating. (Purpose: Hazard Warning)
 7.  **Physics:** Do not touch the heating element **until** the red indicator light has turned off. (Purpose: Safety Timing)
-8.  **Earth Science:** Wear a dust mask **while** you are crushing the rock samples to avoid inhalation. (Purpose: Prevention)
+8.  **Earth Science:** Wear a dust mask **while** crushing the rock samples to avoid inhalation. (Purpose: Prevention)
 9.  **Chemistry:** Perform the reaction inside the fume hood **so that** toxic vapors do not escape into the lab. (Purpose: Safety Goal)
-10. **Biology:** Secure the scalpel blade **before** you begin the dissection of the specimen. (Purpose: Injury Prevention)
+10. **Biology:** Secure the scalpel blade **before** beginning the dissection of the specimen. (Purpose: Injury Prevention)
 
 Condition / Requirement
 -----------------------------------
 
-1.  **Physics:** Use a digital voltmeter **if** you require a measurement with higher precision. (Purpose: Requirement)
+1.  **Physics:** Use a digital voltmeter **if** requiring a measurement with higher precision. (Purpose: Requirement)
 2.  **Physics:** Secure the clamp tightly **unless** the retort stand is already stable enough to support the weight. (Purpose: Condition)
 3.  **Earth Science:** Sketch the rock sample in detail **provided that** the mineral grains are visible under the hand lens. (Purpose: Condition)
 4.  **Chemistry:** Discard the waste in the designated organic bin **unless** the instructions state it is safe for the sink. (Purpose: Exception)
@@ -49,24 +49,24 @@ Goal / Result / Precision
 22. **Physics:** Release the trolley from the same height **so that** the starting potential energy remains constant. (Purpose: Control)
 23. **Earth Science:** Gently tap the side of the container **so that** the sediment settles into distinct layers. (Purpose: Desired Result)
 24. **Earth Science:** Pour the water slowly over the sand model **to** simulate how a river erodes the landscape. (Purpose: Goal)
-25. **Biology:** Stop the stopwatch **as soon as** the indicator turns from blue to colorless. (Purpose: Precision)
-26. **Physics:** Align the protractor with the normal line **when** you are measuring the angle of incidence. (Purpose: Accuracy)
+25. **Biology:** Stop the stopwatch **as soon as** the indicator turns from blue to colourless. (Purpose: Precision)
+26. **Physics:** Align the protractor with the normal line **when** measuring the angle of incidence. (Purpose: Accuracy)
 27. **Chemistry:** Stir the mixture continuously **in order that** the solute dissolves completely. (Purpose: Result)
 28. **Biology:** Maintain the water bath at 37°C **so that** the enzymes function at their optimum rate. (Purpose: Control)
 29. **Earth Science:** Sieve the sediment **so as to** separate the gravel from the fine clay. (Purpose: Goal)
-30. **Physics:** Zero the electronic balance **before** you place the mass on the pan. (Purpose: Accuracy)
+30. **Physics:** Zero the electronic balance **before** placing the mass on the pan. (Purpose: Accuracy)
 
 Sequence / Timing / Duration
 --------------------------------------------
 
 1.  **Earth Science:** Record the temperature every thirty seconds **until** the wax has completely solidified. (Purpose: Duration)
-2.  **Biology:** Cover the petri dish immediately **after** you have finished streaking the agar. (Purpose: Sequence)
-3.  **Earth Science:** Sift the soil sample thoroughly **before** you begin the particle size analysis. (Purpose: Preparation)
+2.  **Biology:** Cover the petri dish immediately **after** having finished streaking the agar. (Purpose: Sequence)
+3.  **Earth Science:** Sift the soil sample thoroughly **before** beginning the particle size analysis. (Purpose: Preparation)
 4.  **Biology:** Do not open the sealed containers **once** the incubation period has started. (Purpose: Restriction)
 5.  **Chemistry:** Neutralize any spills with sodium bicarbonate **whenever** a strong acid is accidentally dropped. (Purpose: Contingency)
 6.  **Chemistry:** Wait for five minutes **while** the precipitate settles at the bottom of the beaker. (Purpose: Duration)
-7.  **Physics:** Connect the voltmeter **after** you have completed the series part of the circuit. (Purpose: Sequence)
-8.  **Earth Science:** Calibrate the anemometer **whenever** you move to a new recording location. (Purpose: Recurring Timing)
+7.  **Physics:** Connect the voltmeter **after** having completed the series part of the circuit. (Purpose: Sequence)
+8.  **Earth Science:** Calibrate the anemometer **whenever** moving to a new recording location. (Purpose: Recurring Timing)
 9.  **Biology:** Observe the slide **as** the iodine solution diffuses through the membrane. (Purpose: Simultaneous Timing)
 10. **Chemistry:** Remove the crucible from the heat **when** the mass stops changing. (Purpose: End-point Timing)
 
