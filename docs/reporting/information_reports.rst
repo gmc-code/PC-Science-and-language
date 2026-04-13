@@ -18,9 +18,11 @@ Information Reports are texts that describe things.
       -
         - Title
         - General Statement
+
           - Identification
           - Classification (category, taxonomy)
         - Description
+
           - Features, characteristics, activities, behaviours, uses
 
 
