@@ -187,29 +187,68 @@ How Often? (Frequency / Recurrence)
 
         .. grid-item::
             (A) After
-
         .. grid-item::
             (B) Before
-
         .. grid-item::
             (C) As soon as
-
         .. grid-item::
             (D) Once
 
-
     2. **Biology:** Observe the specimen under the microscope __________ the staining agent is gradually absorbed by the cell walls.
-        (A) When | (B) As | (C) Before | (D) Every time
 
+    .. grid:: 4
+        :gutter: 2
+
+        .. grid-item::
+            (A) When
+        .. grid-item::
+            (B) As
+        .. grid-item::
+            (C) Before
+        .. grid-item::
+            (D) Every time
 
     3. **Chemistry:** Record the final mass of the precipitate __________ the heating cycle is completed and the crucible has cooled to room temperature.
-        (A) Until | (B) After | (C) While | (D) Whenever
+
+    .. grid:: 4
+        :gutter: 2
+
+        .. grid-item::
+            (A) Until
+        .. grid-item::
+            (B) After
+        .. grid-item::
+            (C) While
+        .. grid-item::
+            (D) Whenever
 
     4. **Earth Science:** Maintain the constant flow of the stream table __________ the slope angle remains fixed at 15 degrees.
-        (A) As soon as | (B) As long as | (C) Once | (D) When
+
+    .. grid:: 4
+        :gutter: 2
+
+        .. grid-item::
+            (A) As soon as
+        .. grid-item::
+            (B) As long as
+        .. grid-item::
+            (C) Once
+        .. grid-item::
+            (D) When
 
     5. **Biology:** Sterilize the inoculation loop in the Bunsen burner flame __________ you prepare to transfer a new bacterial colony.
-        (A) From the moment | (B) Until | (C) Every time | (D) As
+
+    .. grid:: 4
+        :gutter: 2
+
+        .. grid-item::
+            (A) From the moment
+        .. grid-item::
+            (B) Until
+        .. grid-item::
+            (C) Every time
+        .. grid-item::
+            (D) As
 
     .. dropdown:: Check Answers
         :icon: codescan
