@@ -17,9 +17,11 @@ Information Reports are texts that describe things.
         - Provide descriptions
       - - Title
         - General Statement
-        - - Identification of entity or phenomena
+
+          - Identification of entity or phenomena
         - Description
-        - - Name and description of parts or components
+
+          - Name and description of parts or components
           - Function of parts or components
 
 

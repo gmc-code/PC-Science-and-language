@@ -17,8 +17,10 @@ Information Reports are texts that describe things.
         - Provide descriptions
       - - Title
         - General Statement
-        -  Classifies and Defines
-        - - Name the classes
+
+          - Classifies and Defines
+          - Name the classes
         - Description
-        - - Subclasses and their characteristics
+
+          - Subclasses and their characteristics
 

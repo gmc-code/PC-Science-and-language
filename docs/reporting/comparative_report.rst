@@ -16,7 +16,9 @@ Information Reports are texts that describe things.
       - - Identify similarities and differences between two or more classes of things
       - - Title
         - General Statement
-        - - Introduces entities to be compared
+
+          - Introduces entities to be compared
         - Description
-        - - Systematic analysis of similarities and differences
+
+          - Systematic analysis of similarities and differences
 
