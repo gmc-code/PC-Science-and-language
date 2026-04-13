@@ -202,7 +202,6 @@ How Often? (Frequency / Recurrence)
         (A) When | (B) As | (C) Before | (D) Every time
 
 
-
     3. **Chemistry:** Record the final mass of the precipitate __________ the heating cycle is completed and the crucible has cooled to room temperature.
         (A) Until | (B) After | (C) While | (D) Whenever
 
