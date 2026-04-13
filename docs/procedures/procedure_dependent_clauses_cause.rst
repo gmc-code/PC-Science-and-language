@@ -113,13 +113,9 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 .. admonition:: As vs. Since
     :class: questions
 
-    i. **Chemistry:** Do not leave the sodium exposed to open air __________
-        it reacts spontaneously with atmospheric moisture — you can see the
-        surface already beginning to discolour.
+    i. **Chemistry:** Do not leave the sodium exposed to open air __________ it reacts spontaneously with atmospheric moisture — you can see the surface already beginning to discolour.
 
-    ii. **Biology:** Autoclave all glassware before use __________
-        non-sterile equipment is a well-established source of culture
-        contamination in any microbiology laboratory.
+    ii. **Biology:** Autoclave all glassware before use __________ non-sterile equipment is a well-established source of culture contamination in any microbiology laboratory.
 
     .. dropdown::
         :icon: codescan
@@ -139,12 +135,9 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 .. admonition:: Because vs. Since
     :class: questions
 
-    iii. **Physics:** Do not touch the transformer casing during operation
-        __________ the outer shell accumulates a residual static charge
-        that is not discharged by simply switching the unit off.
+    iii. **Physics:** Do not touch the transformer casing during operation __________ the outer shell accumulates a residual static charge that is not discharged by simply switching the unit off.
 
-    iv. **Chemistry:** Store flammable solvents away from ignition sources
-        __________ their vapours can ignite at room temperature.
+    iv. **Chemistry:** Store flammable solvents away from ignition sources __________ their vapours can ignite at room temperature.
 
 
     .. dropdown::
@@ -164,12 +157,9 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 .. admonition:: As vs. Because
     :class: questions
 
-    v. **Earth Science:** Secure all core samples in padded cases immediately
-        __________ the extraction process leaves the rock under internal
-        stress that makes it prone to sudden fracture.
+    v. **Earth Science:** Secure all core samples in padded cases immediately __________ the extraction process leaves the rock under internal stress that makes it prone to sudden fracture.
 
-    vi. **Biology:** Handle the petri dishes on a flat surface __________
-        the agar has not yet fully solidified and will shift if tilted.
+    vi. **Biology:** Handle the petri dishes on a flat surface __________ the agar has not yet fully solidified and will shift if tilted.
 
     .. dropdown::
         :icon: codescan
