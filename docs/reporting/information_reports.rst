@@ -40,27 +40,27 @@ Information Reports are texts that describe things.
 
     * - Compositional report
       - - Organise a topic according to its parts
-      - Provide descriptions
-      - Title
-      - General Statement
-      - Identification of entity or phenomena
-      - Description
-      - Name and description of parts or components
-      - Function of parts or components
+        - Provide descriptions
+      - - Title
+        - General Statement
+          - Identification of entity or phenomena
+        - Description
+          - Name and description of parts or components
+          - Function of parts or components
 
     * - Comparative report
       - - Identify similarities and differences between two or more classes of things
-      - Title
+      - - Title
         - General Statement
-      - Introduces entities to be compared
-      - Description
-      - Systematic analysis of similarities and differences
+          - Introduces entities to be compared
+        - Description
+          - Systematic analysis of similarities and differences
 
     * - Historical report
       - - Give information about the way things were in relation to a class of things
-        - Title
-      - General Statement
-        - Identification of entity or phenomena
-        - Defines and locates it in time and place
+      - - Title
+        - General Statement
+          - Identification of entity or phenomena
+          - Defines and locates it in time and place
         - Description
-        - Features, characteristics, activities, behaviours, historical significance
+          - Features, characteristics, activities, behaviours, historical significance
