@@ -1,11 +1,12 @@
 ======================================================
-Procedure: Transitivity
+Procedures: Transitivity
 ======================================================
 
 Procedures
 ----------------
 
-In science, a procedure is a specific, step-by-step set of instructions used to conduct an experiment or investigation. Its primary purpose is to ensure that the experiment is fair, safe, and reproducible.
+In science, a procedure is a specific, step-by-step set of instructions used to conduct an experiment or investigation.
+Its primary purpose is to ensure that the experiment is fair, safe, and reproducible.
 
 A scientific procedure follows a strict "register" or style of writing:
 
@@ -209,11 +210,11 @@ To identify each Circumstance, ask "Where, when, why, how is it happening?".
 
         * - :processb:`Close`
           - :participantb:`the collar`
-          - :circb:`\ `
+          -
 
         * - :processb:`Light`
           - :participantb:`the match`
-          - :circb:`\ `
+          -
 
         * - :processb:`Hold`
           - :participantb:`the lit match`
@@ -221,19 +222,19 @@ To identify each Circumstance, ask "Where, when, why, how is it happening?".
 
         * - :processb:`Turn on`
           - :participantb:`the gas`
-          - :circb:`\ `
+          -
 
         * - :processb:`Shake out`
           - :participantb:`the match`
-          - :circb:`\ `
+          -
 
         * - :processb:`Observe`
           - :participantb:`the flame`
-          - :circb:`\ `
+          -
 
         * - :processb:`Turn off`
           - :participantb:`the gas`
-          - :circb:`\ `
+          -
 
 ----
 

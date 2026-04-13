@@ -19,7 +19,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: ✏️👉 Language features
+    :caption: ✏️ Language features
     :numbered:
 
     language/nominal_groups.rst
@@ -30,16 +30,6 @@ PC-Science-and-language
     language/marked_themes.rst
 
     language/genre_procedure.rst
-
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🎭 Transitivity
-    :numbered:
-
-    transitivity/procedure_transitivity.rst
-
 
 
 .. toctree::
@@ -78,7 +68,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: ⚙️ Cause and EFfect
+    :caption: ⚙️ Cause and Effect
     :numbered:
 
     language/cause_and_effect.rst
@@ -97,6 +87,25 @@ PC-Science-and-language
     chemistry/PRO_Physical_Changes_scaffold.rst
     chemistry/PRO_Chemical_Changes.rst
     chemistry/PRO_Chemical_Changes_B.rst
+
+
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪👉 Information Reports
+    :numbered:
+
+    reporting/information_reports.rst
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪👉 Procedures
+    :numbered:
+
+    procedures/procedure_transitivity.rst
+
 
 
 
