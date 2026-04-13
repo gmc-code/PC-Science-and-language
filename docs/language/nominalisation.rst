@@ -47,7 +47,7 @@ This table begins with a participant + process (a noun + verb), forming a full c
 
 
 
-In SFG terms:
+In SFL terms:
 
 - **Verbs** realise *processes*
 - **Nominalisations** realise *participants*

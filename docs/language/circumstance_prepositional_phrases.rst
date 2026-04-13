@@ -2,12 +2,12 @@
 Circumstance Types and Subtypes
 ===========================================
 
-In Systemic Functional Grammar (SFG), circumstances tell us **when**, **where**, **how**,
+In Systemic Functional Linguistics (SFL), circumstances tell us **when**, **where**, **how**,
 **why**, **in what role**, **under what conditions**, or **from whose perspective** a **process** happens.
 
 This table summarises each type, its meaning, common prepositions, and an Earth Science example.
 
-.. list-table:: Circumstance Types (Derewianka)
+.. list-table:: Circumstance Types
     :header-rows: 1
     :widths: 18 18 22 42
 

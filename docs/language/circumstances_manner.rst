@@ -3,7 +3,7 @@ Manner Circumstances in Earth Science
 ==========================================
 
 
-| In SFG, *Manner* circumstances tell us **how** a process happens.
+| In SFL, *Manner* circumstances tell us **how** a process happens.
 | They can express:
 
 - **Quality** (in what way?)

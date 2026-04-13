@@ -25,7 +25,7 @@ The molecules can now move freely, forming a liquid.
 
 ----
 
-Stages and Phases in Systemic Functional Grammar (SFG)
+Stages and Phases in Systemic Functional Linguistics (SFL)
 ------------------------------------------------------------------
 
 .. rubric:: Stages
