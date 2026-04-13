@@ -45,16 +45,16 @@ Condition / Requirement
 Goal / Result / Precision
 -------------------------------------
 
-21. **Biology:** Adjust the diaphragm of the microscope **so that** the light intensity is optimized for the specimen. (Purpose: Optimization)
-22. **Physics:** Release the trolley from the same height **so that** the starting potential energy remains constant. (Purpose: Control)
-23. **Earth Science:** Gently tap the side of the container **so that** the sediment settles into distinct layers. (Purpose: Desired Result)
-24. **Earth Science:** Pour the water slowly over the sand model **to** simulate how a river erodes the landscape. (Purpose: Goal)
-25. **Biology:** Stop the stopwatch **as soon as** the indicator turns from blue to colourless. (Purpose: Precision)
-26. **Physics:** Align the protractor with the normal line **when** measuring the angle of incidence. (Purpose: Accuracy)
-27. **Chemistry:** Stir the mixture continuously **in order that** the solute dissolves completely. (Purpose: Result)
-28. **Biology:** Maintain the water bath at 37°C **so that** the enzymes function at their optimum rate. (Purpose: Control)
-29. **Earth Science:** Sieve the sediment **so as to** separate the gravel from the fine clay. (Purpose: Goal)
-30. **Physics:** Zero the electronic balance **before** placing the mass on the pan. (Purpose: Accuracy)
+1. **Biology:** Adjust the diaphragm of the microscope **so that** the light intensity is optimized for the specimen. (Purpose: Optimization)
+2.  **Physics:** Release the trolley from the same height **so that** the starting potential energy remains constant. (Purpose: Control)
+3.  **Earth Science:** Gently tap the side of the container **so that** the sediment settles into distinct layers. (Purpose: Desired Result)
+4.  **Earth Science:** Pour the water slowly over the sand model **to** simulate how a river erodes the landscape. (Purpose: Goal)
+5.  **Biology:** Stop the stopwatch **as soon as** the indicator turns from blue to colourless. (Purpose: Precision)
+6.  **Physics:** Align the protractor with the normal line **when** measuring the angle of incidence. (Purpose: Accuracy)
+7.  **Chemistry:** Stir the mixture continuously **in order that** the solute dissolves completely. (Purpose: Result)
+8.  **Biology:** Maintain the water bath at 37°C **so that** the enzymes function at their optimum rate. (Purpose: Control)
+9.  **Earth Science:** Sieve the sediment **so as to** separate the gravel from the fine clay. (Purpose: Goal)
+10. **Physics:** Zero the electronic balance **before** placing the mass on the pan. (Purpose: Accuracy)
 
 Sequence / Timing / Duration
 --------------------------------------------
