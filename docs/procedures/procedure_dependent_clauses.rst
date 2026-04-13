@@ -2,8 +2,8 @@
 Procedures: Dependent clauses
 ======================================================
 
-Dependent clauses as circumstances
---------------------------------------------
+Dependent clauses as circumstances and their Purpose
+-------------------------------------------------------------
 
 | In the laboratory instructions below, subordinating conjunctions are used to link a main clause to a dependent clause, providing essential context for each action.
 | These structures are categorized by their primary functional purpose:
@@ -14,10 +14,9 @@ Dependent clauses as circumstances
 * **Sequence & Timing:** To manage the chronological flow of the experiment.
 
 
-1. Practical Instructions (Sorted by Purpose)
------------------------------------------------------------
+Warning / Safety / Hazard Prevention
+------------------------------------------------
 
-**Warning / Safety / Hazard Prevention**
 1.  **Chemistry:** Add the acid dropwise **because** a rapid addition may cause the solution to splatter. (Purpose: Warning)
 2.  **Chemistry:** Keep the ethanol away from the Bunsen burner **because** it is a highly flammable substance. (Purpose: Hazard Warning)
 3.  **Chemistry:** Place the beaker on a heat-proof mat **lest** the bench surface becomes damaged by high temperatures. (Purpose: Prevention)
@@ -29,19 +28,23 @@ Dependent clauses as circumstances
 9.  **Chemistry:** Perform the reaction inside the fume hood **so that** toxic vapors do not escape into the lab. (Purpose: Safety Goal)
 10. **Biology:** Secure the scalpel blade **before** you begin the dissection of the specimen. (Purpose: Injury Prevention)
 
-**Condition / Requirement**
-11. **Physics:** Use a digital voltmeter **if** you require a measurement with higher precision. (Purpose: Requirement)
-12. **Physics:** Secure the clamp tightly **unless** the retort stand is already stable enough to support the weight. (Purpose: Condition)
-13. **Earth Science:** Sketch the rock sample in detail **provided that** the mineral grains are visible under the hand lens. (Purpose: Condition)
-14. **Chemistry:** Discard the waste in the designated organic bin **unless** the instructions state it is safe for the sink. (Purpose: Exception)
-15. **Biology:** Increase the light intensity **if** the specimen appears too dark under high power. (Purpose: Adjustment Condition)
-16. **Physics:** Repeat the trial **whenever** the recorded data shows a significant anomaly. (Purpose: Data Condition)
-17. **Earth Science:** Use the seismic sensor **only if** the ground surface is completely level. (Purpose: Requirement)
-18. **Biology:** Re-stain the slide **supposing that** the nuclei are not clearly defined. (Purpose: Condition)
-19. **Chemistry:** Dilute the solution further **should** the concentration exceed the titration limit. (Purpose: Condition)
-20. **Physics:** Check the circuit connections **if** the ammeter reading remains at zero. (Purpose: Troubleshooting Condition)
+Condition / Requirement
+-----------------------------------
 
-**Goal / Result / Precision**
+1.  **Physics:** Use a digital voltmeter **if** you require a measurement with higher precision. (Purpose: Requirement)
+2.  **Physics:** Secure the clamp tightly **unless** the retort stand is already stable enough to support the weight. (Purpose: Condition)
+3.  **Earth Science:** Sketch the rock sample in detail **provided that** the mineral grains are visible under the hand lens. (Purpose: Condition)
+4.  **Chemistry:** Discard the waste in the designated organic bin **unless** the instructions state it is safe for the sink. (Purpose: Exception)
+5.  **Biology:** Increase the light intensity **if** the specimen appears too dark under high power. (Purpose: Adjustment Condition)
+6.  **Physics:** Repeat the trial **whenever** the recorded data shows a significant anomaly. (Purpose: Data Condition)
+7.  **Earth Science:** Use the seismic sensor **only if** the ground surface is completely level. (Purpose: Requirement)
+8.  **Biology:** Re-stain the slide **supposing that** the nuclei are not clearly defined. (Purpose: Condition)
+9.  **Chemistry:** Dilute the solution further **should** the concentration exceed the titration limit. (Purpose: Condition)
+10. **Physics:** Check the circuit connections **if** the ammeter reading remains at zero. (Purpose: Troubleshooting Condition)
+
+Goal / Result / Precision
+-------------------------------------
+
 21. **Biology:** Adjust the diaphragm of the microscope **so that** the light intensity is optimized for the specimen. (Purpose: Optimization)
 22. **Physics:** Release the trolley from the same height **so that** the starting potential energy remains constant. (Purpose: Control)
 23. **Earth Science:** Gently tap the side of the container **so that** the sediment settles into distinct layers. (Purpose: Desired Result)
@@ -53,17 +56,19 @@ Dependent clauses as circumstances
 29. **Earth Science:** Sieve the sediment **so as to** separate the gravel from the fine clay. (Purpose: Goal)
 30. **Physics:** Zero the electronic balance **before** you place the mass on the pan. (Purpose: Accuracy)
 
-**Sequence / Timing / Duration**
-31. **Earth Science:** Record the temperature every thirty seconds **until** the wax has completely solidified. (Purpose: Duration)
-32. **Biology:** Cover the petri dish immediately **after** you have finished streaking the agar. (Purpose: Sequence)
-33. **Earth Science:** Sift the soil sample thoroughly **before** you begin the particle size analysis. (Purpose: Preparation)
-34. **Biology:** Do not open the sealed containers **once** the incubation period has started. (Purpose: Restriction)
-35. **Chemistry:** Neutralize any spills with sodium bicarbonate **whenever** a strong acid is accidentally dropped. (Purpose: Contingency)
-36. **Chemistry:** Wait for five minutes **while** the precipitate settles at the bottom of the beaker. (Purpose: Duration)
-37. **Physics:** Connect the voltmeter **after** you have completed the series part of the circuit. (Purpose: Sequence)
-38. **Earth Science:** Calibrate the anemometer **whenever** you move to a new recording location. (Purpose: Recurring Timing)
-39. **Biology:** Observe the slide **as** the iodine solution diffuses through the membrane. (Purpose: Simultaneous Timing)
-40. **Chemistry:** Remove the crucible from the heat **when** the mass stops changing. (Purpose: End-point Timing)
+Sequence / Timing / Duration
+--------------------------------------------
+
+1.  **Earth Science:** Record the temperature every thirty seconds **until** the wax has completely solidified. (Purpose: Duration)
+2.  **Biology:** Cover the petri dish immediately **after** you have finished streaking the agar. (Purpose: Sequence)
+3.  **Earth Science:** Sift the soil sample thoroughly **before** you begin the particle size analysis. (Purpose: Preparation)
+4.  **Biology:** Do not open the sealed containers **once** the incubation period has started. (Purpose: Restriction)
+5.  **Chemistry:** Neutralize any spills with sodium bicarbonate **whenever** a strong acid is accidentally dropped. (Purpose: Contingency)
+6.  **Chemistry:** Wait for five minutes **while** the precipitate settles at the bottom of the beaker. (Purpose: Duration)
+7.  **Physics:** Connect the voltmeter **after** you have completed the series part of the circuit. (Purpose: Sequence)
+8.  **Earth Science:** Calibrate the anemometer **whenever** you move to a new recording location. (Purpose: Recurring Timing)
+9.  **Biology:** Observe the slide **as** the iodine solution diffuses through the membrane. (Purpose: Simultaneous Timing)
+10. **Chemistry:** Remove the crucible from the heat **when** the mass stops changing. (Purpose: End-point Timing)
 
 ----
 
