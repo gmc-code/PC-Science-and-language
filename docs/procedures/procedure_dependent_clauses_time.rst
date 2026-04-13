@@ -135,13 +135,19 @@ How Long? (Duration / Simultaneity)
 .. admonition:: Exercise: Duration and Simultaneity
     :class: questions
 
-    Fill in the gaps with the most appropriate conjunction: **As**, **As long as**, **From the moment**, **Until**, or **While**.
+    Fill in the gaps with the most appropriate conjunction:
+    **As**, **As long as**, **From the moment**, **Until**, or **While**.
 
-    1. **Biology:** Monitor the respiration rate __________ the specimen is exposed to the controlled CO :sub:`2` environment. [Job: Indicates an action happening during another continuous process]
-    2. **Physics:** Keep the circuit closed __________ the capacitor reaches a full charge of 12 volts. [Job: Defines the specific end-point when the action must stop]
-    3. **Earth Science:** Track the seismic waves __________ the initial tectonic rupture is detected by the sensors. [Job: Marks the exact starting point of a continuous recording period]
-    4. **Chemistry:** Allow the solution to remain in the centrifuge __________ the solid particles have completely separated from the liquid. [Job: Shows the action must happen simultaneously with the settling process]
-    5. **Biology:** Maintain the incubator at exactly 37°C __________ the bacterial cultures remain inside the chamber. [Job: Indicates a condition that must be kept constant throughout the entire duration]
+    1. **Physics:** Record the voltage output __________ the current steadily increases
+        from zero to its peak — the two values must be logged in parallel.
+    2. **Chemistry:** Continue heating the flask __________ the solution reaches
+        exactly 100 °C and the first sustained bubbles appear.
+    3. **Earth Science:** Log all ground-movement data __________ the primary
+        seismic wave first triggers the sensor array.
+    4. **Biology:** Agitate the flask __________ a second technician
+        takes optical density readings at 30-second intervals.
+    5. **Chemistry:** Keep the reaction vessel unsealed __________ the internal
+        pressure stays below 2 atm; seal it immediately if that threshold is crossed.
 
     .. dropdown:: Check Answers
         :icon: codescan
@@ -152,12 +158,25 @@ How Long? (Duration / Simultaneity)
 
             .. tab-item:: Model Answer
 
-                1. **As** (Focuses on the overlap of two processes)
-                2. **Until** (Defines the duration by its end-point)
-                3. **From the moment** (Defines the duration by its starting point)
-                4. **While** (Emphasizes two actions happening at the same time)
-                5. **As long as** (Stipulates a condition that must be maintained)
-                6.
+                1. **As** — two values progressing in parallel; not mere overlap.
+                *While* would imply two independent agents or actions, not a tracked relationship.
+
+                2. **Until** — the heating has a precise, measurable endpoint;
+                *as long as* would imply the heating is conditional
+                and could be suspended, which is not the intended meaning.
+
+                3. **From the moment** — defines the exact trigger that *starts* the
+                recording period; no other option in the list marks a starting boundary
+                rather than a duration or endpoint.
+
+                4. **While** — two different people perform two independent simultaneous
+                actions; *as* would imply the actions are co-varying or causally linked,
+                which they are not.
+
+                5. **As long as** — the permission is explicitly *conditional* and
+                *revocable* ("seal it immediately if…"); *until* would imply a fixed
+                endpoint rather than an ongoing condition that can be withdrawn.
+
 
 ----
 
@@ -172,3 +191,61 @@ How Often? (Frequency / Recurrence)
 1.  **Chemistry:** Rinse the glass rod with distilled water **every time** a different solution is stirred. (Purpose: Repeated Timing)
 2.  **Chemistry:** Neutralize any spills with sodium bicarbonate **whenever** a strong acid is dropped. (Purpose: Contingency)
 
+
+.. admonition:: Exercise: Frequency and Contingency
+   :class: questions
+
+   Fill in the gaps with the most appropriate conjunction: **Every time** or **Whenever**.
+
+   1. **Chemistry:** Re-calibrate the pH probe __________ a new set of titration samples is prepared for testing. [Job: Marks a mandatory requirement for each repeated cycle of a process]
+   2. **Chemistry:** Apply a neutralizing agent to the workbench __________ a corrosive chemical is accidentally splashed outside of the beaker. [Job: Indicates an action that must occur in response to a specific, unplanned event]
+
+   .. dropdown:: Check Answers
+      :icon: codescan
+      :color: primary
+      :class-container: sd-dropdown-container
+
+      .. tab-set::
+
+         .. tab-item:: Model Answer
+
+            1. **Every time** (Ensures a repeated, scheduled action for quality control)
+            2. **Whenever** (Addresses a contingency or recurring "if-then" situation)
+
+----
+
+
+.. admonition:: Exercise: Multi-Category Conjunction Quiz
+    :class: questions
+
+    Select the most appropriate conjunction for each scientific instruction to ensure maximum clarity and precision.
+
+    1. **Physics:** Ensure all capacitors are fully discharged __________ beginning any modifications to the circuit wiring.
+        (A) After | (B) Before | (C) As soon as | (D) Once
+
+    2. **Biology:** Observe the specimen under the microscope __________ the staining agent is gradually absorbed by the cell walls.
+        (A) When | (B) As | (C) Before | (D) Every time
+
+    3. **Chemistry:** Record the final mass of the precipitate __________ the heating cycle is completed and the crucible has cooled to room temperature.
+        (A) Until | (B) After | (C) While | (D) Whenever
+
+    4. **Earth Science:** Maintain the constant flow of the stream table __________ the slope angle remains fixed at 15 degrees.
+        (A) As soon as | (B) As long as | (C) Once | (D) When
+
+    5. **Biology:** Sterilize the inoculation loop in the Bunsen burner flame __________ you prepare to transfer a new bacterial colony.
+        (A) From the moment | (B) Until | (C) Every time | (D) As
+
+    .. dropdown:: Check Answers
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                1. **(B) Before** — Marks a necessary preparatory safety step.
+                2. **(B) As** — Describes a process happening during another continuous action.
+                3. **(B) After** — Identifies the next logical step in a chronological sequence.
+                4. **(B) As long as** — Stipulates a condition that must be maintained for the action to continue.
+                5. **(C) Every time** — Ensures a mandatory requirement is repeated for every cycle.
