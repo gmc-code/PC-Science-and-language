@@ -175,7 +175,7 @@ How Often? (Frequency / Recurrence)
 ----
 
 
-.. admonition:: Exercise: Multi-Category Conjunction Quiz
+.. admonition:: Exercise: Multi-Category Conjunctions of Time Quiz
     :class: questions
 
     Select the most appropriate conjunction for each scientific instruction to ensure maximum clarity and precision.
@@ -264,3 +264,5 @@ How Often? (Frequency / Recurrence)
                 3. **(B) After** — Identifies the next logical step in a chronological sequence.
                 4. **(B) As long as** — Stipulates a condition that must be maintained for the action to continue.
                 5. **(C) Every time** — Ensures a mandatory requirement is repeated for every cycle.
+
+

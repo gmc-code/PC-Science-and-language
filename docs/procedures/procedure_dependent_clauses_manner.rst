@@ -2,17 +2,8 @@
 Procedures: Dependent clauses - Manner
 ======================================================
 
-Dependent clauses as circumstances and their Purpose
--------------------------------------------------------------
-
-| In the laboratory instructions below, subordinating conjunctions are used to link a main clause to a dependent clause, providing essential context for each action.
-| These structures are categorized by their primary functional purpose:
-
-* **Safety & Warnings:** To prevent injury or equipment damage.
-* **Conditions:** To establish the specific parameters required for the test.
-* **Goals & Precision:** To ensure the highest level of accuracy in results.
-* **Sequence & Timing:** To manage the chronological flow of the experiment.
-
+Conjunctions of Manner
+-------------------------------
 
 Here are the subordinating conjunctions categorized by their functional role in laboratory instructions.
 
@@ -122,65 +113,3 @@ To ensure the conjunctions and examples are fully aligned, the list below has be
 8.  **Earth Science:** Pour the water slowly over the sand model **to** simulate how a river erodes the landscape. (Purpose: Goal)
 9.  **Physics:** Zero the electronic balance **to ensure that** the mass of the container is excluded from the reading. (Purpose: Accuracy)
 
-
-----
-
-
-Sequence / Timing / Duration
------------------------------
-
-*Used to manage the chronological flow and duration of the experiment.*
-
-Here is the updated list for **Sequence / Timing / Duration**. I have added the new conjunctions (**as long as** and **every time**), provided imperative instructions for them, and sorted both the conjunction list and the examples alphabetically.
-
-4. Sequence / Timing / Duration
--------------------------------
-
-**Conjunctions**
-
-*Used to manage the chronological flow and duration of the experiment.*
-
-The subordinating conjunctions of time can be categorized based on whether they specify a point in time (**When?**), a duration (**How long?**), or a frequency (**How often?**).
-
-Time-Based Categorization
-
-**When? (Point in Time / Sequence)**
-*Used to mark a specific trigger or the order of operations.*
-
-* **After:** Indicates the next step in a sequence.
-* **As soon as:** Indicates an immediate requirement after a trigger.
-* **Before:** Indicates a necessary preparatory step.
-* **Once:** Shows that a previous step must be completed first.
-* **When:** Marks the exact moment an action is required.
-
-**How Long? (Duration / Simultaneity)**
-*Used to define the length of an action or overlapping processes.*
-
-* **As:** Describes an action happening during another process.
-* **As long as:** Indicates a condition that must be maintained over time.
-* **From the moment:** Marks the starting point in time of a process.
-* **Until:** Defines the end-point or duration of an action.
-* **While:** Shows actions that must happen simultaneously.
-
-**How Often? (Frequency / Recurrence)**
-*Used to indicate repeated actions or contingencies.*
-
-* **Every time:** Marks a requirement for each repeated action.
-* **Whenever:** Indicates a recurring time or contingency.
-
----
-
-### Sorted Examples
-
-1.  **Physics:** Connect the voltmeter **after** having completed the series part of the circuit. (**When**)
-2.  **Biology:** Observe the slide **as** the iodine solution diffuses through the membrane. (**How long**)
-3.  **Physics:** Maintain the current at 0.5 amperes **as long as** the temperature remains below 50°C. (**How long**)
-4.  **Biology:** Record the results **as soon as** the color change is observed. (**When**)
-5.  **Earth Science:** Sift the soil sample thoroughly **before** beginning the analysis. (**When**)
-6.  **Chemistry:** Rinse the glass rod with distilled water **every time** a different solution is stirred. (**How often**)
-7.  **Biology:** Maintain a continuous log of growth **from the moment** inoculation is performed. (**How long**)
-8.  **Biology:** Do not open the sealed containers **once** the incubation period has started. (**When**)
-9.  **Earth Science:** Record the temperature every thirty seconds **until** the wax has solidified. (**How long**)
-10. **Chemistry:** Remove the crucible from the heat **when** the mass stops changing. (**When**)
-11. **Chemistry:** Neutralize any spills with sodium bicarbonate **whenever** a strong acid is dropped. (**How often**)
-12. **Chemistry:** Wait for five minutes **while** the precipitate settles. (**How long**)

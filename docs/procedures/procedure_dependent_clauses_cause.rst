@@ -2,185 +2,354 @@
 Procedures: Dependent clauses - Cause
 ======================================================
 
-Dependent clauses as circumstances and their Purpose
--------------------------------------------------------------
-
-| In the laboratory instructions below, subordinating conjunctions are used to link a main clause to a dependent clause, providing essential context for each action.
-| These structures are categorized by their primary functional purpose:
-
-* **Safety & Warnings:** To prevent injury or equipment damage.
-* **Conditions:** To establish the specific parameters required for the test.
-* **Goals & Precision:** To ensure the highest level of accuracy in results.
-* **Sequence & Timing:** To manage the chronological flow of the experiment.
-
-
-Here are the subordinating conjunctions categorized by their functional role in laboratory instructions.
-
-Warning / Safety / Hazard Prevention
-------------------------------------------------
-
-**Conjunctions**
+Conjunctions of Cause
+-------------------------------
 
 *Used to highlight hazards or prevent equipment damage.*
 
-* **Because** (explains the specific risk)
-* **Since** (provides the rationale for a safety rule)
-* **As** (links a dangerous state to a required action)
-* **Lest** (indicates an action to avoid a negative consequence)
-* **So that [not]** (stipulates a goal of avoiding a hazard)
-* **For fear that** (formal indicator of a risk to be avoided)
-* **In case** (prepares for a potential hazard or spill)
-* **Unless** (indicates the only condition where a risk is absent)
+specify a point in time (**When?**), a duration (**How long?**), or a frequency (**How often?**).
+
+The subordinating conjunctions of cause can be categorized based on whether they focus onz the  **Reason** (the "Why"; the existing threat) or **Purpose** (the "Goal"; the intended outcome).
 
 
-**Examples**
+Conjunctions of Reason (The "Why")
+-------------------------------------------
 
-1.  **Chemistry:** Add the acid dropwise **because** a rapid addition may cause the solution to splatter. (Purpose: Warning)
-2.  **Chemistry:** Keep the ethanol away from the Bunsen burner **because** it is a highly flammable substance. (Purpose: Hazard Warning)
-3.  **Chemistry:** Place the beaker on a heat-proof mat **lest** the bench surface becomes damaged by high temperatures. (Purpose: Prevention)
-4.  **Physics:** Do not exceed 5 volts **since** the resistor is prone to overheating at higher currents. (Purpose: Warning)
-5.  **Biology:** Wear protective gloves **if** handling live cultures or concentrated stains. (Purpose: Safety Condition)
-6.  **Chemistry:** Handle the glass rod carefully **as** it becomes extremely brittle after heating. (Purpose: Hazard Warning)
-7.  **Physics:** Do not touch the heating element **until** the red indicator light has turned off. (Purpose: Safety Timing)
-8.  **Earth Science:** Wear a dust mask **while** crushing the rock samples to avoid inhalation. (Purpose: Prevention)
-9.  **Chemistry:** Perform the reaction inside the fume hood **so that** toxic vapors do not escape into the lab. (Purpose: Safety Goal)
-10. **Biology:** Secure the scalpel blade **before** beginning the dissection of the specimen. (Purpose: Injury Prevention)
+*These explain the existing cause, risk, or rationale behind a safety rule.*
 
+- **As:** Links a dangerous state to a required action.
+- **As a result of:** Describes an outcome that follows from a prior condition.
+- **Because:** Explains, for the first time, the *specific chemical or physical mechanism* that makes an instruction necessary.
+- **For:** (Formal) Provides the *written justification* for a safety rule typically following a firm imperative ("must").
+- **In case:** Anticipates a *hypothetical future risk* and justifies a precautionary action.
+- **Since:** Provides the rationale for an established safety rule based on an *already established, widely accepted property* of the material, component, or system.
+
+
+1. **Chemistry:** Handle the glass rod carefully **as** it becomes extremely brittle after heating.
+2. **Chemistry:** Evacuate the fume cupboard and ventilate the room immediately as a result of any detected rise in hydrogen sulphide above 1 ppm.
+3. **Chemistry:** Add the acid dropwise **because** a rapid addition may cause the solution to splatter.
+4. **Physics:** Store the radioactive source in the lead-lined container when not in use, **for** prolonged exposure to unshielded gamma radiation poses a serious health hazard to laboratory personnel.
+5. **Biology:** Label all specimen jars before beginning dissection **in case** samples become mixed up during the procedure.
+6. **Physics:** Do not exceed 5 volts **since** the resistor is prone to overheating at higher currents.
+
+
+.. admonition:: Exercise: Conjunctions of Reason
+    :class: questions
+
+    Fill in the gaps with the most appropriate conjunction:
+    **as**, **as a result of**, **because**, **for**, **in case**, or **since**.
+
+    1. **Chemistry:** Handle the glass rod with care __________ it becomes
+        extremely brittle once it has been heated.
+
+    2. **Earth Science:** Halt the drilling operation immediately
+        __________ any observed increase in methane readings above the safe
+        threshold, and do not resume until the site has been ventilated.
+
+    3. **Chemistry:** Add the acid to the solution dropwise __________
+        a rapid addition will cause an exothermic surge that may shatter the
+        beaker.
+
+    4. **Physics:** The radioactive source must be returned to its lead-lined
+        container after every use, __________ unshielded gamma radiation
+        presents a cumulative and serious health hazard to all laboratory
+        personnel.
+
+    5. **Biology:** Label every specimen jar with the sample ID before
+        beginning dissection __________ two or more samples are accidentally
+        mixed during the procedure.
+
+    6. **Physics:** Do not allow the supply voltage to exceed 5 volts,
+        __________ this resistor has a well-documented tendency to overheat
+        at higher currents.
+
+    .. dropdown:: Check Answers
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                1. **as** — the brittle state is a dangerous *concurrent condition*
+                that makes careful handling necessary right now; *because* would
+                suggest the brittleness is a new piece of information explaining
+                a risk, whereas *as* links a present state to an immediate required
+                action.
+
+                2. **as a result of** — the halt is a mandatory protocol triggered by
+                a *specific measurable outcome* (methane exceeding a threshold);
+                the "and do not resume until" tail confirms this is a procedural
+                consequence, not a background explanation, ruling out *because*
+                and *since*.
+
+                3. **because** — introduces the specific, technical chemical risk
+                (exothermic surge) that explains the instruction; *since* would
+                imply this is background knowledge the reader already holds,
+                but the risk mechanism is being stated explicitly for the first time.
+
+                4. **for** — the formal, placard-style register of the full sentence
+                ("must be returned… after every use") calls for *for* as a written
+                justification; *because* or *since* would sound like spoken
+                explanation rather than a documented safety protocol.
+
+                5. **in case** — the mixing is a *hypothetical future risk*, not a
+                certainty; *because* would imply the mixing has already happened,
+                and *since* would imply it always happens.
+
+                6. **since** — the overheating tendency is presented as an
+                *established, known property* of this component ("well-documented"),
+                making *since* the natural choice for a rationale that the reader
+                is expected to already accept as fact.
 
 ----
 
-
-Condition / Requirement
------------------------------------
-
-**Conjunctions**
-
-*Used to establish the specific parameters or requirements for a valid test.*
-
-* **If** (the standard conditional requirement)
-* **Unless** (stipulates an exception to a rule)
-* **Provided that** (sets a specific requirement for proceeding)
-* **Providing** (an alternative for establishing a condition)
-* **Whether** (introduces a choice between conditions)
-* **Supposing that** (introduces a hypothetical requirement)
-* **Should** (used in formal instructions for potential conditions)
-* **In the event that** (specifies a particular circumstance for an action)
-* **As long as** (indicates a condition that must be maintained)
-* **Only if** (sets a strict, non-negotiable requirement)
-
-
-
-**Examples**
-
-1.  **Physics:** Use a digital voltmeter **if** requiring a measurement with higher precision. (Purpose: Requirement)
-2.  **Physics:** Secure the clamp tightly **unless** the retort stand is already stable enough to support the weight. (Purpose: Condition)
-3.  **Earth Science:** Sketch the rock sample in detail **provided that** the mineral grains are visible under the hand lens. (Purpose: Condition)
-4.  **Chemistry:** Discard the waste in the designated organic bin **unless** the instructions state it is safe for the sink. (Purpose: Exception)
-5.  **Biology:** Increase the light intensity **if** the specimen appears too dark under high power. (Purpose: Adjustment Condition)
-6.  **Physics:** Repeat the trial **whenever** the recorded data shows a significant anomaly. (Purpose: Data Condition)
-7.  **Earth Science:** Use the seismic sensor **only if** the ground surface is completely level. (Purpose: Requirement)
-8.  **Biology:** Re-stain the slide **supposing that** the nuclei are not clearly defined. (Purpose: Condition)
-9.  **Chemistry:** Dilute the solution further **should** the concentration exceed the titration limit. (Purpose: Condition)
-10. **Physics:** Check the circuit connections **if** the ammeter reading remains at zero. (Purpose: Troubleshooting Condition)
-
-----
-
-
-Goal / Result / Precision
--------------------------------------
-
-**Conjunctions**
-
-*Used to specify the desired outcome to ensure high-quality results.*
-
-To ensure the conjunctions and examples are fully aligned, the list below has been synchronized. The examples have been adjusted to specifically use the conjunctions from the "Goal / Result / Precision" category, and the final list is sorted alphabetically by the bolded conjunction.
-
-3. Goal / Result / Precision
+As vs. Since vs. Because
 ----------------------------
 
-**Conjunctions**
+Here are 3 targeted questions for each confusable pair, with the disambiguation built into the sentence itself:
 
-*Used to specify the desired outcome to ensure high-quality results.*
 
-* **As if** (describes a required state of being)
-* **As though** (indicates a target appearance or state)
-* **In order that** (formal indicator of an intended result)
-* **So as to** (links an action directly to its intended precision)
-* **So that** (primary indicator of a functional goal)
-* **To** (the infinitive used to show purpose)
-* **To ensure that** (stipulates a required outcome for accuracy)
+.. admonition:: As vs. Since
+    :class: questions
 
-**Examples**
+    i. **Chemistry:** Do not leave the sodium exposed to open air __________
+        it reacts spontaneously with atmospheric moisture — you can see the
+        surface already beginning to discolour.
 
-1.  **Biology:** Adjust the light source **as if** the specimen were being viewed under natural sunlight. (Purpose: State of Being)
-2.  **Earth Science:** Layer the sediment **as though** it had been deposited by a slow-moving stream. (Purpose: Target Appearance)
-3.  **Chemistry:** Stir the mixture continuously **in order that** the solute dissolves completely. (Purpose: Result)
-4.  **Earth Science:** Sieve the sediment **so as to** separate the gravel from the fine clay. (Purpose: Goal)
-5.  **Biology:** Adjust the diaphragm of the microscope **so that** the light intensity is optimized for the specimen. (Purpose: Optimization)
-6.  **Earth Science:** Gently tap the side of the container **so that** the sediment settles into distinct layers. (Purpose: Desired Result)
-7.  **Physics:** Release the trolley from the same height **so that** the starting potential energy remains constant. (Purpose: Control)
-8.  **Earth Science:** Pour the water slowly over the sand model **to** simulate how a river erodes the landscape. (Purpose: Goal)
-9.  **Physics:** Zero the electronic balance **to ensure that** the mass of the container is excluded from the reading. (Purpose: Accuracy)
+    ii. **Biology:** Autoclave all glassware before use __________
+        non-sterile equipment is a well-established source of culture
+        contamination in any microbiology laboratory.
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                Q(i) locks in **as** — "you can see the surface already beginning to discolour" makes the hazard visibly present right now.
+
+                Q(ii) locks in **since** — "well-established source" signals accepted background knowledge.
+
+
+
+.. admonition:: Because vs. Since
+    :class: questions
+
+    iii. **Physics:** Do not touch the transformer casing during operation
+        __________ the outer shell accumulates a residual static charge
+        that is not discharged by simply switching the unit off.
+
+    iv. **Chemistry:** Store flammable solvents away from ignition sources
+        __________ their vapours can ignite at room temperature.
+
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                Q(iii) locks in **because** — the residual static mechanism is specific and non-obvious; the reader cannot be expected to already know it.
+
+                Q(iv) locks in **since** — vapour flammability at room temperature is standard, assumed knowledge in any chemistry course.
+
+
+.. admonition:: As vs. Because
+    :class: questions
+
+    v. **Earth Science:** Secure all core samples in padded cases immediately
+        __________ the extraction process leaves the rock under internal
+        stress that makes it prone to sudden fracture.
+
+    vi. **Biology:** Handle the petri dishes on a flat surface __________
+        the agar has not yet fully solidified and will shift if tilted.
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                Q(v) locks in **because** — internal stress is a non-visible mechanism being explained for the first time.
+
+                Q(vi) locks in **as** — the not-yet-solidified state is directly observable at the moment of handling.
 
 
 ----
 
 
-Sequence / Timing / Duration
------------------------------
+Conjunctions of Purpose (The Goal)
+---------------------------------------------
 
-*Used to manage the chronological flow and duration of the experiment.*
+*These stipulate the desired outcome or the negative event being avoided.*
 
-Here is the updated list for **Sequence / Timing / Duration**. I have added the new conjunctions (**as long as** and **every time**), provided imperative instructions for them, and sorted both the conjunction list and the examples alphabetically.
+*Each functional meaning has both a formal and an everyday register — choosing
+the right one depends on whether you are writing a formal laboratory protocol, or a general instruction.*
 
-4. Sequence / Timing / Duration
--------------------------------
+.. list-table::
+   :header-rows: 1
+   :widths: 20 20 60
 
-**Conjunctions**
+   * - Everyday Register
+     - Formal Register
+     - Function
+   * - **So that**
+     - **In order that**
+     - Introduces a purpose clause with a finite verb (subject + verb follows).
+   * - **So as to**
+     - **In order to**
+     - Introduces a purpose clause with an infinitive (base verb follows).
+   * - **For fear that**
+     - **Lest**
+     - Introduces a precaution against a specific feared negative outcome.
 
-*Used to manage the chronological flow and duration of the experiment.*
 
-The subordinating conjunctions of time can be categorized based on whether they specify a point in time (**When?**), a duration (**How long?**), or a frequency (**How often?**).
+*Everyday register:*
 
-Time-Based Categorization
+1. **Chemistry:** Tighten the flask stopper firmly **so that** pressure
+   does not build up and force the stopper free during heating.
+2. **Biology:** Tilt the microscope slide at a shallow angle **so as to**
+   avoid trapping air bubbles beneath the cover slip.
+3. **Earth Science:** Double-bag all soil samples **for fear that** the
+   outer bag is punctured during transport and the sample is contaminated.
 
-**When? (Point in Time / Sequence)**
-*Used to mark a specific trigger or the order of operations.*
+*Formal register:*
 
-* **After:** Indicates the next step in a sequence.
-* **As soon as:** Indicates an immediate requirement after a trigger.
-* **Before:** Indicates a necessary preparatory step.
-* **Once:** Shows that a previous step must be completed first.
-* **When:** Marks the exact moment an action is required.
+4. **Chemistry:** Keep the condenser running throughout the entire
+   distillation **in order that** vapour is fully recovered and solvent
+   loss is minimised.
+5. **Physics:** Position the blast shield directly in front of the
+   capacitor bank **in order to** deflect any fragments in the event of
+   a catastrophic discharge.
+6. **Biology:** Incinerate all cultures before disposal **lest** viable
+   pathogenic material enter the waste stream.
 
-**How Long? (Duration / Simultaneity)**
-*Used to define the length of an action or overlapping processes.*
 
-* **As:** Describes an action happening during another process.
-* **As long as:** Indicates a condition that must be maintained over time.
-* **From the moment:** Marks the starting point in time of a process.
-* **Until:** Defines the end-point or duration of an action.
-* **While:** Shows actions that must happen simultaneously.
+.. admonition:: Exercise — Conjunctions of Purpose: Register Conversion
+    :class: questions
 
-**How Often? (Frequency / Recurrence)**
-*Used to indicate repeated actions or contingencies.*
+    Rewrite each sentence by replacing the conjunction with its register
+    equivalent given in parentheses. If the sentence is in the **everyday register**, convert it
+    to **formal**; if it is in the **formal register**, convert it to
+    **everyday**. Make any necessary grammatical adjustments.
 
-* **Every time:** Marks a requirement for each repeated action.
-* **Whenever:** Indicates a recurring time or contingency.
+    **Group A: So that / In order that**
+
+    1. *(Everyday → Formal)* **Chemistry:** Seal the reaction vessel
+        immediately so that no volatile vapours escape into the laboratory
+        atmosphere.
+
+    2. *(Formal → Everyday)* **Biology:** Centrifuge the sample at low
+        speed first in order that the denser cellular material separates
+        before the final high-speed spin is performed.
+
+    **Group B: So as to / In order to**
+
+    3. *(Everyday → Formal)* **Physics:** Earth the apparatus before
+        connecting the power supply so as to prevent residual charge from
+        causing an unexpected discharge.
+
+    4. *(Formal → Everyday)* **Earth Science:** Collect sediment samples
+        from at least three separate locations in order to ensure the data
+        is representative of the wider geological formation.
+
+    **Group C: For fear that / Lest**
+
+    5. *(Everyday → Formal)* **Biology:** Store all bacterial cultures in
+        a sealed secondary container for fear that a broken tube releases
+        viable material into the refrigerator.
+
+    6. *(Formal → Everyday)* **Chemistry:** Label the reagent bottles
+        immediately after use lest an unlabelled container be mistaken for
+        a different compound by another laboratory user.
+
+    .. dropdown:: Check Answers
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                1. Seal the reaction vessel immediately **in order that** no
+                volatile vapours escape into the laboratory atmosphere.
+                *(No other grammatical changes needed.)*
+
+                2. Centrifuge the sample at low speed first **so that** the
+                denser cellular material separates before the final
+                high-speed spin is performed.
+                *(No other grammatical changes needed.)*
+
+                3. Earth the apparatus before connecting the power supply
+                **in order to** prevent residual charge from causing an
+                unexpected discharge.
+                *(No other grammatical changes needed.)*
+
+                4. Collect sediment samples from at least three separate
+                locations **so as to** ensure the data is representative
+                of the wider geological formation.
+                *(No other grammatical changes needed.)*
+
+                5. Store all bacterial cultures in a sealed secondary
+                container **lest** a broken tube release viable material
+                into the refrigerator.
+                *(Note: the verb changes from "releases" to "release" —
+                lest traditionally takes the subjunctive form.)*
+
+                6. Label the reagent bottles immediately after use **for
+                fear that** an unlabelled container is mistaken for a
+                different compound by another laboratory user.
+                *(Note: the verb changes from "be mistaken" to "is
+                mistaken" — for fear that takes the indicative form.)*
 
 ---
 
-### Sorted Examples
+.. admonition:: Exercise: Reason vs. Purpose
+   :class: questions
 
-1.  **Physics:** Connect the voltmeter **after** having completed the series part of the circuit. (**When**)
-2.  **Biology:** Observe the slide **as** the iodine solution diffuses through the membrane. (**How long**)
-3.  **Physics:** Maintain the current at 0.5 amperes **as long as** the temperature remains below 50°C. (**How long**)
-4.  **Biology:** Record the results **as soon as** the color change is observed. (**When**)
-5.  **Earth Science:** Sift the soil sample thoroughly **before** beginning the analysis. (**When**)
-6.  **Chemistry:** Rinse the glass rod with distilled water **every time** a different solution is stirred. (**How often**)
-7.  **Biology:** Maintain a continuous log of growth **from the moment** inoculation is performed. (**How long**)
-8.  **Biology:** Do not open the sealed containers **once** the incubation period has started. (**When**)
-9.  **Earth Science:** Record the temperature every thirty seconds **until** the wax has solidified. (**How long**)
-10. **Chemistry:** Remove the crucible from the heat **when** the mass stops changing. (**When**)
-11. **Chemistry:** Neutralize any spills with sodium bicarbonate **whenever** a strong acid is dropped. (**How often**)
-12. **Chemistry:** Wait for five minutes **while** the precipitate settles. (**How long**)
+   Identify whether the bolded conjunction introduces a **Reason** (explaining a risk) or a **Purpose** (stating a goal to avoid a risk).
+
+   1. **Biology:** Seal the petri dishes with Parafilm **lest** airborne fungal spores contaminate the culture.
+
+   .. grid:: 2
+      :gutter: 2
+
+      .. grid-item::
+         (A) Reason
+      .. grid-item::
+         (B) Purpose
+
+   2. **Chemistry:** Do not inhale the vapors directly **since** the compound is a known respiratory irritant.
+
+   .. grid:: 2
+      :gutter: 2
+
+      .. grid-item::
+         (A) Reason
+      .. grid-item::
+         (B) Purpose
+
+   .. dropdown:: Check Answers
+      :icon: codescan
+      :color: primary
+      :class-container: sd-dropdown-container
+
+      .. tab-set::
+
+         .. tab-item:: Model Answer
+
+            1. **(B) Purpose** — "Lest" defines the goal of avoiding contamination.
+            2. **(A) Reason** — "Since" explains the inherent dangerous quality of the compound.
+
