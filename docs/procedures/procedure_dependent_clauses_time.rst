@@ -98,16 +98,11 @@ How Long? (Duration / Simultaneity)
     Fill in the gaps with the most appropriate conjunction:
     **As**, **As long as**, **From the moment**, **Until**, or **While**.
 
-    1. **Physics:** Record the voltage output __________ the current steadily increases
-        from zero to its peak — the two values must be logged in parallel.
-    2. **Chemistry:** Continue heating the flask __________ the solution reaches
-        exactly 100 °C and the first sustained bubbles appear.
-    3. **Earth Science:** Log all ground-movement data __________ the primary
-        seismic wave first triggers the sensor array.
-    4. **Biology:** Agitate the flask __________ a second technician
-        takes optical density readings at 30-second intervals.
-    5. **Chemistry:** Keep the reaction vessel unsealed __________ the internal
-        pressure stays below 2 atm; seal it immediately if that threshold is crossed.
+    1. **Physics:** Record the voltage output __________ the current steadily increases from zero to its peak — the two values must be logged in parallel.
+    2. **Chemistry:** Continue heating the flask __________ the solution reaches exactly 100 °C and the first sustained bubbles appear.
+    3. **Earth Science:** Log all ground-movement data __________ the primary seismic wave first triggers the sensor array.
+    4. **Biology:** Agitate the flask __________ a second technician takes optical density readings at 30-second intervals.
+    5. **Chemistry:** Keep the reaction vessel unsealed __________ the internal pressure stays below 2 atm; seal it immediately if that threshold is crossed.
 
     .. dropdown:: Check Answers
         :icon: codescan
