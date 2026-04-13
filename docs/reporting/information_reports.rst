@@ -4,24 +4,6 @@ Information Reports
 
 Information Reports are texts that describe things.
 
-.. list-table::
-    :header-rows: 1
-
-    * - GENRE
-      - DESCRIPTION
-      - STAGES & PHASES
-
-    * - Descriptive report
-      - - Give information about a species or class of things
-      - Provide descriptions
-      - - Title
-      - General Statement
-        - Identification
-        - Classification (category, taxonomy)
-      - Description
-        - Features, characteristics, activities, behaviours, uses
-
-2
 
 .. list-table::
     :header-rows: 1
@@ -43,17 +25,18 @@ Information Reports are texts that describe things.
 
           - Features, characteristics, activities, behaviours, uses
 
-
-..
     * - Classifying report
       - - Organise a topic into a class and subclass hierarchy
-      - Provide descriptions
-      - Title
-      - General Statement
-      - Classifies and Defines
-      - Name the classes
-      - Description
-      - Subclasses and their characteristics
+        - Provide descriptions
+      -
+        - Title
+        - General Statement
+
+          - Classifies and Defines
+          - Name the classes
+        - Description
+
+          - Subclasses and their characteristics
 
     * - Compositional report
       - - Organise a topic according to its parts
