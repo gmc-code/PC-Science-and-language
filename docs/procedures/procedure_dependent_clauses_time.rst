@@ -71,46 +71,6 @@ When? (Point in Time / Sequence)
                 5. **Once** — functions as a logic gate ("not before" is reinforced in the sentence itself); *once* uniquely signals that the restriction lifts at a threshold, which "not before" confirms.
 
 
-
-
-.. admonition:: Exercise: Sequencing and Timing Conjunctions
-    :class: questions
-
-    Identify the appropriate subordinating conjunction (**After**, **As soon as**, **Before**, **Once**, or **When**) for each scientific instruction based on the functional purpose provided.
-
-    1. **Chemistry:** Neutralize the acid solution with a base __________ beginning the disposal process. [Purpose: Preparation]
-    2. **Physics:** Log the final resistance value __________ the circuit reaches a state of equilibrium. [Purpose: End-point Timing]
-    3. **Biology:** Discard the contaminated gloves __________ the dissection has been completed. [Purpose: Sequence]
-    4. **Earth Science:** Activate the emergency alarm __________ the seismic sensors detect a magnitude above 4.0. [Purpose: Immediate Timing]
-    5. **Chemistry:** Do not adjust the flow valve __________ the distillation process has started. [Purpose: Restriction]
-    6. **Physics:** Ensure the workbench is cleared of all metallic objects __________ the electromagnet is powered on. [Purpose: Preparation]
-    7. **Biology:** Record the temperature of the incubator __________ the alarm sounds to signal a fluctuation. [Purpose: Exact Moment]
-    8. **Earth Science:** Analyze the rock strata __________ the drilling core has been extracted from the site. [Purpose: Sequence]
-    9. **Physics:** Stop the stopwatch __________ the trolley passes the second light gate. [Purpose: Immediate Timing]
-    10. **Biology:** Do not add the enzyme catalyst __________ the solution has reached the required 37°C. [Purpose: Restriction]
-
-    .. dropdown:: Check Answers
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
-
-        .. tab-set::
-
-            .. tab-item:: Model Answer
-
-                1. **Before** (Preparation)
-                2. **When** (End-point Timing)
-                3. **After** (Sequence)
-                4. **As soon as** (Immediate Timing)
-                5. **Once** (Restriction)
-                6. **Before** (Preparation)
-                7. **When** (Exact Moment)
-                8. **After** (Sequence)
-                9. **As soon as** (Immediate Timing)
-                10. **Once** (Restriction)
-
-
-
 ----
 
 How Long? (Duration / Simultaneity)
