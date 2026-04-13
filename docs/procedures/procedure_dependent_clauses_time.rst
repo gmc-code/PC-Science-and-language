@@ -198,6 +198,18 @@ How Often? (Frequency / Recurrence)
     2. **Biology:** Observe the specimen under the microscope __________ the staining agent is gradually absorbed by the cell walls.
         (A) When | (B) As | (C) Before | (D) Every time
 
+        .. grid:: 4
+
+        .. grid-item::
+            (A) After
+        .. grid-item::
+            (B) Before
+        .. grid-item::
+            (C) As soon as
+        .. grid-item::
+            (D) Once
+
+
     3. **Chemistry:** Record the final mass of the precipitate __________ the heating cycle is completed and the crucible has cooled to room temperature.
         (A) Until | (B) After | (C) While | (D) Whenever
 
