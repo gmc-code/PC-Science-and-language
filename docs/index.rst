@@ -70,9 +70,9 @@ PC-Science-and-language
     :caption: ⚙️ Cause Effect
     :numbered:
 
-    language/cause_and_effect_patterns.rst
-    language/cause_and_effect_examples.rst
-    language/cause_and_effect_questions.rst
+    cause_and_effect/cause_and_effect_patterns.rst
+    cause_and_effect/cause_and_effect_examples.rst
+    cause_and_effect/cause_and_effect_questions.rst
 
     .. language/complex_sentences.rst
 
@@ -132,12 +132,12 @@ PC-Science-and-language
     :caption: 🧪⚖️ Prac Ethics
     :numbered:
 
-    pracs/ethics_introduction.rst
-    pracs/ethics_honesty.rst
-    pracs/ethics_fairness.rst
-    pracs/ethics_respect_for_others.rst
-    pracs/ethics_avoidance_of_harm.rst
-    pracs/ethics_doing_good.rst
+    prac_ethics/ethics_introduction.rst
+    prac_ethics/ethics_honesty.rst
+    prac_ethics/ethics_fairness.rst
+    prac_ethics/ethics_respect_for_others.rst
+    prac_ethics/ethics_avoidance_of_harm.rst
+    prac_ethics/ethics_doing_good.rst
 
 
 
@@ -146,7 +146,7 @@ PC-Science-and-language
     :caption: 🧪⛔ Prac Errors
     :numbered:
 
-    pracs/errors_in_science.rst
+    prac_errors/errors_in_science.rst
 
 
 
@@ -155,12 +155,12 @@ PC-Science-and-language
     :caption: 🧪⛔ Prac Systematic Errors
     :numbered:
 
-    pracs/errors_systematic.rst
-    pracs/errors_zero.rst
-    pracs/errors_calibration.rst
-    pracs/errors_parallax.rst
-    pracs/errors_method_limitation.rst
-    pracs/errors_environmental_bias.rst
+    prac_errors/errors_systematic.rst
+    prac_errors/errors_zero.rst
+    prac_errors/errors_calibration.rst
+    prac_errors/errors_parallax.rst
+    prac_errors/errors_method_limitation.rst
+    prac_errors/errors_environmental_bias.rst
 
 
 
@@ -169,10 +169,10 @@ PC-Science-and-language
     :caption: 🧪⛔ Prac Random Errors
     :numbered:
 
-    pracs/errors_random.rst
-    pracs/errors_resolution_limitation.rst
-    pracs/errors_technique_variation.rst
-    pracs/errors_environmental_variation.rst
+    prac_errors/errors_random.rst
+    prac_errors/errors_resolution_limitation.rst
+    prac_errors/errors_technique_variation.rst
+    prac_errors/errors_environmental_variation.rst
 
 
 
@@ -181,9 +181,9 @@ PC-Science-and-language
     :caption: 🧪⛔ Prac Personal Errors
     :numbered:
 
-    pracs/errors_personal.rst
-    pracs/errors_operator.rst
-    pracs/errors_recording.rst
+    prac_errors/errors_personal.rst
+    prac_errors/errors_operator.rst
+    prac_errors/errors_recording.rst
 
 
 

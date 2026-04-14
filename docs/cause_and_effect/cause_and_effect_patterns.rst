@@ -118,8 +118,8 @@ Patterns
 ----
 
 
-Ways to write about cause and effect in science
--------------------------------------------------------------
+More patterns
+--------------------
 
 **R → O Patterns**
 
@@ -161,11 +161,6 @@ Ways to write about cause and effect in science
     - nomR produces nomO.
     - nomR generates nomO.
     - nomR brings about nomO.
-
-*Relative clause (nomR → nomO)*
-    - nomR, which causes nomO.
-    - nomR, which leads to nomO.
-    - nomR, which results in nomO.
 
 *Noun (nomR → nomO)*
     - The result of nomR is nomO.
