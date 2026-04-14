@@ -68,7 +68,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: ⚙️ Cause and Effect
+    :caption: ⚙️ Cause - Effect
     :numbered:
 
     language/cause_and_effect.rst
