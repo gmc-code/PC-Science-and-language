@@ -10,8 +10,6 @@ Cause and effect questions
 
     | **R:** Vinegar reacts with baking soda to form carbon dioxide gas.
     | **O:** Bubbles of gas appear rapidly in the mixture.
-    | **nomR:** The reaction of vinegar with baking soda to form carbon dioxide gas.
-    | **nomO:** The rapid appearance of bubbles in the mixture.
 
     | **Task:** Write R and O as two separate sentences to show an implied causal link.
     | **Scaffold:**
@@ -38,8 +36,6 @@ Cause and effect questions
 
     | **R:** The air inside the container expands when heated.
     | **O:** The pressure inside the container increases.
-    | **nomR:** The expansion of the air inside the container.
-    | **nomO:** The increase in pressure inside the container.
 
     | **Task:** Combine R → O using a text connective.
     | **Scaffold:**
@@ -65,8 +61,6 @@ Cause and effect questions
 
     | **R:** Calcium ions combine with carbonate ions to form an insoluble solid.
     | **O:** A cloudy white precipitate appears in the solution.
-    | **nomR:** The combination of calcium ions with carbonate ions to form an insoluble solid.
-    | **nomO:** The appearance of a cloudy white precipitate in the solution.
 
     | **Task:** Use a conjunction to show cause and effect.
     | **Scaffold:**
@@ -94,8 +88,6 @@ Cause and effect questions
 
     | **R:** The water vapour cools rapidly when it touches a cold surface.
     | **O:** Tiny droplets of liquid water form.
-    | **nomR:** The rapid cooling of warm water vapour on a cold surface.
-    | **nomO:** The formation of tiny droplets of liquid water.
 
     | **Task:** Use a preposition to express the cause.
     | **Scaffold:**
@@ -110,8 +102,9 @@ Cause and effect questions
 
             .. tab-item:: Model Answer
 
-                Due to the rapid cooling of warm water vapour on a cold
-                surface, tiny droplets of liquid water form.
+                | **nomR:** The rapid cooling of warm water vapour on contact with a cold surface.
+
+                Due to the rapid cooling of warm water vapour on contact with a cold surface, tiny droplets of liquid water form.
 
 
 
@@ -122,8 +115,6 @@ Cause and effect questions
 
     | **R:** The methane gas undergoes rapid combustion in oxygen.
     | **O:** A bright flame is produced.
-    | **nomR:** The rapid combustion of methane gas in oxygen.
-    | **nomO:** The production of a bright flame.
 
     | **Task:** Use a verb to express the causal relationship.
     | **Scaffold:**
@@ -138,6 +129,9 @@ Cause and effect questions
 
             .. tab-item:: Model Answer
 
+                | **nomR:** The rapid combustion of methane gas in oxygen.
+                | **nomO:** The production of a bright flame.
+
                 The rapid combustion of methane gas in oxygen causes the
                 production of a bright flame.
 
@@ -149,13 +143,10 @@ Cause and effect questions
 
     | **R:** The food colouring spreads evenly through the water.
     | **O:** The colour becomes lighter throughout the water.
-    | **nomR:** The even spreading of food colouring through the water.
-    | **nomO:** The lightening of colour throughout the water.
 
     | **Task:** Use a noun phrase to express the causal relationship.
     | **Scaffold:**
     | The result of nomR is nomO.
-    | The cause of nomO is nomR.
 
     .. dropdown::
         :icon: codescan
@@ -165,6 +156,9 @@ Cause and effect questions
         .. tab-set::
 
             .. tab-item:: Model Answer
+
+                | **nomR:** The even spreading of food colouring through the water.
+                | **nomO:** The lightening of colour throughout the water.
 
                 The result of the even spreading of food colouring through
                 the water is the lightening of colour throughout the water.
@@ -177,8 +171,6 @@ Cause and effect questions
 
     | **R:** The acid dissolves part of the magnesium.
     | **O:** Hydrogen gas is released.
-    | **nomR:** The dissolving of part of the magnesium by hydrochloric acid.
-    | **nomO:** The release of hydrogen gas.
 
     | **Task:** Explain O using "because".
     | **Scaffold:**
@@ -204,8 +196,6 @@ Cause and effect questions
 
     | **R:** The wax softens and begins to melt.
     | **O:** A pool of liquid wax forms.
-    | **nomR:** The softening and melting of the solid wax.
-    | **nomO:** The formation of a pool of liquid wax.
 
     | **Task:** Use a verb pattern to show that O results from R.
     | **Scaffold:**
@@ -220,6 +210,9 @@ Cause and effect questions
 
             .. tab-item:: Model Answer
 
+                | **nomR:** The softening and melting of the solid wax.
+                | **nomO:** The formation of a pool of liquid wax.
+
                 The formation of a pool of liquid wax results from the
                 softening and melting of the solid wax.
 
@@ -231,8 +224,6 @@ Cause and effect questions
 
     | **R:** The iron undergoes oxidation in the presence of oxygen and moisture.
     | **O:** A reddish brown rust layer forms on the surface of the iron.
-    | **nomR:** The oxidation of iron in the presence of oxygen and moisture.
-    | **nomO:** The formation of a reddish brown rust layer.
 
     | **Task:** Use a noun phrase to explain the cause.
     | **Scaffold:**
@@ -247,6 +238,9 @@ Cause and effect questions
         .. tab-set::
 
             .. tab-item:: Model Answer
+
+                | **nomR:** The oxidation of iron in the presence of oxygen and moisture.
+                | **nomO:** The formation of a reddish brown rust layer.
 
                 The reason for the formation of a reddish brown rust layer
                 is the oxidation of iron in the presence of oxygen and
