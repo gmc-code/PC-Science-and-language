@@ -36,7 +36,7 @@ PC-Science-and-language
     :caption: 🔧 Nominalisation
     :numbered:
 
-    language/nominalisation.rst
+    language/nominalisation_verbs.rst
 
     earth/nominalisations_earth.rst
     earth/nominalisations2_earth.rst
