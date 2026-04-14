@@ -71,19 +71,15 @@ to specify when an action is valid, necessary, or to be avoided.*
 
     .. code-block:: none
 
-        as long as     in the event that     only if     provided that
+        as long as     in the event that     only if
 
     1. **Chemistry:** Light the Bunsen burner **__________** the gas tap
        is fully open — a partial opening will produce an unsafe flame.
 
-    2. **Biology:** Record your results in the shared class table
-       **__________** your teacher has given you permission to leave
-       your bench.
+    2. **Physics:** Switch off the power pack immediately **__________**
+       the wires have become hot.
 
-    3. **Physics:** Switch off the power pack immediately **__________**
-       the wires become hot or you notice a burning smell.
-
-    4. **Earth Science:** Keep stirring the mixture **__________** the
+    3. **Earth Science:** Keep stirring the mixture **__________** the
        powder remains visible at the bottom of the beaker.
 
     .. dropdown:: Check Answers
@@ -95,27 +91,68 @@ to specify when an action is valid, necessary, or to be avoided.*
 
             .. tab-item:: Model Answer
 
-                1. **only if** — a strict, permanent safety rule that
-                   applies every time; no other flame condition is
-                   acceptable.
+                1. **only if** — a strict requirement for a safe flame.
 
-                2. **provided that** — a pre-agreed condition set by the
-                   teacher for this specific task; it is not a general
-                   rule but a requirement for this occasion.
+                2. **in the event that** — a reactive response to a
+                   specific unplanned hazard.
 
-                3. **in the event that** — a reactive response to a
-                   specific unplanned hazard; the switch-off only happens
-                   *because* something unexpected has occurred.
-
-                4. **as long as** — stirring must continue throughout the
+                3. **as long as** — stirring must continue throughout the
                    duration; the action stops only when the condition
                    is no longer met.
 
 
+----
 
+.. admonition:: Exercise — Conjunctions of Condition: Multiple Choice
+    :class: questions
 
+    Circle the most appropriate conjunction to complete each sentence.
 
+    1. **Biology:** Begin the dissection __________ your teacher has
+       handed out the safety instructions and checked your workstation.
 
+       a) if
+       b) provided that
+       c) unless
+       d) whether or not
 
+    2. **Chemistry:** Label your test tube with your name and the
+       substance inside __________ you plan to use it straight away
+       or leave it until the next lesson.
+
+       a) if
+       b) provided that
+       c) unless
+       d) whether or not
+
+    3. **Physics:** Switch on the fan __________ the temperature
+       of the resistor rises above 40 °C during the investigation.
+
+       a) if
+       b) provided that
+       c) unless
+       d) whether or not
+
+    4. **Earth Science:** Do not collect the rock sample __________
+       you are wearing protective gloves and safety goggles.
+
+       a) if
+       b) provided that
+       c) unless
+       d) whether or not
+
+    .. dropdown:: Check Answers
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                1. **b) provided that**
+                2. **d) whether or not**
+                3. **a) if**
+                4. **c) unless**
 
 
