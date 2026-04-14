@@ -1,13 +1,13 @@
 ======================================================
-Procedures: Dependent clauses - Cause
+Procedures: Cause
 ======================================================
 
-Conjunctions of Cause
+Subordinate Conjunctions of Cause
 -------------------------------
 
 *Used to highlight hazards or prevent equipment damage.*
 
-The subordinating conjunctions of cause can be categorized based on whether they focus on the  **Reason** (the "Why"; the existing threat) or **Purpose** (the "Goal"; the intended outcome).
+The subordinate conjunctions of cause can be categorized based on whether they focus on the  **Reason** (the "Why"; the existing threat) or **Purpose** (the "Goal"; the intended outcome).
 
 ----
 
@@ -16,6 +16,8 @@ Conjunctions of Reason (The "Why")
 
 *These explain the existing cause, risk, or rationale behind a safety rule.*
 
+**Conjunctions**
+
 - **As:** Links a dangerous state to a required action.
 - **As a result of:** Describes an outcome that follows from a prior condition.
 - **Because:** Explains, for the first time, the *specific chemical or physical mechanism* that makes an instruction necessary.
@@ -23,6 +25,7 @@ Conjunctions of Reason (The "Why")
 - **In case:** Anticipates a *hypothetical future risk* and justifies a precautionary action.
 - **Since:** Provides the rationale for an established safety rule based on an *already established, widely accepted property* of the material, component, or system.
 
+**Examples**
 
 1. **Chemistry:** Handle the glass rod carefully **as** it becomes extremely brittle after heating.
 2. **Chemistry:** Evacuate the fume cupboard and ventilate the room immediately **as a result of** any detected rise in hydrogen sulphide above 1 part per million (ppm).
@@ -183,6 +186,8 @@ Conjunctions of Purpose (The Goal)
 *Each functional meaning has both a formal and an everyday register — choosing
 the right one depends on whether you are writing a formal laboratory protocol, or a general instruction.*
 
+**Conjunctions**
+
 .. list-table::
    :header-rows: 1
    :widths: 20 20 60
@@ -196,6 +201,10 @@ the right one depends on whether you are writing a formal laboratory protocol, o
    * - **So as to**
      - **In order to**
      - Introduces a purpose clause with an infinitive (base verb follows).
+
+
+
+**Examples**
 
 *Everyday register:*
 

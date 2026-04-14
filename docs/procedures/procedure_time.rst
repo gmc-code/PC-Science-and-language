@@ -1,25 +1,29 @@
 ======================================================
-Procedures: Dependent clauses - Time
+Procedures: Time
 ======================================================
 
 
-Conjunctions of Time
--------------------------------
+Subordinate Conjunctions of Time
+-----------------------------------
 
 *Used to manage the chronological flow and duration of the experiment.*
 
-The subordinating conjunctions of time can be categorized based on whether they specify a point in time (**When?**), a duration (**How long?**), or a frequency (**How often?**).
+The subordinate conjunctions of time can be categorized based on whether they specify a point in time (**When?**), a duration (**How long?**), or a frequency (**How often?**).
 
 When? (Point in Time / Sequence)
 ------------------------------------
 
 *Used to mark a specific trigger or the order of operations.*
 
+**Conjunctions**
+
 * **After:** Indicates the next step in a sequence.
 * **As soon as:** Indicates an immediate requirement after a trigger.
 * **Before:** Indicates a necessary preparatory step.
 * **Once:** Shows that a previous step must be completed first.
 * **When:** Marks the exact moment an action is required.
+
+**Examples**
 
 1.  **Physics:** Connect the voltmeter **after** having completed the series part of the circuit. (Purpose: Sequence)
 2.  **Biology:** Record the results **as soon as** the colour change is observed. (Purpose: Immediate Timing)
@@ -78,11 +82,15 @@ How Long? (Duration / Simultaneity)
 
 *Used to define the length of an action or overlapping processes.*
 
+**Conjunctions**
+
 * **As:** Describes an action happening during another process.
 * **As long as:** Indicates a condition that must be maintained over time.
 * **From the moment:** Marks the starting point in time of a process.
 * **Until:** Defines the end-point or duration of an action.
 * **While:** Shows actions that must happen simultaneously.
+
+**Examples**
 
 1.  **Biology:** Observe the slide **as** the iodine solution diffuses through the membrane. (Purpose: Simultaneous Timing)
 2.  **Physics:** Maintain the current at 0.5 amperes **as long as** the temperature remains below 50°C. (Purpose: Maintained Condition)
@@ -140,8 +148,12 @@ How Often? (Frequency / Recurrence)
 
 *Used to indicate repeated actions or contingencies.*
 
+**Conjunctions**
+
 * **Every time:** Marks a requirement for each repeated action.
 * **Whenever:** Indicates a recurring time or contingency.
+
+**Examples**
 
 1.  **Chemistry:** Rinse the glass rod with distilled water **every time** a different solution is stirred. (Purpose: Repeated Timing)
 2.  **Chemistry:** Neutralize any spills with sodium bicarbonate **whenever** a strong acid is dropped. (Purpose: Contingency)

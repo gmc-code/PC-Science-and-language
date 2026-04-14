@@ -1,13 +1,15 @@
 ======================================================
-Procedures: Dependent clauses - Condition
+Procedures: Condition
 ======================================================
 
-Conjunctions of Condition
---------------------------------
+Subordinate Conjunctions of Condition
+-----------------------------------------
 
 *Used to introduce a requirement, restriction, or circumstance that must be
 met for the main action to apply. Common in procedural and scientific writing
 to specify when an action is valid, necessary, or to be avoided.*
+
+**Conjunctions**
 
 .. list-table::
     :header-rows: 1
@@ -46,6 +48,8 @@ to specify when an action is valid, necessary, or to be avoided.*
     * - **Whether (or not)**
       - Introduces a choice between two conditions; the action applies regardless
       - Neutral
+
+**Examples**
 
 1.  **Biology:** Continue the incubation **as long as** the temperature remains within the optimal range of 36 to 38 °C.
 2.  **Biology:** Increase the light intensity **if** the specimen appears too dark under high power.

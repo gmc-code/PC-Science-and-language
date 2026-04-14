@@ -110,10 +110,10 @@ PC-Science-and-language
 
     procedures/procedure_transitivity.rst
     procedures/procedure_dependent_clauses.rst
-    procedures/procedure_dependent_clauses_time.rst
-    procedures/procedure_dependent_clauses_manner.rst
-    procedures/procedure_dependent_clauses_cause.rst
-    procedures/procedure_dependent_clauses_condition.rst
+    procedures/procedure_time.rst
+    procedures/procedure_manner.rst
+    procedures/procedure_cause.rst
+    procedures/procedure_condition.rst
 
 
 .. toctree::
