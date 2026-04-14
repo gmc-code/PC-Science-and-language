@@ -11,7 +11,7 @@ Cause and effect questions
     | **R:** Vinegar reacts with baking soda to form carbon dioxide gas.
     | **O:** Bubbles of gas appear rapidly in the mixture.
 
-    | **Task:** Write R and O as two separate sentences to show an implied causal link.
+    | **Task:** Use the scaffold to explain O in terms of R.
     | **Scaffold:**
     | R.
     | O.
@@ -37,7 +37,7 @@ Cause and effect questions
     | **R:** The air inside the container expands when heated.
     | **O:** The pressure inside the container increases.
 
-    | **Task:** Combine R → O using a text connective.
+    | **Task:** Use the scaffold to explain O in terms of R.
     | **Scaffold:**
     | R. As a result, O.
 
@@ -62,7 +62,7 @@ Cause and effect questions
     | **R:** Calcium ions combine with carbonate ions to form an insoluble solid.
     | **O:** A cloudy white precipitate appears in the solution.
 
-    | **Task:** Use a conjunction to show cause and effect.
+    | **Task:** Use the scaffold to explain O in terms of R.
     | **Scaffold:**
     | R hence O.
 
@@ -89,7 +89,7 @@ Cause and effect questions
     | **R:** The water vapour cools rapidly when it touches a cold surface.
     | **O:** Tiny droplets of liquid water form.
 
-    | **Task:** Use a preposition to express the cause.
+    | **Task:** Use the scaffold to explain O in terms of R.
     | **Scaffold:**
     | Due to nomR, O.
 
@@ -116,7 +116,7 @@ Cause and effect questions
     | **R:** The methane gas undergoes rapid combustion in oxygen.
     | **O:** A bright flame is produced.
 
-    | **Task:** Use a verb to express the causal relationship.
+    | **Task:** Use the scaffold to explain O in terms of R.
     | **Scaffold:**
     | nomR causes nomO.
 
@@ -144,7 +144,7 @@ Cause and effect questions
     | **R:** The food colouring spreads evenly through the water.
     | **O:** The colour becomes lighter throughout the water.
 
-    | **Task:** Use a noun phrase to express the causal relationship.
+    | **Task:** Use the scaffold to explain O in terms of R.
     | **Scaffold:**
     | The result of nomR is nomO.
 
@@ -172,7 +172,7 @@ Cause and effect questions
     | **R:** The acid dissolves part of the magnesium.
     | **O:** Hydrogen gas is released.
 
-    | **Task:** Explain O using "because".
+    | **Task:** Use the scaffold to explain O in terms of R.
     | **Scaffold:**
     | O because R.
 
@@ -197,7 +197,7 @@ Cause and effect questions
     | **R:** The wax softens and begins to melt.
     | **O:** A pool of liquid wax forms.
 
-    | **Task:** Use a verb pattern to show that O results from R.
+    | **Task:** Use the scaffold to explain O in terms of R.
     | **Scaffold:**
     | nomO results from nomR.
 
@@ -225,10 +225,9 @@ Cause and effect questions
     | **R:** The iron undergoes oxidation in the presence of oxygen and moisture.
     | **O:** A reddish brown rust layer forms on the surface of the iron.
 
-    | **Task:** Use a noun phrase to explain the cause.
+    | **Task:** Use the scaffold to explain O in terms of R.
     | **Scaffold:**
     | The reason for nomO is nomR.
-    | The cause of nomO is nomR.
 
     .. dropdown::
         :icon: codescan
