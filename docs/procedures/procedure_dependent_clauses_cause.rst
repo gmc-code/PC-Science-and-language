@@ -272,7 +272,7 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
     1. **Biology:** Seal the petri dishes with Parafilm **so that** airborne fungal spores do not contaminate the culture.
 
-    .. grid:: 2
+    .. grid:: 4
         :gutter: 2
 
         .. grid-item::
@@ -282,7 +282,7 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
     2. **Chemistry:** Do not inhale the vapors directly **since** the compound is a known respiratory irritant.
 
-    .. grid:: 2
+    .. grid:: 4
         :gutter: 2
 
         .. grid-item::
@@ -292,7 +292,7 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
     3. **Physics:** Wear insulated gloves **in order to** prevent accidental electrical discharge while handling the Van de Graaff generator.
 
-    .. grid:: 2
+    .. grid:: 4
         :gutter: 2
 
         .. grid-item::
@@ -302,7 +302,7 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
     4. **Earth Science:** Wear safety goggles **as** the risk of flying rock fragments is high when using a rock hammer.
 
-    .. grid:: 2
+    .. grid:: 4
         :gutter: 2
 
         .. grid-item::
@@ -312,7 +312,7 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
     5. **Chemistry:** Keep a neutralizing agent nearby **in case** a corrosive liquid is spilled during the titration.
 
-    .. grid:: 2
+    .. grid:: 4
         :gutter: 2
 
         .. grid-item::
