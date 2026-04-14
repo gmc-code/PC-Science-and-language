@@ -101,6 +101,9 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 .. admonition:: As vs. Since
     :class: questions
 
+    Fill in the gaps with the most appropriate conjunction:
+    **as** or **since**.
+
     i. **Chemistry:** Do not leave the sodium exposed to open air __________ it reacts spontaneously with atmospheric moisture — you can see the surface already beginning to discolour.
 
     ii. **Biology:** Autoclave all glassware before use __________ non-sterile equipment is a well-established source of culture contamination in any microbiology laboratory.
@@ -123,6 +126,9 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 .. admonition:: Because vs. Since
     :class: questions
 
+    Fill in the gaps with the most appropriate conjunction:
+    **because** or **since**.
+
     iii. **Physics:** Do not touch the transformer casing during operation __________ the outer shell accumulates a residual static charge that is not discharged by simply switching the unit off.
 
     iv. **Chemistry:** Store flammable solvents away from ignition sources __________ their vapours can ignite at room temperature.
@@ -144,6 +150,9 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
 .. admonition:: As vs. Because
     :class: questions
+
+    Fill in the gaps with the most appropriate conjunction:
+    **as** or **because**.
 
     v. **Earth Science:** Secure all core samples in padded cases immediately __________ the extraction process leaves the rock under internal stress that makes it prone to sudden fracture.
 
@@ -223,33 +232,21 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
     **Group A: So that / In order that**
 
-    1. *(Everyday → Formal)* **Chemistry:** Seal the reaction vessel
-        immediately so that no volatile vapours escape into the laboratory
-        atmosphere.
+    1. *(Everyday → Formal)* **Chemistry:** Seal the reaction vessel immediately so that no volatile vapours escape into the laboratory atmosphere.
 
-    2. *(Formal → Everyday)* **Biology:** Centrifuge the sample at low
-        speed first in order that the denser cellular material separates
-        before the final high-speed spin is performed.
+    2. *(Formal → Everyday)* **Biology:** Centrifuge the sample at low speed first in order that the denser cellular material separates before the final high-speed spin is performed.
 
     **Group B: So as to / In order to**
 
-    3. *(Everyday → Formal)* **Physics:** Earth the apparatus before
-        connecting the power supply so as to prevent residual charge from
-        causing an unexpected discharge.
+    3. *(Everyday → Formal)* **Physics:** Earth the apparatus before connecting the power supply so as to prevent residual charge from causing an unexpected discharge.
 
-    4. *(Formal → Everyday)* **Earth Science:** Collect sediment samples
-        from at least three separate locations in order to ensure the data
-        is representative of the wider geological formation.
+    4. *(Formal → Everyday)* **Earth Science:** Collect sediment samples from at least three separate locations in order to ensure the data is representative of the wider geological formation.
 
     **Group C: For fear that / Lest**
 
-    5. *(Everyday → Formal)* **Biology:** Store all bacterial cultures in
-        a sealed secondary container for fear that a broken tube releases
-        viable material into the refrigerator.
+    5. *(Everyday → Formal)* **Biology:** Store all bacterial cultures in a sealed secondary container for fear that a broken tube releases viable material into the refrigerator.
 
-    6. *(Formal → Everyday)* **Chemistry:** Label the reagent bottles
-        immediately after use lest an unlabelled container be mistaken for
-        a different compound by another laboratory user.
+    6. *(Formal → Everyday)* **Chemistry:** Label the reagent bottles immediately after use lest an unlabelled container be mistaken for a different compound by another laboratory user.
 
     .. dropdown:: Check Answers
         :icon: codescan
