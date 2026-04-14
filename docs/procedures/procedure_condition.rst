@@ -43,7 +43,7 @@ to specify when an action is valid, necessary, or to be avoided.*
       - Stipulates an exception — the action applies in all cases *except* the stated condition
       - Everyday
     * - **Whenever**
-      - Indicates the action applies each time a condition occurs (frequency-base| d.
+      - Indicates the action applies each time a condition occurs (frequency-based).
       - Everyday
     * - **Whether (or not)**
       - Introduces a choice between two conditions; the action applies regardless

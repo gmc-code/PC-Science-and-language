@@ -72,6 +72,7 @@ PC-Science-and-language
     :numbered:
 
     language/cause_and_effect.rst
+    language/cause_and_effect_ways.rst
     language/complex_sentences.rst
 
 
