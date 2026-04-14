@@ -196,10 +196,6 @@ the right one depends on whether you are writing a formal laboratory protocol, o
    * - **So as to**
      - **In order to**
      - Introduces a purpose clause with an infinitive (base verb follows).
-   * - **For fear that**
-     - **Lest**
-     - Introduces a precaution against a specific feared negative outcome.
-
 
 *Everyday register:*
 
@@ -207,46 +203,37 @@ the right one depends on whether you are writing a formal laboratory protocol, o
    does not build up and force the stopper free during heating.
 2. **Biology:** Tilt the microscope slide at a shallow angle **so as to**
    avoid trapping air bubbles beneath the cover slip.
-3. **Earth Science:** Double-bag all soil samples **for fear that** the
-   outer bag is punctured during transport and the sample is contaminated.
 
 *Formal register:*
 
-4. **Chemistry:** Keep the condenser running throughout the entire
+1. **Chemistry:** Keep the condenser running throughout the entire
    distillation **in order that** vapour is fully recovered and solvent
    loss is minimised.
-5. **Physics:** Position the blast shield directly in front of the
+2. **Physics:** Position the blast shield directly in front of the
    capacitor bank **in order to** deflect any fragments in the event of
    a catastrophic discharge.
-6. **Biology:** Incinerate all cultures before disposal **lest** viable
-   pathogenic material enter the waste stream.
 
 
-.. admonition:: Exercise — Conjunctions of Purpose: Register Conversion
+
+.. admonition:: Exercise — Conjunctions of Purpose: Matching Clauses
     :class: questions
 
-    Rewrite each sentence by replacing the conjunction with its register
-    equivalent given in parentheses. If the sentence is in the **everyday register**, convert it
-    to **formal**; if it is in the **formal register**, convert it to
-    **everyday**. Make any necessary grammatical adjustments.
+    Match each **independent clause** (A-D) with the correct **dependent clause** (1-4)
+    by writing the appropriate number in the blank.
 
-    **Group A: So that / In order that**
+    **Independent Clauses**
 
-    1. *(Everyday → Formal)* **Chemistry:** Seal the reaction vessel immediately **so that** no volatile vapours escape into the laboratory atmosphere.
+    A. Seal the reaction vessel immediately **so that** ___
+    B. Centrifuge the sample at low speed first **in order that** ___
+    C. Earth the apparatus before connecting the power supply **in order to** ___
+    D. Collect sediment samples from at least three separate locations **so as to** ___
 
-    2. *(Formal → Everyday)* **Biology:** Centrifuge the sample at low speed first **in order that** the denser cellular material separates before the final high-speed spin is performed.
+    **Dependent Clauses**
 
-    **Group B: So as to / In order to**
-
-    3. *(Everyday → Formal)* **Physics:** Earth the apparatus before connecting the power supply **so as to** prevent residual charge from causing an unexpected discharge.
-
-    4. *(Formal → Everyday)* **Earth Science:** Collect sediment samples from at least three separate locations **in order to** ensure the data is representative of the wider geological formation.
-
-    **Group C: For fear that / Lest**
-
-    5. *(Everyday → Formal)* **Biology:** Store all bacterial cultures in a sealed secondary container **for fear that** a broken tube releases viable material into the refrigerator.
-
-    6. *(Formal → Everyday)* **Chemistry:** Label the reagent bottles immediately after use **lest** an unlabelled container be mistaken for a different compound by another laboratory user.
+    1. … prevent residual charge from causing an unexpected discharge.
+    2. … no volatile vapours escape into the laboratory atmosphere.
+    3. … ensure the data is representative of the wider geological formation.
+    4. … the denser cellular material separates before the final high-speed spin is performed.
 
     .. dropdown:: Check Answers
         :icon: codescan
@@ -257,36 +244,24 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
             .. tab-item:: Model Answer
 
-                1. Seal the reaction vessel immediately **in order that** no
-                volatile vapours escape into the laboratory atmosphere.
-                *(No other grammatical changes needed.)*
+                A → 2
+                    Seal the reaction vessel immediately **so that** no volatile
+                    vapours escape into the laboratory atmosphere.
 
-                2. Centrifuge the sample at low speed first **so that** the
-                denser cellular material separates before the final
-                high-speed spin is performed.
-                *(No other grammatical changes needed.)*
+                B → 4
+                    Centrifuge the sample at low speed first **in order that**
+                    the denser cellular material separates before the final
+                    high-speed spin is performed.
 
-                3. Earth the apparatus before connecting the power supply
-                **in order to** prevent residual charge from causing an
-                unexpected discharge.
-                *(No other grammatical changes needed.)*
+                C → 1
+                    Earth the apparatus before connecting the power supply
+                    **in order to** prevent residual charge from causing an
+                    unexpected discharge.
 
-                4. Collect sediment samples from at least three separate
-                locations **so as to** ensure the data is representative
-                of the wider geological formation.
-                *(No other grammatical changes needed.)*
-
-                5. Store all bacterial cultures in a sealed secondary
-                container **lest** a broken tube release viable material
-                into the refrigerator.
-                *(Note: the verb changes from "releases" to "release" —
-                lest traditionally takes the subjunctive form.)*
-
-                6. Label the reagent bottles immediately after use **for
-                fear that** an unlabelled container is mistaken for a
-                different compound by another laboratory user.
-                *(Note: the verb changes from "be mistaken" to "is
-                mistaken" — for fear that takes the indicative form.)*
+                D → 3
+                    Collect sediment samples from at least three separate
+                    locations **so as to** ensure the data is representative
+                    of the wider geological formation.
 
 ----
 
