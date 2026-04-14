@@ -73,7 +73,8 @@ PC-Science-and-language
 
     language/cause_and_effect_patterns.rst
     language/cause_and_effect_examples.rst
-    language/cause_and_effect_ways.rst
+    language/cause_and_effect_questions.rst
+
     .. language/complex_sentences.rst
 
 

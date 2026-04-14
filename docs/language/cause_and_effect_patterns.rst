@@ -115,4 +115,86 @@ Patterns
         - The cause of nomO is nomR
 
 
+----
+
+
+Ways to write about cause and effect in science
+-------------------------------------------------------------
+
+**R → O Patterns**
+
+*Implied logical connection*
+    R. O.
+
+*Text connective*
+    - R. As a result, O.
+    - R. Consequently, O.
+    - R. Therefore, O.
+    - R. For this reason, O.
+    - R. Thus, O.
+    - R. Hence, O.
+    - R. This means that O.
+
+*Conjunction*
+    - R, so O.
+    - R, and so O.
+    - R; hence, O.
+    - R; therefore, O.
+
+*Subordinating conjunction*
+    - Given that R, O.
+    - Seeing that R, O.
+    - In that R, O.
+
+*Preposition*
+    - Because of nomR, O.
+    - Due to nomR, O.
+    - As a result of nomR, O.
+    - As a consequence of nomR, O.
+    - Owing to nomR, O.
+    - On account of nomR, O.
+
+*Verb (nomR → nomO)*
+    - nomR causes nomO.
+    - nomR results in nomO.
+    - nomR leads to nomO.
+    - nomR produces nomO.
+    - nomR generates nomO.
+    - nomR brings about nomO.
+
+*Relative clause (nomR → nomO)*
+    - nomR, which causes nomO.
+    - nomR, which leads to nomO.
+    - nomR, which results in nomO.
+
+*Noun (nomR → nomO)*
+    - The result of nomR is nomO.
+    - The effect of nomR is nomO.
+    - The consequence of nomR is nomO.
+    - The outcome of nomR is nomO.
+
+**O → R Patterns**
+
+*Conjunction*
+    - O because R.
+    - O since R.
+    - O as R.
+
+*Verb (nomO → nomR)*
+    - nomO results from nomR.
+    - nomO occurs as a consequence of nomR.
+    - nomO is due to nomR.
+    - nomO is caused by nomR.
+    - nomO is produced by nomR.
+    - nomO stems from nomR.
+    - nomO is brought about by nomR.
+
+*Noun (nomO → nomR)*
+    - The reason for nomO is nomR.
+    - The cause of nomO is nomR.
+    - The explanation for nomO is nomR.
+
+
+
+
 
