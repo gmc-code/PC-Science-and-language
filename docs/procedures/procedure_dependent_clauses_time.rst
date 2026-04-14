@@ -261,3 +261,100 @@ How Often? (Frequency / Recurrence)
                 5. **(C) Every time** — Ensures a mandatory requirement is repeated for every cycle.
 
 
+----
+
+.. admonition:: Exercise: Time, Duration, or Frequency?
+    :class: questions
+
+    Identify whether the bolded conjunction specifies a point in time (**When?**), a duration (**How long?**), or a frequency (**How often?**).
+
+    1. **Biology:** Record the temperature of the water bath **as soon as** the first bubbles appear on the leaf surface.
+
+    .. grid:: 3
+        :gutter: 2
+
+        .. grid-item::
+            (A) When?
+        .. grid-item::
+            (B) How long?
+        .. grid-item::
+            (C) How often?
+
+    2. **Physics:** Maintain the connection to the battery **as long as** the electromagnet is required to hold the metal washers.
+
+    .. grid:: 3
+        :gutter: 2
+
+        .. grid-item::
+            (A) When?
+        .. grid-item::
+            (B) How long?
+        .. grid-item::
+            (C) How often?
+
+    3. **Chemistry:** Rinse the thermometer with deionized water **every time** you move it between the two different beakers.
+
+    .. grid:: 3
+        :gutter: 2
+
+        .. grid-item::
+            (A) When?
+        .. grid-item::
+            (B) How long?
+        .. grid-item::
+            (C) How often?
+
+    4. **Earth Science:** Do not begin the erosion simulation **until** the sand has been leveled perfectly across the tray.
+
+    .. grid:: 3
+        :gutter: 2
+
+        .. grid-item::
+            (A) When?
+        .. grid-item::
+            (B) How long?
+        .. grid-item::
+            (C) How often?
+
+    5. **Physics:** Note the position of the trolley **when** the stopwatch reaches exactly five seconds.
+
+    .. grid:: 3
+        :gutter: 2
+
+        .. grid-item::
+            (A) When?
+        .. grid-item::
+            (B) How long?
+        .. grid-item::
+            (C) How often?
+
+    6. **Biology:** Check the heart rate of the daphnia **whenever** a new drop of caffeine solution is added to the slide.
+
+    .. grid:: 3
+        :gutter: 2
+
+        .. grid-item::
+            (A) When?
+        .. grid-item::
+            (B) How long?
+        .. grid-item::
+            (C) How often?
+
+    .. dropdown:: Check Answers
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                1. **(A) When?** — "As soon as" marks a specific trigger point in a sequence.
+                2. **(B) How long?** — "As long as" describes a duration based on a condition.
+                3. **(C) How often?** — "Every time" indicates a repeated requirement.
+                4. **(B) How long?** — "Until" defines the duration or end-point of a wait.
+                5. **(A) When?** — "When" marks an exact moment in time.
+                6. **(C) How often?** — "Whenever" indicates a recurring contingency.
+
+
+

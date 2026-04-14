@@ -290,40 +290,73 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
 ---
 
+
 .. admonition:: Exercise: Reason vs. Purpose
-   :class: questions
+    :class: questions
 
-   Identify whether the bolded conjunction introduces a **Reason** (explaining a risk) or a **Purpose** (stating a goal to avoid a risk).
+    Identify whether the bolded conjunction introduces a **Reason** (explaining an existing risk/cause) or a **Purpose** (stating a goal to avoid a potential risk).
 
-   1. **Biology:** Seal the petri dishes with Parafilm **lest** airborne fungal spores contaminate the culture.
+    1. **Biology:** Seal the petri dishes with Parafilm **so that** airborne fungal spores do not contaminate the culture.
 
-   .. grid:: 2
-      :gutter: 2
+    .. grid:: 2
+        :gutter: 2
 
-      .. grid-item::
-         (A) Reason
-      .. grid-item::
-         (B) Purpose
+        .. grid-item::
+            (A) Reason
+        .. grid-item::
+            (B) Purpose
 
-   2. **Chemistry:** Do not inhale the vapors directly **since** the compound is a known respiratory irritant.
+    2. **Chemistry:** Do not inhale the vapors directly **since** the compound is a known respiratory irritant.
 
-   .. grid:: 2
-      :gutter: 2
+    .. grid:: 2
+        :gutter: 2
 
-      .. grid-item::
-         (A) Reason
-      .. grid-item::
-         (B) Purpose
+        .. grid-item::
+            (A) Reason
+        .. grid-item::
+            (B) Purpose
 
-   .. dropdown:: Check Answers
-      :icon: codescan
-      :color: primary
-      :class-container: sd-dropdown-container
+    3. **Physics:** Wear insulated gloves **in order to** prevent accidental electrical discharge while handling the Van de Graaff generator.
 
-      .. tab-set::
+    .. grid:: 2
+        :gutter: 2
 
-         .. tab-item:: Model Answer
+        .. grid-item::
+            (A) Reason
+        .. grid-item::
+            (B) Purpose
 
-            1. **(B) Purpose** — "Lest" defines the goal of avoiding contamination.
-            2. **(A) Reason** — "Since" explains the inherent dangerous quality of the compound.
+    4. **Earth Science:** Wear safety goggles **as** the risk of flying rock fragments is high when using a rock hammer.
 
+    .. grid:: 2
+        :gutter: 2
+
+        .. grid-item::
+            (A) Reason
+        .. grid-item::
+            (B) Purpose
+
+    5. **Chemistry:** Keep a neutralizing agent nearby **in case** a corrosive liquid is spilled during the titration.
+
+    .. grid:: 2
+        :gutter: 2
+
+        .. grid-item::
+            (A) Reason
+        .. grid-item::
+            (B) Purpose
+
+    .. dropdown:: Check Answers
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                1. **(B) Purpose** — "So that" defines the goal of avoiding contamination.
+                2. **(A) Reason** — "Since" explains the inherent dangerous quality of the compound.
+                3. **(B) Purpose** — "In order to" states the specific goal of the safety action.
+                4. **(A) Reason** — "As" identifies the underlying cause or existing risk factor.
+                5. **(B) Purpose** — "In case" prepares for a specific potential event or goal.
