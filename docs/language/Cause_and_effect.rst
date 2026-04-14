@@ -7,43 +7,54 @@ Cause-and-effect relationships in scientific writing can be expressed in two dir
 - from a **reason (R)** to the **observation (O)** it produces (**R → O**)
 - from an **observation (O)** to the **reason (R)** that explains it (**O → R**)
 
-The material below illustrates both pathways and shows how each can be developed into more formal, **nominalised** constructions for precise scientific explanation.
+Each of thesecan be developed into more formal, **nominalised** constructions for precise scientific explanation.
 
+----
 
 R → O Cause-Effect Construction
--------------------------------
+---------------------------------
 
 | The **R → O** pattern presents a **reason (R)** followed by the **observation (O)** it produces.
 | This is the most common structure in scientific explanation because it foregrounds the mechanism.
 
-Observation (Effect)
---------------------
-
-| **Observation (O):** *Iron filings accumulate at the poles of the magnet.*
-| This identifies the **effect**: the observable behaviour.
-| Key idea: Iron filings gather where the magnetic field is strongest.
-
-Reason (Cause)
-----------------
+.. rubric:: Reason (Cause)
 
 | **Reason (R):** *The lines of force around the magnet are most concentrated at the poles.*
 | This identifies the **cause**: the distribution of magnetic field lines.
-| Key idea: The magnetic field is strongest at the poles.
 
-Combining R → O
-----------------
+.. rubric:: Observation (Effect)
+
+| **Observation (O):** *Iron filings accumulate at the poles of the magnet.*
+| This identifies the **effect**: the observable behaviour.
+
+.. rubric:: Combining R → O
 
 The causal relationship can be expressed explicitly:
 
 *The lines of force around the magnet are most concentrated at the poles*, **and as a result**, *iron filings accumulate at the poles of the magnet.*
 
-**Features of this form:**
+.. rubric:: Features of this form:
 
 - Reason is presented first (**R → O**)
 - Uses an explicit causal connector (**and as a result**)
 - Clearly links mechanism to observation
 - Suitable for explanatory writing
 
+----
+
+O → R Effect-Cause Construction
+--------------------------------
+
+The causal relationship can also be expressed by presenting the observation first:
+
+*Iron filings accumulate at the poles of the magnet* **because** *the lines of force around the magnet are most concentrated at the poles.*
+
+.. rubric:: Features of this form:
+
+- Observation is presented first (**O → R**)
+- Uses an explicit causal connector (**because**)
+- Moves from observed effect to underlying reason
+- Useful for an explanation starting from evidence
 
 ----
 
@@ -55,13 +66,6 @@ Nominalising the Reason (nomR)
 | **nomR:** *The high concentration of lines of force at the poles*
 | The **reason** is expressed as a noun phrase.
 
-**Benefits:**
-
-- Turns a process into a **thing**
-- Allows it to function as the **subject** of the sentence
-- Supports more formal, abstract scientific writing
-
-
 Nominalising the Observation (nomO)
 -----------------------------------
 
@@ -70,13 +74,6 @@ Nominalising the Observation (nomO)
 | **nomO:** *The accumulation of iron filings at the poles of the magnet*
 | The **observation** is expressed as a noun phrase.
 
-**Benefits:**
-
-- Enables compact, formal expression
-- Allows use of strong causal verbs (e.g. *causes*, *results in*)
-- Emphasises the outcome as a scientific phenomenon
-
-
 Combining nomR → nomO
 ----------------------
 
@@ -84,29 +81,12 @@ The nominalised forms produce a more formal causal statement:
 
 *The high concentration of lines of force at the poles* **results in** *the accumulation of iron filings at the poles of the magnet.*
 
-**Features of this form:**
+.. rubric:: Features of this form:
 
 - Fully nominalised (abstract and formal)
 - Reason remains first (**R → O**)
 - Uses a precise causal verb (**results in**)
 - Typical of scientific reports and explanations
-
-----
-
-Reversing the order: Combining O → R
----------------------------------------
-
-The causal relationship can also be expressed by presenting the observation first:
-
-*Iron filings accumulate at the poles of the magnet* **because** *the lines of force around the magnet are most concentrated at the poles.*
-
-**Features of this form:**
-
-- Observation is presented first (**O → R**)
-- Uses an explicit causal connector (**because**)
-- Moves from observed effect to underlying reason
-- Useful for explanation starting from evidence
-
 
 ----
 
@@ -117,7 +97,7 @@ The nominalised forms can also be reversed to foreground the effect:
 
 *The accumulation of iron filings at the poles of the magnet* **results from** *the high concentration of lines of force at the poles.*
 
-**Features of this form:**
+.. rubric:: Features of this form:
 
 - Fully nominalised (abstract and formal)
 - Observation comes first (**O → R**)
