@@ -124,7 +124,6 @@ PC-Science-and-language
     pracs/accuracy_and_precision.rst
 
 
-
 .. toctree::
     :maxdepth: 2
     :caption: 🧪⚖️ Prac Ethics

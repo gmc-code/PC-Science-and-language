@@ -107,9 +107,9 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
     Fill in the gaps with the most appropriate conjunction:
     **as** or **since**.
 
-    i. **Chemistry:** Do not leave the sodium exposed to open air __________ it reacts spontaneously with atmospheric moisture — you can see the surface already beginning to discolour.
+    1. **Chemistry:** Do not leave the sodium exposed to open air __________ it reacts spontaneously with atmospheric moisture — you can see the surface already beginning to discolour.
 
-    ii. **Biology:** Autoclave all glassware before use __________ non-sterile equipment is a well-established source of culture contamination in any microbiology laboratory.
+    2. **Biology:** Autoclave all glassware before use __________ non-sterile equipment is a well-established source of culture contamination in any microbiology laboratory.
 
     .. dropdown::
         :icon: codescan
@@ -120,9 +120,9 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
             .. tab-item:: Model Answer
 
-                Q(i) locks in **as** — "you can see the surface already beginning to discolour" makes the hazard visibly present right now.
+                Q(1) locks in **as** — "you can see the surface already beginning to discolour" makes the hazard visibly present right now.
 
-                Q(ii) locks in **since** — "well-established source" signals accepted background knowledge.
+                Q(2) locks in **since** — "well-established source" signals accepted background knowledge.
 
 
 
@@ -132,9 +132,9 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
     Fill in the gaps with the most appropriate conjunction:
     **because** or **since**.
 
-    iii. **Physics:** Do not touch the transformer casing during operation __________ the outer shell accumulates a residual static charge that is not discharged by simply switching the unit off.
+    1. **Physics:** Do not touch the transformer casing during operation __________ the outer shell accumulates a residual static charge that is not discharged by simply switching the unit off.
 
-    iv. **Chemistry:** Store flammable solvents away from ignition sources __________ their vapours can ignite at room temperature.
+    2. **Chemistry:** Store flammable solvents away from ignition sources __________ their vapours can ignite at room temperature.
 
 
     .. dropdown::
@@ -146,9 +146,9 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
             .. tab-item:: Model Answer
 
-                Q(iii) locks in **because** — the residual static mechanism is specific and non-obvious; the reader cannot be expected to already know it.
+                Q(1) locks in **because** — the residual static mechanism is specific and non-obvious; the reader cannot be expected to already know it.
 
-                Q(iv) locks in **since** — vapour flammability at room temperature is standard, assumed knowledge in any chemistry course.
+                Q(2) locks in **since** — vapour flammability at room temperature is standard, assumed knowledge in any chemistry course.
 
 
 .. admonition:: As vs. Because
@@ -157,9 +157,9 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
     Fill in the gaps with the most appropriate conjunction:
     **as** or **because**.
 
-    v. **Earth Science:** Secure all core samples in padded cases immediately __________ the extraction process leaves the rock under internal stress that makes it prone to sudden fracture.
+    1. **Earth Science:** Secure all core samples in padded cases immediately __________ the extraction process leaves the rock under internal stress that makes it prone to sudden fracture.
 
-    vi. **Biology:** Handle the petri dishes on a flat surface __________ the agar has not yet fully solidified and will shift if tilted.
+    2. **Biology:** Handle the petri dishes on a flat surface __________ the agar has not yet fully solidified and will shift if tilted.
 
     .. dropdown::
         :icon: codescan
@@ -170,9 +170,9 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
             .. tab-item:: Model Answer
 
-                Q(v) locks in **because** — internal stress is a non-visible mechanism being explained for the first time.
+                Q(1) locks in **because** — internal stress is a non-visible mechanism being explained for the first time.
 
-                Q(vi) locks in **as** — the not-yet-solidified state is directly observable at the moment of handling.
+                Q(2) locks in **as** — the not-yet-solidified state is directly observable at the moment of handling.
 
 
 ----
@@ -189,18 +189,18 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 **Conjunctions**
 
 .. list-table::
-   :header-rows: 1
-   :widths: 20 20 60
+    :header-rows: 1
+    :widths: 20 20 60
 
-   * - Everyday Register
-     - Formal Register
-     - Function
-   * - **So that**
-     - **In order that**
-     - Introduces a purpose clause with a finite verb (subject + verb follows).
-   * - **So as to**
-     - **In order to**
-     - Introduces a purpose clause with an infinitive (base verb follows).
+    * - Everyday Register
+      - Formal Register
+      - Function
+    * - **So that**
+      - **In order that**
+      - Introduces a purpose clause with a finite verb (subject + verb follows).
+    * - **So as to**
+      - **In order to**
+      - Introduces a purpose clause with an infinitive (base verb follows).
 
 
 

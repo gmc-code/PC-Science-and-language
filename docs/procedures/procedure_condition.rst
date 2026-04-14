@@ -33,9 +33,9 @@ to specify when an action is valid, necessary, or to be avoided.*
     * - **Only if**
       - Sets a strict, non-negotiable requirement
       - Everyday / Neutral
-    * - **Provided that / Providing**
-      - Sets a specific requirement for proceeding; *providing* is slightly less formal
-      - Neutral → Formal
+    * - **Providing / Provided that**
+      - Sets a specific requirement for proceeding; *provided that* is slightly more formal
+      - Neutral / Formal
     * - **Should**
       - Formal conditional used in instructions for potential or hypothetical conditions
       - Formal
