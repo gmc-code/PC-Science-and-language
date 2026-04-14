@@ -223,10 +223,10 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
     **Independent Clauses**
 
-    A. Seal the reaction vessel immediately **so that** ___
-    B. Centrifuge the sample at low speed first **in order that** ___
-    C. Earth the apparatus before connecting the power supply **in order to** ___
-    D. Collect sediment samples from at least three separate locations **so as to** ___
+    A. Seal the reaction vessel immediately **so that** ____________
+    B. Centrifuge the sample at low speed first **in order that** ____________
+    C. Earth the apparatus before connecting the power supply **in order to** ____________
+    D. Collect sediment samples from at least three separate locations **so as to** ____________
 
     **Dependent Clauses**
 

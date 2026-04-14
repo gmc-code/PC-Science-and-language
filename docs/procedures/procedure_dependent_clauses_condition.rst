@@ -41,7 +41,7 @@ to specify when an action is valid, necessary, or to be avoided.*
       - Stipulates an exception — the action applies in all cases *except* the stated condition
       - Everyday
     * - **Whenever**
-      - Indicates the action applies each time a condition occurs (frequency-based)
+      - Indicates the action applies each time a condition occurs (frequency-base| d.
       - Everyday
     * - **Whether (or not)**
       - Introduces a choice between two conditions; the action applies regardless
@@ -61,17 +61,11 @@ to specify when an action is valid, necessary, or to be avoided.*
 
 ----
 
-
-
 .. admonition:: Exercise — Conjunctions of Condition: Fill in the Gap
     :class: questions
 
-    Choose the most appropriate conjunction from the box to complete each
-    sentence. Each conjunction is used **once** only.
-
-    .. code-block:: none
-
-        as long as     in the event that     only if
+    Fill in the gaps with the most appropriate conjunction:
+    **as long as**, **in the event that **, or **only if**.
 
     1. **Chemistry:** Light the Bunsen burner **__________** the gas tap
        is fully open — a partial opening will produce an unsafe flame.
@@ -111,35 +105,35 @@ to specify when an action is valid, necessary, or to be avoided.*
     1. **Biology:** Begin the dissection __________ your teacher has
        handed out the safety instructions and checked your workstation.
 
-       a) if
-       b) provided that
-       c) unless
-       d) whether or not
+       | a. if
+       | b. provided that
+       | c. unless
+       | d. whether or not
 
     2. **Chemistry:** Label your test tube with your name and the
        substance inside __________ you plan to use it straight away
        or leave it until the next lesson.
 
-       a) if
-       b) provided that
-       c) unless
-       d) whether or not
+       | a. if
+       | b. provided that
+       | c. unless
+       | d. whether or not
 
     3. **Physics:** Switch on the fan __________ the temperature
        of the resistor rises above 40 °C during the investigation.
 
-       a) if
-       b) provided that
-       c) unless
-       d) whether or not
+       | a. if
+       | b. provided that
+       | c. unless
+       | d. whether or not
 
     4. **Earth Science:** Do not collect the rock sample __________
        you are wearing protective gloves and safety goggles.
 
-       a) if
-       b) provided that
-       c) unless
-       d) whether or not
+       | a. if
+       | b. provided that
+       | c. unless
+       | d. whether or not
 
     .. dropdown:: Check Answers
         :icon: codescan
@@ -150,9 +144,10 @@ to specify when an action is valid, necessary, or to be avoided.*
 
             .. tab-item:: Model Answer
 
-                1. **b) provided that**
-                2. **d) whether or not**
-                3. **a) if**
-                4. **c) unless**
+                1. b. **provided that**
+                2. d. **whether or not**
+                3. a. **if**
+                4. c. **unless**
+
 
 
