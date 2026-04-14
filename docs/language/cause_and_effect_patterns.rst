@@ -73,51 +73,42 @@ Patterns
 
     * - Pattern Type
       - Structures
-
     * - Implied logical connection
       -
         - R. O.
-
     * - Text connective (R → O)
       -
         - R. As a result, O
         - R. Consequently, O
         - R. Therefore, O
         - R. For this reason, O
-
     * - Conjunction (R → O)
       -
         - R, so O
         - R; hence, O
-
     * - Preposition
       -
         - Because R, O
         - Since R, O
         - Due to nomR, O
         - As a result of nomR, O
-
     * - Verb (nomR → nomO)
       -
         - nomR causes nomO
         - nomR results in nomO
         - nomR leads to nomO
-
     * - Noun (nomR → nomO)
       -
         - The result of nomR is nomO
-
     * - Conjunction (O → R)
       -
         - O because R
         - O since R
-
     * - Verb (nomO → nomR)
       -
         - nomO results from nomR
         - nomO occurs as a consequence of nomR
         - nomO is due to nomR
-
     * - Noun (nomO → nomR)
       -
         - The reason for nomO is nomR

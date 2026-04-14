@@ -1,21 +1,17 @@
 ===========================
-Cause and effect
+Cause and effect examples
 ===========================
 
-Cause & Effect — Using Vinegar + Baking Soda Example
+Cause & Effect — Mixing Vinegar + Baking Soda Example
 
-**A:** What happens when vinegar reacts with baking soda?
+| The general rule for the type of reaction is given as the reason.
+| For the nominalised version, "react" becomes "reaction" and "are seen" becomes "appearance".
 
-Vinegar reacts with baking soda to form carbon dioxide gas.
+| **Reason (R):** *Acids react with carbonates to produce carbon dioxide gas.*
+| **Observation (O):** *Bubbles are seen when vinegar is added to baking powder.*
 
-**B:** What observable effect shows that carbon dioxide is being produced?
-
-Gas bubbles appear rapidly in the mixture.
-
-**nomA:** The reaction of vinegar with baking soda to form carbon dioxide gas
-
-**nomB:** The rapid appearance of bubbles in the mixture
-
+| **nomR**: *The reaction of an acid with a carbonate to produce carbon dioxide gas*
+| **nomO**: *The appearance of bubbles when vinegar is added to baking powder*
 
 
 .. list-table::
@@ -29,76 +25,79 @@ Gas bubbles appear rapidly in the mixture.
   * - 1
     - Implied logical connection
     - A. B.
-    - Vinegar reacts with baking soda to form carbon dioxide gas. Gas bubbles appear rapidly in the mixture.
+    - Acids react with carbonates to produce carbon dioxide gas. Bubbles are seen when vinegar is added to baking powder.
   * - 2a
     - Text connective
     - A. As a result, B.
-    - Vinegar reacts with baking soda to form carbon dioxide gas. As a result, gas bubbles appear rapidly in the mixture.
+    - Acids react with carbonates to produce carbon dioxide gas. **As a result,** bubbles are seen when vinegar is added to baking powder.
   * - 2b
     - Text connective
     - A. Consequently, B.
-    - Vinegar reacts with baking soda to form carbon dioxide gas. Consequently, gas bubbles appear rapidly in the mixture.
+    - Acids react with carbonates to produce carbon dioxide gas. **Consequently,** bubbles are seen when vinegar is added to baking powder.
   * - 2c
     - Text connective
     - A. Therefore, B.
-    - Vinegar reacts with baking soda to form carbon dioxide gas. Therefore, gas bubbles appear rapidly in the mixture.
+    - Acids react with carbonates to produce carbon dioxide gas. **Therefore,** bubbles are seen when vinegar is added to baking powder.
   * - 3a
-    - Conjunction (hence / so)
+    - Conjunction
     - A hence B.
-    - Vinegar reacts with baking soda to form carbon dioxide gas hence gas bubbles appear rapidly in the mixture.
+    - Acids react with carbonates to produce carbon dioxide gas **hence** bubbles are seen when vinegar is added to baking powder.
   * - 3b
-    - Conjunction (hence / so)
-    - A so nomB occurs.
-    - Vinegar reacts with baking soda to form carbon dioxide gas so the rapid appearance of bubbles in the mixture occurs.
+    - Conjunction
+    - A so B.
+    - Acids react with carbonates to produce carbon dioxide gas **so** bubbles are seen when vinegar is added to baking powder.
   * - 4a
-    - Preposition
+    - Subordinating conjunction
     - Because A, B.
-    - Because vinegar reacts with baking soda to form carbon dioxide gas, gas bubbles appear rapidly in the mixture.
+    - **Because** acids react with carbonates to produce carbon dioxide gas, bubbles are seen when vinegar is added to baking powder.
   * - 4b
     - Preposition
     - Due to nomA, B.
-    - Due to the reaction of vinegar with baking soda to form carbon dioxide gas, gas bubbles appear rapidly in the mixture.
+    - **Due to** the reaction of an acid with a carbonate to produce carbon dioxide gas, bubbles are seen when vinegar is added to baking powder.
   * - 4c
-    - Preposition
+    - Prepositional phrase
     - As a result of nomA, B.
-    - As a result of the reaction of vinegar with baking soda to form carbon dioxide gas, gas bubbles appear rapidly in the mixture.
+    - **As a result of** the reaction of an acid with a carbonate to produce carbon dioxide gas, bubbles are seen when vinegar is added to baking powder.
   * - 5a
-    - Verb
+    - Causal verb
     - nomA causes nomB.
-    - The reaction of vinegar with baking soda to form carbon dioxide gas causes the rapid appearance of bubbles in the mixture.
+    - The reaction of an acid with a carbonate to produce carbon dioxide gas **causes** the appearance of bubbles when vinegar is added to baking powder.
   * - 5b
-    - Verb
+    - Causal verb
     - nomA results in nomB.
-    - The reaction of vinegar with baking soda to form carbon dioxide gas results in the rapid appearance of bubbles in the mixture.
+    - The reaction of an acid with a carbonate to produce carbon dioxide gas **results in** the appearance of bubbles when vinegar is added to baking powder.
   * - 6a
     - Noun phrase
     - The result of nomA is nomB.
-    - The result of the reaction of vinegar with baking soda to form carbon dioxide gas is the rapid appearance of bubbles in the mixture.
+    - **The result of** the reaction of an acid with a carbonate to produce carbon dioxide gas is the appearance of bubbles when vinegar is added to baking powder.
   * - 6b
     - Noun phrase
     - The cause of nomB is nomA.
-    - The cause of the rapid appearance of bubbles in the mixture is the reaction of vinegar with baking soda to form carbon dioxide gas.
+    - **The cause of** the appearance of bubbles when vinegar is added to baking powder is the reaction of an acid with a carbonate to produce carbon dioxide gas.
   * - 7a
-    - Conjunction
+    - Subordinating conjunction
     - B because A.
-    - gas bubbles appear rapidly in the mixture because vinegar reacts with baking soda to form carbon dioxide gas.
+    - Bubbles are seen when vinegar is added to baking powder **because** acids react with carbonates to produce carbon dioxide gas.
   * - 7b
-    - Conjunction
+    - Subordinating conjunction
     - B since A.
-    - gas bubbles appear rapidly in the mixture since vinegar reacts with baking soda to form carbon dioxide gas.
+    - Bubbles are seen when vinegar is added to baking powder **since** acids react with carbonates to produce carbon dioxide gas.
   * - 8a
-    - Verb
+    - Causal verb
     - nomB results from nomA.
-    - The rapid appearance of bubbles in the mixture results from the reaction of vinegar with baking soda to form carbon dioxide gas.
+    - The appearance of bubbles when vinegar is added to baking powder **results from** the reaction of an acid with a carbonate to produce carbon dioxide gas.
   * - 8b
-    - Verb
+    - Causal verb
     - nomB occurs as a consequence of nomA.
-    - The rapid appearance of bubbles in the mixture occurs as a consequence of the reaction of vinegar with baking soda to form carbon dioxide gas.
+    - The appearance of bubbles when vinegar is added to baking powder **occurs as a consequence of** the reaction of an acid with a carbonate to produce carbon dioxide gas.
   * - 9a
     - Noun phrase
     - The reason for nomB is nomA.
-    - The reason for the rapid appearance of bubbles in the mixture is the reaction of vinegar with baking soda to form carbon dioxide gas.
+    - The **reason** for the appearance of bubbles when vinegar is added to baking powder is the reaction of an acid with a carbonate to produce carbon dioxide gas.
   * - 9b
     - Noun phrase
     - The cause of nomB is nomA.
-    - The cause of the rapid appearance of bubbles in the mixture is the reaction of vinegar with baking soda to form carbon dioxide gas.
+    - **The cause of** the appearance of bubbles when vinegar is added to baking powder is the reaction of an acid with a carbonate to produce carbon dioxide gas.
+
+
+
