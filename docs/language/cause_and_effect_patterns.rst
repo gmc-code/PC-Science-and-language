@@ -17,93 +17,47 @@ R → O Cause-Effect Construction
 | The **R → O** pattern presents a **reason (R)** followed by the **observation (O)** it produces.
 | This is the most common structure in scientific explanation because it foregrounds the mechanism.
 
-.. rubric:: Reason (Cause)
-
 | **Reason (R):** *The lines of force around the magnet are most concentrated at the poles.*
 | This identifies the **cause**: the distribution of magnetic field lines.
-
-.. rubric:: Observation (Effect)
 
 | **Observation (O):** *Iron filings accumulate at the poles of the magnet.*
 | This identifies the **effect**: the observable behaviour.
 
-.. rubric:: Combining R → O
-
-The causal relationship can be expressed explicitly:
-
-*The lines of force around the magnet are most concentrated at the poles*, **and as a result**, *iron filings accumulate at the poles of the magnet.*
-
-.. rubric:: Features of this form:
-
-- Reason is presented first (**R → O**)
-- Uses an explicit causal connector (**and as a result**)
-- Clearly links mechanism to observation
-- Suitable for explanatory writing
+| The causal relationship, R → O,  can be expressed explicitly:
+| *The lines of force around the magnet are most concentrated at the poles*, **and as a result**, *iron filings accumulate at the poles of the magnet.*
 
 ----
 
 O → R Effect-Cause Construction
 --------------------------------
 
-The causal relationship can also be expressed by presenting the observation first:
-
-*Iron filings accumulate at the poles of the magnet* **because** *the lines of force around the magnet are most concentrated at the poles.*
-
-.. rubric:: Features of this form:
-
-- Observation is presented first (**O → R**)
-- Uses an explicit causal connector (**because**)
-- Moves from observed effect to underlying reason
-- Useful for an explanation starting from evidence
+| The **O → R** pattern presents an **observation (O)** followed by the **reason (R)** that explains it.
+| *Iron filings accumulate at the poles of the magnet* **because** *the lines of force around the magnet are most concentrated at the poles.*
 
 ----
 
-Nominalising the Reason (nomR)
+Nominalised Patterns
 -------------------------------
 
 | **Reason (R):** *The lines of force around the magnet are most concentrated at the poles.*
 | becomes:
 | **nomR:** *The high concentration of lines of force at the poles*
-| The **reason** is expressed as a noun phrase.
-
-Nominalising the Observation (nomO)
------------------------------------
 
 | **Observation (O):** *Iron filings accumulate at the poles of the magnet.*
 | becomes:
 | **nomO:** *The accumulation of iron filings at the poles of the magnet*
-| The **observation** is expressed as a noun phrase.
 
-Combining nomR → nomO
-----------------------
+| The **nomR → nomO** pattern presents a **reason (nomR)** followed by the **observation (nomO)** it produces.
+| The **nomR → nomO** pattern foregrounds the cause.
+| *The high concentration of lines of force at the poles* **results in** *the accumulation of iron filings at the poles of the magnet.*
 
-The nominalised forms produce a more formal causal statement:
-
-*The high concentration of lines of force at the poles* **results in** *the accumulation of iron filings at the poles of the magnet.*
-
-.. rubric:: Features of this form:
-
-- Fully nominalised (abstract and formal)
-- Reason remains first (**R → O**)
-- Uses a precise causal verb (**results in**)
-- Typical of scientific reports and explanations
-
-----
 
 Combining nomO → nomR
 ----------------------
 
-The nominalised forms can also be reversed to foreground the effect:
-
-*The accumulation of iron filings at the poles of the magnet* **results from** *the high concentration of lines of force at the poles.*
-
-.. rubric:: Features of this form:
-
-- Fully nominalised (abstract and formal)
-- Observation comes first (**O → R**)
-- Uses an effect-focused causal verb (**results from**)
-- Emphasises explanation of an observed outcome
-- Typical of analytical and scientific writing
+| The **nomO → nomR** pattern presents an **observation (nomO)** followed by the **reason (nomR)** that explains it.
+| The **nomO → nomR** pattern foregrounds the effect.
+| *The accumulation of iron filings at the poles of the magnet* **results from** *the high concentration of lines of force at the poles.*
 
 ----
 
