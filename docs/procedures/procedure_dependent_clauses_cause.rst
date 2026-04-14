@@ -288,8 +288,7 @@ the right one depends on whether you are writing a formal laboratory protocol, o
                 *(Note: the verb changes from "be mistaken" to "is
                 mistaken" — for fear that takes the indicative form.)*
 
----
-
+----
 
 .. admonition:: Exercise: Reason vs. Purpose
     :class: questions
