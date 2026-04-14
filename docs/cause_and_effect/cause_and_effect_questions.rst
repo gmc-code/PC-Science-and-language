@@ -8,19 +8,13 @@ Cause and effect questions
     **SET 1 — Chemical Change (Gas Production)**
 
     **R:** Vinegar reacts with baking soda to form carbon dioxide gas.
-
     **O:** Bubbles of gas appear rapidly in the mixture.
-
-    **nomR:** The reaction of vinegar with baking soda to form carbon
-    dioxide gas.
-
+    **nomR:** The reaction of vinegar with baking soda to form carbon dioxide gas.
     **nomO:** The rapid appearance of bubbles in the mixture.
 
     **Task:** Write R and O as two separate sentences to show an implied
     causal link.
-
     **Scaffold:**
-
     | R.
     | O.
 
@@ -41,13 +35,10 @@ Cause and effect questions
 
     **SET 2 — Physical Change (Heating → Expansion)**
 
-    **R:** The air inside the container expands when heated.
-
-    **O:** The pressure inside the container increases.
-
-    **nomR:** The expansion of the air inside the container.
-
-    **nomO:** The increase in pressure inside the container.
+    | **R:** The air inside the container expands when heated.
+    | **O:** The pressure inside the container increases.
+    | **nomR:** The expansion of the air inside the container.
+    | **nomO:** The increase in pressure inside the container.
 
     **Task:** Combine R → O using a text connective.
 
