@@ -291,7 +291,6 @@ the right one depends on whether you are writing a formal laboratory protocol, o
             (B) Purpose
 
     3. **Physics:** Wear insulated gloves **in order to** prevent accidental electrical discharge while handling the Van de Graaff generator.
-
     .. grid:: 4
         :gutter: 2
 
@@ -304,17 +303,14 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
     .. grid:: 4
         :gutter: 2
-
         .. grid-item::
             (A) Reason
         .. grid-item::
             (B) Purpose
 
     5. **Chemistry:** Keep a neutralizing agent nearby **in case** a corrosive liquid is spilled during the titration.
-
     .. grid:: 4
         :gutter: 2
-
         .. grid-item::
             (A) Reason
         .. grid-item::
