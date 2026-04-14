@@ -71,7 +71,8 @@ PC-Science-and-language
     :caption: ⚙️ Cause Effect
     :numbered:
 
-    language/cause_and_effect.rst
+    language/cause_and_effect_patterns.rst
+    language/cause_and_effect_examples.rst
     language/cause_and_effect_ways.rst
     language/complex_sentences.rst
 
