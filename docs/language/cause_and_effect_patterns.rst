@@ -23,7 +23,7 @@ R → O Cause-Effect Construction
 | **Observation (O):** *Iron filings accumulate at the poles of the magnet.*
 | This identifies the **effect**: the observable behaviour.
 
-| The causal relationship, R → O,  can be expressed explicitly:
+| The causal relationship, **R → O**,  can be written by joining the two clauses with a text connective "as a result" or "consequently":
 | *The lines of force around the magnet are most concentrated at the poles*, **and as a result**, *iron filings accumulate at the poles of the magnet.*
 
 ----
@@ -31,7 +31,7 @@ R → O Cause-Effect Construction
 O → R Effect-Cause Construction
 --------------------------------
 
-| The **O → R** pattern presents an **observation (O)** followed by the **reason (R)** that explains it.
+| The **O → R** pattern can be written by joining the two clauses with a text connective "because" or "since":
 | *Iron filings accumulate at the poles of the magnet* **because** *the lines of force around the magnet are most concentrated at the poles.*
 
 ----
@@ -47,40 +47,36 @@ Nominalised Patterns
 | becomes:
 | **nomO:** *The accumulation of iron filings at the poles of the magnet*
 
-| The **nomR → nomO** pattern presents a **reason (nomR)** followed by the **observation (nomO)** it produces.
-| The **nomR → nomO** pattern foregrounds the cause.
+| The **nomR → nomO** can be written by joining the two clauses with a text connective "causes" or "results in":
 | *The high concentration of lines of force at the poles* **results in** *the accumulation of iron filings at the poles of the magnet.*
 
 
 Combining nomO → nomR
 ----------------------
 
-| The **nomO → nomR** pattern presents an **observation (nomO)** followed by the **reason (nomR)** that explains it.
-| The **nomO → nomR** pattern foregrounds the effect.
-| *The accumulation of iron filings at the poles of the magnet* **results from** *the high concentration of lines of force at the poles.*
+| The **nomO → nomR** pattern can be written by joining the two clauses with a text connective "is due to" or "is a consequence of":
+| *The accumulation of iron filings at the poles of the magnet* **is due to** *the high concentration of lines of force at the poles.*
 
 ----
 
 Patterns
 --------
 
-Writers select different cause-and-effect structures depending on purpose, audience, and level of formality.
-The table below summarises common patterns and their typical uses.
+| Writers select different cause-and-effect structures depending on purpose, audience, and level of formality.
+| The table below summarises common patterns and their typical uses.
+| Putting the reason (R) before the observation (O) is more common in scientific writing because it foregrounds the mechanism, while putting the observation (O) before the reason (R) is more common in informal explanation because it is more intuitive for readers.
+| The use of nominalisation (nomR, nomO) allows for more abstract and formal expression, which is often preferred in academic writing.
 
 .. list-table::
-    :widths: 20 30 30 20
+    :widths: 40 60
     :header-rows: 1
 
     * - Pattern Type
       - Structures
-      - Features and Benefits
-      - Context
 
     * - Implied logical connection
       -
         - R. O.
-      - Concise; relationship is inferred by the reader
-      - Lab notes, observations
 
     * - Text connective (R → O)
       -
@@ -88,15 +84,11 @@ The table below summarises common patterns and their typical uses.
         - R. Consequently, O
         - R. Therefore, O
         - R. For this reason, O
-      - Makes causality explicit; improves flow
-      - Explanatory writing
 
     * - Conjunction (R → O)
       -
         - R, so O
         - R; hence, O
-      - Direct and natural; links clauses smoothly
-      - Semi-formal explanation
 
     * - Preposition
       -
@@ -104,44 +96,32 @@ The table below summarises common patterns and their typical uses.
         - Since R, O
         - Due to nomR, O
         - As a result of nomR, O
-      - Structured and formal; foregrounds cause
-      - Academic writing
 
-    * - Verb (R → O)
+    * - Verb (nomR → nomO)
       -
         - nomR causes nomO
         - nomR results in nomO
         - nomR leads to nomO
-      - Precise; emphasises mechanism
-      - Scientific and technical writing
 
-    * - Noun (R → O)
+    * - Noun (nomR → nomO)
       -
         - The result of nomR is nomO
-      - Abstract and formal; useful for definitions
-      - Academic writing
 
     * - Conjunction (O → R)
       -
         - O because R
         - O since R
-      - Observation-first; intuitive for readers
-      - Informal explanation
 
-    * - Verb (O → R)
+    * - Verb (nomO → nomR)
       -
         - nomO results from nomR
         - nomO occurs as a consequence of nomR
         - nomO is due to nomR
-      - Effect-focused; explains outcomes
-      - Analytical writing
 
-    * - Noun (O → R)
+    * - Noun (nomO → nomR)
       -
         - The reason for nomO is nomR
         - The cause of nomO is nomR
-      - Authoritative; presents causation as fact
-      - Formal explanation
 
 
 
