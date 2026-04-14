@@ -4,7 +4,7 @@
 # -- Project information -----------------------------------------------------
 # import os
 # import sys
-import sphinx_rtd_theme
+
 from pathlib import Path
 
 project = 'PC-Science-and-language'

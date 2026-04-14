@@ -25,7 +25,6 @@ PC-Science-and-language
     language/nominal_groups.rst
     language/clauses.rst
     language/sentences.rst
-    language/report_to_procedure.rst
     language/Sequential_explanations.rst
     language/marked_themes.rst
 
@@ -112,6 +111,7 @@ PC-Science-and-language
     :numbered:
 
     procedures/procedure_transitivity.rst
+    procedures/report_to_procedure.rst
     procedures/procedure_dependent_clauses.rst
     procedures/procedure_time.rst
     procedures/procedure_manner.rst
