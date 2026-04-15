@@ -67,13 +67,7 @@ To convert a Report into a Procedure, make the following changes:
 .. admonition:: Report to a Procedure
     :class: questions
 
-    | Rewrite the following report steps into clear instructions by applying the grammar shifts described above.
-    | Note that while sequence markers (*first*, *then*) are at the front, descriptive adverbs (*briefly*, *carefully) are after the process.
-
-.. admonition:: Analysis Task: Information Flow
-    :class: questions
-
-    Observe how moving the "manner" of the action (e.g., *carefully*) to the end of the sentence makes the report feel more objective.
+    | Rewrite the following report steps into clear instructions by applying the grammar shifts described above starting with the verb.
 
     #. :circb:`First`, :participantb:`several marble chips` :processb:`were placed` :circb:`into a clean conical flask`.
     #. :circb:`Then`, :participantb:`a rubber bung with a delivery tube` :processb:`was fitted` :circb:`into the mouth of the flask`.
@@ -86,9 +80,9 @@ To convert a Report into a Procedure, make the following changes:
     #. :circb:`After a short period`, :participantb:`a milky white color` :processb:`was observed` :circb:`in the limewater`.
     #. :circb:`Finally`, :participantb:`the delivery tube` :processb:`was removed` :circb:`from the limewater` :circb:`before the reaction was stopped`.
 
-    .. dropdown:: Check Your Answer
-        :icon: codescan
-        :color: primary
+    .. dropdown:: Reveal Answer Key
+        :icon: check-circle
+        :color: success
         :class-container: sd-dropdown-container
 
         .. tab-set::
