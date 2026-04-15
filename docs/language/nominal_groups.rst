@@ -17,8 +17,8 @@ Nominal Group
     :widths: 35 30 35
 
     * - Pre-modifiers (Before the noun)
-      - Thing (Core Noun)
-      - Post-modifier
+      - Noun
+      - Post-modifiers (After the noun)
     * - The 5 small marble
       - **chips**
       - in the conical flask
