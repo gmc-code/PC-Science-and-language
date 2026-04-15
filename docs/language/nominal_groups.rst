@@ -24,7 +24,7 @@ Nominal Group
       - in the conical flask
 
 
-| Probe questions can be asked ot identify each part of the noun group.
+| Probe questions can be asked to identify each part of the noun group.
 
 .. list-table:: Nominal Group Elements
     :header-rows: 1
