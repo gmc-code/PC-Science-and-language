@@ -168,9 +168,9 @@ Identifying parts of a nominal group
     Identify which word or phrase performs each of the following functions:
     (A) Pointer, (B) Describer, (C) Classifier, (D) Thing, (E) Qualifier.
 
-    .. dropdown:: Reveal Functional Analysis
-        :icon: codescan
-        :color: primary
+    .. dropdown:: Reveal Answer Key
+        :icon: check-circle
+        :color: success
         :class-container: sd-dropdown-container
 
         .. tab-set::
@@ -202,9 +202,9 @@ Identifying parts of a nominal group
     Identify which word or phrase performs each of the following functions:
     (A) Pointer, (B) Describer, (C) Classifier, (D) Thing, (E) Qualifier.
 
-    .. dropdown:: Reveal Functional Analysis
-        :icon: codescan
-        :color: primary
+    .. dropdown:: Reveal Answer Key
+        :icon: check-circle
+        :color: success
         :class-container: sd-dropdown-container
 
         .. tab-set::
@@ -237,9 +237,9 @@ Making nominal groups
 
     *at the convergent plate boundary, continental, massive, plates, the, two*
 
-    .. dropdown:: Check Your Logic
-        :icon: codescan
-        :color: primary
+    .. dropdown:: Reveal Answer Key
+        :icon: check-circle
+        :color: success
         :class-container: sd-dropdown-container
 
         .. tab-set::
