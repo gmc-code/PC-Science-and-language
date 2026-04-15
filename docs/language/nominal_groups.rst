@@ -272,35 +272,35 @@ Tectonic Classification Exercise
 
 Use the following exercises to practice identifying the correct Classifiers for tectonic structures and dynamic features.
 
-.. admonition:: Question 1: Matching Classifiers
+.. admonition:: Matching Classifiers
     :class: questions
 
-    Complete the nominal groups by matching the correct **Classifier** from the list below to the core **Thing**.
+    Choose a suitable **Classifier** from the list below to the core **Thing**.
 
     **Options:** (A) Continental, (B) Convection, (C) Convergent, (D) Mid-ocean, (E) Tectonic
 
-    .. list-table:: Primary Structures
+    .. list-table::
         :header-rows: 1
         :widths: 15 40 45
 
         * - No.
           - Core Noun (Thing)
-          - Full Nominal Group
+          - Classifier + Thing
         * - 1.1
           - plates
-          - [_________] plates
+          - [_______________] plates
         * - 1.2
           - boundary
-          - [_________] boundary
+          - [_______________] boundary
         * - 1.3
           - ridge
-          - [_________] ridge
+          - [_______________] ridge
         * - 1.4
           - current
-          - [_________] current
+          - [_______________] current
         * - 1.5
           - margin
-          - [_________] margin
+          - [_______________] margin
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
@@ -322,7 +322,7 @@ Use the following exercises to practice identifying the correct Classifiers for 
 
     **Options:** (A) Deep-sea, (B) Oceanic, (C) Subduction, (D) Transform, (E) Volcanic
 
-    .. list-table:: Dynamic Features
+    .. list-table::
         :header-rows: 1
         :widths: 15 40 45
 
@@ -331,19 +331,19 @@ Use the following exercises to practice identifying the correct Classifiers for 
           - Full Nominal Group
         * - 2.1
           - crust
-          - [_________] crust
+          - [_______________] crust
         * - 2.2
           - fault
-          - [_________] fault
+          - [_______________] fault
         * - 2.3
           - zone
-          - [_________] zone
+          - [_______________] zone
         * - 2.4
           - trench
-          - [_________] trench
+          - [_______________] trench
         * - 2.5
           - arc
-          - [_________] arc
+          - [_______________] arc
 
 
     .. dropdown:: Reveal Answer Key
@@ -377,7 +377,7 @@ Adding Describers
 
     **Describer Options:** (A) Immense, (B) Slow-moving, (C) High-pressure, (D) Highly-active, (E) Low-density
 
-    .. list-table:: Describing Tectonic Features
+    .. list-table::
         :header-rows: 1
         :widths: 10 40 50
 
@@ -386,19 +386,19 @@ Adding Describers
           - Full Nominal Group (Describer + ...)
         * - 1.1
           - tectonic plates
-          - [_________] tectonic plates
+          - [_______________] tectonic plates
         * - 1.2
           - subduction zone
-          - [_________] subduction zone
+          - [_______________] subduction zone
         * - 1.3
           - mid-ocean ridge
-          - [_________] mid-ocean ridge
+          - [_______________] mid-ocean ridge
         * - 1.4
           - convection current
-          - [_________] convection current
+          - [_______________] convection current
         * - 1.5
           - continental crust
-          - [_________] continental crust
+          - [_______________] continental crust
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
