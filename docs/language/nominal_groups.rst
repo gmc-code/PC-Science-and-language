@@ -13,7 +13,7 @@ Nominal Group
 | It can be broken up into 3 sections:
 
 .. list-table:: Functional Structure of a Nominal Group
-    :header-rows: 2
+    :header-rows: 1
     :widths: 35 30 35
 
     * - Pre-modifiers (Before the noun)
