@@ -35,7 +35,7 @@ Nominal Group
       - What like?
       - What type?
       - Who or what?
-      - What else?
+      - Which one?
     * - The
       - 5
       - small
@@ -214,7 +214,7 @@ Identifying parts of a nominal group
                 * **The:** Pointer
                 * **hot:** Describer
                 * **molten:** Classifier
-                * **magma:** Thing (Core Noun)
+                * **magma:** Thing
                 * **beneath the mid-ocean ridge:** Qualifier
 
             .. tab-item:: Scientific Logic
@@ -265,12 +265,12 @@ Making nominal groups
 Tectonic Classification Exercise
 -------------------------------
 
-| In scientific discourse, general nouns like *plate* or *zone* are rarely used on their own.
-| Instead, **Classifiers** are used to specify the exact sub-type of the "Thing" being discussed.
+| In scientific writing, general nouns like *plate* or *zone* are rarely used on their own.
+| Instead, **Classifiers** are used to specify the exact type of the "Thing" being discussed.
 | Classifiers are essential for technical precision because they categorize entities into specific geological systems.
-| Unlike simple descriptions, a Classifier indicate what **type** something is (e.g., an *Oceanic* crust is fundamentally different from a *Continental* crust).
+| A Classifier indicates what **type** something is (e.g., *Oceanic* crust is a different type of crust compared to *Continental* crust).
 
-Use the following exercises to practice identifying the correct Classifiers for primary tectonic structures and dynamic features.
+Use the following exercises to practice identifying the correct Classifiers for tectonic structures and dynamic features.
 
 .. admonition:: Question 1: Matching Classifiers
     :class: questions
@@ -288,19 +288,19 @@ Use the following exercises to practice identifying the correct Classifiers for 
           - Full Nominal Group
         * - 1.1
           - plates
-          - [______] plates
+          - [_________] plates
         * - 1.2
           - boundary
-          - [______] boundary
+          - [_________] boundary
         * - 1.3
           - ridge
-          - [______] ridge
+          - [_________] ridge
         * - 1.4
           - current
-          - [______] current
+          - [_________] current
         * - 1.5
           - margin
-          - [______] margin
+          - [_________] margin
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
@@ -331,19 +331,19 @@ Use the following exercises to practice identifying the correct Classifiers for 
           - Full Nominal Group
         * - 2.1
           - crust
-          - [______] crust
+          - [_________] crust
         * - 2.2
           - fault
-          - [______] fault
+          - [_________] fault
         * - 2.3
           - zone
-          - [______] zone
+          - [_________] zone
         * - 2.4
           - trench
-          - [______] trench
+          - [_________] trench
         * - 2.5
           - arc
-          - [______] arc
+          - [_________] arc
 
 
     .. dropdown:: Reveal Answer Key
@@ -386,19 +386,19 @@ Adding Describers
           - Full Nominal Group (Describer + ...)
         * - 1.1
           - tectonic plates
-          - [______] tectonic plates
+          - [_________] tectonic plates
         * - 1.2
           - subduction zone
-          - [______] subduction zone
+          - [_________] subduction zone
         * - 1.3
           - mid-ocean ridge
-          - [______] mid-ocean ridge
+          - [_________] mid-ocean ridge
         * - 1.4
           - convection current
-          - [______] convection current
+          - [_________] convection current
         * - 1.5
           - continental crust
-          - [______] continental crust
+          - [_________] continental crust
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
