@@ -211,8 +211,8 @@ Identifying parts of a nominal group
 
             .. tab-item:: Model Answer
 
-                * **The:** Pointer (Deictic)
-                * **hot:** Describer (Epithet)
+                * **The:** Pointer
+                * **hot:** Describer
                 * **molten:** Classifier
                 * **magma:** Thing (Core Noun)
                 * **beneath the mid-ocean ridge:** Qualifier
