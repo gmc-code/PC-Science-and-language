@@ -342,9 +342,8 @@ Use the following exercises to practice identifying the correct Classifiers for 
           - trench
           - [_______________] trench
         * - 2.5
-          - arc
-          - [_______________] arc
-
+          - eruption
+          - [_______________] eruption
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
@@ -355,7 +354,7 @@ Use the following exercises to practice identifying the correct Classifiers for 
         | 2.2 (D) **Transform** fault
         | 2.3 (C) **Subduction** zone
         | 2.4 (A) **Deep-sea** trench
-        | 2.5 (E) **Volcanic** arc.
+        | 2.5 (E) **Volcanic** eruption.
 
 
 ----
@@ -373,9 +372,12 @@ Adding Describers
 .. admonition:: Matching Technical Describers
     :class: questions
 
-    The following technical terms already have a **Classifier** and a **Thing**. Choose the most appropriate **Describer** from the list below.
+    The following technical terms already have a **Classifier** and a
+    **Thing**. Choose the most appropriate **Describer** from the list
+    below.
 
-    **Describer Options:** (A) Immense, (B) Slow-moving, (C) High-pressure, (D) Highly-active, (E) Low-density
+    **Describer Options:** (A) High-pressure, (B) Highly-active,
+    (C) Immense, (D) Low-density, (E) Slow-moving
 
     .. list-table::
         :header-rows: 1
@@ -383,7 +385,7 @@ Adding Describers
 
         * - No.
           - Technical Term (Classifier + Thing)
-          - Full Nominal Group (Describer + ...)
+          - Describer + Classifier + Thing
         * - 1.1
           - tectonic plates
           - [_______________] tectonic plates
@@ -404,10 +406,12 @@ Adding Describers
         :icon: check-circle
         :color: success
 
-        1.1 (A) **Immense** tectonic plates
-        1.2 (C) **High-pressure** subduction zone
-        1.3 (D) **Highly-active** mid-ocean ridge
-        1.4 (B) **Slow-moving** convection current
-        1.5 (E) **Low-density** continental crust
+        1.1 (C) **Immense** tectonic plates
 
+        1.2 (A) **High-pressure** subduction zone
 
+        1.3 (B) **Highly-active** mid-ocean ridge
+
+        1.4 (E) **Slow-moving** convection current
+
+        1.5 (D) **Low-density** continental crust
