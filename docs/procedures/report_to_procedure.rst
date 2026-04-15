@@ -34,7 +34,6 @@ To convert a Report into a Procedure, make the following changes:
 .. list-table:: Passive to Active Conversion Example
     :header-rows: 1
     :widths: 45 45
-    :class: sd-table-relaxed
 
     * - Passive Report
       - Active Procedure
@@ -46,7 +45,7 @@ To convert a Report into a Procedure, make the following changes:
 .. list-table:: Adverb Positioning: Report vs. Procedure
     :header-rows: 1
     :widths: 40 40 20
-    :class: sd-table-relaxed
+    :class: relaxed-logic-table
 
     * - Passive Report (Adverb at end)
       - Active Procedure (Adverb at front)

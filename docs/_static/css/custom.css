@@ -292,3 +292,18 @@ div.highlight-default div.highlight {
     margin-bottom: unset;
 }
 
+/* ========================================== */
+/* list tables class relaxed-logic-table */
+/* ========================================== */
+
+/* Custom class to increase line spacing for grammar analysis tables */
+.rst-content table.docutils.relaxed-logic-table td {
+    line-height: 2.0 !important;
+    vertical-align: middle;
+}
+
+/* Optional: add a bit of extra padding to make the row feel balanced */
+.rst-content table.docutils.relaxed-logic-table td {
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
