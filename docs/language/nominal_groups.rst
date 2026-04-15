@@ -17,7 +17,7 @@ Nominal Group
     :widths: 35 30 35
 
     * - Pre-modifiers (Before the noun)
-      - Core Noun
+      - Thing (Core Noun)
       - Post-modifier
     * - The 5 small marble
       - **chips**
