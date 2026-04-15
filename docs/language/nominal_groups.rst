@@ -186,7 +186,7 @@ Identifying parts of a nominal group
             .. tab-item:: Scientific Logic
 
                 * **Pointer:** *The* — **Probe:** Which specific one? (Identifies the specific crust being observed in this tectonic context).
-                * **Describer:** *dense* — **Probe:** What is it like? (Describes a physical property; it is gradable, e.g., "extremely dense").
+                * **Describer:** *dense* — **Probe:** What is it like? (Describes a physical property).
                 * **Classifier:** *oceanic* — **Probe:** What type? (Categorizes the crustal material, distinguishing it from continental crust).
                 * **Thing:** *crust* — **Probe:** What is the core object? (The central participant that the other words are specifying).
                 * **Qualifier:** *at the subduction zone* — **Probe:** Where or which one in detail? (Provides the precise location where the action is occurring).
@@ -223,7 +223,7 @@ Identifying parts of a nominal group
                 * **Describer:** *hot* — **Probe:** What is it like? (It describes the thermal quality; it is gradable, e.g., "very hot").
                 * **Classifier:** *molten* — **Probe:** What type/state? (It categorizes the state of matter, distinguishing it from solid mantle rock).
                 * **Thing:** *magma* — **Probe:** What is the core object? (The central participant that all other words are modifying).
-                * **Qualifier:** *beneath the mid-ocean ridge* — **Probe:** Where or which one in detail? (It provides the essential spatial context following the Thing).
+                * **Qualifier:** *beneath the mid-ocean ridge* — **Probe:** Where or which one in detail? (It provides the precise location).
 
 
 
@@ -406,12 +406,12 @@ Adding Describers
         :icon: check-circle
         :color: success
 
-        1.1 (C) **Immense** tectonic plates
+        | 1.1 (C) **Immense** tectonic plates
+        | 1.2 (A) **High-pressure** subduction zone
+        | 1.3 (B) **Highly-active** mid-ocean ridge
+        | 1.4 (E) **Slow-moving** convection current
+        | 1.5 (D) **Low-density** continental crust
 
-        1.2 (A) **High-pressure** subduction zone
 
-        1.3 (B) **Highly-active** mid-ocean ridge
 
-        1.4 (E) **Slow-moving** convection current
 
-        1.5 (D) **Low-density** continental crust

@@ -32,32 +32,34 @@ To convert a Report into a Procedure, make the following changes:
 4. **Reposition the Circumstances (Adverbs)**: Move adverbs of manner or timing (like carefully, briefly, or immediately) from the end of the sentence to the front. In a procedure, these provide important context before the reader performs the step. For example, change "The bung was removed briefly" to ":circb:`Briefly`, :processb:`remove` :participantb:`the bung`."
 
 .. list-table:: Passive to Active Conversion Example
-   :header-rows: 1
-   :widths: 45 45
+    :header-rows: 1
+    :widths: 45 45
+    :class: sd-table-relaxed
 
-   * - Passive Report
-     - Active Procedure
-   * - :circb:`Then`, :participantb:`the bung` :processb:`was replaced`.
-     - :circb:`Then`, :processb:`replace` :participantb:`the bung`.
-   * - :circb:`Next`, :participantb:`the acid` :processb:`was added`.
-     - :circb:`Next`, :processb:`add` :participantb:`the acid`.
+    * - Passive Report
+      - Active Procedure
+    * - :circb:`Then`, :participantb:`the bung` :processb:`was replaced`.
+      - :circb:`Then`, :processb:`replace` :participantb:`the bung`.
+    * - :circb:`Next`, :participantb:`the acid` :processb:`was added`.
+      - :circb:`Next`, :processb:`add` :participantb:`the acid`.
 
 .. list-table:: Adverb Positioning: Report vs. Procedure
-   :header-rows: 1
-   :widths: 40 40 20
+    :header-rows: 1
+    :widths: 40 40 20
+    :class: sd-table-relaxed
 
-   * - Passive Report (Adverb at end)
-     - Active Procedure (Adverb at front)
-     - Reason
-   * - :participantb:`The acid` :processb:`was added` :circb:`carefully`.
-     - :circb:`Carefully`, :processb:`add` :participantb:`the acid`.
-     - Highlights the safety requirement *before* the action.
-   * - :participantb:`The bung` :processb:`was removed` :circb:`briefly`.
-     - :circb:`Briefly`, :processb:`remove` :participantb:`the bung`.
-     - Sets the timing expectation *before* the action.
-   * - :participantb:`The water` :processb:`was monitored` :circb:`simultaneously`.
-     - :circb:`Simultaneously`, :processb:`monitor` :participantb:`the water`.
-     - Directs the reader to multi-task.
+    * - Passive Report (Adverb at end)
+      - Active Procedure (Adverb at front)
+      - Reason
+    * - :participantb:`The acid` :processb:`was added` :circb:`carefully`.
+      - :circb:`Carefully`, :processb:`add` :participantb:`the acid`.
+      - Highlights the safety requirement *before* the action.
+    * - :participantb:`The bung` :processb:`was removed` :circb:`briefly`.
+      - :circb:`Briefly`, :processb:`remove` :participantb:`the bung`.
+      - Sets the timing expectation *before* the action.
+    * - :participantb:`The water` :processb:`was monitored` :circb:`simultaneously`.
+      - :circb:`Simultaneously`, :processb:`monitor` :participantb:`the water`.
+      - Directs the reader to multi-task.
 
 ----
 
