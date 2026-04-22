@@ -1,5 +1,5 @@
 ======================================================
-Rocks: Transitivity
+Rocks: Processes
 ======================================================
 
 Information reports
@@ -28,12 +28,12 @@ Igneous rocks are a type of rock that is formed from the cooling of molten rock.
 
 Identify the Processes.
 
-Igneous rocks :process:`are` a type of rock that :process:`is formed` from the cooling of molten rock.
-There :process:`are` 4 main examples: pumice and scoria, obsidian, basalt and granite.
-Pumice and scoria :process:`are` light rocks which :process:`have` gas bubbles that :process:`are trapped` during cooling.
-Obsidian :process:`is` a volcanic glass that :process:`cools` so rapidly that it :process:`has` no crystals.
-Basalt :process:`has` small crystals since it :process:`forms` from lava that :process:`cools` above ground.
-Granite :process:`forms` from magma :process:`cooling` below ground resulting in the formation of large crystals.
+Igneous rocks :processb:`are` a type of rock that :processb:`is formed` from the cooling of molten rock.
+There :processb:`are` 4 main examples: pumice and scoria, obsidian, basalt and granite.
+Pumice and scoria :processb:`are` light rocks which :processb:`have` gas bubbles that :processb:`are trapped` during cooling.
+Obsidian :processb:`is` a volcanic glass that :processb:`cools` so rapidly that it :processb:`has` no crystals.
+Basalt :processb:`has` small crystals since it :processb:`forms` from lava that :processb:`cools` above ground.
+Granite :processb:`forms` from magma :processb:`cooling` below ground resulting in the formation of large crystals.
 
 ----
 
@@ -72,13 +72,13 @@ Relating verbs
 
             .. tab-item:: Model Answer
 
-                Igneous rocks :process:`are` a type of rock.
-                There :process:`are` four main examples.
-                Pumice and scoria :process:`are` light rocks.
-                Pumice and scoria :process:`have` gas bubbles.
-                Obsidian :process:`is` a volcanic glass.
-                Obsidian :process:`has` no crystals.
-                Basalt :process:`has` small crystals.
+                Igneous rocks :processb:`are` a type of rock.
+                There :processb:`are` four main examples.
+                Pumice and scoria :processb:`are` light rocks.
+                Pumice and scoria :processb:`have` gas bubbles.
+                Obsidian :processb:`is` a volcanic glass.
+                Obsidian :processb:`has` no crystals.
+                Basalt :processb:`has` small crystals.
 
 ----
 
@@ -88,9 +88,9 @@ Existing verbs
 | Existing verbs such as “is”, “are”, and “was” follow “There” to express a state of existence, without describing an action or attribute.
 
 | Examples include:
-| There :process:`is` a layer of basalt beneath the surface.
-| There :process:`are` many igneous rocks found near volcanoes.
-| There :process:`was` a large deposit of granite in the region.
+| There :processb:`is` a layer of basalt beneath the surface.
+| There :processb:`are` many igneous rocks found near volcanoes.
+| There :processb:`was` a large deposit of granite in the region.
 
 
 .. admonition:: Igneous rocks : existing verbs
@@ -98,12 +98,12 @@ Existing verbs
 
     | Reread the igneous rocks information report and identify any clauses that use existing verbs.
 |
-    | Igneous rocks :process:`are` a type of rock that :process:`is formed` from the cooling of molten rock.
-    | There :process:`are` 4 main examples: pumice and scoria, obsidian, basalt and granite.
-    | Pumice and scoria :process:`are` light rocks which :process:`have` gas bubbles that :process:`are trapped` during cooling.
-    | Obsidian :process:`is` a volcanic glass that :process:`cools` so rapidly that it :process:`has` no crystals.
-    | Basalt :process:`has` small crystals since it :process:`forms` from lava that :process:`cools` above ground.
-    | Granite :process:`forms` from magma :process:`cooling` below ground resulting in the formation of large crystals.
+    | Igneous rocks :processb:`are` a type of rock that :processb:`is formed` from the cooling of molten rock.
+    | There :processb:`are` 4 main examples: pumice and scoria, obsidian, basalt and granite.
+    | Pumice and scoria :processb:`are` light rocks which :processb:`have` gas bubbles that :processb:`are trapped` during cooling.
+    | Obsidian :processb:`is` a volcanic glass that :processb:`cools` so rapidly that it :processb:`has` no crystals.
+    | Basalt :processb:`has` small crystals since it :processb:`forms` from lava that :processb:`cools` above ground.
+    | Granite :processb:`forms` from magma :processb:`cooling` below ground resulting in the formation of large crystals.
 
     .. dropdown::
         :icon: codescan
@@ -114,7 +114,7 @@ Existing verbs
 
             .. tab-item:: Model Answer
 
-                There :process:`are` four main examples.
+                There :processb:`are` four main examples.
 
  ----
 
@@ -140,10 +140,10 @@ Existing verbs
             .. tab-item:: Model Answer
 
                 | Sedimentary rocks are formed from the accumulation of sediments.
-                | There :process:`are` 3 main types: clastic, chemical and organic.
-                | Clastic sedimentary rocks :process:`are` made from fragments of other rocks that have been compacted and cemented together.
+                | There :processb:`are` 3 main types: clastic, chemical and organic.
+                | Clastic sedimentary rocks :processb:`are` made from fragments of other rocks that have been compacted and cemented together.
                 | Chemical sedimentary rocks form when minerals precipitate out of solution.
-                | Organic sedimentary rocks :process:`are` made from the remains of plants and animals that have been compacted and cemented together.
+                | Organic sedimentary rocks :processb:`are` made from the remains of plants and animals that have been compacted and cemented together.
 
 
 .. admonition:: Igneous rocks : action verbs
@@ -164,20 +164,20 @@ Existing verbs
 
             .. tab-item:: Model Answer
 
-                | Sedimentary rocks :process:`are formed` from the accumulation of sediments.
+                | Sedimentary rocks :processb:`are formed` from the accumulation of sediments.
                 | There are 3 main types: clastic, chemical and organic.
-                | Clastic sedimentary rocks :process:`are made` from fragments of other rocks that :process:`have been compacted` and :process:`cemented` together.
-                | Chemical sedimentary rocks :process:`form` when minerals :process:`precipitate` out of solution.
-                | Organic sedimentary rocks :process:`are made` from the remains of plants and animals that :process:`have been compacted` and :process:`cemented` together.
+                | Clastic sedimentary rocks :processb:`are made` from fragments of other rocks that :processb:`have been compacted` and :processb:`cemented` together.
+                | Chemical sedimentary rocks :processb:`form` when minerals :processb:`precipitate` out of solution.
+                | Organic sedimentary rocks :processb:`are made` from the remains of plants and animals that :processb:`have been compacted` and :processb:`cemented` together.
 
-                | :process:`are formed`
-                | :process:`are made`
-                | :process:`have been compacted`
-                | :process:`have been cemented`
-                | :process:`form`
-                | :process:`precipitate`
-                | :process:`are made`
-                | :process:`have been compacted`
-                | :process:`have been cemented`
+                | :processb:`are formed`
+                | :processb:`are made`
+                | :processb:`have been compacted`
+                | :processb:`have been cemented`
+                | :processb:`form`
+                | :processb:`precipitate`
+                | :processb:`are made`
+                | :processb:`have been compacted`
+                | :processb:`have been cemented`
 
 
