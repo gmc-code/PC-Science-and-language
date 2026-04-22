@@ -126,7 +126,7 @@ Examples
                     * - Lava **cools**
                       - The **cooling** of lava
                     * - Magma **creates** crust
-                      - The **creation** of crust by magma
+                      - The **creation** of crust from magma
                     * - Mountains **form**
                       - The **formation** of mountains
                     * - Lava **hardens**
