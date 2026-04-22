@@ -27,13 +27,9 @@ Examples
     acknowledge • alter • disclosed • reconstructed • report
 
     1. Scientists must ______________ all findings, even when results are unexpected.
-
     2. Researchers should never ______________ data to make outcomes appear more positive.
-
     3. Observations should be written down immediately rather than ______________ later.
-
     4. When a measurement is taken incorrectly, the researcher should ______________ the mistake.
-
     5. Any financial or personal interests that could influence the study must be ______________ clearly.
 
 
