@@ -132,6 +132,7 @@ span.O, .O {
 }
 
 :root {
+    --admonition-text-color: #404040
     /* --- Premise --- */
     --premise-main: hsl(var(--premise-h), var(--sat-main), var(--L-main));
     --premise-title-bg: hsl(var(--premise-h), var(--sat-soft), var(--L-title));
@@ -177,6 +178,7 @@ span.O, .O {
 
 /* --- Premise --- */
 .admonition.premise {
+    color: var(--admonition-text-color);
     border-left: 6px solid var(--premise-main);
     background-color: var(--premise-bg);
 }
@@ -189,6 +191,7 @@ span.O, .O {
 
 /* --- Reasoning --- */
 .admonition.reasoning {
+    color: var(--admonition-text-color);
     border-left: 6px solid var(--reasoning-main);
     background-color: var(--reasoning-bg);
 }
@@ -201,6 +204,7 @@ span.O, .O {
 
 /* --- Outcome --- */
 .admonition.outcome {
+    color: var(--admonition-text-color);
     border-left: 6px solid var(--outcome-main);
     background-color: var(--outcome-bg);
 }
@@ -213,6 +217,7 @@ span.O, .O {
 
 /* --- PRO --- */
 .admonition.pro {
+    color: var(--admonition-text-color);
     border-left: 6px solid var(--pro-main);
     background-color: var(--pro-bg);
 }
@@ -225,7 +230,7 @@ span.O, .O {
 /* --- MCQ --- */
 div.admonition.mcq,
 div.admonition.mcqs {
-    color: var(--mcq-main);
+    color: var(--admonition-text-color);
     border-left: 6px solid var(--mcq-main);
     background-color: var(--mcq-bg) !important;
 }
@@ -241,7 +246,7 @@ div.admonition.mcqs p.admonition-title {
 /* --- CLOZE --- */
 div.admonition.cloze,
 div.admonition.clozes {
-    color: var(--mcq-main);
+    color: var(--admonition-text-color);
     border-left: 6px solid var(--cloze-main);
     background-color: var(--cloze-bg) !important;
 }
@@ -257,7 +262,7 @@ div.admonition.clozes p.admonition-title {
 /* --- SHORT ANSWER --- */
 div.admonition.shortanswer,
 div.admonition.shortanswers {
-    color: var(--mcq-main);
+    color: var(--admonition-text-color);
     border-left: 6px solid var(--short-main);
     background-color: var(--short-bg) !important;
 }
@@ -273,7 +278,7 @@ div.admonition.shortanswers p.admonition-title {
 /* --- MATCHING --- */
 div.admonition.match,
 div.admonition.matching {
-    color: var(--match-main);
+    color: var(--admonition-text-color);
     border-left: 6px solid var(--match-main);
     background-color: var(--match-bg) !important;
 }
