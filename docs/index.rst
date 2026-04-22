@@ -16,6 +16,14 @@ PC-Science-and-language
     introduction/introduction.rst
 
 
+.. toctree::
+    :maxdepth: 2
+    :caption: 🌋 Earth
+    :numbered:
+
+    earth/rocks_processes.rst
+
+
 
 .. toctree::
     :maxdepth: 2
@@ -209,12 +217,6 @@ PC-Science-and-language
     :caption: 🧲 Physics
     :numbered:
 
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🌋 Earth
-    :numbered:
 
 
 
