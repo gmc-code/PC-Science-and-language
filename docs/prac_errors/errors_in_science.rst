@@ -184,18 +184,10 @@ Quick Reference: Error Source to Classification to Fix
         4. b — Consistent zero error in a balance
         5. b — Random error
 
+----
 
-        .. tab-set::
 
-            .. tab-item:: Answers
-
-                6. c — Systematic error
-                7. b — Random error
-                8. c — Personal error
-                9.  b — Consistent zero error in a balance
-                10. b — Random error
-
-. admonition:: Multiple-Choice Questions
+.. admonition:: Multiple-Choice Questions
     :class: questions
 
     Choose the best answer for each question.
