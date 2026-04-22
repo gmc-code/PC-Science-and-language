@@ -46,7 +46,7 @@ Therefore, the clay changes shape but remains the same substance.
 ----
 
 .. admonition:: Question: Water boiling
-    :class: questions
+    :class: cloze
 
     Complete the Outcome (O).
 
@@ -82,7 +82,7 @@ Therefore, the clay changes shape but remains the same substance.
 ----
 
 .. admonition:: Question: Stretching a rubber band
-    :class: questions
+    :class: cloze
 
     Complete the Reasoning (R).
 
@@ -118,7 +118,7 @@ Therefore, the clay changes shape but remains the same substance.
 ----
 
 .. admonition:: Question: Snapping chalk
-    :class: questions
+    :class: cloze
 
     Complete the Premise (P).
 
@@ -154,7 +154,7 @@ Therefore, the clay changes shape but remains the same substance.
 ----
 
 .. admonition:: Question: Fixed shape
-    :class: questions
+    :class: cloze
 
     Complete the Explanation by filling in the missing words (processes).
 
@@ -193,7 +193,7 @@ Therefore, the clay changes shape but remains the same substance.
 ----
 
 .. admonition:: Question: Melting butter
-    :class: questions
+    :class: cloze
 
     Complete the Explanation by filling in the missing nouns.
 
@@ -233,7 +233,7 @@ Therefore, the clay changes shape but remains the same substance.
 ----
 
 .. admonition:: Question: Squashing a sponge
-    :class: questions
+    :class: cloze
 
     Complete the Explanation by filling in the missing adjectives or adverbs (modifiers).
 
@@ -272,7 +272,7 @@ Therefore, the clay changes shape but remains the same substance.
 ----
 
 .. admonition:: Question: Wet mirror
-    :class: questions
+    :class: cloze
 
     Complete the Explanation by filling in the missing text connectives.
 
@@ -311,7 +311,7 @@ Therefore, the clay changes shape but remains the same substance.
 ----
 
 .. admonition:: Question: Overnight frost
-    :class: questions
+    :class: cloze
 
     Complete the Explanation by filling in the missing text connectives.
 
@@ -350,7 +350,7 @@ Therefore, the clay changes shape but remains the same substance.
 ----
 
 .. admonition:: Question: Cold to touch
-    :class: questions
+    :class: cloze
 
     Complete the Explanation by filling in the missing verbs (material processes).
 
@@ -389,7 +389,7 @@ Therefore, the clay changes shape but remains the same substance.
 ----
 
 .. admonition:: Question: Clothing in wind
-    :class: questions
+    :class: cloze
 
     Complete the Explanation by filling in the missing describers (adjectives/adverbs).
 
@@ -428,7 +428,7 @@ Therefore, the clay changes shape but remains the same substance.
 ----
 
 .. admonition:: Question: Disappearing puddle
-    :class: questions
+    :class: cloze
 
     Complete the Explanation by filling in the missing verbs (material processes).
 
@@ -467,7 +467,7 @@ Therefore, the clay changes shape but remains the same substance.
 ----
 
 .. admonition:: Question: Shrinking a balloon
-    :class: questions
+    :class: shortanswer
 
     Explain the following phenomenon using the PRO structure.
 
@@ -494,7 +494,7 @@ Therefore, the clay changes shape but remains the same substance.
 ----
 
 .. admonition:: Question: Sun dried towel
-    :class: questions
+    :class: shortanswer
 
     Explain the following phenomenon using the PRO structure.
 

@@ -107,7 +107,9 @@ span.O, .O {
 }
 
 
+/* ========================================== */
 /* admonitions via class */
+/* ========================================== */
 
 /* --- Premise (Blue) --- */
 .admonition.premise {
@@ -152,9 +154,73 @@ span.O, .O {
 }
 .admonition.pro .admonition-title {
     background: #e3d4eb;   /* darker lavender tint */
-    color: #9b59b6;
+    color: #b700ff;
     font-weight: normal;   /* or 400 */
 }
+
+/* --- MCQ --- */
+
+div.admonition.mcq,
+div.admonition.mcqs {
+    color: #404040;
+    border-left: 6px solid #2a9d8f;
+    background-color: #e8f7f5 !important;
+}
+
+div.admonition.mcq p.admonition-title,
+div.admonition.mcqs p.admonition-title {
+    text-transform: capitalize;
+    color: #404040 !important;
+    background-color: #2a9d8f !important;
+}
+
+/* --- CLOZE --- */
+div.admonition.cloze,
+div.admonition.clozes {
+    color: #404040;
+    border-left: 6px solid #6a4c93;
+    background-color: #f3eefc !important;
+}
+
+div.admonition.cloze p.admonition-title,
+div.admonition.clozes p.admonition-title {
+    text-transform: capitalize;
+    color: #404040 !important;
+    background-color: #6a4c93 !important;
+}
+
+/* --- shortanswer --- */
+div.admonition.shortanswer,
+div.admonition.shortanswers {
+    color: #404040;
+    border-left: 6px solid #e76f51;
+    background-color: #fff0ec !important;
+}
+
+div.admonition.shortanswer p.admonition-title,
+div.admonition.shortanswers p.admonition-title {
+    text-transform: capitalize;
+    color: #404040 !important;
+    background-color: #e76f51 !important;
+}
+
+/* --- matching --- */
+div.admonition.match,
+div.admonition.matching {
+    color: #404040;
+    border-left: 6px solid #457b9d;
+    background-color: #edf4fb !important;
+}
+
+div.admonition.match p.admonition-title,
+div.admonition.matching p.admonition-title {
+    text-transform: capitalize;
+    color: #404040 !important;
+    background-color: #457b9d !important;
+}
+
+
+/* ========================================== */
 
 
 .pro-answer {
