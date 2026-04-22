@@ -97,7 +97,7 @@ Existing verbs
     :class: questions
 
     | Reread the igneous rocks information report and identify any clauses that use existing verbs.
-|
+
     | Igneous rocks :processb:`are` a type of rock that :processb:`is formed` from the cooling of molten rock.
     | There :processb:`are` 4 main examples: pumice and scoria, obsidian, basalt and granite.
     | Pumice and scoria :processb:`are` light rocks which :processb:`have` gas bubbles that :processb:`are trapped` during cooling.
