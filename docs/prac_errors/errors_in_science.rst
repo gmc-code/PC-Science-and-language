@@ -186,7 +186,7 @@ Quick Reference: Error Source to Classification to Fix
             | d. Method limitation
 
 
-    .. dropdown:: Answers
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :color: success
         :class-container: sd-dropdown-container
@@ -194,16 +194,21 @@ Quick Reference: Error Source to Classification to Fix
         .. tab-set::
 
             .. tab-item:: Q1
+
                 c — Systematic error
 
             .. tab-item:: Q2
+
                 b — Random error
 
             .. tab-item:: Q3
+
                 c — Personal error
 
             .. tab-item:: Q4
+
                 b — Consistent zero error in a balance
 
             .. tab-item:: Q5
+
                 b — Random error

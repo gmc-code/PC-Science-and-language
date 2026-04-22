@@ -65,55 +65,74 @@ Examples
 
         .. tab-item:: Q1
 
+            1. Which action best demonstrates honesty in scientific work?
 
-    1. Which action best demonstrates honesty in scientific work?
+                | a. Adjusting results to match the hypothesis
+                | b. Reporting all data truthfully
+                | c. Ignoring unusual data points
+                | d. Writing results in a way that sounds more impressive
 
-        | a. Adjusting results to match the hypothesis
-        | b. Reporting all data truthfully
-        | c. Ignoring unusual data points
-        | d. Writing results in a way that sounds more impressive
+        .. tab-item:: Q2
 
-    2. Why should observations be recorded immediately?
+            2. Why should observations be recorded immediately?
 
-        | a. Memory can distort details
-        | b. It saves time later
-        | c. It makes the report look longer
-        | d. It avoids using instruments
+                | a. Memory can distort details
+                | b. It saves time later
+                | c. It makes the report look longer
+                | d. It avoids using instruments
 
-    3. What should a scientist do if they discover a measurement error?
+        .. tab-item:: Q3
 
-        | a. Hide it to avoid delays
-        | b. Repeat the experiment without noting it
-        | c. Admit the mistake and document it
-        | d. Change the value to the expected one
+            3. What should a scientist do if they discover a measurement error?
 
-    4. Which situation requires disclosure of a conflict of interest?
+                | a. Hide it to avoid delays
+                | b. Repeat the experiment without noting it
+                | c. Admit the mistake and document it
+                | d. Change the value to the expected one
 
-        | a. The study uses old equipment
-        | b. The researcher dislikes the topic
-        | c. The research is funded by a group that may benefit
-        | d. The sample size is small
+        .. tab-item:: Q4
 
-    5. Why is it important to accurately describe the methods used?
+            4. Which situation requires disclosure of a conflict of interest?
 
-        | a. So others can independently verify the study
-        | b. To make the report sound more complex
-        | c. To impress funding agencies
-        | d. To reduce the length of the results section
+                | a. The study uses old equipment
+                | b. The researcher dislikes the topic
+                | c. The research is funded by a group that may benefit
+                | d. The sample size is small
+
+        .. tab-item:: Q5
+
+            5. Why is it important to accurately describe the methods used?
+
+                | a. So others can independently verify the study
+                | b. To make the report sound more complex
+                | c. To impress funding agencies
+                | d. To reduce the length of the results section
 
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :color: success
         :class-container: sd-dropdown-container
 
         .. tab-set::
 
-            .. tab-item:: Answers
+            .. tab-item:: Q1
 
                 1. b. Reporting all data truthfully
+
+            .. tab-item:: Q2
+
                 2. a. Memory can distort details
+
+            .. tab-item:: Q3
+
                 3. c. Admit the mistake and document it
+
+            .. tab-item:: Q4
+
                 4. c. The research is funded by a group that may benefit
+
+            .. tab-item:: Q5
+
                 5. a. So others can independently verify the study
 

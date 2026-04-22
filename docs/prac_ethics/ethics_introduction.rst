@@ -50,14 +50,14 @@ General Ethical Principles
     5. Researchers must ______________ the dignity and rights of all participants.
 
 
-    .. dropdown::
+    .. dropdown:: Answers
         :icon: codescan
         :color: primary
         :class-container: sd-dropdown-container
 
         .. tab-set::
 
-            .. tab-item:: Answers
+            .. tab-item::
 
                 1. obtain
                 2. minimise
@@ -76,57 +76,76 @@ General Ethical Principles
 
         .. tab-item:: Q1
 
+            1. Which action best demonstrates ethical behaviour in scientific research?
 
-    1. Which action best demonstrates ethical behaviour in scientific research?
+                | a. Reporting findings truthfully
+                | b. Ignoring unexpected results
+                | c. Selecting only data that supports the hypothesis
+                | d. Sharing personal information without consent
 
-        | a. Reporting findings truthfully
-        | b. Ignoring unexpected results
-        | c. Selecting only data that supports the hypothesis
-        | d. Sharing personal information without consent
+        .. tab-item:: Q2
 
-    2. Why is it important to minimise risks during an investigation?
+            2. Why is it important to minimise risks during an investigation?
 
-        | a. It reduces the time needed for data collection
-        | b. It ensures the safety of people, animals, and the environment
-        | c. It guarantees more accurate results
-        | d. It avoids the need for safety equipment
+                | a. It reduces the time needed for data collection
+                | b. It ensures the safety of people, animals, and the environment
+                | c. It guarantees more accurate results
+                | d. It avoids the need for safety equipment
 
-    3. Which action shows fairness in data interpretation?
+        .. tab-item:: Q3
 
-        | a. Selecting data that supports a preferred outcome
-        | b. Ignoring data that contradicts expectations
-        | c. Interpreting all data without bias
-        | d. Changing results to match predictions
+            3. Which action shows fairness in data interpretation?
 
-    4. Why must researchers obtain consent before collecting personal information?
+                | a. Selecting data that supports a preferred outcome
+                | b. Ignoring data that contradicts expectations
+                | c. Interpreting all data without bias
+                | d. Changing results to match predictions
 
-        | a. It makes the study easier to organise
-        | b. It protects participants' rights and dignity
-        | c. It increases the number of responses
-        | d. It reduces the need for follow-up questions
+        .. tab-item:: Q4
 
-    5. Which example best demonstrates commitment to doing good?
+            4. Why must researchers obtain consent before collecting personal information?
 
-        | a. Avoiding collaboration with others
-        | b. Keeping results within a single institution
-        | c. Using animals whenever convenient
-        | d. Applying findings to improve people's lives
+                | a. It makes the study easier to organise
+                | b. It protects participants' rights and dignity
+                | c. It increases the number of responses
+                | d. It reduces the need for follow-up questions
+
+        .. tab-item:: Q5
+
+            5. Which example best demonstrates commitment to doing good?
+
+                | a. Avoiding collaboration with others
+                | b. Keeping results within a single institution
+                | c. Using animals whenever convenient
+                | d. Applying findings to improve people's lives
 
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :color: success
         :class-container: sd-dropdown-container
 
         .. tab-set::
 
-            .. tab-item:: Answers
+            .. tab-item:: Q1
 
                 1. a — Reporting findings truthfully
+
+            .. tab-item:: Q2
+
                 2. b — It ensures the safety of people, animals, and the environment
+
+            .. tab-item:: Q3
+
                 3. c — Interpreting all data without bias
+
+            .. tab-item:: Q4
+
                 4. b — It protects participants' rights and dignity
-                5. d — Applying findings to improve people's lives
+
+            .. tab-item:: Q5
+
+               5. d — Applying findings to improve people's lives
 
 
 

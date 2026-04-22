@@ -38,14 +38,14 @@ Examples
     5. Field researchers must ______________ wildlife by observing animals without disturbing them.
 
 
-    .. dropdown::
+    .. dropdown:: Answers
         :icon: codescan
         :color: primary
         :class-container: sd-dropdown-container
 
         .. tab-set::
 
-            .. tab-item:: Answers
+            .. tab-item::
 
                 1. avoid
                 2. respect
@@ -64,54 +64,75 @@ Examples
 
         .. tab-item:: Q1
 
+            1. Which action best demonstrates avoidance of harm in field research?
 
-    1. Which action best demonstrates avoidance of harm in field research?
+                | a. Feeding wildlife to encourage interaction
+                | b. Collecting specimens from endangered populations
+                | c. Approaching animals closely to get better photographs
+                | d. Observing animals without disturbing their natural behaviour
 
-        | a. Feeding wildlife to encourage interaction
-        | b. Collecting specimens from endangered populations
-        | c. Approaching animals closely to get better photographs
-        | d. Observing animals without disturbing their natural behaviour
+        .. tab-item:: Q2
 
-    2. Why should researchers use simulations or models when possible?
+            2. Why should researchers use simulations or models when possible?
 
-        | a. They reduce the need to involve live animals
-        | b. They eliminate the need for safety equipment
-        | c. They guarantee more accurate results
-        | d. They are always faster to run
+                | a. They reduce the need to involve live animals
+                | b. They eliminate the need for safety equipment
+                | c. They guarantee more accurate results
+                | d. They are always faster to run
 
-    3. When should an experiment be ended early?
+        .. tab-item:: Q3
 
-        | a. When the equipment is difficult to operate
-        | b. When the sample size becomes too large
-        | c. When it causes unexpected suffering to participants
-        | d. When the results are not what the researcher expected
+            3. When should an experiment be ended early?
 
-    4. Why is it important to keep survey responses private?
+                | a. When the equipment is difficult to operate
+                | b. When the sample size becomes too large
+                | c. When it causes unexpected suffering to participants
+                | d. When the results are not what the researcher expected
 
-        | a. It protects individuals from potential harm or misuse of information
-        | b. It prevents participants from changing their answers
-        | c. It increases the number of responses collected
-        | d. It makes data analysis easier
+        .. tab-item:: Q4
 
-    5. Which action shows responsible handling of protected environments?
+            4. Why is it important to keep survey responses private?
 
-        | a. Removing plants or rocks for personal study
-        | b. Entering national parks without permits to save time
-        | c. Collecting samples from restricted areas
-        | d. Staying on approved paths and obtaining required permits
+                | a. It protects individuals from potential harm or misuse of information
+                | b. It prevents participants from changing their answers
+                | c. It increases the number of responses collected
+                | d. It makes data analysis easier
+
+        .. tab-item:: Q5
+
+            5. Which action shows responsible handling of protected environments?
+
+                | a. Removing plants or rocks for personal study
+                | b. Entering national parks without permits to save time
+                | c. Collecting samples from restricted areas
+                | d. Staying on approved paths and obtaining required permits
 
 
-    .. dropdown::
+    .. dropdown:: Answers
         :icon: check-circle
         :color: success
         :class-container: sd-dropdown-container
 
         .. tab-set::
 
-            .. tab-item:: Answers
+            .. tab-item:: Q1
 
                 1. d. Observing animals without disturbing their natural behaviour
+
+            .. tab-item:: Q2
+
                 2. a. They reduce the need to involve live animals
+
+            .. tab-item:: Q3
+
                 3. c. When it causes unexpected suffering to participants
+
+            .. tab-item:: Q4
+
                 4. a. It protects individuals from potential harm or misuse of information
+
+            .. tab-item:: Q5
+
                 5. d. Staying on approved paths and obtaining required permits
+
+

@@ -62,55 +62,74 @@ Examples
 
         .. tab-item:: Q1
 
+            1. Why is it important to let people choose whether to participate in a study?
 
-    1. Why is it important to let people choose whether to participate in a study?
+                | a. It ensures participation is voluntary
+                | b. It increases the number of responses
+                | c. It avoids writing consent forms
+                | d. It makes the study faster
 
-        | a. It ensures participation is voluntary
-        | b. It increases the number of responses
-        | c. It avoids writing consent forms
-        | d. It makes the study faster
+        .. tab-item:: Q2
 
-    2. What makes a survey question fair?
+            2. What makes a survey question fair?
 
-        | a. Asking only yes/no questions
-        | b. Writing it in plain, understandable language
-        | c. Making it sound impressive
-        | d. Using complex scientific terms
+                | a. Asking only yes/no questions
+                | b. Writing it in plain, understandable language
+                | c. Making it sound impressive
+                | d. Using complex scientific terms
 
-    3. What is an example of unbiased data interpretation?
+        .. tab-item:: Q3
 
-        | a. Applying the same criteria to all data
-        | b. Selecting only the smallest data sets
-        | c. Favouring one group's responses
-        | d. Ignoring results that don't fit expectations
+            3. What is an example of unbiased data interpretation?
 
-    4. Why should a study include a diverse sample?
+                | a. Applying the same criteria to all data
+                | b. Selecting only the smallest data sets
+                | c. Favouring one group's responses
+                | d. Ignoring results that don't fit expectations
 
-        | a. To reduce the number of variables
-        | b. To avoid collecting too much data
-        | c. To make the report longer
-        | d. To ensure conclusions apply fairly to different groups
+        .. tab-item:: Q4
 
-    5. Why is open access important for fairness in science?
+            4. Why should a study include a diverse sample?
 
-        | a. It increases printing costs
-        | b. It limits who can read the research
-        | c. It allows all researchers to use and build on the findings
-        | d. It makes the study more secretive
+                | a. To reduce the number of variables
+                | b. To avoid collecting too much data
+                | c. To make the report longer
+                | d. To ensure conclusions apply fairly to different groups
+
+        .. tab-item:: Q5
+
+            5. Why is open access important for fairness in science?
+
+                | a. It increases printing costs
+                | b. It limits who can read the research
+                | c. It allows all researchers to use and build on the findings
+                | d. It makes the study more secretive
 
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :color: success
         :class-container: sd-dropdown-container
 
         .. tab-set::
 
-            .. tab-item:: Answers
+            .. tab-item:: Q1
 
                 1. a — It ensures participation is voluntary
+
+            .. tab-item:: Q2
+
                 2. b — Writing it in plain, understandable language
+
+            .. tab-item:: Q3
+
                 3. a — Applying the same criteria to all data
+
+            .. tab-item:: Q4
+
                 4. d — To ensure conclusions apply fairly to different groups
+
+            .. tab-item:: Q5
+
                 5. c — It allows all researchers to use and build on the findings
 

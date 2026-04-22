@@ -126,7 +126,7 @@ Accuracy and precision are independent. A result can be accurate but not precise
                 | d. Environmental noise
 
 
-    .. dropdown:: Answers
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :color: success
         :class-container: sd-dropdown-container
@@ -134,17 +134,22 @@ Accuracy and precision are independent. A result can be accurate but not precise
         .. tab-set::
 
             .. tab-item:: Q1
+
                 1. a — Measurements close to the true value and close to each other
 
             .. tab-item:: Q2
+
                 2. a — Readings that average to the true value but vary widely
 
             .. tab-item:: Q3
+
                 3. d — A faulty scale giving consistent readings that are all too high
 
             .. tab-item:: Q4
+
                 4. c — Results that are neither close to the true value nor to each other
 
             .. tab-item:: Q5
+
                 5. b — Systematic error
 

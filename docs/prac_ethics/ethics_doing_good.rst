@@ -64,55 +64,74 @@ Examples
 
         .. tab-item:: Q1
 
+            1. Which action best reflects the principle of doing good in scientific research?
 
-    1. Which action best reflects the principle of doing good in scientific research?
+                | a. Choosing research questions that benefit the community
+                | b. Avoiding collaboration with other researchers
+                | c. Repeating studies for practice without sharing results
+                | d. Designing experiments that have no clear purpose
 
-        | a. Choosing research questions that benefit the community
-        | b. Avoiding collaboration with other researchers
-        | c. Repeating studies for practice without sharing results
-        | d. Designing experiments that have no clear purpose
+        .. tab-item:: Q2
 
-    2. Why should scientists ensure their investigations have a clear educational or social purpose?
+            2. Why should scientists ensure their investigations have a clear educational or social purpose?
 
-        | a. It shortens the data-collection process
-        | b. It makes the report easier to write
-        | c. It reduces the number of variables
-        | d. It helps maximise the positive impact of the research
+                | a. It shortens the data-collection process
+                | b. It makes the report easier to write
+                | c. It reduces the number of variables
+                | d. It helps maximise the positive impact of the research
 
-    3. When is it appropriate to involve animals in scientific research?
+        .. tab-item:: Q3
 
-        | a. When the use of animals saves money
-        | b. When it is convenient for the researcher
-        | c. When the sample size needs to be increased
-        | d. When there is a clear and meaningful benefit
+            3. When is it appropriate to involve animals in scientific research?
 
-    4. Why should scientists share their findings openly?
+                | a. When the use of animals saves money
+                | b. When it is convenient for the researcher
+                | c. When the sample size needs to be increased
+                | d. When there is a clear and meaningful benefit
 
-        | a. To allow the wider community to benefit from the results
-        | b. To reduce the number of follow-up questions
-        | c. To make the study appear more impressive
-        | d. To increase competition between research groups
+        .. tab-item:: Q4
 
-    5. Which example best demonstrates applying findings for the good of society?
+            4. Why should scientists share their findings openly?
 
-        | a. Using findings only for commercial gain
-        | b. Keeping results within a single institution
-        | c. Applying results to improve people's lives
-        | d. Limiting access to the research
+                | a. To allow the wider community to benefit from the results
+                | b. To reduce the number of follow-up questions
+                | c. To make the study appear more impressive
+                | d. To increase competition between research groups
+
+        .. tab-item:: Q5
+
+            5. Which example best demonstrates applying findings for the good of society?
+
+                | a. Using findings only for commercial gain
+                | b. Keeping results within a single institution
+                | c. Applying results to improve people's lives
+                | d. Limiting access to the research
 
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :color: success
         :class-container: sd-dropdown-container
 
         .. tab-set::
 
-            .. tab-item:: Answers
+            .. tab-item:: Q1
 
-                1. a — Choosing research questions that benefit the community
-                2. d — It helps maximise the positive impact of the research
-                3. d — When there is a clear and meaningful benefit
-                4. a — To allow the wider community to benefit from the results
-                5. c — Applying results to improve people's lives
+               1. a — Choosing research questions that benefit the community
+
+            .. tab-item:: Q2
+
+               2. d — It helps maximise the positive impact of the research
+
+            .. tab-item:: Q3
+
+               3. d — When there is a clear and meaningful benefit
+
+            .. tab-item:: Q4
+
+               4. a — To allow the wider community to benefit from the results
+
+            .. tab-item:: Q5
+
+               5. c — Applying results to improve people's lives
 
