@@ -20,12 +20,12 @@ Example
     * - move
       - movement
 
+----
 
-.. admonition:: Nominalisation of earth processes
+.. admonition:: Plate tectonics processes
     :class: questions
 
     | Rewrite each verb as a noun.
-    | The first one has been done for you.
 
     .. list-table::
         :header-rows: 1
@@ -33,75 +33,23 @@ Example
 
         * - Verb
           - Nominalisation
-        * - build
-          - buildup
         * - collide
-          -
-        * - collapse
-          -
-        * - compress
           -
         * - converge
           -
-        * - cool
-          -
-        * - crack
-          -
-        * - create
-          -
-        * - detect
-          -
-        * - destroy
-          -
         * - diverge
           -
-        * - erode
-          -
-        * - erupt
-          -
-        * - evacuate
-          -
-        * - extend
-          -
-        * - flow
-          -
-        * - form
-          -
-        * - fracture
-          -
-        * - grind
-          -
-        * - harden
-          -
-        * - interact
-          -
-        * - melt
-          -
         * - move
-          -
-        * - predict
           -
         * - pull
           -
         * - push
-          -
-        * - reduce
-          -
-        * - release
-          -
-        * - rise
-          -
-        * - sink
-          -
-        * - slip
           -
         * - spread
           -
         * - subduct
           -
         * - transform
-          -
-        * - weaken
           -
 
     .. dropdown::
@@ -115,77 +63,245 @@ Example
 
                 .. list-table::
                     :header-rows: 1
-                    :widths: 30 40
+                    :widths: 40 50
 
                     * - Verb
                       - Nominalisation
-                    * - build
-                      - buildup
                     * - collide
                       - collision
-                    * - collapse
-                      - collapse
-                    * - compress
-                      - compression
                     * - converge
                       - convergence
-                    * - cool
-                      - cooling
-                    * - crack
-                      - cracking
-                    * - create
-                      - creation
-                    * - detect
-                      - detection
-                    * - destroy
-                      - destruction
                     * - diverge
                       - divergence
-                    * - erode
-                      - erosion
-                    * - erupt
-                      - eruption
-                    * - evacuate
-                      - evacuation
-                    * - extend
-                      - extension
-                    * - flow
-                      - flow
-                    * - form
-                      - formation
-                    * - fracture
-                      - fracturing
-                    * - grind
-                      - grinding
-                    * - harden
-                      - hardening
-                    * - interact
-                      - interaction
-                    * - melt
-                      - melting
                     * - move
                       - movement
-                    * - predict
-                      - prediction
                     * - pull
                       - tension
                     * - push
                       - pressure
-                    * - reduce
-                      - reduction
-                    * - release
-                      - release
-                    * - rise
-                      - rise
-                    * - sink
-                      - sinking
-                    * - slip
-                      - slippage
                     * - spread
                       - spreading
                     * - subduct
                       - subduction
                     * - transform
                       - transformation
+
+----
+
+.. admonition:: Rock formation processes
+    :class: questions
+
+    | Rewrite each verb as a noun.
+
+    .. list-table::
+        :header-rows: 1
+        :widths: 40 50
+
+        * - Verb
+          - Nominalisation
+        * - compress
+          -
+        * - cool
+          -
+        * - form
+          -
+        * - harden
+          -
+        * - melt
+          -
+        * - reduce
+          -
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                .. list-table::
+                    :header-rows: 1
+                    :widths: 40 50
+
+                    * - Verb
+                      - Nominalisation
+                    * - compress
+                      - compression
+                    * - cool
+                      - cooling
+                    * - form
+                      - formation
+                    * - harden
+                      - hardening
+                    * - melt
+                      - melting
+                    * - reduce
+                      - reduction
+
+----
+
+.. admonition:: Surface and weathering processes
+    :class: questions
+
+    | Rewrite each verb as a noun.
+
+    .. list-table::
+        :header-rows: 1
+        :widths: 40 50
+
+        * - Verb
+          - Nominalisation
+        * - erode
+          -
+        * - grind
+          -
+        * - crack
+          -
+        * - fracture
+          -
+        * - collapse
+          -
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                .. list-table::
+                    :header-rows: 1
+                    :widths: 40 50
+
+                    * - Verb
+                      - Nominalisation
+                    * - erode
+                      - erosion
+                    * - grind
+                      - grinding
+                    * - crack
+                      - cracking
+                    * - fracture
+                      - fracturing
+                    * - collapse
+                      - collapse
+
+----
+
+.. admonition:: Volcanic and seismic processes
+    :class: questions
+
+    | Rewrite each verb as a noun.
+
+    .. list-table::
+        :header-rows: 1
+        :widths: 40 50
+
+        * - Verb
+          - Nominalisation
+        * - erupt
+          -
+        * - flow
+          -
+        * - release
+          -
+        * - slip
+          -
+        * - rise
+          -
+        * - sink
+          -
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                .. list-table::
+                    :header-rows: 1
+                    :widths: 40 50
+
+                    * - Verb
+                      - Nominalisation
+                    * - erupt
+                      - eruption
+                    * - flow
+                      - flow
+                    * - release
+                      - release
+                    * - slip
+                      - slippage
+                    * - rise
+                      - rise
+                    * - sink
+                      - sinking
+
+----
+
+.. admonition:: Scientific and general processes
+    :class: questions
+
+    | Rewrite each verb as a noun.
+
+    .. list-table::
+        :header-rows: 1
+        :widths: 40 50
+
+        * - Verb
+          - Nominalisation
+        * - create
+          -
+        * - detect
+          -
+        * - destroy
+          -
+        * - interact
+          -
+        * - predict
+          -
+        * - weaken
+          -
+        * - extend
+          -
+        * - evacuate
+          -
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                .. list-table::
+                    :header-rows: 1
+                    :widths: 40 50
+
+                    * - Verb
+                      - Nominalisation
+                    * - create
+                      - creation
+                    * - detect
+                      - detection
+                    * - destroy
+                      - destruction
+                    * - interact
+                      - interaction
+                    * - predict
+                      - prediction
                     * - weaken
                       - weakening
+                    * - extend
+                      - extension
+                    * - evacuate
+                      - evacuation

@@ -4,7 +4,7 @@ Verbs → Nouns 2: Earth
 
 | Science explanations often turn actions (**verbs**) into things (**nouns**).
 | This grammatical change is called **nominalisation** and is commonly used in
-scientific writing to describe processes clearly and efficiently.
+| scientific writing to describe processes clearly and efficiently.
 
 Your task is to rewrite each short clause by expressing its process as a noun group.
 
@@ -15,12 +15,12 @@ Example
 | Verb: Plates **collide**
 | Nominalisation: The **collision** of plates
 
-.. admonition:: Nominalisation of verbs
+----
+
+.. admonition:: Plate tectonics processes
     :class: questions
 
-    Rewrite each short clause so the process it describes is expressed as a noun group.
-    Keep the meaning the same.
-    The first one has been done for you.
+    Rewrite each clause as a noun group.
 
     .. list-table:: Process to Participant
         :header-rows: 1
@@ -30,43 +30,11 @@ Example
           - Scientific (participant)
         * - Plates **collide**
           - The **collision** of plates
-        * - Plates **compress** crust
-          -
         * - Plates **converge**
-          -
-        * - Lava **cools**
-          -
-        * - Magma **creates** crust
-          -
-        * - Subduction **destroys** crust
-          -
-        * - Seismometers **detect** movement
           -
         * - Plates **diverge**
           -
-        * - Water **erodes** rock
-          -
-        * - Volcano **erupts**
-          -
-        * - Authorities **evacuate** communities
-          -
-        * - Crust **extends**
-          -
-        * - Stress **fractures** crust
-          -
-        * - Mountains **form**
-          -
-        * - Lava **hardens**
-          -
         * - Plates **interact**
-          -
-        * - Rock **melts**
-          -
-        * - Scientists **predict** earthquakes
-          -
-        * - Design **reduces** damage
-          -
-        * - Crust **sinks**
           -
         * - Plates **slip**
           -
@@ -76,9 +44,6 @@ Example
           -
         * - Forces **transform** Earth’s surface
           -
-        * - Heat **weakens** crust
-          -
-
 
     .. dropdown::
         :icon: codescan
@@ -89,8 +54,7 @@ Example
 
             .. tab-item:: Model Answer
 
-
-                .. list-table:: Process to Participant
+                .. list-table::
                     :header-rows: 1
                     :widths: 40 50
 
@@ -98,44 +62,12 @@ Example
                       - Scientific (participant)
                     * - Plates **collide**
                       - The **collision** of plates
-                    * - Plates **compress** crust
-                      - The **compression** of crust
                     * - Plates **converge**
                       - The **convergence** of plates
-                    * - Lava **cools**
-                      - The **cooling** of lava
-                    * - Magma **creates** crust
-                      - The **creation** of crust
-                    * - Subduction **destroys** crust
-                      - The **destruction** of crust
-                    * - Seismometers **detect** movement
-                      - The **detection** of movement
                     * - Plates **diverge**
                       - The **divergence** of plates
-                    * - Water **erodes** rock
-                      - The **erosion** of rock
-                    * - Volcano **erupts**
-                      - The **eruption** of a volcano
-                    * - Authorities **evacuate** communities
-                      - The **evacuation** of communities
-                    * - Crust **extends**
-                      - The **extension** of crust
-                    * - Stress **fractures** crust
-                      - The **fracturing** of crust
-                    * - Mountains **form**
-                      - The **formation** of mountains
-                    * - Lava **hardens**
-                      - The **hardening** of lava
                     * - Plates **interact**
                       - The **interaction** of plates
-                    * - Rock **melts**
-                      - The **melting** of rock
-                    * - Scientists **predict** earthquakes
-                      - The **prediction** of earthquakes
-                    * - Design **reduces** damage
-                      - The **reduction** of damage
-                    * - Crust **sinks**
-                      - The **sinking** of crust
                     * - Plates **slip**
                       - The **slippage** of plates
                     * - Crust **spreads**
@@ -144,6 +76,192 @@ Example
                       - The **subduction** of one plate
                     * - Forces **transform** Earth’s surface
                       - The **transformation** of Earth’s surface
+
+----
+
+.. admonition:: Rock formation processes
+    :class: questions
+
+    Rewrite each clause as a noun group.
+
+    .. list-table:: Process to Participant
+        :header-rows: 1
+        :widths: 40 50
+
+        * - Everyday (process)
+          - Scientific (participant)
+        * - Plates **compress** crust
+          -
+        * - Lava **cools**
+          -
+        * - Magma **creates** crust
+          -
+        * - Mountains **form**
+          -
+        * - Lava **hardens**
+          -
+        * - Rock **melts**
+          -
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                .. list-table::
+                    :header-rows: 1
+                    :widths: 40 50
+
+                    * - Everyday (process)
+                      - Scientific (participant)
+                    * - Plates **compress** crust
+                      - The **compression** of crust
+                    * - Lava **cools**
+                      - The **cooling** of lava
+                    * - Magma **creates** crust
+                      - The **creation** of crust
+                    * - Mountains **form**
+                      - The **formation** of mountains
+                    * - Lava **hardens**
+                      - The **hardening** of lava
+                    * - Rock **melts**
+                      - The **melting** of rock
+
+----
+
+.. admonition:: Surface and weathering processes
+    :class: questions
+
+    Rewrite each clause as a noun group.
+
+    .. list-table:: Process to Participant
+        :header-rows: 1
+        :widths: 40 50
+
+        * - Everyday (process)
+          - Scientific (participant)
+        * - Water **erodes** rock
+          -
+        * - Stress **fractures** crust
+          -
+        * - Crust **extends**
+          -
+        * - Crust **sinks**
+          -
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                .. list-table::
+                    :header-rows: 1
+                    :widths: 40 50
+
+                    * - Everyday (process)
+                      - Scientific (participant)
+                    * - Water **erodes** rock
+                      - The **erosion** of rock
+                    * - Stress **fractures** crust
+                      - The **fracturing** of crust
+                    * - Crust **extends**
+                      - The **extension** of crust
+                    * - Crust **sinks**
+                      - The **sinking** of crust
+
+----
+
+.. admonition:: Volcanic and seismic processes
+    :class: questions
+
+    Rewrite each clause as a noun group.
+
+    .. list-table:: Process to Participant
+        :header-rows: 1
+        :widths: 40 50
+
+        * - Everyday (process)
+          - Scientific (participant)
+        * - Volcano **erupts**
+          -
+        * - Seismometers **detect** movement
+          -
+        * - Scientists **predict** earthquakes
+          -
+        * - Authorities **evacuate** communities
+          -
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                .. list-table::
+                    :header-rows: 1
+                    :widths: 40 50
+
+                    * - Everyday (process)
+                      - Scientific (participant)
+                    * - Volcano **erupts**
+                      - The **eruption** of a volcano
+                    * - Seismometers **detect** movement
+                      - The **detection** of movement
+                    * - Scientists **predict** earthquakes
+                      - The **prediction** of earthquakes
+                    * - Authorities **evacuate** communities
+                      - The **evacuation** of communities
+
+----
+
+.. admonition:: Effects and outcomes
+    :class: questions
+
+    Rewrite each clause as a noun group.
+
+    .. list-table:: Process to Participant
+        :header-rows: 1
+        :widths: 40 50
+
+        * - Everyday (process)
+          - Scientific (participant)
+        * - Subduction **destroys** crust
+          -
+        * - Design **reduces** damage
+          -
+        * - Heat **weakens** crust
+          -
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                .. list-table::
+                    :header-rows: 1
+                    :widths: 40 50
+
+                    * - Everyday (process)
+                      - Scientific (participant)
+                    * - Subduction **destroys** crust
+                      - The **destruction** of crust
+                    * - Design **reduces** damage
+                      - The **reduction** of damage
                     * - Heat **weakens** crust
                       - The **weakening** of crust
 
