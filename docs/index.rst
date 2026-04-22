@@ -21,8 +21,14 @@ PC-Science-and-language
     :caption: 🌋 Earth
     :numbered:
 
+
+    earth/nominalisations_rocks.rst
+    earth/nominalisations2_rocks.rst
     earth/rocks_processes.rst
 
+    earth/nominalisations_earth.rst
+    earth/nominalisations2_earth.rst
+    earth/nominalisation_sentences_earth.rst
 
 
 .. toctree::
@@ -46,9 +52,7 @@ PC-Science-and-language
 
     language/nominalisation_verbs.rst
 
-    earth/nominalisations_earth.rst
-    earth/nominalisations2_earth.rst
-    earth/nominalisation_sentences_earth.rst
+
 
 
 

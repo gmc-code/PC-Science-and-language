@@ -22,12 +22,12 @@ Information reports
 Igneous rocks: Processes
 -------------------------------------
 
-| Probe questions are used to identify the Process
-| Process : "What is happening? What is the doing, sensing, saying, or being?"
+| Probe questions are used to identify the Process:
+| "What is happening? What is the doing, sensing, saying, or being?"
 
 Consider the following information report about igneous rocks.
 
-Igneous rocks are a type of rock that forms from the cooling of molten rock. There are 4 main examples: pumice and scoria, obsidian, basalt and granite. Pumice and scoria are light rocks which have gas bubbles that are trapped during cooling. Obsidian is a volcanic glass that cools so rapidly that it has no crystals. Basalt has small crystals since it forms from lava that cools above ground. Granite forms from magma cooling below ground resulting in the formation of large crystals.
+Igneous rocks are a type of rock that forms from the cooling of molten rock. There are 4 main examples: pumice and scoria, obsidian, basalt and granite. Pumice and scoria are light rocks which have gas bubbles that are trapped during cooling. Obsidian is a volcanic glass that cools so rapidly that it has no crystals. Basalt has small crystals since it forms from lava that cools above ground. Granite has large crystals since it forms from lava that cools below ground.
 
 Identify the Processes.
 
@@ -36,7 +36,7 @@ There :processb:`are` 4 main examples: pumice and scoria, obsidian, basalt and g
 Pumice and scoria :processb:`are` light rocks which :processb:`have` gas bubbles that :processb:`are trapped` during cooling.
 Obsidian :processb:`is` a volcanic glass that :processb:`cools` so rapidly that it :processb:`has` no crystals.
 Basalt :processb:`has` small crystals since it :processb:`forms` from lava that :processb:`cools` above ground.
-Granite :processb:`forms` from magma cooling below ground resulting in the formation of large crystals.
+Granite :processb:`has` large crystals since it :processb:`forms` from magma that :processb:`cools` below ground.
 
 ----
 
@@ -119,14 +119,14 @@ Relating verbs
 .. admonition:: Igneous rocks: relating verbs
     :class: questions
 
-    | From the text below, write 7 simple sentences that have a relating verb (is, are, has).
+    | From the text below, write simple sentences that have a relating verb (is, are, has).
 
     | Igneous rocks :processb:`are` a type of rock that :processb:`form` from cooling of molten rock.
     | There :processb:`are` 4 main examples: pumice and scoria, obsidian, basalt and granite.
     | Pumice and scoria :processb:`are` light rocks which :processb:`have` gas bubbles that :processb:`are trapped` during cooling.
     | Obsidian :processb:`is` a volcanic glass that :processb:`cools` so rapidly that it :processb:`has` no crystals.
     | Basalt :processb:`has` small crystals since it :processb:`forms` from lava that :processb:`cools` above ground.
-    | Granite :processb:`forms` from magma cooling below ground resulting in the formation of large crystals.
+    | Granite :processb:`has` large crystals since it :processb:`forms` from lava that :processb:`cools` below ground.
 
     .. dropdown::
         :icon: codescan
@@ -144,6 +144,7 @@ Relating verbs
                 | Obsidian :processb:`is` a volcanic glass.
                 | Obsidian :processb:`has` no crystals.
                 | Basalt :processb:`has` small crystals.
+                | Granite :processb:`has` large crystals.
 
 ----
 
@@ -167,7 +168,7 @@ Existing verbs
     | Pumice and scoria :processb:`are` light rocks which :processb:`have` gas bubbles that :processb:`are trapped` during cooling.
     | Obsidian :processb:`is` a volcanic glass that :processb:`cools` so rapidly that it :processb:`has` no crystals.
     | Basalt :processb:`has` small crystals since it :processb:`forms` from lava that :processb:`cools` above ground.
-    | Granite :processb:`forms` from magma cooling below ground resulting in the formation of large crystals.
+    | Granite :processb:`has` large crystals since it :processb:`forms` from lava that :processb:`cools` below ground.
 
     .. dropdown::
         :icon: codescan
@@ -187,6 +188,7 @@ Action verbs
 
 | Action verbs describe processes that involve doing, sensing, or saying.
 | They are not used to define or describe.
+| A material action verb is a verb that shows action, change, or process in the physical world.
 
 | Examples include:
 | Weathering :processb:`breaks` rocks into small pieces.
@@ -201,7 +203,7 @@ Note: Material processes may appear in passive form (e.g. "are trapped", "is for
 
     | Reread the igneous rocks information report.
 
-    Igneous rocks are a type of rock that forms from the cooling of molten rock. There are 4 main examples: pumice and scoria, obsidian, basalt and granite. Pumice and scoria are light rocks which have gas bubbles that are trapped during cooling. Obsidian is a volcanic glass that cools so rapidly that it has no crystals. Basalt has small crystals since it forms from lava that cools above ground. Granite forms from magma cooling below ground resulting in large crystals.
+    Igneous rocks are a type of rock that forms from the cooling of molten rock. There are 4 main examples: pumice and scoria, obsidian, basalt and granite. Pumice and scoria are light rocks which have gas bubbles that are trapped during cooling. Obsidian is a volcanic glass that cools so rapidly that it has no crystals. Basalt has small crystals since it forms from lava that cools above ground. Granite has large crystals since it forms from lava that cools below ground.
 
     | Identify the action verbs by marking them in the text and listing them below.
 
@@ -219,7 +221,7 @@ Note: Material processes may appear in passive form (e.g. "are trapped", "is for
                 | Pumice and scoria are light rocks which have gas bubbles that :processb:`are trapped` during cooling.
                 | Obsidian is a volcanic glass that :processb:`cools` so rapidly that it has no crystals.
                 | Basalt has small crystals since it :processb:`forms` from lava that :processb:`cools` above ground.
-                | Granite :processb:`forms` from magma cooling below ground resulting in large crystals.
+                | Granite has large crystals since it :processb:`forms` from lava that :processb:`cools` below ground.
 
                 | :processb:`forms`
                 | :processb:`are trapped`
@@ -286,8 +288,8 @@ Sedimentary rocks: Processes
 
 ----
 
-Converting to relating verbs
-------------------------------
+Converting action verbs to relating verbs
+-------------------------------------------
 
 
 Action verb:
@@ -302,11 +304,12 @@ Relating verb:
 | It focuses on the state of having large crystals rather than the action of forming.
 | Granite :processb:`is characterised` by large crystals that are formed from magma cooling below ground.
 
+----
 
-Converting to relating verbs
-------------------------------
+Converting material to relational processes
+------------------------------------------------------
 
-.. admonition:: Sedimentary processes: converting material to relational
+.. admonition:: Sedimentary processes: converting material to relational processes
     :class: questions
 
     | Rewrite each clause using a **relational process**.
@@ -332,6 +335,11 @@ Converting to relating verbs
                 | Water :processb:`is` the agent responsible for sediment deposition in layers over time.
                 | Pressure :processb:`is` the force that compacts sediments into solid rock.
                 | Minerals :processb:`are` substances that bind sediments together to form sedimentary rock.
+
+----
+
+Converting relational to material processes
+------------------------------------------------------
 
 
 .. admonition:: Metamorphic rocks: converting relational to material processes
@@ -362,7 +370,43 @@ Converting to relating verbs
                 | Non-foliated metamorphic rocks :processb:`form` without visible layers or banding.
 
 
+----
 
+Nominalization of processes
+----------------------------------
+
+| Rock fragments are compacted and cemented to form clastic sedimentary rocks.
+| Clastic sedimentary rocks are formed by the compaction and cementation of rock fragments.
+
+
+.. admonition:: Sedimentary rocks : action verbs
+    :class: questions
+
+    | Consider the following information report about sedimentary rocks.
+
+    | Clastic sedimentary rocks :processb:`form` via the compaction and cementation of rock fragments.
+    | Chemical sedimentary rocks :processb:`form` by the precipitation of minerals out of solution.
+    | Organic sedimentary rocks :processb:`form` via the compaction and cementation of the remains of plants and animals.
+
+    | Identify the action verbs by marking them in the text and listing them below.
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answer
+
+                | Clastic sedimentary rocks :processb:`form` via the compaction and cementation of rock fragments.
+                | Chemical sedimentary rocks :processb:`form` by the precipitation of minerals out of solution.
+                | Organic sedimentary rocks :processb:`form` via the compaction and cementation of the remains of plants and animals.
+
+                | :processb:`are formed`
+                | :processb:`form`
+                | :processb:`form`
+                | :processb:`form`
 
 
 
