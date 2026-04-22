@@ -59,6 +59,11 @@ Examples
 
     Choose the best answer for each question.
 
+    .. tab-set::
+
+        .. tab-item:: Q1
+
+
     1. Which action best demonstrates respect for research participants?
 
         | a. Using personal information without asking to save time

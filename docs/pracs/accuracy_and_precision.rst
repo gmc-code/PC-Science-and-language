@@ -78,54 +78,73 @@ Accuracy and precision are independent. A result can be accurate but not precise
 
     Choose the best answer for each question.
 
-    1. Which situation shows **high accuracy and high precision**?
+    .. tab-set::
 
-        | a. Measurements close to the true value and close to each other
-        | b. Measurements close to the true value but widely scattered
-        | c. Measurements far from the true value but tightly grouped
-        | d. Measurements far from the true value and scattered
+        .. tab-item:: Q1
 
-    2. Which situation shows **high accuracy but low precision**?
+            1. Which situation shows **high accuracy and high precision**?
 
-        | a. Readings that average to the true value but vary widely
-        | b. Readings that are tightly grouped but incorrect
-        | c. Readings that are both incorrect and inconsistent
-        | d. Readings that are consistently too high due to zero error
+                | a. Measurements close to the true value and close to each other
+                | b. Measurements close to the true value but widely scattered
+                | c. Measurements far from the true value but tightly grouped
+                | d. Measurements far from the true value and scattered
 
-    3. Which situation shows **low accuracy but high precision**?
+        .. tab-item:: Q2
 
-        | a. A ruler with unclear markings producing scattered measurements
-        | b. A thermometer giving random values around the true temperature
-        | c. A balance giving both correct and incorrect readings at random
-        | d. A faulty scale giving consistent readings that are all too high
+            2. Which situation shows **high accuracy but low precision**?
 
-    4. Which situation shows **low accuracy and low precision**?
+                | a. Readings that average to the true value but vary widely
+                | b. Readings that are tightly grouped but incorrect
+                | c. Readings that are both incorrect and inconsistent
+                | d. Readings that are consistently too high due to zero error
 
-        | a. Results that are correct on average but inconsistent
-        | b. Results that are consistent but shifted away from the true value
-        | c. Results that are neither close to the true value nor to each other
-        | d. Results that are correct and repeatable
+        .. tab-item:: Q3
 
-    5. What type of error most often causes **low accuracy but high precision**?
+            3. Which situation shows **low accuracy but high precision**?
 
-        | a. Random error
-        | b. Systematic error
-        | c. Recording error only
-        | d. Environmental noise
+                | a. A ruler with unclear markings producing scattered measurements
+                | b. A thermometer giving random values around the true temperature
+                | c. A balance giving both correct and incorrect readings at random
+                | d. A faulty scale giving consistent readings that are all too high
+
+        .. tab-item:: Q4
+
+            4. Which situation shows **low accuracy and low precision**?
+
+                | a. Results that are correct on average but inconsistent
+                | b. Results that are consistent but shifted away from the true value
+                | c. Results that are neither close to the true value nor to each other
+                | d. Results that are correct and repeatable
+
+        .. tab-item:: Q5
+
+            5. What type of error most often causes **low accuracy but high precision**?
+
+                | a. Random error
+                | b. Systematic error
+                | c. Recording error only
+                | d. Environmental noise
 
 
-    .. dropdown::
+    .. dropdown:: Answers
         :icon: check-circle
         :color: success
         :class-container: sd-dropdown-container
 
         .. tab-set::
 
-            .. tab-item:: Answers
-
+            .. tab-item:: Q1
                 1. a — Measurements close to the true value and close to each other
+
+            .. tab-item:: Q2
                 2. a — Readings that average to the true value but vary widely
+
+            .. tab-item:: Q3
                 3. d — A faulty scale giving consistent readings that are all too high
+
+            .. tab-item:: Q4
                 4. c — Results that are neither close to the true value nor to each other
+
+            .. tab-item:: Q5
                 5. b — Systematic error
 

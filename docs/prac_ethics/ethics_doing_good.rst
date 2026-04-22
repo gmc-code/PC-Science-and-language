@@ -60,6 +60,11 @@ Examples
 
     Choose the best answer for each question.
 
+    .. tab-set::
+
+        .. tab-item:: Q1
+
+
     1. Which action best reflects the principle of doing good in scientific research?
 
         | a. Choosing research questions that benefit the community

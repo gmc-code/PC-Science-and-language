@@ -61,6 +61,11 @@ Examples
 
     Choose the best answer for each question.
 
+    .. tab-set::
+
+        .. tab-item:: Q1
+
+
     1. Which action best demonstrates honesty in scientific work?
 
         | a. Adjusting results to match the hypothesis

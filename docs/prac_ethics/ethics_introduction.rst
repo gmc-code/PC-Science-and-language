@@ -72,6 +72,11 @@ General Ethical Principles
 
     Choose the best answer for each question.
 
+    .. tab-set::
+
+        .. tab-item:: Q1
+
+
     1. Which action best demonstrates ethical behaviour in scientific research?
 
         | a. Reporting findings truthfully

@@ -60,6 +60,11 @@ Examples
 
     Choose the best answer for each question.
 
+    .. tab-set::
+
+        .. tab-item:: Q1
+
+
     1. Which action best demonstrates avoidance of harm in field research?
 
         | a. Feeding wildlife to encourage interaction

@@ -58,6 +58,11 @@ Examples
 
     Choose the best answer for each question.
 
+    .. tab-set::
+
+        .. tab-item:: Q1
+
+
     1. Why is it important to let people choose whether to participate in a study?
 
         | a. It ensures participation is voluntary
