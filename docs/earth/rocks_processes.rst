@@ -47,6 +47,7 @@ Relational verbs answer:
 | What does it have? (relating)
 | Does it exist? (existence)
 
+
 ----
 
 Relating verbs
@@ -56,6 +57,12 @@ Relating verbs
 | They are not used to describe actions.
 | The most common relating verb is "is" and its plural form "are".
 | The verb "has" is also a common relating verb used to describe possession or characteristics.
+
+| They are used for a variety of purposes including:
+- definition (is / is defined as)
+- classification (is a type of / belongs to)
+- composition (consists of / is made of)
+
 
 | Other common relating verbs include:
 - "consist of"
@@ -299,8 +306,8 @@ Converting to relating verbs
 .. admonition:: Sedimentary processes: converting material to relational
     :class: questions
 
-    | Rewrite each clause using a **relating verb** (is, are, has, consists of, is characterised by).
-    | Focus on changing the **action/process** into a **property or description**.
+    | Rewrite each clause using a **relational process**.
+    | Focus on turning the action into a **definition, classification, or composition**.
 
     | Weathering :processb:`breaks` rocks into small pieces.
     | Erosion :processb:`carries` sediments to rivers, lakes and oceans.
@@ -317,11 +324,42 @@ Converting to relating verbs
 
             .. tab-item:: Model Answers
 
-                | The breakdown of rocks into small pieces :processb:`is caused by weathering`.
-                | The transport of sediments to rivers, lakes and oceans :processb:`is the result of erosion`.
-                | The deposition of sediments in layers over time :processb:`is the action of water`.
-                | The compaction of sediments into solid rock :processb:`is caused by pressure`.
-                | The cementation of sediments into sedimentary rock :processb:`is caused by minerals binding particles together`.
+                | Weathering :processb:`is the breakdown of rocks into small pieces`.
+                | Erosion :processb:`is the transport of sediments to rivers, lakes and oceans`.
+                | Water :processb:`is the agent responsible for sediment deposition in layers over time`.
+                | Pressure :processb:`is the force that compacts sediments into solid rock`.
+                | Minerals :processb:`are substances that bind sediments together to form sedimentary rock`.
+
+
+.. admonition:: Metamorphic rocks: converting relational to material processes
+    :class: questions
+
+    | Rewrite each clause using **action verbs (material processes)**.
+    | Focus on turning **definitions, classifications, and compositions into processes or actions**.
+
+    | Metamorphic rocks :processb:`are rocks formed from existing rocks changed by heat and pressure`.
+    | Metamorphic rocks :processb:`are a type of rock formed deep within the Earth's crust`.
+    | Metamorphic rocks :processb:`consist of minerals arranged in new crystal structures`.
+    | Foliated metamorphic rocks :processb:`are rocks with layered mineral alignment`.
+    | Non-foliated metamorphic rocks :processb:`are rocks without visible layers or banding`.
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answers
+
+                | Existing rocks :processb:`change` under heat and pressure to form metamorphic rocks.
+                | Metamorphic rocks :processb:`form` deep within the Earth's crust.
+                | Minerals :processb:`recrystallise` into new crystal structures.
+                | Foliated metamorphic rocks :processb:`develop` layered mineral alignment.
+                | Non-foliated metamorphic rocks :processb:`form` without visible layers or banding.
+
+
+
 
 
 
