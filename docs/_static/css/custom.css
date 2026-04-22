@@ -146,6 +146,20 @@ details.sd-dropdown .sd-summary-up, details.sd-dropdown .sd-summary-down {
     padding: 0.2rem 0.5rem;
 }
 
+.sd-tab-set>label {
+    border-bottom: .125rem solid transparent;
+    margin-bottom: 0;
+    color: var(--sd-color-tabs-label-inactive);
+    border-color: var(--sd-color-tabs-underline-inactive);
+    cursor: pointer;
+    font-size: var(--sd-fontsize-tabs-label);
+    font-weight: 700;
+    padding: 1em 0.5em .5em;
+    transition: color 250ms;
+    width: auto;
+    z-index: 1;
+}
+
 /* ========================================== */
 /* Hide "Search" section from versions menu */
 div.rst-versions > div.rst-other-versions > div.injected > dl:nth-child(5) {
