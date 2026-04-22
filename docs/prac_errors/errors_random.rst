@@ -37,5 +37,39 @@ Random Errors
       - Readings fluctuate due to instability.
       - Isolate apparatus from the source of vibration.
 
+----
+
+.. admonition:: Cloze Questions
+    :class: questions
+
+    Complete the following by filling in the missing words.
+
+    **Word list (A → Z):**
+    averaged • increased • isolated • repeated • standardised
+
+    1. Measurements should be ______________ and ______________ to improve reliability.
+    2. The number of trials should be ______________ to reduce the effect of random variation.
+    3. Experimental procedures should be ______________ to minimise variation between trials.
+    4. Apparatus should be ______________ from sources of vibration or interference.
+
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Answers
+
+                1. repeated, averaged
+                2. increased
+                3. standardised
+                4. isolated
+
+
+
+
+
 
 

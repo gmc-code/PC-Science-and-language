@@ -35,4 +35,36 @@ Personal Errors
       - Discard the invalid result; re-read the instrument carefully
         and record the correct value.
 
+----
+
+.. admonition:: Cloze Questions
+    :class: questions
+
+    Complete the following by filling in the missing words.
+
+    **Word list (A → Z):**
+    corrected • discarded • rechecked • reread
+
+    1. Invalid results should be ______________ if a mistake has occurred.
+    2. Data records should be ______________ to identify any recording errors.
+    3. If an error is found, the value should be ______________.
+    4. Instruments should be ______________ carefully to avoid one-off misreadings.
+
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Answers
+
+                1. discarded
+                2. rechecked
+                3. corrected
+                4. reread
+
+
+
 
