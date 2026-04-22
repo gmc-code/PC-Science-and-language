@@ -282,7 +282,7 @@ div.admonition.match p.admonition-title {
 .admonition .admonition-title::before {
     content: none !important;
     font-family: inherit !important;
-    margin-right: 0;
+    margin-right: 0.2em;
 }
 
 /* --- Premise --- */
@@ -323,6 +323,11 @@ div.admonition.match p.admonition-title {
 /* --- MATCHING --- */
 .admonition.match .admonition-title::before {
     content: "🔗 " !important;
+}
+
+/* --- Pro --- */
+.admonition.question .admonition-title::before {
+    content: "💡 " !important;
 }
 
 /* ========================================== */

@@ -411,7 +411,7 @@ In these procedural steps, circumstances of Manner (how), Place (where), and Ext
 
             .. tab-item:: Model Answer
 
-                #. :processb:`Fill` :participantb:`a test tube` :circb:`with water` :circb:`to one third full`.
+                #. :process:`Fill` :participant:`a test tube` :circ:`with water` :circb:`to one third full`.
                 #. :processb:`Place` :participantb:`the test tube` :circb:`in a test tube rack` :circb:`until ready to heat it`.
                 #. :processb:`Place` :participantb:`the Bunsen burner` :circb:`on the heatproof mat`.
                 #. :processb:`Connect` :participantb:`the rubber tubing` :circb:`to the gas tap`.
