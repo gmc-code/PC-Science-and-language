@@ -58,8 +58,10 @@ Examples
     Choose the best answer for each question.
 
     .. tab-set::
+        :sync-group: set1
 
         .. tab-item:: Q1
+            :sync: q1
 
             1. Which action best demonstrates honesty in scientific work?
 
@@ -69,6 +71,7 @@ Examples
                 | d. Writing results in a way that sounds more impressive
 
         .. tab-item:: Q2
+            :sync: q2
 
             2. Why should observations be recorded immediately?
 
@@ -78,6 +81,7 @@ Examples
                 | d. It avoids using instruments
 
         .. tab-item:: Q3
+            :sync: q3
 
             3. What should a scientist do if they discover a measurement error?
 
@@ -87,6 +91,7 @@ Examples
                 | d. Change the value to the expected one
 
         .. tab-item:: Q4
+            :sync: q4
 
             4. Which situation requires disclosure of a conflict of interest?
 
@@ -96,6 +101,7 @@ Examples
                 | d. The sample size is small
 
         .. tab-item:: Q5
+            :sync: q5
 
             5. Why is it important to accurately describe the methods used?
 
@@ -111,24 +117,30 @@ Examples
         :class-container: sd-dropdown-container
 
         .. tab-set::
+            :sync-group: set1
 
             .. tab-item:: Q1
+                :sync: q1
 
                 1. b. Reporting all data truthfully
 
             .. tab-item:: Q2
+                :sync: q2
 
                 2. a. Memory can distort details
 
             .. tab-item:: Q3
+                :sync: q3
 
                 3. c. Admit the mistake and document it
 
             .. tab-item:: Q4
+                :sync: q4
 
                 4. c. The research is funded by a group that may benefit
 
             .. tab-item:: Q5
+                :sync: q5
 
                 5. a. So others can independently verify the study
 
