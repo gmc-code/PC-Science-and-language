@@ -38,7 +38,7 @@ Accuracy and precision are independent. A result can be accurate but not precise
 
 
 .. admonition:: Cloze Questions
-    :class: questions
+    :class: cloze
 
     Complete the following by filling in the missing words.
 
@@ -74,7 +74,7 @@ Accuracy and precision are independent. A result can be accurate but not precise
 ----
 
 .. admonition:: Multiple-Choice Questions
-    :class: questions
+    :class: mcq
 
     Choose the best answer for each question.
 

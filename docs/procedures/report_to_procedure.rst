@@ -64,7 +64,7 @@ To convert a Report into a Procedure, make the following changes:
 
 
 .. admonition:: Report to a Procedure
-    :class: questions
+    :class: shortanswer
 
     | Rewrite the following report steps into clear instructions by applying the grammar shifts described above starting with the verb.
 

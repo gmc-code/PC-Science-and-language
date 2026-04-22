@@ -32,7 +32,7 @@ General Ethical Principles
 ----
 
 .. admonition:: Cloze Questions
-    :class: questions
+    :class: cloze
 
     Complete the following by filling in the missing verbs.
 
@@ -68,7 +68,7 @@ General Ethical Principles
 ----
 
 .. admonition:: Multiple-Choice Questions
-    :class: questions
+    :class: mcq
 
     Choose the best answer for each question.
 

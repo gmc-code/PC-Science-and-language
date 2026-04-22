@@ -110,70 +110,51 @@ span.O, .O {
 /* ========================================== */
 /* admonitions via class */
 /* ========================================== */
-:root {
-    /* Global controls */
-    --sat-main: 60%;
-    --sat-soft: 50%;
-    --sat-bg: 45%;
-
-    --L-main: 40%;
-    --L-title: 88%;
-    --L-bg: 96%;
-
-    /* Hue per type */
-    --premise-h: 207;
-    --reasoning-h: 0;
-    --outcome-h: 120;
-    --pro-h: 280;
-    --mcq-h: 172;
-    --cloze-h: 280;
-    --short-h: 15;
-    --match-h: 205;
-}
 
 :root {
-    --admonition-text-color: #404040
-    /* --- Premise --- */
-    --premise-main: hsl(var(--premise-h), var(--sat-main), var(--L-main));
-    --premise-title-bg: hsl(var(--premise-h), var(--sat-soft), var(--L-title));
-    --premise-bg: hsl(var(--premise-h), var(--sat-bg), var(--L-bg));
 
-    /* --- Reasoning --- */
-    --reasoning-main: hsl(var(--reasoning-h), var(--sat-main), var(--L-main));
-    --reasoning-title-bg: hsl(var(--reasoning-h), var(--sat-soft), var(--L-title));
-    --reasoning-bg: hsl(var(--reasoning-h), var(--sat-bg), var(--L-bg));
+    --admonition-text-color: #404040;
 
-    /* --- Outcome --- */
-    --outcome-main: hsl(var(--outcome-h), var(--sat-main), var(--L-main));
-    --outcome-title-bg: hsl(var(--outcome-h), var(--sat-soft), var(--L-title));
-    --outcome-bg: hsl(var(--outcome-h), var(--sat-bg), var(--L-bg));
+    /* --- Premise (Blue) --- */
+    --premise-main: #2189d2;
+    --premise-bg: #f3f8fd;
+    --premise-title-bg: #d6e7f5;
 
-    /* --- PRO --- */
-    --pro-main: hsl(var(--pro-h), var(--sat-main), var(--L-main));
-    --pro-title-bg: hsl(var(--pro-h), var(--sat-soft), var(--L-title));
-    --pro-bg: hsl(var(--pro-h), var(--sat-bg), var(--L-bg));
+    /* --- Reasoning (Red) --- */
+    --reasoning-main: #d62728;
+    --reasoning-bg: #fdeeee;
+    --reasoning-title-bg: #f7d6d6;
+
+    /* --- Outcome (Green) --- */
+    --outcome-main: #2ca02c;
+    --outcome-bg: #eefaf0;
+    --outcome-title-bg: #d7efd9;
+
+    /* --- PRO (Purple) --- */
+    --pro-main: #b700ff;
+    --pro-bg: #f8f3fb;
+    --pro-title-bg: #eadcf3;
 
     /* --- MCQ --- */
-    --mcq-main: hsl(var(--mcq-h), var(--sat-main), var(--L-main));
-    --mcq-title-bg: hsl(var(--mcq-h), var(--sat-soft), var(--L-title));
-    --mcq-bg: hsl(var(--mcq-h), var(--sat-bg), var(--L-bg));
+    --mcq-main: #31b6a7;
+    --mcq-bg: #e8f7f5;
+    --mcq-title-bg: #cfecea;
 
     /* --- CLOZE --- */
-    --cloze-main: hsl(var(--cloze-h), var(--sat-main), var(--L-main));
-    --cloze-title-bg: hsl(var(--cloze-h), var(--sat-soft), var(--L-title));
-    --cloze-bg: hsl(var(--cloze-h), var(--sat-bg), var(--L-bg));
+    --cloze-main: #b700ff;
+    --cloze-bg: #f8f3fb;
+    --cloze-title-bg: #eadcf3;
 
     /* --- SHORT ANSWER --- */
-    --short-main: hsl(var(--short-h), var(--sat-main), var(--L-main));
-    --short-title-bg: hsl(var(--short-h), var(--sat-soft), var(--L-title));
-    --short-bg: hsl(var(--short-h), var(--sat-bg), var(--L-bg));
+    --short-main: #c65b40;
+    --short-bg: #fff0ec;
+    --short-title-bg: #ffe0d8;
 
     /* --- MATCHING --- */
-    --match-main: hsl(var(--match-h), var(--sat-main), var(--L-main));
-    --match-title-bg: hsl(var(--match-h), var(--sat-soft), var(--L-title));
-    --match-bg: hsl(var(--match-h), var(--sat-bg), var(--L-bg));
+    --match-main: #3687b9;
+    --match-bg: #edf4fb;
+    --match-title-bg: #dbe9f5;
 }
-
 
 
 /* --- Premise --- */
@@ -291,47 +272,6 @@ div.admonition.matching p.admonition-title {
 }
 
 
-:root1 {
-    /* --- Premise (Blue) --- */
-    --premise-main: #1f77b4;
-    --premise-bg: #f3f8fd;
-    --premise-title-bg: #d6e7f5;
-
-    /* --- Reasoning (Red) --- */
-    --reasoning-main: #d62728;
-    --reasoning-bg: #fdeeee;
-    --reasoning-title-bg: #f7d6d6;
-
-    /* --- Outcome (Green) --- */
-    --outcome-main: #2ca02c;
-    --outcome-bg: #eefaf0;
-    --outcome-title-bg: #d7efd9;
-
-    /* --- PRO (Purple) --- */
-    --pro-main: #b700ff;
-    --pro-bg: #f8f3fb;
-    --pro-title-bg: #eadcf3;
-
-    /* --- MCQ --- */
-    --mcq-main: #2a9d8f;
-    --mcq-bg: #e8f7f5;
-    --mcq-title-bg: #cfecea;
-
-    /* --- CLOZE --- */
-    --cloze-main: #b700ff;
-    --cloze-bg: #f8f3fb;
-    --cloze-title-bg: #eadcf3;
-
-    /* --- SHORT ANSWER --- */
-    --short-main: #f8714f;
-    --short-bg: #fff0ec;
-    --short-title-bg: #ffe0d8;
-
-    /* --- MATCHING --- */
-    --match-main: #457b9d;
-    --match-bg: #edf4fb;
-    --match-title-bg: #dbe9f5;
-}
 
 
 /* ========================================== */

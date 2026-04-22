@@ -134,7 +134,7 @@ Quick Reference: Error Source to Classification to Fix
 ----
 
 .. admonition:: Multiple-Choice Questions
-    :class: questions
+    :class: mcq
 
     Choose the best answer for each question.
 

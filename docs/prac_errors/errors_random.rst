@@ -40,7 +40,7 @@ Random Errors
 ----
 
 .. admonition:: Cloze Questions
-    :class: questions
+    :class: cloze
 
     Complete the following by filling in the missing words.
 
