@@ -45,15 +45,14 @@ General Ethical Principles
     4. Data should be ______________ and interpreted without bias.
     5. Researchers must ______________ the dignity and rights of all participants.
 
-
     .. dropdown::
         :icon: codescan
         :color: primary
         :class-container: sd-dropdown-container
 
-        .. tab-set:: Answers
+        .. tab-set::
 
-            .. tab-item::
+            .. tab-item:: Answers
 
                 1. obtain
                 2. minimise
