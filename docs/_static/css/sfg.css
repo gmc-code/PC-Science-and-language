@@ -286,6 +286,49 @@ div.admonition.matching p.admonition-title {
 }
 
 
+:root1 {
+    /* --- Premise (Blue) --- */
+    --premise-main: #1f77b4;
+    --premise-bg: #f3f8fd;
+    --premise-title-bg: #d6e7f5;
+
+    /* --- Reasoning (Red) --- */
+    --reasoning-main: #d62728;
+    --reasoning-bg: #fdeeee;
+    --reasoning-title-bg: #f7d6d6;
+
+    /* --- Outcome (Green) --- */
+    --outcome-main: #2ca02c;
+    --outcome-bg: #eefaf0;
+    --outcome-title-bg: #d7efd9;
+
+    /* --- PRO (Purple) --- */
+    --pro-main: #b700ff;
+    --pro-bg: #f8f3fb;
+    --pro-title-bg: #eadcf3;
+
+    /* --- MCQ --- */
+    --mcq-main: #2a9d8f;
+    --mcq-bg: #e8f7f5;
+    --mcq-title-bg: #cfecea;
+
+    /* --- CLOZE --- */
+    --cloze-main: #b700ff;
+    --cloze-bg: #f8f3fb;
+    --cloze-title-bg: #eadcf3;
+
+    /* --- SHORT ANSWER --- */
+    --short-main: #f8714f;
+    --short-bg: #fff0ec;
+    --short-title-bg: #ffe0d8;
+
+    /* --- MATCHING --- */
+    --match-main: #457b9d;
+    --match-bg: #edf4fb;
+    --match-title-bg: #dbe9f5;
+}
+
+
 /* ========================================== */
 
 
