@@ -45,7 +45,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Question: Water boiling
+.. admonition:: Boiling Water
     :class: cloze
 
     Complete the Outcome (O).
