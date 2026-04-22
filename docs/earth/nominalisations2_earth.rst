@@ -9,11 +9,14 @@ Verbs → Nouns 2: Earth
 Your task is to rewrite each short clause by expressing its process as a noun group.
 
 
-Example
--------
+Examples
+----------
 
 | Verb: Plates **collide**
 | Nominalisation: The **collision** of plates
+
+| Verb: Scientists **predict** earthquakes
+| Nominalisation: The **prediction** of earthquakes by scientists
 
 ----
 
@@ -42,7 +45,7 @@ Example
           -
         * - One plate **subducts**
           -
-        * - Forces **transform** Earth’s surface
+        * - Forces **transform** the Earth's surface
           -
 
     .. dropdown::
@@ -74,8 +77,8 @@ Example
                       - The **spreading** of crust
                     * - One plate **subducts**
                       - The **subduction** of one plate
-                    * - Forces **transform** Earth’s surface
-                      - The **transformation** of Earth’s surface
+                    * - Forces **transform** the Earth's surface
+                      - The **transformation** of the Earth's surface
 
 ----
 
@@ -119,11 +122,11 @@ Example
                     * - Everyday (process)
                       - Scientific (participant)
                     * - Plates **compress** crust
-                      - The **compression** of crust
+                      - The **compression** of crust by plates
                     * - Lava **cools**
                       - The **cooling** of lava
                     * - Magma **creates** crust
-                      - The **creation** of crust
+                      - The **creation** of crust by magma
                     * - Mountains **form**
                       - The **formation** of mountains
                     * - Lava **hardens**
@@ -169,9 +172,9 @@ Example
                     * - Everyday (process)
                       - Scientific (participant)
                     * - Water **erodes** rock
-                      - The **erosion** of rock
+                      - The **erosion** of rock by water
                     * - Stress **fractures** crust
-                      - The **fracturing** of crust
+                      - The **fracturing** of crust by stress
                     * - Crust **extends**
                       - The **extension** of crust
                     * - Crust **sinks**
@@ -217,11 +220,11 @@ Example
                     * - Volcano **erupts**
                       - The **eruption** of a volcano
                     * - Seismometers **detect** movement
-                      - The **detection** of movement
+                      - The **detection** of movement by seismometers
                     * - Scientists **predict** earthquakes
-                      - The **prediction** of earthquakes
+                      - The **prediction** of earthquakes by scientists
                     * - Authorities **evacuate** communities
-                      - The **evacuation** of communities
+                      - The **evacuation** of communities by authorities
 
 ----
 
@@ -238,7 +241,7 @@ Example
           - Scientific (participant)
         * - Subduction **destroys** crust
           -
-        * - Design **reduces** damage
+        * - Good design **reduces** damage
           -
         * - Heat **weakens** crust
           -
@@ -259,11 +262,11 @@ Example
                     * - Everyday (process)
                       - Scientific (participant)
                     * - Subduction **destroys** crust
-                      - The **destruction** of crust
-                    * - Design **reduces** damage
-                      - The **reduction** of damage
+                      - The **destruction** of crust by subduction
+                    * - Good design **reduces** damage
+                      - The **reduction** of damage by good design
                     * - Heat **weakens** crust
-                      - The **weakening** of crust
+                      - The **weakening** of crust by heat
 
 
 
