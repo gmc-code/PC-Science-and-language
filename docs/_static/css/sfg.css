@@ -18,15 +18,15 @@ span.rheme {
   text-align:center;
   white-space:nowrap;
   vertical-align:baseline;
-  border-radius:.25rem
+  border-radius:.25rem;
 }
 
 span.participant { color: #d62728; }
 span.process     { color: #2ca02c; }
 span.circ        { color: #4a3dff; }
 span.conj        { color: #6b7280; font-style: italic; }
-span.theme       {color: #1f77b4;}
-span.rheme       {color: #111827;}
+span.theme       { color: #1f77b4; }
+span.rheme       { color: #111827; }
 
 
 /* NEW: backcolour variants for the others */
