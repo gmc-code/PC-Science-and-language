@@ -24,11 +24,11 @@ Igneous rocks: Processes
 
 Consider the following information report about igneous rocks.
 
-Igneous rocks are a type of rock that is formed from the cooling of molten rock. There are 4 main examples: pumice and scoria, obsidian, basalt and granite. Pumice and scoria are light rocks which have gas bubbles that are trapped during cooling. Obsidian is a volcanic glass that cools so rapidly that it has no crystals. Basalt has small crystals since it forms from lava that cools above ground. Granite forms from magma cooling below ground resulting in the formation of large crystals.
+Igneous rocks are a type of rock that forms from the cooling of molten rock. There are 4 main examples: pumice and scoria, obsidian, basalt and granite. Pumice and scoria are light rocks which have gas bubbles that are trapped during cooling. Obsidian is a volcanic glass that cools so rapidly that it has no crystals. Basalt has small crystals since it forms from lava that cools above ground. Granite forms from magma cooling below ground resulting in the formation of large crystals.
 
 Identify the Processes.
 
-Igneous rocks :processb:`are` a type of rock that :processb:`is formed` from cooling of molten rock.
+Igneous rocks :processb:`are` a type of rock that :processb:`forms` from cooling of molten rock.
 There :processb:`are` 4 main examples: pumice and scoria, obsidian, basalt and granite.
 Pumice and scoria :processb:`are` light rocks which :processb:`have` gas bubbles that :processb:`are trapped` during cooling.
 Obsidian :processb:`is` a volcanic glass that :processb:`cools` so rapidly that it :processb:`has` no crystals.
@@ -52,10 +52,44 @@ Relational verbs answer:
 Relating verbs
 -------------------
 
-| Relating verbs (is, are, has) are used to define and describe.
+| Relating verbs (is, are, has) are used to define and describe and classify.
 | They are not used to describe actions.
 | The most common relating verb is "is" and its plural form "are".
 | The verb "has" is also a common relating verb used to describe possession or characteristics.
+
+| Other common relating verbs include:
+- "consist of"
+- "contain"
+- "include"
+- "have characteristics such as"
+- "have properties such as"
+- "have features such as"
+- "have parts such as"
+- "are made of"
+- "are a type of"
+- "are examples of"
+- "are found in"
+- "are classified as"
+- "are composed of"
+- "are formed from"
+- "are characterised by"
+- "are defined as"
+- "are described as"
+- "are identified as"
+- "are known as"
+- "are considered to be"
+- "are regarded as"
+- "are recognised as"
+- "are referred to as"
+- "are called"
+- "are named"
+- "are categorised as"
+- "are grouped as"
+- "are classified as"
+- "are sorted as"
+- "are organised as"
+
+
 
 | Common variations of "is" and "are" include:
 - "is a type of" / "are types of"
@@ -70,14 +104,19 @@ Relating verbs
 - "has features such as" / "have features such as"
 - "has parts such as" / "have parts such as"
 
-Note: Passive constructions such as "is formed" and "are made" are material processes, even though they may describe composition or origin.
-
 ----
 
 .. admonition:: Igneous rocks: relating verbs
     :class: questions
 
-    Rewrite each clause above that has a relating verb (is, are, has).
+    | From the text below, write 7 simple sentences that have a relating verb (is, are, has).
+
+    | Igneous rocks :processb:`are` a type of rock that :processb:`form` from cooling of molten rock.
+    | There :processb:`are` 4 main examples: pumice and scoria, obsidian, basalt and granite.
+    | Pumice and scoria :processb:`are` light rocks which :processb:`have` gas bubbles that :processb:`are trapped` during cooling.
+    | Obsidian :processb:`is` a volcanic glass that :processb:`cools` so rapidly that it :processb:`has` no crystals.
+    | Basalt :processb:`has` small crystals since it :processb:`forms` from lava that :processb:`cools` above ground.
+    | Granite :processb:`forms` from magma cooling below ground resulting in the formation of large crystals.
 
     .. dropdown::
         :icon: codescan
@@ -101,7 +140,7 @@ Note: Passive constructions such as "is formed" and "are made" are material proc
 Existing verbs
 -------------------
 
-| Existential processes use the structure "There is/are/was" to express a state of existence.
+| Existential processes use "There is/are/was" to express existence.
 
 | Examples include:
 | There :processb:`is` a layer of basalt beneath the surface.
@@ -113,7 +152,7 @@ Existing verbs
 
     | Reread the igneous rocks information report and identify any clauses that use existing verbs.
 
-    | Igneous rocks :processb:`are` a type of rock that :processb:`is formed` from cooling of molten rock.
+    | Igneous rocks :processb:`are` a type of rock that :processb:`form` from cooling of molten rock.
     | There :processb:`are` 4 main examples: pumice and scoria, obsidian, basalt and granite.
     | Pumice and scoria :processb:`are` light rocks which :processb:`have` gas bubbles that :processb:`are trapped` during cooling.
     | Obsidian :processb:`is` a volcanic glass that :processb:`cools` so rapidly that it :processb:`has` no crystals.
@@ -136,19 +175,23 @@ Existing verbs
 Action verbs
 --------------------
 
-| Action verbs describe processes that involve doing, sensing, or saying. They are not used to define or describe.
+| Action verbs describe processes that involve doing, sensing, or saying.
+| They are not used to define or describe.
 
 | Examples include:
 | Weathering :processb:`breaks` rocks into small pieces.
 | Erosion :processb:`carries` the sediments to rivers, lakes, and oceans.
 | Water :processb:`deposits` the sediments in layers.
 
-.. admonition:: Sedimentary rocks : action verbs
+Note: Material processes may appear in passive form (e.g. "are trapped", "is formed").
+
+
+.. admonition:: Igneous rocks : action verbs
     :class: questions
 
     | Reread the igneous rocks information report.
 
-    Igneous rocks are a type of rock that is formed from the cooling of molten rock. There are 4 main examples: pumice and scoria, obsidian, basalt and granite. Pumice and scoria are light rocks which have gas bubbles that are trapped during cooling. Obsidian is a volcanic glass that cools so rapidly that it has no crystals. Basalt has small crystals since it forms from lava that cools above ground. Granite forms from magma cooling below ground resulting in large crystals.
+    Igneous rocks are a type of rock that forms from the cooling of molten rock. There are 4 main examples: pumice and scoria, obsidian, basalt and granite. Pumice and scoria are light rocks which have gas bubbles that are trapped during cooling. Obsidian is a volcanic glass that cools so rapidly that it has no crystals. Basalt has small crystals since it forms from lava that cools above ground. Granite forms from magma cooling below ground resulting in large crystals.
 
     | Identify the action verbs by marking them in the text and listing them below.
 
@@ -161,29 +204,28 @@ Action verbs
 
             .. tab-item:: Model Answer
 
-                | Igneous rocks are a type of rock that :processb:`is formed` from cooling of molten rock.
+                | Igneous rocks are a type of rock that :processb:`forms` from cooling of molten rock.
                 | There are 4 main examples: pumice and scoria, obsidian, basalt and granite.
                 | Pumice and scoria are light rocks which have gas bubbles that :processb:`are trapped` during cooling.
                 | Obsidian is a volcanic glass that :processb:`cools` so rapidly that it has no crystals.
                 | Basalt has small crystals since it :processb:`forms` from lava that :processb:`cools` above ground.
                 | Granite :processb:`forms` from magma cooling below ground resulting in large crystals.
 
-                | :processb:`is formed`
+                | :processb:`forms`
                 | :processb:`are trapped`
                 | :processb:`cools`
-                | :processb:`forms`
 
 ----
 
 Sedimentary rocks: Processes
 ----------------------------------
 
-.. admonition:: Sedimentary rocks: relating verbs
+.. admonition:: Sedimentary rocks: relational verbs
     :class: questions
 
     | Consider the following information report about sedimentary rocks.
 
-    Sedimentary rocks are rocks formed from the accumulation of sediments. There are 3 main types: clastic, chemical and organic. Clastic sedimentary rocks are made from fragments of other rocks that have been compacted and cemented together. Chemical sedimentary rocks form when minerals precipitate out of solution. Organic sedimentary rocks are made from the remains of plants and animals that have been compacted and cemented together.
+    Sedimentary rocks are rocks formed from the accumulation of sediments. There are 3 main types: clastic, chemical and organic. Clastic sedimentary rocks consist of rock fragments that have been compacted and cemented together. Chemical sedimentary rocks consist of minerals that have precipitated out of solution. Organic sedimentary rocks consist of the remains of plants and animals that have been compacted and cemented together.
 
     | Identify the relating verbs.
 
@@ -198,16 +240,17 @@ Sedimentary rocks: Processes
 
                 | Sedimentary rocks :processb:`are` rocks formed from the accumulation of sediments.
                 | There :processb:`are` 3 main types: clastic, chemical and organic.
-                | Clastic sedimentary rocks :processb:`are made` from fragments of other rocks that have been compacted and cemented together.
-                | Chemical sedimentary rocks :processb:`form` when minerals :processb:`precipitate` out of solution.
-                | Organic sedimentary rocks :processb:`are made` from the remains of plants and animals that have been compacted and cemented together.
+                | Clastic sedimentary rocks :processb:`consist` of rock fragments that have been compacted and cemented together.
+                | Chemical sedimentary rocks :processb:`consist` of minerals that have been precipitated out of solution.
+                | Organic sedimentary rocks :processb:`consist` of the remains of plants and animals that have been compacted and cemented together.
+
 
 .. admonition:: Sedimentary rocks : action verbs
     :class: questions
 
     | Consider the following information report about sedimentary rocks.
 
-    Sedimentary rocks are formed from the accumulation of sediments. There are 3 main types: clastic, chemical and organic. Clastic sedimentary rocks are made from fragments of other rocks that have been compacted and cemented together. Chemical sedimentary rocks form when minerals precipitate out of solution. Organic sedimentary rocks are made from the remains of plants and animals that have been compacted and cemented together.
+    Sedimentary rocks are formed from the accumulation of sediments. There are 3 main types: clastic, chemical and organic. Clastic sedimentary rocks form via the compaction and cementation of rock fragments. Chemical sedimentary rocks form by the precipitation of minerals out of solution. Organic sedimentary rocks form via the compaction and cementation of the remains of plants and animals.
 
     | Identify the action verbs by marking them in the text and listing them below.
 
@@ -222,28 +265,64 @@ Sedimentary rocks: Processes
 
                 | Sedimentary rocks :processb:`are formed` from the accumulation of sediments.
                 | There are 3 main types: clastic, chemical and organic.
-                | Clastic sedimentary rocks :processb:`are made` from fragments of other rocks that :processb:`have been compacted` and :processb:`cemented` together.
-                | Chemical sedimentary rocks :processb:`form` when minerals :processb:`precipitate` out of solution.
-                | Organic sedimentary rocks :processb:`are made` from the remains of plants and animals that :processb:`have been compacted` and :processb:`cemented` together.
+                | Clastic sedimentary rocks :processb:`form` via the compaction and cementation of rock fragments.
+                | Chemical sedimentary rocks :processb:`form` by the precipitation of minerals out of solution.
+                | Organic sedimentary rocks :processb:`form` via the compaction and cementation of the remains of plants and animals.
 
                 | :processb:`are formed`
-                | :processb:`are made`
-                | :processb:`have been compacted`
-                | :processb:`have been cemented`
                 | :processb:`form`
-                | :processb:`precipitate`
+                | :processb:`form`
+                | :processb:`form`
 
 ----
 
 Converting to relating verbs
 ------------------------------
 
+
+Action verb:
+
+| This clause describes a process of formation.
+| It focuses on the action of forming.
 | Granite :processb:`forms` from magma cooling below ground resulting in the formation of large crystals.
 
-can be converted to use a relating verb as follows:
+Relating verb:
 
-| Granite :processb:`has` large crystals from magma cooling below ground.
+| This clause describes a property of granite (its crystal structure).
+| It focuses on the state of having large crystals rather than the action of forming.
+| Granite :processb:`is characterised` by large crystals that are formed from magma cooling below ground.
 
-| This is because the original clause describes a process of formation, while the converted clause describes a characteristic of granite (having large crystals) that results from that process.
-| The original clause focuses on the action of forming, while the converted clause focuses on the state of having large crystals.
+
+Converting to relating verbs
+------------------------------
+
+.. admonition:: Sedimentary processes: converting material to relational
+    :class: questions
+
+    | Rewrite each clause using a **relating verb** (is, are, has, consists of, is characterised by).
+    | Focus on changing the **action/process** into a **property or description**.
+
+    | Weathering :processb:`breaks` rocks into small pieces.
+    | Erosion :processb:`carries` sediments to rivers, lakes and oceans.
+    | Water :processb:`deposits` sediments in layers over time.
+    | Pressure :processb:`compacts` sediments into solid rock.
+    | Minerals :processb:`cement` sediments together to form sedimentary rock.
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Model Answers
+
+                | The breakdown of rocks into small pieces :processb:`is caused by weathering`.
+                | The transport of sediments to rivers, lakes and oceans :processb:`is the result of erosion`.
+                | The deposition of sediments in layers over time :processb:`is the action of water`.
+                | The compaction of sediments into solid rock :processb:`is caused by pressure`.
+                | The cementation of sediments into sedimentary rock :processb:`is caused by minerals binding particles together`.
+
+
+
 
