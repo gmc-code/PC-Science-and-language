@@ -276,42 +276,42 @@ div.admonition.match p.admonition-title {
 
 /* --- Premise --- */
 .admonition.premise .admonition-title::before {
-    content: "📌 ";
+    content: "📌 " !important;
 }
 
 /* --- Reasoning --- */
 .admonition.reasoning .admonition-title::before {
-    content: "🧠 ";
+    content: "🧠 " !important;
 }
 
 /* --- Outcome --- */
 .admonition.outcome .admonition-title::before {
-    content: "🎯 ";
+    content: "🎯 " !important;
 }
 
 /* --- Pro --- */
 .admonition.pro .admonition-title::before {
-    content: "💡 ";
+    content: "💡 " !important;
 }
 
 /* --- MCQ --- */
 .admonition.mcq .admonition-title::before {
-    content: "☑ ";
+    content: "☑ " !important;
 }
 
 /* --- CLOZE --- */
 .admonition.cloze .admonition-title::before {
-    content: "✎ ";
+    content: "✎ " !important;
 }
 
 /* --- SHORT ANSWER --- */
 .admonition.shortanswer .admonition-title::before {
-    content: "✎ ";
+    content: "✎ " !important;
 }
 
 /* --- MATCHING --- */
 .admonition.match .admonition-title::before {
-    content: "🔗 ";
+    content: "🔗 " !important;
 }
 
 /* ========================================== */
