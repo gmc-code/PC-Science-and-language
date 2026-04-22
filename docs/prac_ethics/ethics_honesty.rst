@@ -98,8 +98,8 @@ Examples
 
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
+        :icon: check-circle
+        :color: success
         :class-container: sd-dropdown-container
 
         .. tab-set::

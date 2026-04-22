@@ -115,8 +115,8 @@ Accuracy and precision are independent. A result can be accurate but not precise
 
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
+        :icon: check-circle
+        :color: success
         :class-container: sd-dropdown-container
 
         .. tab-set::
