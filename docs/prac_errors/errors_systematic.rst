@@ -41,3 +41,35 @@ Systematic Errors
       - Conditions consistently differ from intended controls.
       - Control or correct the environmental condition before data collection.
 
+----
+
+.. admonition:: Cloze Questions
+    :class: questions
+
+    Complete the following by filling in the missing words.
+
+    **Word list (A → Z):**
+    calibrated • controlled • read • redesigned • zeroed
+
+    1. Instruments should be ______________ before use to remove any zero error.
+    2. Measuring devices must be ______________ against a known standard to ensure accuracy.
+    3. Scales should be ______________ at eye level to avoid parallax error.
+    4. Environmental conditions should be ______________ to prevent systematic bias.
+    5. If the method introduces bias, the experiment should be ______________.
+
+    .. dropdown::
+        :icon: codescan
+        :color: primary
+        :class-container: sd-dropdown-container
+
+        .. tab-set::
+
+            .. tab-item:: Answers
+
+                1. zeroed
+                2. calibrated
+                3. read
+                4. controlled
+                5. redesigned
+
+
