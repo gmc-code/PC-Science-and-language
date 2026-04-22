@@ -72,13 +72,13 @@ Relating verbs
 
             .. tab-item:: Model Answer
 
-                Igneous rocks :processb:`are` a type of rock.
-                There :processb:`are` four main examples.
-                Pumice and scoria :processb:`are` light rocks.
-                Pumice and scoria :processb:`have` gas bubbles.
-                Obsidian :processb:`is` a volcanic glass.
-                Obsidian :processb:`has` no crystals.
-                Basalt :processb:`has` small crystals.
+                | Igneous rocks :processb:`are` a type of rock.
+                | There :processb:`are` four main examples.
+                | Pumice and scoria :processb:`are` light rocks.
+                | Pumice and scoria :processb:`have` gas bubbles.
+                | Obsidian :processb:`is` a volcanic glass.
+                | Obsidian :processb:`has` no crystals.
+                | Basalt :processb:`has` small crystals.
 
 ----
 
