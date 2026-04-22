@@ -78,7 +78,7 @@ Examples
                     * - One plate **subducts**
                       - The **subduction** of one plate
                     * - Forces **transform** the Earth's surface
-                      - The **transformation** of the Earth's surface
+                      - The **transformation** of the Earth's surface by forces
 
 ----
 
