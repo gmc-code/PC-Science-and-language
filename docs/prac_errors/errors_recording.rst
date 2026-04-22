@@ -2,10 +2,8 @@
 Recording Error
 =================
 
-| **Recording errors** occur when the researcher makes a mistake in writing
-down, reading, or transferring data.
-| They are classified as **personal
-errors** — one-off mistakes rather than true measurement errors.
+| **Recording errors** occur when the researcher makes a mistake in writing down, reading, or transferring data.
+| They are classified as **personal errors** — one-off mistakes rather than true measurement errors.
 
 Examples
 ------------
