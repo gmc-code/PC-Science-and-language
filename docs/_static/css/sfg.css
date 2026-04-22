@@ -209,15 +209,13 @@ span.O, .O {
 }
 
 /* --- MCQ --- */
-div.admonition.mcq,
-div.admonition.mcqs {
+div.admonition.mcq {
     color: var(--admonition-text-color);
     border-left: 6px solid var(--mcq-main);
     background-color: var(--mcq-bg) !important;
 }
 
-div.admonition.mcq p.admonition-title,
-div.admonition.mcqs p.admonition-title {
+div.admonition.mcq p.admonition-title {
     text-transform: capitalize;
     color: var(--mcq-main) !important;
     background-color: var(--mcq-title-bg) !important;
@@ -225,15 +223,13 @@ div.admonition.mcqs p.admonition-title {
 
 
 /* --- CLOZE --- */
-div.admonition.cloze,
-div.admonition.clozes {
+div.admonition.cloze {
     color: var(--admonition-text-color);
     border-left: 6px solid var(--cloze-main);
     background-color: var(--cloze-bg) !important;
 }
 
-div.admonition.cloze p.admonition-title,
-div.admonition.clozes p.admonition-title {
+div.admonition.cloze p.admonition-title {
     text-transform: capitalize;
     color: var(--cloze-main) !important;
     background-color: var(--cloze-title-bg) !important;
@@ -241,15 +237,13 @@ div.admonition.clozes p.admonition-title {
 
 
 /* --- SHORT ANSWER --- */
-div.admonition.shortanswer,
-div.admonition.shortanswers {
+div.admonition.shortanswer {
     color: var(--admonition-text-color);
     border-left: 6px solid var(--short-main);
     background-color: var(--short-bg) !important;
 }
 
-div.admonition.shortanswer p.admonition-title,
-div.admonition.shortanswers p.admonition-title {
+div.admonition.shortanswer p.admonition-title {
     text-transform: capitalize;
     color: var(--short-title-main) !important;
     background-color: var(--short-title-bg) !important;
@@ -257,22 +251,68 @@ div.admonition.shortanswers p.admonition-title {
 
 
 /* --- MATCHING --- */
-div.admonition.match,
-div.admonition.matching {
+div.admonition.match {
     color: var(--admonition-text-color);
     border-left: 6px solid var(--match-main);
     background-color: var(--match-bg) !important;
 }
 
-div.admonition.match p.admonition-title,
-div.admonition.matching p.admonition-title {
+div.admonition.match p.admonition-title {
     text-transform: capitalize;
     color: var(--match-main) !important;
     background-color: var(--match-title-bg) !important;
 }
 
+/* ========================================== */
+/* custom admonition icons */
+/* ========================================== */
 
 
+.admonition .admonition-title::before {
+    content: none !important;
+    font-family: inherit !important;
+    margin-right: 0;
+}
+
+/* --- Premise --- */
+.admonition.premise .admonition-title::before {
+    content: "📌 ";
+}
+
+/* --- Reasoning --- */
+.admonition.reasoning .admonition-title::before {
+    content: "🧠 ";
+}
+
+/* --- Outcome --- */
+.admonition.outcome .admonition-title::before {
+    content: "🎯 ";
+}
+
+/* --- Pro --- */
+.admonition.pro .admonition-title::before {
+    content: "💡 ";
+}
+
+/* --- MCQ --- */
+.admonition.mcq .admonition-title::before {
+    content: "☑ ";
+}
+
+/* --- CLOZE --- */
+.admonition.cloze .admonition-title::before {
+    content: "✎ ";
+}
+
+/* --- SHORT ANSWER --- */
+.admonition.shortanswer .admonition-title::before {
+    content: "✎ ";
+}
+
+/* --- MATCHING --- */
+.admonition.match .admonition-title::before {
+    content: "🔗 ";
+}
 
 /* ========================================== */
 

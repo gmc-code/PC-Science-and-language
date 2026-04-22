@@ -40,22 +40,18 @@ General Ethical Principles
     minimise • obtain • report • respect • select
 
     1. Researchers must ______________ consent before collecting personal information.
-
     2. Scientists should ______________ risks to people, animals, and the environment.
-
     3. All findings must be ______________ truthfully and accurately.
-
     4. Data should be ______________ and interpreted without bias.
-
     5. Researchers must ______________ the dignity and rights of all participants.
 
 
-    .. dropdown:: Answers
+    .. dropdown::
         :icon: codescan
         :color: primary
         :class-container: sd-dropdown-container
 
-        .. tab-set::
+        .. tab-set:: Answers
 
             .. tab-item::
 
