@@ -324,11 +324,11 @@ Converting to relating verbs
 
             .. tab-item:: Model Answers
 
-                | Weathering :processb:`is the breakdown of rocks into small pieces`.
-                | Erosion :processb:`is the transport of sediments to rivers, lakes and oceans`.
-                | Water :processb:`is the agent responsible for sediment deposition in layers over time`.
-                | Pressure :processb:`is the force that compacts sediments into solid rock`.
-                | Minerals :processb:`are substances that bind sediments together to form sedimentary rock`.
+                | Weathering :processb:`is` the breakdown of rocks into small pieces.
+                | Erosion :processb:`is` the transport of sediments to rivers, lakes and oceans.
+                | Water :processb:`is` the agent responsible for sediment deposition in layers over time.
+                | Pressure :processb:`is` the force that compacts sediments into solid rock.
+                | Minerals :processb:`are` substances that bind sediments together to form sedimentary rock.
 
 
 .. admonition:: Metamorphic rocks: converting relational to material processes
@@ -337,11 +337,11 @@ Converting to relating verbs
     | Rewrite each clause using **action verbs (material processes)**.
     | Focus on turning **definitions, classifications, and compositions into processes or actions**.
 
-    | Metamorphic rocks :processb:`are rocks formed from existing rocks changed by heat and pressure`.
-    | Metamorphic rocks :processb:`are a type of rock formed deep within the Earth's crust`.
-    | Metamorphic rocks :processb:`consist of minerals arranged in new crystal structures`.
-    | Foliated metamorphic rocks :processb:`are rocks with layered mineral alignment`.
-    | Non-foliated metamorphic rocks :processb:`are rocks without visible layers or banding`.
+    | Metamorphic rocks :processb:`are` rocks formed from existing rocks changed by heat and pressure.
+    | Metamorphic rocks :processb:`are` a type of rock formed deep within the Earth's crust.
+    | Metamorphic rocks :processb:`consist` of minerals arranged in new crystal structures.
+    | Foliated metamorphic rocks :processb:`are` rocks with layered mineral alignment.
+    | Non-foliated metamorphic rocks :processb:`are` rocks without visible layers or banding.
 
     .. dropdown::
         :icon: codescan
