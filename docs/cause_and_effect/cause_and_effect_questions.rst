@@ -4,7 +4,7 @@ Cause and effect questions
 
 
 .. admonition:: Pattern 1: Implied logical connection
-    :class: questions
+    :class: shortanswer
 
     **SET 1 — Chemical Change (Gas Production)**
 
@@ -30,7 +30,7 @@ Cause and effect questions
 
 
 .. admonition:: Pattern 2: Text connective
-    :class: questions
+    :class: shortanswer
 
     **SET 2 — Physical Change (Heating → Expansion)**
 
@@ -55,7 +55,7 @@ Cause and effect questions
 
 
 .. admonition:: Pattern 3: Conjunction (hence)
-    :class: questions
+    :class: shortanswer
 
     **SET 3 — Chemical Change (Precipitate Formation)**
 
@@ -82,7 +82,7 @@ Cause and effect questions
 
 
 .. admonition:: Pattern 4: Preposition (Due to)
-    :class: questions
+    :class: shortanswer
 
     **SET 4 — Physical Change (Cooling → Condensation)**
 
@@ -109,7 +109,7 @@ Cause and effect questions
 
 
 .. admonition:: Pattern 5: Verb (nomR causes nomO)
-    :class: questions
+    :class: shortanswer
 
     **SET 5 — Chemical Change (Combustion)**
 
@@ -137,7 +137,7 @@ Cause and effect questions
 
 
 .. admonition:: Pattern 6: Noun (The result of nomR is nomO)
-    :class: questions
+    :class: shortanswer
 
     **SET 6 — Physical Change (Dissolving → Colour Fading)**
 
@@ -165,7 +165,7 @@ Cause and effect questions
 
 
 .. admonition:: Pattern 7: Conjunction (O because R)
-    :class: questions
+    :class: shortanswer
 
     **SET 7 — Chemical Change (Acid + Metal → Gas)**
 
@@ -190,7 +190,7 @@ Cause and effect questions
 
 
 .. admonition:: Pattern 8: Verb (nomO results from nomR)
-    :class: questions
+    :class: shortanswer
 
     **SET 8 — Physical Change (Heating → Melting)**
 
@@ -218,7 +218,7 @@ Cause and effect questions
 
 
 .. admonition:: Pattern 9: Noun (The reason for nomO is nomR)
-    :class: questions
+    :class: shortanswer
 
     **SET 9 — Chemical Change (Oxidation → Rust Formation)**
 
