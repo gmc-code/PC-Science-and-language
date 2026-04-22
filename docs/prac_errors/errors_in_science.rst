@@ -133,10 +133,6 @@ Quick Reference: Error Source to Classification to Fix
 
 ----
 
-Here are **5 MCQs aligned directly to your error-type framework** (systematic, random, personal + source classification + correction reasoning). They match your style and difficulty level:
-
----
-
 .. admonition:: Multiple-Choice Questions
     :class: questions
 
@@ -177,7 +173,7 @@ Here are **5 MCQs aligned directly to your error-type framework** (systematic, r
         | c. Personal error
         | d. Method limitation
 
-    .. dropdown::
+    .. dropdown:: Answers
         :icon: check-circle
         :color: success
         :class-container: sd-dropdown-container
@@ -199,5 +195,73 @@ Here are **5 MCQs aligned directly to your error-type framework** (systematic, r
                 9.  b — Consistent zero error in a balance
                 10. b — Random error
 
+. admonition:: Multiple-Choice Questions
+    :class: questions
+
+    Choose the best answer for each question.
+    .. tab-set::
+
+        .. tab-item::
+            1. A student consistently measures a length that is 2 mm too high due to a misaligned ruler zero point. What type of error is this?
+
+                | a. Random error
+                | b. Personal error
+                | c. Systematic error
+                | d. Environmental variation
+
+        .. tab-item::
+            2. A thermometer gives slightly different readings each time the same temperature is measured due to small fluctuations in reading position. What is the main error type?
+
+                | a. Systematic error
+                | b. Random error
+                | c. Method error
+                | d. Calibration error
+
+        .. tab-item::
+            3. A student misreads the meniscus of a liquid in a measuring cylinder and records the wrong value once. How should this error be classified?
+
+                | a. Systematic error
+                | b. Random error
+                | c. Personal error
+                | d. Environmental bias
+
+        .. tab-item::
+            4. Which of the following is an example of a **systematic instrumental error**?
+
+                | a. Random vibration affecting measurements
+                | b. Consistent zero error in a balance
+                | c. A one-off recording mistake
+                | d. Variation in lighting conditions
+
+        .. tab-item::
+            5. A scientist improves an experiment by increasing the number of repeated trials and averaging results. Which type of error is this mainly addressing?
+
+                | a. Systematic error
+                | b. Random error
+                | c. Personal error
+                | d. Method limitation
+
+    .. dropdown:: Answers
+        :icon: check-circle
+        :color: success
+        :class-container: sd-dropdown-container
+
+
+        .. tab-set::
+
+            .. tab-item::
+                1. c — Systematic error
+
+            .. tab-item::
+               2. b — Random error
+
+            .. tab-item::
+               3. c — Personal error
+
+            .. tab-item::
+               4.  b — Consistent zero error in a balance
+
+            .. tab-item::
+                5.  b — Random error
 
 
