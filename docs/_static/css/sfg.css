@@ -286,13 +286,10 @@ div.admonition.match p.admonition-title {
 /* custom admonition icons */
 /* ========================================== */
 
-.rst-content .admonition-title {
-    padding-left: 2em;
+.rst-content .admonition-title::before {
+    display: inline-block;
+    margin-right: 1.5em; /* increase or decrease as needed */
 }
-
-/* .rst-content .admonition-title:before {
-    margin-right: 2em;
-} */
 
 /* .admonition .admonition-title::before {
     content: none !important;
