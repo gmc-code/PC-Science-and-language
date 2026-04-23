@@ -282,11 +282,11 @@ div.admonition.match p.admonition-title {
 /* ========================================== */
 
 
-.admonition .admonition-title::before {
+/* .admonition .admonition-title::before {
     content: none !important;
     font-family: inherit !important;
     margin-right: 0.2em;
-}
+} */
 
 /* --- Premise --- */
 .admonition.premise .admonition-title::before {
@@ -315,7 +315,7 @@ div.admonition.match p.admonition-title {
 
 /* --- CLOZE --- */
 .admonition.cloze .admonition-title::before {
-    content: "✎ " !important;
+    content: "✎___ " !important;
 }
 
 /* --- SHORT ANSWER --- */

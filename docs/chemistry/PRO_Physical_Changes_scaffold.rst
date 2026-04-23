@@ -85,7 +85,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 
 .. admonition:: Question: Balloon Shrinking in the Freezer
-    :class: questions
+    :class: mcq
 
     Explain why a balloon shrinks when placed in the freezer.
 
@@ -121,7 +121,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 
 .. admonition:: Question: Rubber Band Stretching
-    :class: questions
+    :class: mcq
 
     Explain why a rubber band stretches when pulled.
 
@@ -157,7 +157,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 
 .. admonition:: Question: Modelling Clay
-    :class: questions
+    :class: mcq
 
     Explain why modelling clay changes shape when pressed.
 
