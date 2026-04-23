@@ -152,9 +152,9 @@ span.O, .O {
     --mcq-title-bg: hsl(60, 100%, 75%);
 
     /* --- CLOZE --- */
-    --cloze-main: hsl(65, 100%, 46%);
-    --cloze-bg: hsl(65, 100%, 97%);
-    --cloze-title-bg: hsl(65, 100%, 75%);
+    --cloze-main: hsl(70, 100%, 46%);
+    --cloze-bg: hsl(70, 100%, 97%);
+    --cloze-title-bg: hsl(70, 100%, 75%);
 
     /* --- SHORT ANSWER --- */
     --shortanswer-main: hsl(45, 100%, 46%);
