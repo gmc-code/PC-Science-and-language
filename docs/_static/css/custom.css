@@ -1,6 +1,10 @@
 /* remove read the docs fly out menu */
 
-#readthedocs-flyout {
+/* #readthedocs-flyout {
+    display: none !important;
+} */
+
+readthedocs-flyout {
     display: none !important;
 }
 
