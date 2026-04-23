@@ -106,8 +106,9 @@ PRO Physical Changes: Declarative Premise Scaffold
     :O:`Outcome (O):`
     Therefore, the balloon becomes smaller.
 
-    .. dropdown::
-        :icon: codescan
+    .. dropdown:: Reveal Answer Key
+        :icon: check-circle
+        :color: success
         :class-container: dropdown-mcq
 
         .. :class-container: sd-dropdown-container
@@ -116,7 +117,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
             .. tab-item:: Answer
 
-                |:P:`Premise (P):` Lower temperature reduces the kinetic energy of particles in a gas.
+                | :P:`Premise (P):` Lower temperature reduces the kinetic energy of particles in a gas.
                 | Lower temperature reduces the kinetic energy of particles in [material/state].
 
 ----
@@ -143,9 +144,9 @@ PRO Physical Changes: Declarative Premise Scaffold
     :O:`Outcome (O):`
     Therefore, the rubber band becomes longer but remains the same material.
 
-    .. dropdown::
-        :icon: codescan
-        :color: primary
+    .. dropdown:: Reveal Answer Key
+        :icon: check-circle
+        :color: success
         :class-container: sd-dropdown-container
 
         .. tab-set::
