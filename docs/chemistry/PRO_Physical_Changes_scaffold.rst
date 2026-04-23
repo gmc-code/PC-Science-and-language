@@ -122,8 +122,6 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 ----
 
-
-
 .. admonition:: Question: Rubber Band Stretching
     :class: mcq
 
