@@ -154,8 +154,8 @@ Cause and effect questions
                 | **nomR:** The even spreading of food colouring through the water.
                 | **nomO:** The lightening of colour throughout the water.
 
-                *The result of* the even spreading of food colouring through
-                the water *is* the lightening of colour throughout the water.
+                :conjb:`The result of` the even spreading of food colouring through
+                the water :conjb:`is` the lightening of colour throughout the water.
 
 
 .. admonition:: Pattern 7: Conjunction (O because R)
@@ -178,7 +178,7 @@ Cause and effect questions
 
             .. tab-item:: Model Answer
 
-                Hydrogen gas is released because the acid dissolves part
+                Hydrogen gas is released :conjb:`because` the acid dissolves part
                 of the magnesium.
 
 
@@ -205,7 +205,7 @@ Cause and effect questions
                 | **nomR:** The softening and melting of the solid wax.
                 | **nomO:** The formation of a pool of liquid wax.
 
-                The formation of a pool of liquid wax results from the
+                The formation of a pool of liquid wax :conjb:`results from` the
                 softening and melting of the solid wax.
 
 
@@ -232,8 +232,8 @@ Cause and effect questions
                 | **nomR:** The oxidation of iron in the presence of oxygen and moisture.
                 | **nomO:** The formation of a reddish brown rust layer.
 
-                The reason for the formation of a reddish brown rust layer
-                is the oxidation of iron in the presence of oxygen and
+                :conjb:`The reason for` the formation of a reddish brown rust layer
+                :conjb:`is` the oxidation of iron in the presence of oxygen and
                 moisture.
 
 
