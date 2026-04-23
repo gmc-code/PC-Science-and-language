@@ -342,7 +342,7 @@ div.admonition.match p.admonition-title {
 /* ========================================== */
 
 
-/* --- Base dropdown styling --- */
+/* --- Base dropdown --- */
 .sd-dropdown {
     border-left: 6px solid var(--dropdown-main);
     background-color: var(--dropdown-bg);
@@ -350,22 +350,13 @@ div.admonition.match p.admonition-title {
     overflow: hidden;
 }
 
-/* Header */
 .sd-dropdown .sd-summary {
     background-color: var(--dropdown-title-bg);
     color: var(--admonition-text-color);
-    font-weight: 500;
-    text-transform: capitalize;
 }
 
-/* Content */
 .sd-dropdown .sd-content {
     background-color: var(--dropdown-bg);
-}
-
-/* Hover polish */
-.sd-dropdown .sd-summary:hover {
-    filter: brightness(0.96);
 }
 
 
@@ -373,52 +364,59 @@ div.admonition.match p.admonition-title {
 /* ========================================== */
 
 /* --- MCQ --- */
-.sd-dropdown.mcq {
+.dropdown-mcq .sd-dropdown {
     --dropdown-main: var(--mcq-main);
     --dropdown-bg: var(--mcq-bg);
     --dropdown-title-bg: var(--mcq-title-bg);
 }
 
-/* --- CLOZE --- */
-.sd-dropdown.cloze {
+/* CLOZE */
+.dropdown-cloze .sd-dropdown {
     --dropdown-main: var(--cloze-main);
     --dropdown-bg: var(--cloze-bg);
     --dropdown-title-bg: var(--cloze-title-bg);
 }
 
-/* --- SHORT ANSWER --- */
-.sd-dropdown.shortanswer {
+/* SHORT ANSWER */
+.dropdown-shortanswer .sd-dropdown {
     --dropdown-main: var(--shortanswer-main);
     --dropdown-bg: var(--shortanswer-bg);
     --dropdown-title-bg: var(--shortanswer-title-bg);
 }
 
-/* --- MATCH --- */
-.sd-dropdown.match {
+/* MATCH */
+.dropdown-match .sd-dropdown {
     --dropdown-main: var(--match-main);
     --dropdown-bg: var(--match-bg);
     --dropdown-title-bg: var(--match-title-bg);
 }
 
 /* --- Premise --- */
-.sd-dropdown.premise {
+.dropdown-premise .sd-dropdown {
     --dropdown-main: var(--premise-main);
     --dropdown-bg: var(--premise-bg);
     --dropdown-title-bg: var(--premise-title-bg);
 }
 
 /* --- Reasoning --- */
-.sd-dropdown.reasoning {
+.dropdown-reasoning .sd-dropdown {
     --dropdown-main: var(--reasoning-main);
     --dropdown-bg: var(--reasoning-bg);
     --dropdown-title-bg: var(--reasoning-title-bg);
 }
 
 /* --- Outcome --- */
-.sd-dropdown.outcome {
+.dropdown-outcome .sd-dropdown {
     --dropdown-main: var(--outcome-main);
     --dropdown-bg: var(--outcome-bg);
     --dropdown-title-bg: var(--outcome-title-bg);
+}
+
+/* --- PRO --- */
+.dropdown-outcome .sd-dropdown {
+    --dropdown-main: var(--pro-main);
+    --dropdown-bg: var(--pro-bg);
+    --dropdown-title-bg: var(--pro-title-bg);
 }
 
 /* ========================================== */

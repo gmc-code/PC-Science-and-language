@@ -35,7 +35,7 @@ PRO Physical Changes: Declarative Premise Scaffold
     .. dropdown::
         :icon: codescan
         :color: primary
-        :class-container: shortanswer
+        :class-container: dropdown-shortanswer
 
         .. :class-container: sd-dropdown-container
 
@@ -73,7 +73,7 @@ PRO Physical Changes: Declarative Premise Scaffold
     .. dropdown::
         :icon: codescan
         :color: primary
-        :class-container: cloze
+        :class-container: dropdown-cloze
 
         .. :class-container: sd-dropdown-container
 
@@ -111,7 +111,7 @@ PRO Physical Changes: Declarative Premise Scaffold
     .. dropdown::
         :icon: codescan
         :color: primary
-        :class-container: mcq
+        :class-container: dropdown-mcq
 
         .. :class-container: sd-dropdown-container
 
