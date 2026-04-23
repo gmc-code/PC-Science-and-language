@@ -11,16 +11,12 @@ span.conj,
 span.theme,
 span.rheme {
 
-  padding: 0.2em .65em;
+  padding: 0.18em .65em;
   border-radius: .25em;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
-  line-height: 1.1;
-
-  display:inline-block;
-  text-align:center;
-  white-space:nowrap;
-  vertical-align:baseline;
+  line-height: 1.2;
+  vertical-align: middle;
   border-style: solid;
   border-width: 1px;
 }
@@ -49,7 +45,8 @@ span.rhemeb {
   border-radius: .25em;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
-  line-height: 1.1;
+  line-height: 1.2;
+  vertical-align: middle;
 }
 
 /* Individual backgrounds (using your current color palette) */

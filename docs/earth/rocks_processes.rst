@@ -31,12 +31,12 @@ Igneous rocks are a type of rock that forms from the cooling of molten rock. The
 
 Identify the Processes.
 
-Igneous rocks :processb:`are` a type of rock that :processb:`forms` from cooling of molten rock.
-There :processb:`are` 4 main examples: pumice and scoria, obsidian, basalt and granite.
-Pumice and scoria :processb:`are` light rocks which :processb:`have` gas bubbles that :processb:`are trapped` during cooling.
-Obsidian :processb:`is` a volcanic glass that :processb:`cools` so rapidly that it :processb:`has` no crystals.
-Basalt :processb:`has` small crystals since it :processb:`forms` from lava that :processb:`cools` above ground.
-Granite :processb:`has` large crystals since it :processb:`forms` from magma that :processb:`cools` below ground.
+Igneous rocks :process:`are` a type of rock that :process:`forms` from cooling of molten rock.
+There :process:`are` 4 main examples: pumice and scoria, obsidian, basalt and granite.
+Pumice and scoria :process:`are` light rocks which :process:`have` gas bubbles that :process:`are trapped` during cooling.
+Obsidian :process:`is` a volcanic glass that :process:`cools` so rapidly that it :process:`has` no crystals.
+Basalt :process:`has` small crystals since it :process:`forms` from lava that :process:`cools` above ground.
+Granite :process:`has` large crystals since it :process:`forms` from magma that :process:`cools` below ground.
 
 ----
 
@@ -121,12 +121,12 @@ Relating verbs
 
     | From the text below, write simple sentences that have a relating verb (is, are, has).
 
-    | Igneous rocks :processb:`are` a type of rock that :processb:`form` from cooling of molten rock.
-    | There :processb:`are` 4 main examples: pumice and scoria, obsidian, basalt and granite.
-    | Pumice and scoria :processb:`are` light rocks which :processb:`have` gas bubbles that :processb:`are trapped` during cooling.
-    | Obsidian :processb:`is` a volcanic glass that :processb:`cools` so rapidly that it :processb:`has` no crystals.
-    | Basalt :processb:`has` small crystals since it :processb:`forms` from lava that :processb:`cools` above ground.
-    | Granite :processb:`has` large crystals since it :processb:`forms` from lava that :processb:`cools` below ground.
+    | Igneous rocks :process:`are` a type of rock that :process:`form` from cooling of molten rock.
+    | There :process:`are` 4 main examples: pumice and scoria, obsidian, basalt and granite.
+    | Pumice and scoria :process:`are` light rocks which :process:`have` gas bubbles that :process:`are trapped` during cooling.
+    | Obsidian :process:`is` a volcanic glass that :process:`cools` so rapidly that it :process:`has` no crystals.
+    | Basalt :process:`has` small crystals since it :process:`forms` from lava that :process:`cools` above ground.
+    | Granite :process:`has` large crystals since it :process:`forms` from lava that :process:`cools` below ground.
 
     .. dropdown::
         :icon: codescan
@@ -137,14 +137,14 @@ Relating verbs
 
             .. tab-item:: Model Answer
 
-                | Igneous rocks :processb:`are` a type of rock.
-                | There :processb:`are` four main examples.
-                | Pumice and scoria :processb:`are` light rocks.
-                | Pumice and scoria :processb:`have` gas bubbles.
-                | Obsidian :processb:`is` a volcanic glass.
-                | Obsidian :processb:`has` no crystals.
-                | Basalt :processb:`has` small crystals.
-                | Granite :processb:`has` large crystals.
+                | Igneous rocks :process:`are` a type of rock.
+                | There :process:`are` four main examples.
+                | Pumice and scoria :process:`are` light rocks.
+                | Pumice and scoria :process:`have` gas bubbles.
+                | Obsidian :process:`is` a volcanic glass.
+                | Obsidian :process:`has` no crystals.
+                | Basalt :process:`has` small crystals.
+                | Granite :process:`has` large crystals.
 
 ----
 
@@ -154,21 +154,21 @@ Existing verbs
 | Existential processes use "There is/are/was" to express existence.
 
 | Examples include:
-| There :processb:`is` a layer of basalt beneath the surface.
-| There :processb:`are` many igneous rocks found near volcanoes.
-| There :processb:`was` a large deposit of granite in the region.
+| There :process:`is` a layer of basalt beneath the surface.
+| There :process:`are` many igneous rocks found near volcanoes.
+| There :process:`was` a large deposit of granite in the region.
 
 .. admonition:: Igneous rocks: existing verbs
     :class: questions
 
     | Reread the igneous rocks information report and identify any clauses that use existing verbs.
 
-    | Igneous rocks :processb:`are` a type of rock that :processb:`form` from cooling of molten rock.
-    | There :processb:`are` 4 main examples: pumice and scoria, obsidian, basalt and granite.
-    | Pumice and scoria :processb:`are` light rocks which :processb:`have` gas bubbles that :processb:`are trapped` during cooling.
-    | Obsidian :processb:`is` a volcanic glass that :processb:`cools` so rapidly that it :processb:`has` no crystals.
-    | Basalt :processb:`has` small crystals since it :processb:`forms` from lava that :processb:`cools` above ground.
-    | Granite :processb:`has` large crystals since it :processb:`forms` from lava that :processb:`cools` below ground.
+    | Igneous rocks :process:`are` a type of rock that :process:`form` from cooling of molten rock.
+    | There :process:`are` 4 main examples: pumice and scoria, obsidian, basalt and granite.
+    | Pumice and scoria :process:`are` light rocks which :process:`have` gas bubbles that :process:`are trapped` during cooling.
+    | Obsidian :process:`is` a volcanic glass that :process:`cools` so rapidly that it :process:`has` no crystals.
+    | Basalt :process:`has` small crystals since it :process:`forms` from lava that :process:`cools` above ground.
+    | Granite :process:`has` large crystals since it :process:`forms` from lava that :process:`cools` below ground.
 
     .. dropdown::
         :icon: codescan
@@ -179,7 +179,7 @@ Existing verbs
 
             .. tab-item:: Model Answer
 
-                | There :processb:`are` four main examples.
+                | There :process:`are` four main examples.
 
 ----
 
@@ -191,9 +191,9 @@ Action verbs
 | A material action verb is a verb that shows action, change, or process in the physical world.
 
 | Examples include:
-| Weathering :processb:`breaks` rocks into small pieces.
-| Erosion :processb:`carries` the sediments to rivers, lakes, and oceans.
-| Water :processb:`deposits` the sediments in layers.
+| Weathering :process:`breaks` rocks into small pieces.
+| Erosion :process:`carries` the sediments to rivers, lakes, and oceans.
+| Water :process:`deposits` the sediments in layers.
 
 Note: Material processes may appear in passive form (e.g. "are trapped", "is formed").
 
@@ -216,16 +216,16 @@ Note: Material processes may appear in passive form (e.g. "are trapped", "is for
 
             .. tab-item:: Model Answer
 
-                | Igneous rocks are a type of rock that :processb:`forms` from cooling of molten rock.
+                | Igneous rocks are a type of rock that :process:`forms` from cooling of molten rock.
                 | There are 4 main examples: pumice and scoria, obsidian, basalt and granite.
-                | Pumice and scoria are light rocks which have gas bubbles that :processb:`are trapped` during cooling.
-                | Obsidian is a volcanic glass that :processb:`cools` so rapidly that it has no crystals.
-                | Basalt has small crystals since it :processb:`forms` from lava that :processb:`cools` above ground.
-                | Granite has large crystals since it :processb:`forms` from lava that :processb:`cools` below ground.
+                | Pumice and scoria are light rocks which have gas bubbles that :process:`are trapped` during cooling.
+                | Obsidian is a volcanic glass that :process:`cools` so rapidly that it has no crystals.
+                | Basalt has small crystals since it :process:`forms` from lava that :process:`cools` above ground.
+                | Granite has large crystals since it :process:`forms` from lava that :process:`cools` below ground.
 
-                | :processb:`forms`
-                | :processb:`are trapped`
-                | :processb:`cools`
+                | :process:`forms`
+                | :process:`are trapped`
+                | :process:`cools`
 
 ----
 
@@ -250,11 +250,11 @@ Sedimentary rocks: Processes
 
             .. tab-item:: Model Answer
 
-                | Sedimentary rocks :processb:`are` rocks formed from the accumulation of sediments.
-                | There :processb:`are` 3 main types: clastic, chemical and organic.
-                | Clastic sedimentary rocks :processb:`consist` of rock fragments that have been compacted and cemented together.
-                | Chemical sedimentary rocks :processb:`consist` of minerals that have been precipitated out of solution.
-                | Organic sedimentary rocks :processb:`consist` of the remains of plants and animals that have been compacted and cemented together.
+                | Sedimentary rocks :process:`are` rocks formed from the accumulation of sediments.
+                | There :process:`are` 3 main types: clastic, chemical and organic.
+                | Clastic sedimentary rocks :process:`consist` of rock fragments that have been compacted and cemented together.
+                | Chemical sedimentary rocks :process:`consist` of minerals that have been precipitated out of solution.
+                | Organic sedimentary rocks :process:`consist` of the remains of plants and animals that have been compacted and cemented together.
 
 
 .. admonition:: Sedimentary rocks : action verbs
@@ -275,16 +275,16 @@ Sedimentary rocks: Processes
 
             .. tab-item:: Model Answer
 
-                | Sedimentary rocks :processb:`are formed` from the accumulation of sediments.
+                | Sedimentary rocks :process:`are formed` from the accumulation of sediments.
                 | There are 3 main types: clastic, chemical and organic.
-                | Clastic sedimentary rocks :processb:`form` via the compaction and cementation of rock fragments.
-                | Chemical sedimentary rocks :processb:`form` by the precipitation of minerals out of solution.
-                | Organic sedimentary rocks :processb:`form` via the compaction and cementation of the remains of plants and animals.
+                | Clastic sedimentary rocks :process:`form` via the compaction and cementation of rock fragments.
+                | Chemical sedimentary rocks :process:`form` by the precipitation of minerals out of solution.
+                | Organic sedimentary rocks :process:`form` via the compaction and cementation of the remains of plants and animals.
 
-                | :processb:`are formed`
-                | :processb:`form`
-                | :processb:`form`
-                | :processb:`form`
+                | :process:`are formed`
+                | :process:`form`
+                | :process:`form`
+                | :process:`form`
 
 ----
 
@@ -296,13 +296,13 @@ Action verb:
 
 | This clause describes a process of formation.
 | It focuses on the action of forming.
-| Granite :processb:`forms` from magma cooling below ground resulting in the formation of large crystals.
+| Granite :process:`forms` from magma cooling below ground resulting in the formation of large crystals.
 
 Relating verb:
 
 | This clause describes a property of granite (its crystal structure).
 | It focuses on the state of having large crystals rather than the action of forming.
-| Granite :processb:`is characterised` by large crystals that are formed from magma cooling below ground.
+| Granite :process:`is characterised` by large crystals that are formed from magma cooling below ground.
 
 ----
 
@@ -315,11 +315,11 @@ Converting material to relational processes
     | Rewrite each clause using a **relational process**.
     | Focus on turning the action into a **definition, classification, or composition**.
 
-    | Weathering :processb:`breaks` rocks into small pieces.
-    | Erosion :processb:`carries` sediments to rivers, lakes and oceans.
-    | Water :processb:`deposits` sediments in layers over time.
-    | Pressure :processb:`compacts` sediments into solid rock.
-    | Minerals :processb:`cement` sediments together to form sedimentary rock.
+    | Weathering :process:`breaks` rocks into small pieces.
+    | Erosion :process:`carries` sediments to rivers, lakes and oceans.
+    | Water :process:`deposits` sediments in layers over time.
+    | Pressure :process:`compacts` sediments into solid rock.
+    | Minerals :process:`cement` sediments together to form sedimentary rock.
 
     .. dropdown::
         :icon: codescan
@@ -330,11 +330,11 @@ Converting material to relational processes
 
             .. tab-item:: Model Answers
 
-                | Weathering :processb:`is` the breakdown of rocks into small pieces.
-                | Erosion :processb:`is` the transport of sediments to rivers, lakes and oceans.
-                | Water :processb:`is` the agent responsible for sediment deposition in layers over time.
-                | Pressure :processb:`is` the force that compacts sediments into solid rock.
-                | Minerals :processb:`are` substances that bind sediments together to form sedimentary rock.
+                | Weathering :process:`is` the breakdown of rocks into small pieces.
+                | Erosion :process:`is` the transport of sediments to rivers, lakes and oceans.
+                | Water :process:`is` the agent responsible for sediment deposition in layers over time.
+                | Pressure :process:`is` the force that compacts sediments into solid rock.
+                | Minerals :process:`are` substances that bind sediments together to form sedimentary rock.
 
 ----
 
@@ -348,11 +348,11 @@ Converting relational to material processes
     | Rewrite each clause using **action verbs (material processes)**.
     | Focus on turning **definitions, classifications, and compositions into processes or actions**.
 
-    | Metamorphic rocks :processb:`are` rocks formed from existing rocks changed by heat and pressure.
-    | Metamorphic rocks :processb:`are` a type of rock formed deep within the Earth's crust.
-    | Metamorphic rocks :processb:`consist` of minerals arranged in new crystal structures.
-    | Foliated metamorphic rocks :processb:`are` rocks with layered mineral alignment.
-    | Non-foliated metamorphic rocks :processb:`are` rocks without visible layers or banding.
+    | Metamorphic rocks :process:`are` rocks formed from existing rocks changed by heat and pressure.
+    | Metamorphic rocks :process:`are` a type of rock formed deep within the Earth's crust.
+    | Metamorphic rocks :process:`consist` of minerals arranged in new crystal structures.
+    | Foliated metamorphic rocks :process:`are` rocks with layered mineral alignment.
+    | Non-foliated metamorphic rocks :process:`are` rocks without visible layers or banding.
 
     .. dropdown::
         :icon: codescan
@@ -363,11 +363,11 @@ Converting relational to material processes
 
             .. tab-item:: Model Answers
 
-                | Existing rocks :processb:`change` under heat and pressure to form metamorphic rocks.
-                | Metamorphic rocks :processb:`form` deep within the Earth's crust.
-                | Minerals :processb:`recrystallise` into new crystal structures.
-                | Foliated metamorphic rocks :processb:`develop` layered mineral alignment.
-                | Non-foliated metamorphic rocks :processb:`form` without visible layers or banding.
+                | Existing rocks :process:`change` under heat and pressure to form metamorphic rocks.
+                | Metamorphic rocks :process:`form` deep within the Earth's crust.
+                | Minerals :process:`recrystallise` into new crystal structures.
+                | Foliated metamorphic rocks :process:`develop` layered mineral alignment.
+                | Non-foliated metamorphic rocks :process:`form` without visible layers or banding.
 
 
 ----
@@ -384,9 +384,9 @@ Nominalization of processes
 
     | Consider the following information report about sedimentary rocks.
 
-    | Clastic sedimentary rocks :processb:`form` via the compaction and cementation of rock fragments.
-    | Chemical sedimentary rocks :processb:`form` by the precipitation of minerals out of solution.
-    | Organic sedimentary rocks :processb:`form` via the compaction and cementation of the remains of plants and animals.
+    | Clastic sedimentary rocks :process:`form` via the compaction and cementation of rock fragments.
+    | Chemical sedimentary rocks :process:`form` by the precipitation of minerals out of solution.
+    | Organic sedimentary rocks :process:`form` via the compaction and cementation of the remains of plants and animals.
 
     | Identify the action verbs by marking them in the text and listing them below.
 
@@ -399,14 +399,14 @@ Nominalization of processes
 
             .. tab-item:: Model Answer
 
-                | Clastic sedimentary rocks :processb:`form` via the compaction and cementation of rock fragments.
-                | Chemical sedimentary rocks :processb:`form` by the precipitation of minerals out of solution.
-                | Organic sedimentary rocks :processb:`form` via the compaction and cementation of the remains of plants and animals.
+                | Clastic sedimentary rocks :process:`form` via the compaction and cementation of rock fragments.
+                | Chemical sedimentary rocks :process:`form` by the precipitation of minerals out of solution.
+                | Organic sedimentary rocks :process:`form` via the compaction and cementation of the remains of plants and animals.
 
-                | :processb:`are formed`
-                | :processb:`form`
-                | :processb:`form`
-                | :processb:`form`
+                | :process:`are formed`
+                | :process:`form`
+                | :process:`form`
+                | :process:`form`
 
 
 

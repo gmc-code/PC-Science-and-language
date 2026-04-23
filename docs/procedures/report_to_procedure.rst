@@ -29,7 +29,7 @@ To convert a Report into a Procedure, make the following changes:
 1. **Remove the Auxiliary Verb:** Delete words like *was* or *were* that sit before the action.
 2. **Shift Verb Tense:** Change the past participle ending (*-ed*) back to the present base form. Change *"was replaced"* to *"replace"*.
 3. **Reorder the Clause:** Swap the position of the Participant and the Process so the action leads the way. Change *"the bung was replaced"* to *"replace the bung"*.
-4. **Reposition the Circumstances (Adverbs)**: Move adverbs of manner or timing (like carefully, briefly, or immediately) from the end of the sentence to the front. In a procedure, these provide important context before the reader performs the step. For example, change "The bung was removed briefly" to ":circb:`Briefly`, :processb:`remove` :participantb:`the bung`."
+4. **Reposition the Circumstances (Adverbs)**: Move adverbs of manner or timing (like carefully, briefly, or immediately) from the end of the sentence to the front. In a procedure, these provide important context before the reader performs the step. For example, change "The bung was removed briefly" to ":circ:`Briefly`, :process:`remove` :participant:`the bung`."
 
 .. list-table:: Passive to Active Conversion Example
     :header-rows: 1
@@ -37,10 +37,10 @@ To convert a Report into a Procedure, make the following changes:
 
     * - Passive Report
       - Active Procedure
-    * - :circb:`Then`, :participantb:`the bung` :processb:`was replaced`.
-      - :circb:`Then`, :processb:`replace` :participantb:`the bung`.
-    * - :circb:`Next`, :participantb:`the acid` :processb:`was added`.
-      - :circb:`Next`, :processb:`add` :participantb:`the acid`.
+    * - :circ:`Then`, :participant:`the bung` :process:`was replaced`.
+      - :circ:`Then`, :process:`replace` :participant:`the bung`.
+    * - :circ:`Next`, :participant:`the acid` :process:`was added`.
+      - :circ:`Next`, :process:`add` :participant:`the acid`.
 
 .. list-table:: Adverb Positioning: Report vs. Procedure
     :header-rows: 1
@@ -50,14 +50,14 @@ To convert a Report into a Procedure, make the following changes:
     * - Passive Report (Adverb at end)
       - Active Procedure (Adverb at front)
       - Reason
-    * - :participantb:`The acid` :processb:`was added` :circb:`carefully`.
-      - :circb:`Carefully`, :processb:`add` :participantb:`the acid`.
+    * - :participant:`The acid` :process:`was added` :circ:`carefully`.
+      - :circ:`Carefully`, :process:`add` :participant:`the acid`.
       - Highlights the safety requirement *before* the action.
-    * - :participantb:`The bung` :processb:`was removed` :circb:`briefly`.
-      - :circb:`Briefly`, :processb:`remove` :participantb:`the bung`.
+    * - :participant:`The bung` :process:`was removed` :circ:`briefly`.
+      - :circ:`Briefly`, :process:`remove` :participant:`the bung`.
       - Sets the timing expectation *before* the action.
-    * - :participantb:`The water` :processb:`was monitored` :circb:`simultaneously`.
-      - :circb:`Simultaneously`, :processb:`monitor` :participantb:`the water`.
+    * - :participant:`The water` :process:`was monitored` :circ:`simultaneously`.
+      - :circ:`Simultaneously`, :process:`monitor` :participant:`the water`.
       - Directs the reader to multi-task.
 
 ----
@@ -68,16 +68,16 @@ To convert a Report into a Procedure, make the following changes:
 
     | Rewrite the following report steps into clear instructions by applying the grammar shifts described above starting with the verb.
 
-    #. :circb:`First`, :participantb:`several marble chips` :processb:`were placed` :circb:`into a clean conical flask`.
-    #. :circb:`Then`, :participantb:`a rubber bung with a delivery tube` :processb:`was fitted` :circb:`into the mouth of the flask`.
-    #. :circb:`Next`, :participantb:`the other end of the delivery tube` :processb:`was submerged` :circb:`in a beaker of limewater`.
-    #. :circb:`After the setup was ready`, :participantb:`the bung` :processb:`was removed` :circb:`briefly`.
-    #. :participantb:`20 mL of dilute hydrochloric acid` :processb:`was added` :circb:`carefully` :circb:`to the flask`.
-    #. :circb:`Immediately`, :participantb:`the bung` :processb:`was replaced` :circb:`to ensure no gas escaped`.
-    #. :circb:`During the reaction`, :participantb:`effervescence` :processb:`was observed` :circb:`inside the conical flask`.
-    #. :participantb:`The limewater` :processb:`was monitored` :circb:`simultaneously` :circb:`as gas bubbled through it`.
-    #. :circb:`After a short period`, :participantb:`a milky white color` :processb:`was observed` :circb:`in the limewater`.
-    #. :circb:`Finally`, :participantb:`the delivery tube` :processb:`was removed` :circb:`from the limewater` :circb:`before the reaction was stopped`.
+    #. :circ:`First`, :participant:`several marble chips` :process:`were placed` :circ:`into a clean conical flask`.
+    #. :circ:`Then`, :participant:`a rubber bung with a delivery tube` :process:`was fitted` :circ:`into the mouth of the flask`.
+    #. :circ:`Next`, :participant:`the other end of the delivery tube` :process:`was submerged` :circ:`in a beaker of limewater`.
+    #. :circ:`After the setup was ready`, :participant:`the bung` :process:`was removed` :circ:`briefly`.
+    #. :participant:`20 mL of dilute hydrochloric acid` :process:`was added` :circ:`carefully` :circ:`to the flask`.
+    #. :circ:`Immediately`, :participant:`the bung` :process:`was replaced` :circ:`to ensure no gas escaped`.
+    #. :circ:`During the reaction`, :participant:`effervescence` :process:`was observed` :circ:`inside the conical flask`.
+    #. :participant:`The limewater` :process:`was monitored` :circ:`simultaneously` :circ:`as gas bubbled through it`.
+    #. :circ:`After a short period`, :participant:`a milky white color` :process:`was observed` :circ:`in the limewater`.
+    #. :circ:`Finally`, :participant:`the delivery tube` :process:`was removed` :circ:`from the limewater` :circ:`before the reaction was stopped`.
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
@@ -88,16 +88,16 @@ To convert a Report into a Procedure, make the following changes:
 
             .. tab-item:: Model Answer
 
-                #. :circb:`First`, :processb:`place` :participantb:`several marble chips` :circb:`into a clean conical flask`.
-                #. :circb:`Then`, :processb:`fit` :participantb:`a rubber bung with a delivery tube` :circb:`into the mouth of the flask`.
-                #. :circb:`Next`, :processb:`submerge` :participantb:`the other end of the delivery tube` :circb:`in a beaker of limewater`.
-                #. :circb:`Briefly`, :processb:`remove` :participantb:`the bung`.
-                #. :circb:`Carefully`, :processb:`add` :participantb:`20 mL of dilute hydrochloric acid` :circb:`to the flask`.
-                #. :circb:`Immediately`, :processb:`replace` :participantb:`the bung` :circb:`to ensure no gas escapes`.
-                #. :circb:`During the reaction`, :processb:`observe` :participantb:`the effervescence` :circb:`inside the conical flask`.
-                #. :circb:`Simultaneously`, :processb:`monitor` :participantb:`the limewater` :circb:`as gas bubbles through it`.
-                #. :circb:`After a short period`, :processb:`observe` :participantb:`the milky white color` :circb:`in the limewater`.
-                #. :circb:`Finally`, :processb:`remove` :participantb:`the delivery tube` :circb:`from the limewater` :circb:`before the reaction is stopped`.
+                #. :circ:`First`, :process:`place` :participant:`several marble chips` :circ:`into a clean conical flask`.
+                #. :circ:`Then`, :process:`fit` :participant:`a rubber bung with a delivery tube` :circ:`into the mouth of the flask`.
+                #. :circ:`Next`, :process:`submerge` :participant:`the other end of the delivery tube` :circ:`in a beaker of limewater`.
+                #. :circ:`Briefly`, :process:`remove` :participant:`the bung`.
+                #. :circ:`Carefully`, :process:`add` :participant:`20 mL of dilute hydrochloric acid` :circ:`to the flask`.
+                #. :circ:`Immediately`, :process:`replace` :participant:`the bung` :circ:`to ensure no gas escapes`.
+                #. :circ:`During the reaction`, :process:`observe` :participant:`the effervescence` :circ:`inside the conical flask`.
+                #. :circ:`Simultaneously`, :process:`monitor` :participant:`the limewater` :circ:`as gas bubbles through it`.
+                #. :circ:`After a short period`, :process:`observe` :participant:`the milky white color` :circ:`in the limewater`.
+                #. :circ:`Finally`, :process:`remove` :participant:`the delivery tube` :circ:`from the limewater` :circ:`before the reaction is stopped`.
 
 
 
