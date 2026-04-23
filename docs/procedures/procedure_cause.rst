@@ -118,9 +118,9 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
             .. tab-item:: Model Answer
 
-                Q(1) locks in **as** — "you can see the surface already beginning to discolour" makes the hazard visibly present right now.
+                Q(1) **as** — "you can see the surface already beginning to discolour" makes the hazard visibly present right now.
 
-                Q(2) locks in **since** — "well-established source" signals accepted background knowledge.
+                Q(2) **since** — "well-established source" signals accepted background knowledge.
 
 
 
@@ -143,12 +143,12 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
             .. tab-item:: Model Answer
 
-                Q(1) locks in **because** — the residual static mechanism is specific and non-obvious; the reader cannot be expected to already know it.
+                Q(1) **because** — the residual static mechanism is specific and non-obvious; the reader cannot be expected to already know it.
 
-                Q(2) locks in **since** — vapour flammability at room temperature is standard, assumed knowledge in any chemistry course.
+                Q(2) **since** — vapour flammability at room temperature is standard, assumed knowledge in any chemistry course.
 
 
-.. admonition:: As vs. Because
+.. admonition:: Cloze: As vs. Because
     :class: cloze
 
     Fill in the gaps with the most appropriate conjunction:
@@ -166,9 +166,9 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
             .. tab-item:: Model Answer
 
-                Q(1) locks in **because** — internal stress is a non-visible mechanism being explained for the first time.
+                Q(1) **because** — internal stress is a non-visible mechanism being explained for the first time.
 
-                Q(2) locks in **as** — the not-yet-solidified state is directly observable at the moment of handling.
+                Q(2) **as** — the not-yet-solidified state is directly observable at the moment of handling.
 
 
 ----

@@ -114,10 +114,10 @@ to specify when an action is valid, necessary, or to be avoided.*
             1. **Biology:** Begin the dissection __________ your teacher has
             handed out the safety instructions and checked your workstation.
 
-            | a. if
-            | b. provided that
-            | c. unless
-            | d. whether or not
+                | a. if
+                | b. provided that
+                | c. unless
+                | d. whether or not
 
         .. tab-item:: Q2
             :sync: q2
@@ -126,10 +126,10 @@ to specify when an action is valid, necessary, or to be avoided.*
             substance inside __________ you plan to use it straight away
             or leave it until the next lesson.
 
-            | a. if
-            | b. provided that
-            | c. unless
-            | d. whether or not
+                | a. if
+                | b. provided that
+                | c. unless
+                | d. whether or not
 
         .. tab-item:: Q3
             :sync: q3
@@ -137,10 +137,10 @@ to specify when an action is valid, necessary, or to be avoided.*
             3. **Physics:** Switch on the fan __________ the temperature
             of the resistor rises above 40 °C during the investigation.
 
-            | a. if
-            | b. provided that
-            | c. unless
-            | d. whether or not
+                | a. if
+                | b. provided that
+                | c. unless
+                | d. whether or not
 
         .. tab-item:: Q4
             :sync: q4
@@ -148,10 +148,10 @@ to specify when an action is valid, necessary, or to be avoided.*
             4. **Earth Science:** Do not collect the rock sample __________
             you are wearing protective gloves and safety goggles.
 
-            | a. if
-            | b. provided that
-            | c. unless
-            | d. whether or not
+                | a. if
+                | b. provided that
+                | c. unless
+                | d. whether or not
 
     .. dropdown:: Check Answers
         :icon: check-circle
