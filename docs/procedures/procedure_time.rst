@@ -179,94 +179,133 @@ How Often? (Frequency / Recurrence)
 ----
 
 
-.. admonition:: Exercise: Multi-Category Conjunctions of Time Quiz
+.. admonition:: Multiple Choice: Multi-Category Conjunctions of Time Quiz
     :class: mqc
 
     Select the most appropriate conjunction for each scientific instruction to ensure maximum clarity and precision.
 
-    1. **Physics:** Ensure all capacitors are fully discharged __________ beginning any modifications to the circuit wiring.
+    .. tab-set::
+        :sync-group: set1
 
-    .. grid:: 4
-        :gutter: 2
+        .. tab-item:: Q1
+            :sync: q1
 
-        .. grid-item::
-            (A) After
-        .. grid-item::
-            (B) Before
-        .. grid-item::
-            (C) As soon as
-        .. grid-item::
-            (D) Once
+            1. **Physics:** Ensure all capacitors are fully discharged __________ beginning any modifications to the circuit wiring.
 
-    2. **Biology:** Observe the specimen under the microscope __________ the staining agent is gradually absorbed by the cell walls.
+            .. grid:: 4
+                :gutter: 2
 
-    .. grid:: 4
-        :gutter: 2
+                .. grid-item::
+                    (A) After
+                .. grid-item::
+                    (B) Before
+                .. grid-item::
+                    (C) As soon as
+                .. grid-item::
+                    (D) Once
 
-        .. grid-item::
-            (A) When
-        .. grid-item::
-            (B) As
-        .. grid-item::
-            (C) Before
-        .. grid-item::
-            (D) Every time
+        .. tab-item:: Q2
+            :sync: q2
 
-    3. **Chemistry:** Record the final mass of the precipitate __________ the heating cycle is completed and the crucible has cooled to room temperature.
 
-    .. grid:: 4
-        :gutter: 2
+            2. **Biology:** Observe the specimen under the microscope __________ the staining agent is gradually absorbed by the cell walls.
 
-        .. grid-item::
-            (A) Until
-        .. grid-item::
-            (B) After
-        .. grid-item::
-            (C) While
-        .. grid-item::
-            (D) Whenever
+            .. grid:: 4
+                :gutter: 2
 
-    4. **Earth Science:** Maintain the constant flow of the stream table __________ the slope angle remains fixed at 15 degrees.
+                .. grid-item::
+                    (A) When
+                .. grid-item::
+                    (B) As
+                .. grid-item::
+                    (C) Before
+                .. grid-item::
+                    (D) Every time
 
-    .. grid:: 4
-        :gutter: 2
+        .. tab-item:: Q3
+            :sync: q3
 
-        .. grid-item::
-            (A) As soon as
-        .. grid-item::
-            (B) As long as
-        .. grid-item::
-            (C) Once
-        .. grid-item::
-            (D) When
+            3. **Chemistry:** Record the final mass of the precipitate __________ the heating cycle is completed and the crucible has cooled to room temperature.
 
-    5. **Biology:** Sterilize the inoculation loop in the Bunsen burner flame __________ you prepare to transfer a new bacterial colony.
+            .. grid:: 4
+                :gutter: 2
 
-    .. grid:: 4
-        :gutter: 2
+                .. grid-item::
+                    (A) Until
+                .. grid-item::
+                    (B) After
+                .. grid-item::
+                    (C) While
+                .. grid-item::
+                    (D) Whenever
 
-        .. grid-item::
-            (A) From the moment
-        .. grid-item::
-            (B) Until
-        .. grid-item::
-            (C) Every time
-        .. grid-item::
-            (D) As
+        .. tab-item:: Q4
+            :sync: q4
+
+            4. **Earth Science:** Maintain the constant flow of the stream table __________ the slope angle remains fixed at 15 degrees.
+
+            .. grid:: 4
+                :gutter: 2
+
+                .. grid-item::
+                    (A) As soon as
+                .. grid-item::
+                    (B) As long as
+                .. grid-item::
+                    (C) Once
+                .. grid-item::
+                    (D) When
+
+        .. tab-item:: Q5
+            :sync: q5
+
+            5. **Biology:** Sterilize the inoculation loop in the Bunsen burner flame __________ you prepare to transfer a new bacterial colony.
+
+            .. grid:: 4
+                :gutter: 2
+
+                .. grid-item::
+                    (A) From the moment
+                .. grid-item::
+                    (B) Until
+                .. grid-item::
+                    (C) Every time
+                .. grid-item::
+                    (D) As
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-mcq
 
         .. tab-set::
+            :sync-group: set1
 
-            .. tab-item:: Model Answer
+            .. tab-item:: Q1
+                :sync: q1
 
                 1. **(B) Before** — Marks a necessary preparatory safety step.
+
+            .. tab-item:: Q2
+                :sync: q2
+
                 2. **(B) As** — Describes a process happening during another continuous action.
+
+            .. tab-item:: Q3
+                :sync: q3
+
                 3. **(B) After** — Identifies the next logical step in a chronological sequence.
+
+            .. tab-item:: Q4
+                :sync: q4
+
                 4. **(B) As long as** — Stipulates a condition that must be maintained for the action to continue.
+
+            .. tab-item:: Q5
+                :sync: q5
+
                 5. **(C) Every time** — Ensures a mandatory requirement is repeated for every cycle.
+
+
 
 
 ----
@@ -277,7 +316,7 @@ How Often? (Frequency / Recurrence)
     Identify whether the bolded conjunction specifies a point in time (**When?**), a duration (**How long?**), or a frequency (**How often?**).
 
     .. tab-set::
-        :sync-group: set1
+        :sync-group: set2
 
         .. tab-item:: Q1
             :sync: q1
@@ -379,7 +418,7 @@ How Often? (Frequency / Recurrence)
         :class-container: dropdown-mcq
 
         .. tab-set::
-            :sync-group: set1
+            :sync-group: set2
 
             .. tab-item:: Q1
                 :sync: q1
