@@ -126,42 +126,42 @@ span.O, .O {
     --admonition-text-color: #404040;
 
     /* --- Premise (Blue) --- */
-    --premise-main: hsl(205, 100%, 50%);
+    --premise-main: hsl(205, 100%, 46%);
     --premise-bg: hsl(205, 100%, 97%);
     --premise-title-bg: hsl(205, 100%, 75%);
 
     /* --- Reasoning (Red) --- */
-    --reasoning-main: hsl(360, 100%, 50%);
+    --reasoning-main: hsl(360, 100%, 46%);
     --reasoning-bg: hsl(360, 100%, 97%);
     --reasoning-title-bg: hsl(360, 100%, 75%);
 
     /* --- Outcome (Green) --- */
-    --outcome-main: hsl(120, 100%, 50%);
+    --outcome-main: hsl(120, 100%, 46%);
     --outcome-bg: hsl(120, 100%, 97%);
     --outcome-title-bg: hsl(120, 100%, 75%);
 
     /* --- PRO (Purple) --- */
-    --pro-main: hsl(280, 100%, 50%);
+    --pro-main: hsl(280, 100%, 46%);
     --pro-bg: hsl(280, 100%, 97%);
     --pro-title-bg: hsl(280, 100%, 75%);
 
     /* --- MCQ --- */
-    --mcq-main: hsl(60, 100%, 50%);
+    --mcq-main: hsl(60, 100%, 46%);
     --mcq-bg: hsl(60, 100%, 97%);
     --mcq-title-bg: hsl(60, 100%, 75%);
 
     /* --- CLOZE --- */
-    --cloze-main: hsl(65, 100%, 50%);
+    --cloze-main: hsl(65, 100%, 46%);
     --cloze-bg: hsl(65, 100%, 97%);
     --cloze-title-bg: hsl(65, 100%, 75%);
 
     /* --- SHORT ANSWER --- */
-    --shortanswer-main: hsl(45, 100%, 50%);
+    --shortanswer-main: hsl(45, 100%, 46%);
     --shortanswer-bg: hsl(45, 100%, 97%);
     --shortanswer-title-bg: hsl(45, 100%, 75%);
 
     /* --- MATCH --- */
-    --match-main: hsl(210, 100%, 50%);
+    --match-main: hsl(210, 100%, 46%);
     --match-bg: hsl(210, 100%, 97%);
     --match-title-bg: hsl(210, 100%, 75%);
 }
