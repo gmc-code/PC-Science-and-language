@@ -11,18 +11,29 @@ Task: Converting a Report to a Procedure
 
 This activity involves converting a past-tense report back into a set of instructions. This requires changing the mood of the sentences from declarative (stating a fact) to imperative (giving a command).
 
+Consider the following example of a Report and its corresponding Procedure:
+
+.. list-table:: Report vs. Procedure
+    :header-rows: 1
+    :widths: 40 40 20
+    :class: relaxed-logic-table
+
+    * - Report
+      - Procedure
+    * - :participantb:`The acid` :processb:`was added` :circb:`carefully`.
+      - :circb:`Carefully`, :processb:`add` :participantb:`the acid`.
 
 In a **Passive Voice Report**:
 
-* The **Participant** (Marble chips, Bung, Acid) moves to the start of the clause (after the initial circumstance).
-* The **Process** uses a "to be" verb + past participle (*were placed*, *was fitted*).
-* The **Circumstance** at the start of the sentence provides the cohesive link (the sequence of events).
+* The **Participant** (*the acid*) is at the start of the clause.
+* The **Process** (*were added*) uses a "to be" verb + past participle.
+* The **Circumstance** (*carefully*) is often after the process, giving more information about how, when, or where the action occurred.
 
 In an **Active Voice Procedure**:
 
-* The **Process** (the command) moves to the start of the clause, immediately following the initial circumstance.
-* The **Process** uses the **base form** of the verb (the imperative mood), such as *place*, *fit*, or *pour*.
-* The **Participant** (the equipment or chemical) follows the process as the direct object of the command.
+* The **Circumstance** (*carefully*) is sometimes foregrounded at the start of the clause to set the context for the action.
+* The **Process** (*add*) moves to the start of the clause, as a command, immediately following any initial circumstance.
+* The **Participant** (*the acid*) follows the process as the direct object of the command.
 
 To convert a Report into a Procedure, make the following changes:
 

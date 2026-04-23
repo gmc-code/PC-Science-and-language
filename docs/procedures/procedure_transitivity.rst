@@ -102,7 +102,7 @@ To identify each Participant, ask "Who or what is involved in this process?"
 
 | Place the Bunsen burner on the heatproof mat.
 | "the Bunsen burner" is the participant.
-| :process:`Place` :participant:`the Bunsen burner` on the heatproof mat.
+| :processb:`Place` :participant:`the Bunsen burner` on the heatproof mat.
 
 .. admonition:: Participants
     :class: shortanswer
