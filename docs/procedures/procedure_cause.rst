@@ -342,7 +342,7 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
     .. dropdown:: Check Answers
         :icon: check-circle
-        :class-container: dropdown-match
+        :class-container: dropdown-mcq
 
         .. tab-set::
             :sync-group: set1
