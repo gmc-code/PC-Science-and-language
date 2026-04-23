@@ -1,6 +1,6 @@
-================================================
+===================================================
 PRO Physical Changes: Declarative Premise Scaffold
-================================================
+===================================================
 
 **Sentence Builder Options:**
 
@@ -13,7 +13,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 
 .. admonition:: Question: Water Boiling
-    :class: short
+    :class: shortanswer
 
     Explain why water turns into water vapour when boiled.
 

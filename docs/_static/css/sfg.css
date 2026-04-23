@@ -146,21 +146,21 @@ span.O, .O {
     --pro-title-bg: #eadcf3;
 
     /* --- MCQ --- */
-    --mcq-main: #31b6a7;
-    --mcq-bg: #e8f7f5;
-    --mcq-title-bg: #cfecea;
+    --mcq-main: #ffd700;
+    --mcq-bg: #ffffe8;
+    --mcq-title-bg: #fcfcd5;
 
     /* --- CLOZE --- */
-    --cloze-main: #b700ff;
-    --cloze-bg: #f8f3fb;
-    --cloze-title-bg: #eadcf3;
+    --cloze-main: #ff9d00;
+    --cloze-bg: #fffaf1;
+    --cloze-title-bg: #ffeed2;
 
     /* --- SHORT ANSWER --- */
-    --short-main: #c65b40;
-    --short-bg: #fff0ec;
-    --short-title-bg: #ffe0d8;
+    --shortanswer-main: #ff7a59;
+    --shortanswer-bg: #ffefeb;
+    --shortanswer-title-bg: #ffe0d8;
 
-    /* --- MATCHING --- */
+    /* --- MATCH --- */
     --match-main: #3687b9;
     --match-bg: #edf4fb;
     --match-title-bg: #dbe9f5;
@@ -229,6 +229,7 @@ div.admonition.mcq p.admonition-title {
     text-transform: capitalize;
     color: var(--mcq-main) !important;
     background-color: var(--mcq-title-bg) !important;
+    font-weight: normal;
 }
 
 
@@ -243,20 +244,22 @@ div.admonition.cloze p.admonition-title {
     text-transform: capitalize;
     color: var(--cloze-main) !important;
     background-color: var(--cloze-title-bg) !important;
+    font-weight: normal;
 }
 
 
 /* --- SHORT ANSWER --- */
 div.admonition.shortanswer {
     color: var(--admonition-text-color);
-    border-left: 6px solid var(--short-main);
-    background-color: var(--short-bg) !important;
+    border-left: 6px solid var(--shortanswer-main);
+    background-color: var(--shortanswer-bg) !important;
 }
 
 div.admonition.shortanswer p.admonition-title {
     text-transform: capitalize;
-    color: var(--short-title-main) !important;
-    background-color: var(--short-title-bg) !important;
+    color: var(--shortanswer-title-main) !important;
+    background-color: var(--shortanswer-title-bg) !important;
+    font-weight: normal;
 }
 
 
@@ -271,6 +274,7 @@ div.admonition.match p.admonition-title {
     text-transform: capitalize;
     color: var(--match-main) !important;
     background-color: var(--match-title-bg) !important;
+    font-weight: normal;
 }
 
 /* ========================================== */

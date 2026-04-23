@@ -82,7 +82,7 @@ Therefore, the clay changes shape but remains the same substance.
 ----
 
 .. admonition:: Question: Stretching a rubber band
-    :class: short
+    :class: shortanswer
 
     Complete the Reasoning (R).
 

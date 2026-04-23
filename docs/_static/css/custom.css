@@ -59,7 +59,7 @@ div.admonition.questions{
     color: #404040;
     border-left: 6px solid #ffd700;
     /* border: 2px solid gold; */
-    background-color: rgb(255, 255, 232)!important;
+    background-color: #ffffe8!important;
 }
 
 div.admonition.question p.admonition-title,
