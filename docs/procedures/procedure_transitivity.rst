@@ -61,7 +61,7 @@ To identify each Process, ask "What is happening? What is the doing, sensing, sa
 
 
 .. admonition:: Process
-    :class: questions
+    :class: shortanswer
 
     Identify each Process : "What is happening? What is the doing, sensing, saying, or being?"
 
@@ -106,7 +106,7 @@ To identify each Participant, ask "Who or what is involved in this process?"
 | :process:`Place` :participant:`the Bunsen burner` on the heatproof mat.
 
 .. admonition:: Participants
-    :class: questions
+    :class: shortanswer
 
     Identify each Participant : "Who or what is involved in this process?"
 
@@ -153,7 +153,7 @@ To identify each Circumstance, ask "Where, when, why, how is it happening?".
 | :process:`Place` :participant:`the Bunsen burner` :circ:`on the heatproof mat`.
 
 .. admonition:: Circumstances
-    :class: questions
+    :class: shortanswer
 
     Identify each Circumstances : "Where, when, why, how is it happening?"
 
@@ -188,7 +188,7 @@ To identify each Circumstance, ask "Where, when, why, how is it happening?".
 
 
 .. admonition:: Transitivity Analysis: Lighting a Bunsen Burner
-    :class: questions
+    :class: shortanswer
 
     This table breaks down each step into its functional grammatical parts.
 
@@ -267,7 +267,7 @@ Step 1: identify the processes.
 In these procedural steps, the **Process** is the command verb that starts each instruction.
 
 .. admonition:: Process
-    :class: questions
+    :class: shortanswer
 
     Identify each Process : "What is happening? What is the doing, sensing, saying, or being?"
 
@@ -323,7 +323,7 @@ Step 2: Identify the participants
 In these procedural steps, the **Participant** is usually a concrete noun — the specific tool or ingredient being used. The person doing the action is omitted (ellipsed).
 
 .. admonition:: Participants
-    :class: questions
+    :class: shortanswer
 
     Identify each Participant : "Who or what is involved in this process?"
 
@@ -380,7 +380,7 @@ Step 3: Identify the circumstances
 In these procedural steps, circumstances of Manner (how), Place (where), and Extent (how long) are used to ensure safety and accuracy.
 
 .. admonition:: Circumstances
-    :class: questions
+    :class: shortanswer
 
     Identify each Circumstances : "Where, when, why, how is it happening?"
 
@@ -502,7 +502,7 @@ Heating Zinc Oxide
 | Some sentences start with a circumstance.
 
 .. admonition:: Transitivity Analysis: Heating Zinc Oxide
-    :class: questions
+    :class: shortanswer
 
     Identify each Process : "What is happening? What is the doing, sensing, saying, or being?"
     Identify each Participant : "Who or what is involved in this process?"
@@ -564,7 +564,7 @@ Reaction: hydrochloric acid with magnesium ribbon
 | Some sentences start with a circumstance.
 
 .. admonition:: Transitivity Analysis: Mg in HCl
-    :class: questions
+    :class: shortanswer
 
     Identify each Process : "What is happening? What is the doing, sensing, saying, or being?"
     Identify each Participant : "Who or what is involved in this process?"
@@ -609,7 +609,7 @@ Reaction: lead(II) nitrate with potassium iodide
 | Some sentences start with a circumstance.
 
 .. admonition:: Transitivity Analysis: precipitation reaction
-    :class: questions
+    :class: shortanswer
 
     Identify each Process : "What is happening? What is the doing, sensing, saying, or being?"
     Identify each Participant : "Who or what is involved in this process?"

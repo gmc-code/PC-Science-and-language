@@ -33,7 +33,7 @@ Conjunctions of Means (The "How")
 3.  **Earth Science:** Determine the hardness of the mineral sample **with** a steel nail or glass plate.
 
 .. admonition:: Exercise — Conjunctions of Means: Fill in the Gap
-    :class: questions
+    :class: cloze
 
     Choose the most appropriate conjunction to complete each sentence:
     **by**, **through**, or **with**.
@@ -96,7 +96,7 @@ Conjunctions of Comparison ("How Like?")
 
 
 .. admonition:: Exercise — Conjunctions of Comparison: Fill in the Gap
-    :class: questions
+    :class: cloze
 
     Choose the most appropriate conjunction to complete each sentence:
     **as if**, **in such a way that**, or **like**.
@@ -135,7 +135,7 @@ Conjunctions of Comparison ("How Like?")
 
 
 .. admonition:: Exercise — Conjunctions of Manner: Multiple Choice
-    :class: questions
+    :class: mcq
 
     Choose the most appropriate conjunction to complete each sentence.
 

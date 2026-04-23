@@ -95,7 +95,7 @@ precisely as possible and increase the number of trials.
 ----
 
 .. admonition:: Structured Question: Minor Technique Variation
-    :class: questions
+    :class: shortanswer
 
     A Year 8 class is investigating whether the drop height of a ball
     affects how high it bounces. Each student drops a tennis ball from

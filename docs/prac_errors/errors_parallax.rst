@@ -86,7 +86,7 @@ instruments designed to minimise the effect.
 
 
 .. admonition:: Structured Question: Parallax Error
-    :class: questions
+    :class: shortanswer
 
     A student is investigating the relationship between the volume of sodium
     hydroxide solution and the temperature change produced when it is added

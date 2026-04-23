@@ -159,7 +159,7 @@ Identifying parts of a nominal group
 --------------------------------------------
 
 .. admonition:: Exercise: Identifying Nominal Group Functions
-    :class: questions
+    :class: shortanswer
 
     Analyze the following nominal group used in tectonic theory:
 
@@ -193,7 +193,7 @@ Identifying parts of a nominal group
 
 
 .. admonition:: Exercise: Identifying Nominal Group Functions
-    :class: questions
+    :class: shortanswer
 
     Analyze the following nominal group used to describe seafloor spreading:
 
@@ -231,7 +231,7 @@ Making nominal groups
 ----------------------------
 
 .. admonition:: Exercise: Reconstruct the Nominal Group
-    :class: questions
+    :class: shortanswer
 
     Reorder the following parts to create a scientifically accurate nominal group:
 
@@ -273,7 +273,7 @@ Tectonic Classification Exercise
 Use the following exercises to practice identifying the correct Classifiers for tectonic structures and dynamic features.
 
 .. admonition:: Matching Classifiers
-    :class: questions
+    :class: match
 
     Choose a suitable **Classifier** from the list below to the core **Thing**.
 
@@ -316,7 +316,7 @@ Use the following exercises to practice identifying the correct Classifiers for 
 
 
 .. admonition:: Question 2: Matching Classifiers
-    :class: questions
+    :class: match
 
     Complete the nominal groups by matching the correct **Classifier** from the list below to the core **Thing**.
 
@@ -370,7 +370,7 @@ Adding Describers
 
 
 .. admonition:: Matching Technical Describers
-    :class: questions
+    :class: match
 
     The following technical terms already have a **Classifier** and a
     **Thing**. Choose the most appropriate **Describer** from the list

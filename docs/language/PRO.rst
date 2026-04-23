@@ -32,17 +32,13 @@ PRO (Premise-Reasoning-Outcome) paragraph structures are a common organisational
 Worked Example: PRO Paragraph
 -------------------------------
 
-Consider the following questions that might be posed in a chemistry context:
+Consider the following question that might be posed in a chemistry context:
 
-- “Why does the pressure inside a container increase when a gas is heated?”
-- “Explain why heating a gas causes an increase in pressure.”
-- “Why does a gas exert more pressure when its temperature rises?”
-- “Describe the effect of heating on the pressure of a gas in a sealed container.”
-- “How does particle motion explain the increase in pressure when a gas is heated?”
+"Explain why heating a gas causes an increase in pressure."
 
-All of these invite the same PRO structure:
+Possible PRO structure:
 
-- :p:`Heating a gas increases the kinetic energy of its particles, causing them to move faster.`
+- :p:`Heating a gas increases the kinetic energy of its particles.`
 - :r:`Reasoning: As a result, the particles move more rapidly and collide with the walls of the container more frequently and with greater force.`
 - :o:`Outcome: Therefore, the pressure inside the container increases.`
 
@@ -55,7 +51,7 @@ PRO Paragraph Checklist
 
    .. rubric:: Premise (P)
 
-   :p:`Heating a gas increases the kinetic energy of its particles, causing them to move faster.`
+   :p:`Heating a gas increases the kinetic energy of its particles.`
 
    .. admonition:: Premise Checklist
       :class: premise

@@ -66,7 +66,7 @@ to specify when an action is valid, necessary, or to be avoided.*
 ----
 
 .. admonition:: Exercise — Conjunctions of Condition: Fill in the Gap
-    :class: questions
+    :class: cloze
 
     Fill in the gaps with the most appropriate conjunction:
     **as long as**, **in the event that **, or **only if**.
@@ -102,9 +102,9 @@ to specify when an action is valid, necessary, or to be avoided.*
 ----
 
 .. admonition:: Exercise — Conjunctions of Condition: Multiple Choice
-    :class: questions
+    :class: mcq
 
-    Circle the most appropriate conjunction to complete each sentence.
+    Choose the most appropriate conjunction to complete each sentence.
 
     1. **Biology:** Begin the dissection __________ your teacher has
        handed out the safety instructions and checked your workstation.

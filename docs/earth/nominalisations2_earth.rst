@@ -21,7 +21,7 @@ Examples
 ----
 
 .. admonition:: Plate tectonics processes
-    :class: questions
+    :class: shortanswer
 
     Rewrite each clause as a noun group.
 
@@ -83,7 +83,7 @@ Examples
 ----
 
 .. admonition:: Rock formation processes
-    :class: questions
+    :class: shortanswer
 
     Rewrite each clause as a noun group.
 
@@ -137,7 +137,7 @@ Examples
 ----
 
 .. admonition:: Surface and weathering processes
-    :class: questions
+    :class: shortanswer
 
     Rewrite each clause as a noun group.
 
@@ -183,7 +183,7 @@ Examples
 ----
 
 .. admonition:: Volcanic and seismic processes
-    :class: questions
+    :class: shortanswer
 
     Rewrite each clause as a noun group.
 
@@ -229,7 +229,7 @@ Examples
 ----
 
 .. admonition:: Effects and outcomes
-    :class: questions
+    :class: shortanswer
 
     Rewrite each clause as a noun group.
 

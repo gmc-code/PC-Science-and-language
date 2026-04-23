@@ -15,7 +15,7 @@ Example
 | With circumstance: Lava cools **after an eruption**.
 
 .. admonition:: Adding circumstances
-    :class: questions
+    :class: shortanswer
 
     | Rewrite each short clause by adding a circumstance.
     | Keep the meaning the same.

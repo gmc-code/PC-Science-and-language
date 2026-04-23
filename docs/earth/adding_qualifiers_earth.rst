@@ -31,7 +31,7 @@ Example
 | With qualifier: Water erodes weakened rock **over** long periods.
 
 .. admonition:: Adding qualifiers
-    :class: questions
+    :class: cloze
 
     | Rewrite each short clause by adding a qualifier.
     | The first one has been done for you.

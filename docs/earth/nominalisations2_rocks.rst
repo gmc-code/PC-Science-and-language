@@ -22,7 +22,7 @@ Igneous rocks
 --------------------------------------------------
 
 .. admonition:: Igneous processes: nominalisation
-    :class: questions
+    :class: shortanswer
 
     Rewrite each short clause so the process it describes is expressed as a noun group.
     Keep the meaning the same.
@@ -78,7 +78,7 @@ Sedimentary rocks
 --------------------------------------------------
 
 .. admonition:: Sedimentary processes: nominalisation
-    :class: questions
+    :class: shortanswer
 
     Rewrite each short clause so the process it describes is expressed as a noun group.
     Keep the meaning the same.
@@ -132,7 +132,7 @@ Metamorphic rocks
 --------------------------------------------------
 
 .. admonition:: Metamorphic processes: nominalisation
-    :class: questions
+    :class: shortanswer
 
     Rewrite each short clause so the process it describes is expressed as a noun group.
     Keep the meaning the same.

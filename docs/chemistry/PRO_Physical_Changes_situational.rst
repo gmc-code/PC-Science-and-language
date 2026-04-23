@@ -47,8 +47,8 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Question: Water boiling
-    :class: questions
+.. admonition:: Water boiling
+    :class: shortanswer
 
 
     Complete the Outcome (O).
@@ -84,8 +84,8 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Question: Stretching a rubber band
-    :class: questions
+.. admonition:: Stretching a rubber band
+    :class: shortanswer
 
     Complete the Reasoning (R).
 
@@ -120,8 +120,8 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Question: Snapping chalk
-    :class: questions
+.. admonition:: Snapping chalk
+    :class: shortanswer
 
     Complete the Premise (P).
 
@@ -157,8 +157,8 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Question: Fixed shape
-    :class: questions
+.. admonition:: Fixed shape
+    :class: cloze
 
     Complete the Explanation by filling in the missing words (processes).
 
@@ -196,8 +196,8 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Question: Melting butter
-    :class: questions
+.. admonition:: Melting butter
+    :class: cloze
 
     Complete the Explanation by filling in the missing nouns.
 
@@ -235,8 +235,8 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Question: Squashing a sponge
-    :class: questions
+.. admonition:: Squashing a sponge
+    :class: cloze
 
     Complete the Explanation by filling in the missing adjectives or adverbs (modifiers).
 
@@ -274,8 +274,8 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Question: Wet mirror
-    :class: questions
+.. admonition:: Wet mirror
+    :class: cloze
 
     Complete the Explanation by filling in the missing text connectives.
 
@@ -313,8 +313,8 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Question: Overnight frost
-    :class: questions
+.. admonition:: Overnight frost
+    :class: cloze
 
     Complete the Explanation by filling in the missing text connectives.
 
@@ -352,8 +352,8 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Question: Cold to touch
-    :class: questions
+.. admonition:: Cold to touch
+    :class: cloze
 
     Complete the Explanation by filling in the missing verbs (material processes).
 
@@ -391,15 +391,15 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Question: Clothing in wind
-    :class: questions
+.. admonition:: Clothing in wind
+    :class: cloze
 
     Complete the Explanation by filling in the missing describers (adjectives/adverbs).
 
     **Word list (A → Z):**
     faster • moving • moist • more
 
-     Why does wet clothing dry on a windy day?
+    Why does wet clothing dry on a windy day?
 
     :P:`Premise (P):`
     When water is exposed to __________________ air, the water vapour is carried away from the surface.
@@ -430,15 +430,15 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Question: Disappearing puddle
-    :class: questions
+.. admonition:: Disappearing puddle
+    :class: cloze
 
     Complete the Explanation by filling in the missing verbs (material processes).
 
     **Word list (A → Z):**
     absorbs • changes • evaporate • gain • rise
 
-     Why does a puddle disappear on a sunny day?
+    Why does a puddle disappear on a sunny day?
 
     :P:`Premise (P):`
     When a puddle __________________ heat energy from the Sun, its water particles __________________ energy.
@@ -469,12 +469,12 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Question: Shrinking a balloon
-    :class: questions
+.. admonition:: Shrinking a balloon
+    :class: shortanswer
 
     Explain the following phenomenon using the PRO structure.
 
-     Why does a balloon shrink when placed in the freezer?
+    Why does a balloon shrink when placed in the freezer?
 
     .. dropdown::
         :icon: codescan
@@ -497,12 +497,12 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Question: Sun dried towel
-    :class: questions
+.. admonition:: Sun dried towel
+    :class: shortanswer
 
     Explain the following phenomenon using the PRO structure.
 
-     Why does a wet towel dry when left in the sun?
+    Why does a wet towel dry when left in the sun?
 
     .. dropdown::
         :icon: codescan

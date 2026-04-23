@@ -26,7 +26,7 @@ Igneous rocks
 --------------------------------------------------
 
 .. admonition:: Igneous processes: nominalisation
-    :class: questions
+    :class: shortanswer
 
     | Rewrite each verb as a noun.
 
@@ -87,7 +87,7 @@ Sedimentary rocks
 --------------------------------------------------
 
 .. admonition:: Sedimentary processes: nominalisation
-    :class: questions
+    :class: shortanswer
 
     | Rewrite each verb as a noun.
 
@@ -149,7 +149,7 @@ Metamorphic rocks
 --------------------------------------------------
 
 .. admonition:: Metamorphic processes: nominalisation
-    :class: questions
+    :class: shortanswer
 
     | Rewrite each verb as a noun.
 

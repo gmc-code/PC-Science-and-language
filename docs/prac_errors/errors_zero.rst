@@ -80,7 +80,7 @@ verify it is within calibration.
 ----
 
 .. admonition:: Structured Question: Zero Error
-    :class: questions
+    :class: shortanswer
 
     A Year 8 class is investigating how the mass of a paper cup changes
     when different volumes of water are added to it. Before beginning,

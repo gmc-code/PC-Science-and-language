@@ -23,7 +23,7 @@ Example
 ----
 
 .. admonition:: Plate tectonics processes
-    :class: questions
+    :class: shortanswer
 
     | Rewrite each verb as a noun.
 
@@ -89,7 +89,7 @@ Example
 ----
 
 .. admonition:: Rock formation processes
-    :class: questions
+    :class: shortanswer
 
     | Rewrite each verb as a noun.
 
@@ -143,7 +143,7 @@ Example
 ----
 
 .. admonition:: Surface and weathering processes
-    :class: questions
+    :class: shortanswer
 
     | Rewrite each verb as a noun.
 
@@ -193,7 +193,7 @@ Example
 ----
 
 .. admonition:: Volcanic and seismic processes
-    :class: questions
+    :class: shortanswer
 
     | Rewrite each verb as a noun.
 
@@ -247,7 +247,7 @@ Example
 ----
 
 .. admonition:: Scientific and general processes
-    :class: questions
+    :class: shortanswer
 
     | Rewrite each verb as a noun.
 

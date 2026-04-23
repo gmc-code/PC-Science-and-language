@@ -99,7 +99,7 @@ the experimental method before data collection begins.
 ----
 
 .. admonition:: Structured Question: Method Limitation
-    :class: questions
+    :class: shortanswer
 
     A Year 8 class is investigating whether plants grow taller when given
     more water. Each group plants five bean seeds in identical pots of soil

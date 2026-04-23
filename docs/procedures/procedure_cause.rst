@@ -36,7 +36,7 @@ Conjunctions of Reason (The "Why")
 
 
 .. admonition:: Exercise: Conjunctions of Reason
-    :class: questions
+    :class: cloze
 
     Fill in the gaps with the most appropriate conjunction:
     **as**, **as a result of**, **because**, **for**, **in case**, or **since**.
@@ -102,7 +102,7 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
 
 .. admonition:: As vs. Since
-    :class: questions
+    :class: cloze
 
     Fill in the gaps with the most appropriate conjunction:
     **as** or **since**.
@@ -127,7 +127,7 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
 
 .. admonition:: Because vs. Since
-    :class: questions
+    :class: cloze
 
     Fill in the gaps with the most appropriate conjunction:
     **because** or **since**.
@@ -152,7 +152,7 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
 
 .. admonition:: As vs. Because
-    :class: questions
+    :class: cloze
 
     Fill in the gaps with the most appropriate conjunction:
     **as** or **because**.
@@ -225,7 +225,7 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
 
 .. admonition:: Exercise — Conjunctions of Purpose: Matching Clauses
-    :class: questions
+    :class: match
 
     Match each **independent clause** (A-D) with the correct **dependent clause** (1-4)
     by writing the appropriate number in the blank.
@@ -275,7 +275,7 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 ----
 
 .. admonition:: Exercise: Reason vs. Purpose
-    :class: questions
+    :class: mcq
 
     Identify whether the bolded conjunction introduces a **Reason** (explaining an existing risk/cause) or a **Purpose** (stating a goal to avoid a potential risk).
 

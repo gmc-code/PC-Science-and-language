@@ -101,7 +101,7 @@ or a higher-resolution sensor.
 ----
 
 .. admonition:: Structured Question: Resolution Limitation
-    :class: questions
+    :class: shortanswer
 
     A Year 8 class is investigating whether the width of a rubber band
     affects how far it stretches when a 100 g mass is hung from it. Each

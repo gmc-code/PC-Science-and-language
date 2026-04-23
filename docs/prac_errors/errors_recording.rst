@@ -75,7 +75,7 @@ recorded rather than after the experiment is complete.
 ----
 
 .. admonition:: Structured Question: Recording Error
-    :class: questions
+    :class: shortanswer
 
     A Year 8 class is investigating whether the height from which a ball
     is dropped affects the time it takes to hit the ground. Each group

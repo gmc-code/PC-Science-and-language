@@ -33,7 +33,7 @@ When? (Point in Time / Sequence)
 
 
 .. admonition:: Exercise: Precision in Sequencing
-    :class: questions
+    :class: cloze
 
     Select the most appropriate conjunction (**After**, **As soon as**, **Before**, **Once**, or **When**) to complete these instructions.
 
@@ -101,7 +101,7 @@ How Long? (Duration / Simultaneity)
 
 
 .. admonition:: Exercise: Duration and Simultaneity
-    :class: questions
+    :class: cloze
 
     Fill in the gaps with the most appropriate conjunction:
     **As**, **As long as**, **From the moment**, **Until**, or **While**.
@@ -160,7 +160,7 @@ How Often? (Frequency / Recurrence)
 
 
 .. admonition:: Exercise: Frequency and Contingency
-   :class: questions
+   :class: cloze
 
    Fill in the gaps with the most appropriate conjunction: **Every time** or **Whenever**.
 
@@ -183,7 +183,7 @@ How Often? (Frequency / Recurrence)
 
 
 .. admonition:: Exercise: Multi-Category Conjunctions of Time Quiz
-    :class: questions
+    :class: qmcqestions
 
     Select the most appropriate conjunction for each scientific instruction to ensure maximum clarity and precision.
 
@@ -276,7 +276,7 @@ How Often? (Frequency / Recurrence)
 ----
 
 .. admonition:: Exercise: Time, Duration, or Frequency?
-    :class: questions
+    :class: qumcqestions
 
     Identify whether the bolded conjunction specifies a point in time (**When?**), a duration (**How long?**), or a frequency (**How often?**).
 

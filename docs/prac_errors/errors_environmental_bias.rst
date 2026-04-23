@@ -107,7 +107,7 @@ condition before data collection begins.
 ----
 
 .. admonition:: Structured Question: Environmental Bias
-    :class: questions
+    :class: shortanswer
 
     A Year 8 class is investigating whether the mass of sugar affects how
     quickly it dissolves in water. Each group measures the time taken for

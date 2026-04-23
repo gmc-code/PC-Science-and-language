@@ -88,7 +88,7 @@ to be faulty.
 ----
 
 .. admonition:: Structured Question: Calibration Error
-    :class: questions
+    :class: shortanswer
 
     A Year 8 class is investigating how the weight of different objects
     compares when measured on two different spring balances. One group uses

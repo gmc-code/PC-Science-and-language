@@ -3,7 +3,7 @@ Verb and Nominalisation Sentence Pairs
 ========================================
 
 .. admonition:: Nominalisation Sentences
-    :class: questions
+    :class: shortanswer
 
     For each pair:
 

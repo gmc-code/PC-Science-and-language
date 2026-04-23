@@ -117,7 +117,7 @@ Relating verbs
 ----
 
 .. admonition:: Igneous rocks: relating verbs
-    :class: questions
+    :class: shortanswer
 
     | From the text below, write simple sentences that have a relating verb (is, are, has).
 
@@ -159,7 +159,7 @@ Existing verbs
 | There :process:`was` a large deposit of granite in the region.
 
 .. admonition:: Igneous rocks: existing verbs
-    :class: questions
+    :class: shortanswer
 
     | Reread the igneous rocks information report and identify any clauses that use existing verbs.
 
@@ -199,7 +199,7 @@ Note: Material processes may appear in passive form (e.g. "are trapped", "is for
 
 
 .. admonition:: Igneous rocks : action verbs
-    :class: questions
+    :class: shortanswer
 
     | Reread the igneous rocks information report.
 
@@ -233,7 +233,7 @@ Sedimentary rocks: Processes
 ----------------------------------
 
 .. admonition:: Sedimentary rocks: relational verbs
-    :class: questions
+    :class: shortanswer
 
     | Consider the following information report about sedimentary rocks.
 
@@ -258,7 +258,7 @@ Sedimentary rocks: Processes
 
 
 .. admonition:: Sedimentary rocks : action verbs
-    :class: questions
+    :class: shortanswer
 
     | Consider the following information report about sedimentary rocks.
 
@@ -310,7 +310,7 @@ Converting material to relational processes
 ------------------------------------------------------
 
 .. admonition:: Sedimentary processes: converting material to relational processes
-    :class: questions
+    :class: shortanswer
 
     | Rewrite each clause using a **relational process**.
     | Focus on turning the action into a **definition, classification, or composition**.
@@ -343,7 +343,7 @@ Converting relational to material processes
 
 
 .. admonition:: Metamorphic rocks: converting relational to material processes
-    :class: questions
+    :class: shortanswer
 
     | Rewrite each clause using **action verbs (material processes)**.
     | Focus on turning **definitions, classifications, and compositions into processes or actions**.
@@ -380,7 +380,7 @@ Nominalization of processes
 
 
 .. admonition:: Sedimentary rocks : action verbs
-    :class: questions
+    :class: shortanswer
 
     | Consider the following information report about sedimentary rocks.
 

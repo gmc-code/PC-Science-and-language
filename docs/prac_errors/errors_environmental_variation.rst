@@ -104,7 +104,7 @@ of fluctuation and increase the number of trials.
 ----
 
 .. admonition:: Structured Question: Environmental Variation
-    :class: questions
+    :class: shortanswer
 
     A Year 8 class is investigating whether the length of a rubber band
     affects how far it can launch a small paper ball. Each group stretches

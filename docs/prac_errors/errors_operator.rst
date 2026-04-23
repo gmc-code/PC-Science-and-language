@@ -75,7 +75,7 @@ required techniques so each step is carried out correctly from the start.
 ----
 
 .. admonition:: Structured Question: Operator Error
-    :class: questions
+    :class: shortanswer
 
     A Year 8 class is investigating whether the concentration of salt
     solution affects how quickly an ice cube melts. Each group places
