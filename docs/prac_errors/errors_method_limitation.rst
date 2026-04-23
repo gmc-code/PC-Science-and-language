@@ -129,7 +129,7 @@ the experimental method before data collection begins.
     **(d)** Describe one improvement to the method that would reduce or
     eliminate this error. *(1 mark)*
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 

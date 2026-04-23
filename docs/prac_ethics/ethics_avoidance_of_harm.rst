@@ -40,7 +40,7 @@ Examples
 
     .. dropdown:: Answers
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-cloze
 
         .. tab-set::
 
@@ -60,6 +60,7 @@ Examples
     Choose the best answer for each question.
 
     .. tab-set::
+        :sync-group: set1
 
         .. tab-item:: Q1
 
@@ -109,10 +110,10 @@ Examples
 
     .. dropdown:: Answers
         :icon: check-circle
-        :color: success
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-mcq
 
         .. tab-set::
+        :sync-group: set1
 
             .. tab-item:: Q1
 

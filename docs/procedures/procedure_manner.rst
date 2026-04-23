@@ -46,7 +46,7 @@ Conjunctions of Means (The "How")
 
     .. dropdown:: Check Answers
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-cloze
 
         .. tab-set::
 
@@ -112,7 +112,7 @@ Conjunctions of Comparison ("How Like?")
 
     .. dropdown:: Check Answers
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-cloze
 
         .. tab-set::
 
@@ -174,7 +174,7 @@ Conjunctions of Comparison ("How Like?")
 
     .. dropdown:: Check Answers
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-mcq
 
         .. tab-set::
 

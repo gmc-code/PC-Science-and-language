@@ -45,7 +45,7 @@ Igneous rocks
         * - Magma **solidifies**
           -
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -99,7 +99,7 @@ Sedimentary rocks
         * - Minerals **precipitate** from solution
           -
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -152,7 +152,7 @@ Metamorphic rocks
         * - Rocks **transform**
           -
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 

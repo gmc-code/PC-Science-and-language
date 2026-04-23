@@ -75,7 +75,7 @@ To identify each Process, ask "What is happening? What is the doing, sensing, sa
     #. Observe the flame.
     #. Turn off the gas.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -120,7 +120,7 @@ To identify each Participant, ask "Who or what is involved in this process?"
     #. Turn off the gas.
 
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -165,7 +165,7 @@ To identify each Circumstance, ask "Where, when, why, how is it happening?".
     #. Observe the flame.
     #. Turn off the gas.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -286,7 +286,7 @@ In these procedural steps, the **Process** is the command verb that starts each 
     #. Turn off the gas at the tap.
     #. Place the hot test tube into a wooden test tube rack to cool.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -342,7 +342,7 @@ In these procedural steps, the **Participant** is usually a concrete noun — th
     #. Place the hot test tube into a wooden test tube rack to cool.
 
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -397,7 +397,7 @@ In these procedural steps, circumstances of Manner (how), Place (where), and Ext
     #. Turn off the gas at the tap.
     #. Place the hot test tube into a wooden test tube rack to cool.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -521,7 +521,7 @@ Heating Zinc Oxide
     #. Finally, turn off the gas at the tap completely.
 
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -574,7 +574,7 @@ Reaction: hydrochloric acid with magnesium ribbon
     #. Finally, dispose of the remaining solution according to laboratory safety instructions and rinse the equipment.
 
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -618,7 +618,7 @@ Reaction: lead(II) nitrate with potassium iodide
     #. Finally, dispose of the heavy metal waste in the designated container and clean the glassware.
 
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 

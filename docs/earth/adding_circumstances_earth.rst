@@ -48,7 +48,7 @@ Example
         * - Volcanoes erupt.
           - Volcanoes erupt (time) ________________________________
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 

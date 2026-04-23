@@ -51,7 +51,7 @@ Igneous rocks
         * - solidify
           -
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -111,7 +111,7 @@ Sedimentary rocks
         * - weather
           -
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -172,7 +172,7 @@ Metamorphic rocks
         * - transform
           -
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 

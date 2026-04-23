@@ -102,7 +102,7 @@ required techniques so each step is carried out correctly from the start.
     **(d)** Describe one improvement the group could make to prevent
     this error from occurring. *(1 mark)*
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 

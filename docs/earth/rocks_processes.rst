@@ -128,7 +128,7 @@ Relating verbs
     | Basalt :process:`has` small crystals since it :process:`forms` from lava that :process:`cools` above ground.
     | Granite :process:`has` large crystals since it :process:`forms` from lava that :process:`cools` below ground.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -169,7 +169,7 @@ Existing verbs
     | Basalt :process:`has` small crystals since it :process:`forms` from lava that :process:`cools` above ground.
     | Granite :process:`has` large crystals since it :process:`forms` from lava that :process:`cools` below ground.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -205,7 +205,7 @@ Note: Material processes may appear in passive form (e.g. "are trapped", "is for
 
     | Identify the action verbs by marking them in the text and listing them below.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -238,7 +238,7 @@ Sedimentary rocks: Processes
 
     | Identify the relating verbs.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -262,7 +262,7 @@ Sedimentary rocks: Processes
 
     | Identify the action verbs by marking them in the text and listing them below.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -316,7 +316,7 @@ Converting material to relational processes
     | Pressure :process:`compacts` sediments into solid rock.
     | Minerals :process:`cement` sediments together to form sedimentary rock.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -348,7 +348,7 @@ Converting relational to material processes
     | Foliated metamorphic rocks :process:`are` rocks with layered mineral alignment.
     | Non-foliated metamorphic rocks :process:`are` rocks without visible layers or banding.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -383,7 +383,7 @@ Nominalization of processes
 
     | Identify the action verbs by marking them in the text and listing them below.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 

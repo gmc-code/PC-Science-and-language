@@ -170,7 +170,6 @@ Identifying parts of a nominal group
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :color: success
         :class-container: dropdown-shortanswer
 
         .. tab-set::
@@ -204,8 +203,7 @@ Identifying parts of a nominal group
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :color: success
-        :class-container: dropdown-shortanswer
+                :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -239,8 +237,7 @@ Making nominal groups
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :color: success
-        :class-container: dropdown-shortanswer
+                :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -304,7 +301,7 @@ Use the following exercises to practice identifying the correct Classifiers for 
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :color: success
+        :class-container: dropdown-match
 
         | **Answers:**
         | 1.1 (E) **Tectonic** plates;
@@ -347,7 +344,7 @@ Use the following exercises to practice identifying the correct Classifiers for 
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :color: success
+        :class-container: dropdown-match
 
         | **Answers:**
         | 2.1 (B) **Oceanic** crust
@@ -404,7 +401,7 @@ Adding Describers
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :color: success
+        :class-container: dropdown-match
 
         | 1.1 (C) **Immense** tectonic plates
         | 1.2 (A) **High-pressure** subduction zone

@@ -100,7 +100,7 @@ recorded rather than after the experiment is complete.
     **(d)** Describe one improvement the student could make to prevent
     this error from occurring. *(1 mark)*
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 

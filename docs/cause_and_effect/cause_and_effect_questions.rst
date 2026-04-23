@@ -16,7 +16,7 @@ Cause and effect questions
     | R.
     | O.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -40,7 +40,7 @@ Cause and effect questions
     | **Scaffold:**
     | R. As a result, O.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -64,7 +64,7 @@ Cause and effect questions
     | **Scaffold:**
     | R hence O.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -90,7 +90,7 @@ Cause and effect questions
     | **Scaffold:**
     | Due to nomR, O.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -116,7 +116,7 @@ Cause and effect questions
     | **Scaffold:**
     | nomR causes nomO.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -143,7 +143,7 @@ Cause and effect questions
     | **Scaffold:**
     | The result of nomR is nomO.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -170,7 +170,7 @@ Cause and effect questions
     | **Scaffold:**
     | O because R.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -194,7 +194,7 @@ Cause and effect questions
     | **Scaffold:**
     | nomO results from nomR.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -221,7 +221,7 @@ Cause and effect questions
     | **Scaffold:**
     | The reason for nomO is nomR.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 

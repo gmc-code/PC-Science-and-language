@@ -48,7 +48,7 @@ Examples
         * - Forces **transform** the Earth's surface
           -
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -105,7 +105,7 @@ Examples
         * - Rock **melts**
           -
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -154,7 +154,7 @@ Examples
         * - Crust **sinks**
           -
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -199,7 +199,7 @@ Examples
         * - Authorities **evacuate** communities
           -
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -242,7 +242,7 @@ Examples
         * - Heat **weakens** crust
           -
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 

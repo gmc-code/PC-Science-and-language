@@ -33,9 +33,9 @@ Examples
     5. Any financial or personal interests that could influence the study must be ______________ clearly.
 
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-cloze
 
         .. tab-set::
 
@@ -112,8 +112,7 @@ Examples
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :color: success
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-mcq
 
         .. tab-set::
             :sync-group: set1

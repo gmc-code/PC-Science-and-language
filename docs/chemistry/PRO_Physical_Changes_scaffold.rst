@@ -32,11 +32,9 @@ PRO Physical Changes: Declarative Premise Scaffold
     :O:`Outcome (O):`
     Therefore, the liquid changes state into a gas.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
-
-        .. :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -74,8 +72,6 @@ PRO Physical Changes: Declarative Premise Scaffold
         :icon: check-circle
         :class-container: dropdown-cloze
 
-        .. :class-container: dropdown-shortanswer
-
         .. tab-set::
 
             .. tab-item:: Answer
@@ -109,10 +105,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :color: success
         :class-container: dropdown-mcq
-
-        .. :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -145,8 +138,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :color: success
-        :class-container: dropdown-shortanswer
+                :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -179,7 +171,7 @@ PRO Physical Changes: Declarative Premise Scaffold
     :O:`Outcome (O):`
     Therefore, the clay changes shape but remains the same substance.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 

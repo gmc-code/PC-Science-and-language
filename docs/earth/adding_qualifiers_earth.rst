@@ -82,9 +82,9 @@ Example
           - Plates slip along faults.
           - Plates slip along faults (time) ________________________________
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-cloze
 
         .. tab-set::
 

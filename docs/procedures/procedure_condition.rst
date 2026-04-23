@@ -82,7 +82,7 @@ to specify when an action is valid, necessary, or to be avoided.*
 
     .. dropdown:: Check Answers
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-cloze
 
         .. tab-set::
 
@@ -140,7 +140,7 @@ to specify when an action is valid, necessary, or to be avoided.*
 
     .. dropdown:: Check Answers
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-mcq
 
         .. tab-set::
 

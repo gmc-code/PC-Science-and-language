@@ -55,7 +55,7 @@ Conjunctions of Reason (The "Why")
 
     .. dropdown:: Check Answers
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-cloze
 
         .. tab-set::
 
@@ -110,9 +110,9 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
     2. **Biology:** Autoclave all glassware before use __________ non-sterile equipment is a well-established source of culture contamination in any microbiology laboratory.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-cloze
 
         .. tab-set::
 
@@ -135,9 +135,9 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
     2. **Chemistry:** Store flammable solvents away from ignition sources __________ their vapours can ignite at room temperature.
 
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-cloze
 
         .. tab-set::
 
@@ -158,9 +158,9 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
     2. **Biology:** Handle the petri dishes on a flat surface __________ the agar has not yet fully solidified and will shift if tilted.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-cloze
 
         .. tab-set::
 
@@ -242,7 +242,7 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
     .. dropdown:: Check Answers
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-match
 
         .. tab-set::
 
@@ -322,7 +322,7 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
     .. dropdown:: Check Answers
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-match
 
         .. tab-set::
 

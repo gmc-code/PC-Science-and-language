@@ -53,9 +53,9 @@ Random Errors
     4. Apparatus should be ______________ from sources of vibration or interference.
 
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-cloze
 
         .. tab-set::
 

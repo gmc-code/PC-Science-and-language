@@ -56,9 +56,9 @@ Accuracy and precision are independent. A result can be accurate but not precise
     5. A measurement that is both correct and consistent demonstrates both high accuracy and __________________.
 
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-cloze
 
         .. tab-set::
 
@@ -78,6 +78,7 @@ Accuracy and precision are independent. A result can be accurate but not precise
     Choose the best answer for each question.
 
     .. tab-set::
+        :sync-group: set1
 
         .. tab-item:: Q1
 
@@ -127,10 +128,10 @@ Accuracy and precision are independent. A result can be accurate but not precise
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :color: success
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-mcq
 
         .. tab-set::
+            :sync-group: set1
 
             .. tab-item:: Q1
 

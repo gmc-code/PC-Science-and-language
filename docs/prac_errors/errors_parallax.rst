@@ -109,7 +109,7 @@ instruments designed to minimise the effect.
     **(d)** Describe one improvement the student could make to eliminate
     this error. *(1 mark)*
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 

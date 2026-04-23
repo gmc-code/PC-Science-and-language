@@ -33,7 +33,7 @@ Match the **Circumstance (Prepositional Phrase)** in Column A to the correct **P
 
     .. dropdown:: Check your answers
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-match
 
         .. tab-set::
 

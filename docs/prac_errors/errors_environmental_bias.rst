@@ -133,7 +133,7 @@ condition before data collection begins.
     **(d)** Describe one improvement the group could make to eliminate this
     error before collecting data. *(1 mark)*
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 

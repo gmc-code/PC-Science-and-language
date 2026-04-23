@@ -51,9 +51,9 @@ Personal Errors
     4. Instruments should be ______________ carefully to avoid one-off misreadings.
 
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-cloze
 
         .. tab-set::
 

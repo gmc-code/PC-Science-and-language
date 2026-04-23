@@ -57,7 +57,7 @@ Systematic Errors
     4. Environmental conditions should be ______________ to prevent systematic bias.
     5. If the method introduces bias, the experiment should be ______________.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 

@@ -139,8 +139,10 @@ Quick Reference: Error Source to Classification to Fix
     Choose the best answer for each question.
 
     .. tab-set::
+        :sync-group: set1
 
         .. tab-item:: Q1
+            :sync: q1
 
             A student consistently measures a length that is 2 mm too high due to a misaligned ruler zero point. What type of error is this?
 
@@ -150,6 +152,7 @@ Quick Reference: Error Source to Classification to Fix
             | d. Environmental variation
 
         .. tab-item:: Q2
+            :sync: q2
 
             A thermometer gives slightly different readings each time the same temperature is measured due to small fluctuations in reading position. What is the main error type?
 
@@ -159,6 +162,7 @@ Quick Reference: Error Source to Classification to Fix
             | d. Calibration error
 
         .. tab-item:: Q3
+            :sync: q3
 
             A student misreads the meniscus of a liquid in a measuring cylinder and records the wrong value once. How should this error be classified?
 
@@ -168,6 +172,7 @@ Quick Reference: Error Source to Classification to Fix
             | d. Environmental bias
 
         .. tab-item:: Q4
+            :sync: q4
 
             Which of the following is an example of a **systematic instrumental error**?
 
@@ -177,6 +182,7 @@ Quick Reference: Error Source to Classification to Fix
             | d. Variation in lighting conditions
 
         .. tab-item:: Q5
+            :sync: q5
 
             A scientist improves an experiment by increasing the number of repeated trials and averaging results. Which type of error is this mainly addressing?
 
@@ -188,27 +194,32 @@ Quick Reference: Error Source to Classification to Fix
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :color: success
         :class-container: dropdown-shortanswer
 
         .. tab-set::
+            :sync-group: set1
 
             .. tab-item:: Q1
+                :sync: q1
 
                 c — Systematic error
 
             .. tab-item:: Q2
+                :sync: q2
 
                 b — Random error
 
             .. tab-item:: Q3
+                :sync: q3
 
                 c — Personal error
 
             .. tab-item:: Q4
+                :sync: q4
 
                 b — Consistent zero error in a balance
 
             .. tab-item:: Q5
+                :sync: q5
 
                 b — Random error

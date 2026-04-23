@@ -36,9 +36,9 @@ Examples
     5. Researchers must ______________ animals according to their species-specific behavioural and social needs.
 
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-cloze
 
         .. tab-set::
 
@@ -63,46 +63,45 @@ Examples
         .. tab-item:: Q1
 
 
-    1. Which action best demonstrates respect for research participants?
+            1. Which action best demonstrates respect for research participants?
 
-        | a. Using personal information without asking to save time
-        | b. Allowing participants to withdraw from the study at any point
-        | c. Encouraging participants to stay even if they feel uncomfortable
-        | d. Sharing participant data with other groups for convenience
+                | a. Using personal information without asking to save time
+                | b. Allowing participants to withdraw from the study at any point
+                | c. Encouraging participants to stay even if they feel uncomfortable
+                | d. Sharing participant data with other groups for convenience
 
-    2. Why is it important to seek permission before entering cultural sites?
+            2. Why is it important to seek permission before entering cultural sites?
 
-        | a. It ensures respectful behaviour toward communities connected to the site
-        | b. It reduces the amount of paperwork required
-        | c. It guarantees more accurate scientific results
-        | d. It allows researchers to avoid safety training
+                | a. It ensures respectful behaviour toward communities connected to the site
+                | b. It reduces the amount of paperwork required
+                | c. It guarantees more accurate scientific results
+                | d. It allows researchers to avoid safety training
 
-    3. Which action shows respect when working with biological material?
+            3. Which action shows respect when working with biological material?
 
-        | a. Handling samples carelessly to save time
-        | b. Behaving respectfully and following proper procedures
-        | c. Allowing untrained individuals to assist
-        | d. Ignoring safety guidelines if the risk seems low
+                | a. Handling samples carelessly to save time
+                | b. Behaving respectfully and following proper procedures
+                | c. Allowing untrained individuals to assist
+                | d. Ignoring safety guidelines if the risk seems low
 
-    4. Why should researchers cite funding bodies and data providers?
+            4. Why should researchers cite funding bodies and data providers?
 
-        | a. To make the report appear longer
-        | b. To follow formatting rules only
-        | c. To acknowledge the contributions of those who supported the work
-        | d. To reduce the number of references needed
+                | a. To make the report appear longer
+                | b. To follow formatting rules only
+                | c. To acknowledge the contributions of those who supported the work
+                | d. To reduce the number of references needed
 
-    5. Which example best demonstrates respect for laboratory animals?
+            5. Which example best demonstrates respect for laboratory animals?
 
-        | a. Housing animals alone regardless of species needs
-        | b. Providing enrichment and social housing appropriate to the species
-        | c. Using animals whenever it is convenient
-        | d. Minimising time spent checking on their welfare
+                | a. Housing animals alone regardless of species needs
+                | b. Providing enrichment and social housing appropriate to the species
+                | c. Using animals whenever it is convenient
+                | d. Minimising time spent checking on their welfare
 
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :color: success
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-mcq
 
         .. tab-set::
 

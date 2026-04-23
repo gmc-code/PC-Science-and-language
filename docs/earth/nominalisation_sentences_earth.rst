@@ -135,7 +135,7 @@ Verb and Nominalisation Sentence Pairs
        | Verb: Heat weakens the crust.
        | Nominalisation:: ________________________________________________________
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 

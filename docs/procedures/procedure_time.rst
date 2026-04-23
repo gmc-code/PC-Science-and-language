@@ -53,7 +53,7 @@ When? (Point in Time / Sequence)
 
     .. dropdown:: Check Answers
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-cloze
 
         .. tab-set::
 
@@ -113,7 +113,7 @@ How Long? (Duration / Simultaneity)
 
     .. dropdown:: Check Answers
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-cloze
 
         .. tab-set::
 
@@ -168,7 +168,7 @@ How Often? (Frequency / Recurrence)
    .. dropdown:: Check Answers
       :icon: check-circle
       :color: primary
-      :class-container: dropdown-shortanswer
+      :class-container: dropdown-cloze
 
       .. tab-set::
 
@@ -181,7 +181,7 @@ How Often? (Frequency / Recurrence)
 
 
 .. admonition:: Exercise: Multi-Category Conjunctions of Time Quiz
-    :class: qmcqestions
+    :class: mqc
 
     Select the most appropriate conjunction for each scientific instruction to ensure maximum clarity and precision.
 
@@ -257,7 +257,7 @@ How Often? (Frequency / Recurrence)
 
     .. dropdown:: Check Answers
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-mcq
 
         .. tab-set::
 
@@ -273,7 +273,7 @@ How Often? (Frequency / Recurrence)
 ----
 
 .. admonition:: Exercise: Time, Duration, or Frequency?
-    :class: qumcqestions
+    :class: mcq
 
     Identify whether the bolded conjunction specifies a point in time (**When?**), a duration (**How long?**), or a frequency (**How often?**).
 
@@ -351,7 +351,7 @@ How Often? (Frequency / Recurrence)
 
     .. dropdown:: Check Answers
         :icon: check-circle
-        :class-container: dropdown-shortanswer
+        :class-container: dropdown-mcq
 
         .. tab-set::
 

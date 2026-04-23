@@ -112,7 +112,7 @@ to be faulty.
     **(d)** Describe one improvement the group could make to identify and
     address this error before collecting data. *(1 mark)*
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
