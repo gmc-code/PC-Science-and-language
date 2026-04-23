@@ -17,7 +17,7 @@ Examples
 
 ----
 
-.. admonition:: Cloze Questions
+.. admonition:: Fill in the Gaps — Fairness
     :class: cloze
 
     Complete the following by filling in the missing words.

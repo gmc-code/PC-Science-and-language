@@ -65,11 +65,13 @@ to specify when an action is valid, necessary, or to be avoided.*
 
 ----
 
-.. admonition:: Exercise — Conjunctions of Condition: Fill in the Gap
+.. admonition:: Fill in the Gaps — Conjunctions of Condition
     :class: cloze
 
     Fill in the gaps with the most appropriate conjunction:
-    **as long as**, **in the event that **, or **only if**.
+
+    **Word list (A → Z):**
+    as long as • in the event that • only if
 
     1. **Chemistry:** Light the Bunsen burner **__________** the gas tap
        is fully open — a partial opening will produce an unsafe flame.

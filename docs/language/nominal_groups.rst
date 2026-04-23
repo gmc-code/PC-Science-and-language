@@ -260,7 +260,7 @@ Making nominal groups
 ----
 
 Tectonic Classification Exercise
--------------------------------
+-----------------------------------
 
 | In scientific writing, general nouns like *plate* or *zone* are rarely used on their own.
 | Instead, **Classifiers** are used to specify the exact type of the "Thing" being discussed.

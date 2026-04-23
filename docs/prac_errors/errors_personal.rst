@@ -37,7 +37,7 @@ Personal Errors
 
 ----
 
-.. admonition:: Cloze Questions
+.. admonition:: Fill in the Gaps — Personal Errors
     :class: cloze
 
     Complete the following by filling in the missing words.

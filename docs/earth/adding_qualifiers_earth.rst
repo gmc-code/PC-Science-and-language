@@ -30,7 +30,7 @@ Example
 | Clause: Water erodes weakened rock
 | With qualifier: Water erodes weakened rock **over** long periods.
 
-.. admonition:: Adding qualifiers
+.. admonition:: Fill in the Gaps — Adding qualifiers
     :class: cloze
 
     | Rewrite each short clause by adding a qualifier.

@@ -154,7 +154,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Fixed shape
+.. admonition:: Fill in the Gaps — Fixed shape
     :class: cloze
 
     Complete the Explanation by filling in the missing words (processes).
@@ -192,12 +192,12 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Melting butter
+.. admonition:: Fill in the Gaps — Melting butter
     :class: cloze
 
     Complete the Explanation by filling in the missing nouns.
 
-    Word list (A → Z):
+    **Word list (A → Z):**
     energy • liquid • particles • positions • solid • state
 
     Why does butter melt when it is heated?
@@ -230,7 +230,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Squashing a sponge
+.. admonition:: Fill in the Gaps — Squashing a sponge
     :class: cloze
 
     Complete the Explanation by filling in the missing adjectives or adverbs (modifiers).
@@ -268,7 +268,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Wet mirror
+.. admonition:: Fill in the Gaps — Wet mirror
     :class: cloze
 
     Complete the Explanation by filling in the missing text connectives.
@@ -306,7 +306,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Overnight frost
+.. admonition:: Fill in the Gaps — Overnight frost
     :class: cloze
 
     Complete the Explanation by filling in the missing text connectives.
@@ -344,7 +344,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Cold to touch
+.. admonition:: Fill in the Gaps — Cold to touch
     :class: cloze
 
     Complete the Explanation by filling in the missing verbs (material processes).
@@ -382,7 +382,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Clothing in wind
+.. admonition:: Fill in the Gaps — Clothing in wind
     :class: cloze
 
     Complete the Explanation by filling in the missing describers (adjectives/adverbs).
@@ -420,7 +420,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Disappearing puddle
+.. admonition:: Fill in the Gaps — Disappearing puddle
     :class: cloze
 
     Complete the Explanation by filling in the missing verbs (material processes).

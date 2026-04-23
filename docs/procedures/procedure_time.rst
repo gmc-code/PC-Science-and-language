@@ -32,10 +32,13 @@ When? (Point in Time / Sequence)
 5.  **Chemistry:** Remove the crucible from the heat **when** the mass stops changing. (Purpose: End-point Timing)
 
 
-.. admonition:: Cloze: Precision in Sequencing
+.. admonition:: Fill in the Gaps — Precision in Sequencing
     :class: cloze
 
-    Select the most appropriate conjunction (**After**, **As soon as**, **Before**, **Once**, or **When**) to complete these instructions.
+    Select the most appropriate conjunction to complete these instructions.
+
+    **Word list (A → Z):**
+    After • As soon as • Before • Once • When
 
     **Group A: Ordering Steps**
 
@@ -99,11 +102,13 @@ How Long? (Duration / Simultaneity)
 
 
 
-.. admonition:: Cloze: Duration and Simultaneity
+.. admonition:: Fill in the Gaps — Duration and Simultaneity
     :class: cloze
 
     Fill in the gaps with the most appropriate conjunction:
-    **As**, **As long as**, **From the moment**, **Until**, or **While**.
+
+    **Word list (A → Z):**
+    As • As long as • From the moment • Until • While
 
     1. **Physics:** Record the voltage output __________ the current steadily increases from zero to its peak — the two values must be logged in parallel.
     2. **Chemistry:** Continue heating the flask __________ the solution reaches exactly 100 °C and the first sustained bubbles appear.
@@ -157,7 +162,7 @@ How Often? (Frequency / Recurrence)
 2.  **Chemistry:** Neutralize any spills with sodium bicarbonate **whenever** a strong acid is dropped. (Purpose: Contingency)
 
 
-.. admonition:: Cloze: Frequency and Contingency
+.. admonition:: Fill in the Gaps — Frequency and Contingency
    :class: cloze
 
    Fill in the gaps with the most appropriate conjunction: **Every time** or **Whenever**.

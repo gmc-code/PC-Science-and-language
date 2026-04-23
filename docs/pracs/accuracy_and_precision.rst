@@ -37,7 +37,7 @@ Accuracy and precision are independent. A result can be accurate but not precise
 
 
 
-.. admonition:: Cloze Questions
+.. admonition:: Fill in the Gaps — Accuracy and Precision
     :class: cloze
 
     Complete the following by filling in the missing words.

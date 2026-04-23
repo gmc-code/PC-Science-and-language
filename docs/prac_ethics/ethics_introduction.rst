@@ -31,7 +31,7 @@ General Ethical Principles
 
 ----
 
-.. admonition:: Cloze Questions
+.. admonition:: Fill in the Gaps — General Ethical Principles
     :class: cloze
 
     Complete the following by filling in the missing verbs.

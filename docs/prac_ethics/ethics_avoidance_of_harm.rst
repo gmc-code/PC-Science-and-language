@@ -19,7 +19,7 @@ Examples
 
 ----
 
-.. admonition:: Cloze Questions
+.. admonition:: Fill in the Gaps — Avoidance of Harm
     :class: cloze
 
     Complete the following by filling in the missing verbs.

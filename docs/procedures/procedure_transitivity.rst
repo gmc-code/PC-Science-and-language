@@ -640,7 +640,7 @@ Reaction: lead(II) nitrate with potassium iodide
 
 ----
 
-.. admonition:: Procedures & Transitivity Analysis
+.. admonition:: Exercise: Procedures & Transitivity Analysis
     :class: exercise
 
     Write a procedure for and carry out Transitivity Analysis for:

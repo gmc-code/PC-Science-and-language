@@ -35,11 +35,13 @@ Conjunctions of Reason (The "Why")
 6. **Physics:** Do not exceed 5 volts **since** the resistor is prone to overheating at higher currents.
 
 
-.. admonition:: Cloze: Conjunctions of Reason
+.. admonition:: Fill in the Gaps — Conjunctions of Reason
     :class: cloze
 
     Fill in the gaps with the most appropriate conjunction:
-    **as**, **as a result of**, **because**, **for**, **in case**, or **since**.
+
+    **Word list (A → Z):**
+    as • as a result of • because • for • in case • since
 
     1. **Chemistry:** Handle the glass rod with care __________ it becomes extremely brittle once it has been heated.
 
@@ -100,11 +102,13 @@ As vs. Since vs. Because
 Here are 3 targeted questions for each confusable pair, with the disambiguation built into the sentence itself:
 
 
-.. admonition:: Cloze: As vs. Since
+.. admonition:: Fill in the Gaps — As vs. Since
     :class: cloze
 
     Fill in the gaps with the most appropriate conjunction:
-    **as** or **since**.
+
+    **Word list (A → Z):**
+    as • since
 
     1. **Chemistry:** Do not leave the sodium exposed to open air __________ it reacts spontaneously with atmospheric moisture — you can see the surface already beginning to discolour.
 
@@ -123,11 +127,13 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
 
 
-.. admonition:: Cloze: Because vs. Since
+.. admonition:: Fill in the Gaps — Because vs. Since
     :class: cloze
 
     Fill in the gaps with the most appropriate conjunction:
-    **because** or **since**.
+
+    **Word list (A → Z):**
+    because • since
 
     1. **Physics:** Do not touch the transformer casing during operation __________ the outer shell accumulates a residual static charge that is not discharged by simply switching the unit off.
 
@@ -146,11 +152,13 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
                 2. **since** — vapour flammability at room temperature is standard, assumed knowledge in any chemistry course.
 
 
-.. admonition:: Cloze: As vs. Because
+.. admonition:: Fill in the Gaps — As vs. Because
     :class: cloze
 
     Fill in the gaps with the most appropriate conjunction:
-    **as** or **because**.
+
+    **Word list (A → Z):**
+    as • because
 
     1. **Earth Science:** Secure all core samples in padded cases immediately __________ the extraction process leaves the rock under internal stress that makes it prone to sudden fracture.
 

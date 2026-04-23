@@ -45,7 +45,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Boiling Water
+.. admonition:: Fill in the Gaps — Boiling Water
     :class: cloze
 
     Complete the Outcome (O).
@@ -80,7 +80,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Stretching a rubber band
+.. admonition:: Fill in the Gaps — Stretching a rubber band
     :class: cloze
 
     Complete the Reasoning (R).
@@ -115,7 +115,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Snapping chalk
+.. admonition:: Fill in the Gaps — Snapping chalk
     :class: cloze
 
     Complete the Premise (P).
@@ -150,7 +150,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Fixed shape
+.. admonition:: Fill in the Gaps — Fixed shape
     :class: cloze
 
     Complete the Explanation by filling in the missing words (processes).
@@ -188,7 +188,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Melting butter
+.. admonition:: Fill in the Gaps — Melting butter
     :class: cloze
 
     Complete the Explanation by filling in the missing nouns.
@@ -227,7 +227,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Squashing a sponge
+.. admonition:: Fill in the Gaps — Squashing a sponge
     :class: cloze
 
     Complete the Explanation by filling in the missing adjectives or adverbs (modifiers).
@@ -265,7 +265,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Wet mirror
+.. admonition:: Fill in the Gaps — Wet mirror
     :class: cloze
 
     Complete the Explanation by filling in the missing text connectives.
@@ -303,7 +303,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Overnight frost
+.. admonition:: Fill in the Gaps — Overnight frost
     :class: cloze
 
     Complete the Explanation by filling in the missing text connectives.
@@ -340,8 +340,7 @@ Therefore, the clay changes shape but remains the same substance.
                 Therefore, frost forms on the grass.
 
 ----
-
-.. admonition:: Cold to touch
+.. admonition:: Fill in the Gaps — Cold to touch
     :class: cloze
 
     Complete the Explanation by filling in the missing verbs (material processes).
@@ -379,7 +378,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Clothing in wind
+.. admonition:: Fill in the Gaps — Clothing in wind
     :class: cloze
 
     Complete the Explanation by filling in the missing describers (adjectives/adverbs).
@@ -387,7 +386,7 @@ Therefore, the clay changes shape but remains the same substance.
     **Word list (A → Z):**
     faster • liquid • moving • moist • more
 
-     Why does wet clothing dry on a windy day?
+    Why does wet clothing dry on a windy day?
 
     :P:`Premise (P):`
     Moving air removes water vapour from the surface of a liquid.
@@ -417,7 +416,7 @@ Therefore, the clay changes shape but remains the same substance.
 
 ----
 
-.. admonition:: Disappearing puddle
+.. admonition:: Fill in the Gaps — Disappearing puddle
     :class: cloze
 
     Complete the Explanation by filling in the missing verbs (material processes).
@@ -425,7 +424,7 @@ Therefore, the clay changes shape but remains the same substance.
     **Word list (A → Z):**
     absorbs • changes • evaporate • gain • rise
 
-     Why does a puddle disappear on a sunny day?
+    Why does a puddle disappear on a sunny day?
 
     :P:`Premise (P):`
     Solar energy increases the kinetic energy of water particles in a puddle.

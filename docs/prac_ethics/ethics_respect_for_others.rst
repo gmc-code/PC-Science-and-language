@@ -17,7 +17,7 @@ Examples
 
 ----
 
-.. admonition:: Cloze Questions
+.. admonition:: Fill in the Gaps — Respect for Others
     :class: cloze
 
     Complete the following by filling in the missing verbs.

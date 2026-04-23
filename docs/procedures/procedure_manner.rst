@@ -32,11 +32,13 @@ Conjunctions of Means (The "How")
 2.  **Physics:** Connect the light globe to the dry cell **through** the use of insulated copper wires.
 3.  **Earth Science:** Determine the hardness of the mineral sample **with** a steel nail or glass plate.
 
-.. admonition:: Exercise — Conjunctions of Means: Fill in the Gap
+.. admonition:: Fill in the Gaps — Conjunctions of Means
     :class: cloze
 
     Choose the most appropriate conjunction to complete each sentence:
-    **by**, **through**, or **with**.
+
+    **Word list (A → Z):**
+    by • through • with
 
     1. **Chemistry:** Separate the solid from the liquid _________________ pouring the mixture slowly through a funnel lined with filter paper.
 
@@ -94,11 +96,13 @@ Conjunctions of Comparison ("How Like?")
 
 
 
-.. admonition:: Exercise — Conjunctions of Comparison: Fill in the Gap
+.. admonition:: Fill in the Gaps — Conjunctions of Comparison
     :class: cloze
 
     Choose the most appropriate conjunction to complete each sentence:
-    **as if**, **in such a way that**, or **like**.
+
+    **Word list (A → Z):**
+    as if • in such a way that • like
 
     1. **Physics:** Angle the mirror _________________ a ramp, tilting it
        at exactly forty-five degrees to the incoming light beam.
@@ -132,7 +136,7 @@ Conjunctions of Comparison ("How Like?")
 ----
 
 
-.. admonition:: Exercise — Conjunctions of Manner: Multiple Choice
+.. admonition:: Multiple Choice: Conjunctions of Manner
     :class: mcq
 
     Choose the most appropriate conjunction to complete each sentence.

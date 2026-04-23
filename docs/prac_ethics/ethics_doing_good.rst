@@ -18,7 +18,7 @@ Examples
 
 ----
 
-.. admonition:: Cloze Questions
+.. admonition:: Fill in the Gaps — Doing Good
     :class: cloze
 
     Complete the following by filling in the missing verbs.

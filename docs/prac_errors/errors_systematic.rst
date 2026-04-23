@@ -43,7 +43,7 @@ Systematic Errors
 
 ----
 
-.. admonition:: Cloze Questions
+.. admonition:: Fill in the Gaps — Systematic Errors
     :class: cloze
 
     Complete the following by filling in the missing words.
