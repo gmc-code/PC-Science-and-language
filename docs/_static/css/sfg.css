@@ -287,7 +287,7 @@ div.admonition.match p.admonition-title {
 /* ========================================== */
 
 .rst-content .admonition-title {
-    margin-left: 2em;
+    padding-left: 2em;
 }
 
 /* .rst-content .admonition-title:before {
