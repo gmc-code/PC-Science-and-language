@@ -1,10 +1,6 @@
 /* remove read the docs fly out menu */
 
-.your-floating-element-class {
-    display: none !important;
-}
-
-.switch-menus {
+#readthedocs-flyout {
     display: none !important;
 }
 

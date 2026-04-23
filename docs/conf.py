@@ -34,6 +34,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx_togglebutton',
     'sphinx_design',
+    "sphinx_new_tab_link",
     'sphinx.ext.mathjax',
 ]
 
@@ -80,7 +81,7 @@ html_theme = 'sphinx_rtd_theme'
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
 #html_title = None
-html_title = "PC-LaTeX"
+html_title = "PC-Science-and-language"
 
 # Use custom css
 html_css_files = ["css/custom.css", "css/sfg.css"]
@@ -104,8 +105,8 @@ html_theme_options = {
     # Toc options;
     'collapse_navigation': True,  # False so nav entries have the [+] icons
     'sticky_navigation': False,  # False so the nav does not scroll
-    'navigation_depth': 4,  # -1 for no limit
-    'includehidden': True,  # displays toctree that are hidden
+    'navigation_depth': 24,  # -1 for no limit
+    'includehidden': False,  # displays toctree that are hidden
     'titles_only': False  # True so only titles are shown in the nav.; False to show titles and section numbers
 }
 
