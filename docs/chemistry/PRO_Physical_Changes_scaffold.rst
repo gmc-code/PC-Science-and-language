@@ -45,7 +45,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 
 
-
+----
 
 .. admonition:: Ice Melting
     :class: shortanswer
@@ -70,7 +70,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :class-container: dropdown-cloze
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -80,8 +80,6 @@ PRO Physical Changes: Declarative Premise Scaffold
                 | Heating a [material/state] increases the kinetic energy of its particles.
 
 ----
-
-
 
 .. admonition:: Balloon Shrinking in the Freezer
     :class: shortanswer
@@ -105,7 +103,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :class-container: dropdown-mcq
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -138,7 +136,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-                :class-container: dropdown-shortanswer
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
