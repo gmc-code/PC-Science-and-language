@@ -123,25 +123,25 @@ Examples
             .. tab-item:: Q1
                 :sync: q1
 
-               1. a — Choosing research questions that benefit the community
+                1. a — Choosing research questions that benefit the community
 
             .. tab-item:: Q2
                 :sync: q2
 
-               2. d — It helps maximise the positive impact of the research
+                2. d — It helps maximise the positive impact of the research
 
             .. tab-item:: Q3
                 :sync: q3
 
-               3. d — When there is a clear and meaningful benefit
+                3. d — When there is a clear and meaningful benefit
 
             .. tab-item:: Q4
                 :sync: q4
 
-               4. a — To allow the wider community to benefit from the results
+                4. a — To allow the wider community to benefit from the results
 
             .. tab-item:: Q5
                 :sync: q5
 
-               5. c — Applying results to improve people's lives
+                5. c — Applying results to improve people's lives
 

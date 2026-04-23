@@ -34,15 +34,19 @@ Examples
     5. Field researchers must ______________ wildlife by observing animals without disturbing them.
 
 
-    .. dropdown:: Answers
+   .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-cloze
 
-        1. avoid
-        2. respect
-        3. use
-        4. stop
-        5. protect
+        .. tab-set::
+
+            .. tab-item:: Answers
+
+                1. avoid
+                2. respect
+                3. use
+                4. stop
+                5. protect
 
 ----
 
@@ -105,7 +109,7 @@ Examples
                 | d. Staying on approved paths and obtaining required permits
 
 
-    .. dropdown:: Answers
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-mcq
 
