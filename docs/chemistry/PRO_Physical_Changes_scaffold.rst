@@ -69,7 +69,7 @@ PRO Physical Changes: Declarative Premise Scaffold
     :O:`Outcome (O):`
     Therefore, ice changes state into a liquid.
 
-    .. dropdown::
+    .. dropdown:: Reveal Answer Key
         :icon: codescan
         :class-container: dropdown-cloze
 

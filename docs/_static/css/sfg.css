@@ -176,7 +176,7 @@ span.O, .O {
 }
 .admonition.premise .admonition-title {
     background-color: var(--premise-title-bg);
-    color: var(--admonition-text-white);
+    color: var(--admonition-text-color);
     font-weight: normal;
     text-transform: capitalize;
 }
@@ -190,7 +190,7 @@ span.O, .O {
 }
 .admonition.reasoning .admonition-title {
     background-color: var(--reasoning-title-bg);
-    color: var(--admonition-text-white);
+    color: var(--admonition-text-color);
     font-weight: normal;
     text-transform: capitalize;
 }
@@ -204,7 +204,7 @@ span.O, .O {
 }
 .admonition.outcome .admonition-title {
     background-color: var(--outcome-title-bg);
-    color: var(--admonition-text-white);
+    color: var(--admonition-text-color);
     font-weight: normal;
     text-transform: capitalize;
 }
@@ -218,7 +218,7 @@ span.O, .O {
 }
 .admonition.pro .admonition-title {
     background-color: var(--pro-title-bg);
-    color: var(--admonition-text-white);
+    color: var(--admonition-text-color);
     font-weight: normal;
     text-transform: capitalize;
 }
