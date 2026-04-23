@@ -123,7 +123,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 ----
 
 .. admonition:: Question: Rubber Band Stretching
-    :class: mcq
+    :class: cloze
 
     Explain why a rubber band stretches when pulled.
 
@@ -159,7 +159,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 
 .. admonition:: Question: Modelling Clay
-    :class: mcq
+    :class: cloze
 
     Explain why modelling clay changes shape when pressed.
 

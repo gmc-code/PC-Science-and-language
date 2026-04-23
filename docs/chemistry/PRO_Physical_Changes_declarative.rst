@@ -82,7 +82,7 @@ Therefore, the clay changes shape but remains the same substance.
 ----
 
 .. admonition:: Question: Stretching a rubber band
-    :class: shortanswer
+    :class: cloze
 
     Complete the Reasoning (R).
 
@@ -517,3 +517,8 @@ Therefore, the clay changes shape but remains the same substance.
 
                 :O:`Outcome (O):`
                 Therefore, the towel becomes dry.
+
+
+
+
+
