@@ -177,6 +177,7 @@ span.O, .O {
     background-color: var(--premise-title-bg);
     color: var(--premise-main);
     font-weight: normal;
+    text-transform: capitalize;
 }
 
 
@@ -190,6 +191,7 @@ span.O, .O {
     background-color: var(--reasoning-title-bg);
     color: var(--reasoning-main);
     font-weight: normal;
+    text-transform: capitalize;
 }
 
 
@@ -203,6 +205,7 @@ span.O, .O {
     background-color: var(--outcome-title-bg);
     color: var(--outcome-main);
     font-weight: normal;
+    text-transform: capitalize;
 }
 
 
@@ -216,20 +219,21 @@ span.O, .O {
     background-color: var(--pro-title-bg);
     color: var(--pro-main);
     font-weight: normal;
+    text-transform: capitalize;
 }
 
 /* --- MCQ --- */
 div.admonition.mcq {
     color: var(--admonition-text-color);
     border-left: 6px solid var(--mcq-main);
-    background-color: var(--mcq-bg) !important;
+    background-color: var(--mcq-bg);
 }
 
 div.admonition.mcq p.admonition-title {
-    text-transform: capitalize;
-    color: var(--mcq-main) !important;
-    background-color: var(--mcq-title-bg) !important;
+    color: var(--admonition-text-color);
+    background-color: var(--mcq-title-bg);
     font-weight: normal;
+    text-transform: capitalize;
 }
 
 
@@ -237,14 +241,14 @@ div.admonition.mcq p.admonition-title {
 div.admonition.cloze {
     color: var(--admonition-text-color);
     border-left: 6px solid var(--cloze-main);
-    background-color: var(--cloze-bg) !important;
+    background-color: var(--cloze-bg);
 }
 
 div.admonition.cloze p.admonition-title {
-    text-transform: capitalize;
-    color: var(--cloze-main) !important;
-    background-color: var(--cloze-title-bg) !important;
+    color: var(--admonition-text-color);
+    background-color: var(--cloze-title-bg);
     font-weight: normal;
+    text-transform: capitalize;
 }
 
 
@@ -252,14 +256,14 @@ div.admonition.cloze p.admonition-title {
 div.admonition.shortanswer {
     color: var(--admonition-text-color);
     border-left: 6px solid var(--shortanswer-main);
-    background-color: var(--shortanswer-bg) !important;
+    background-color: var(--shortanswer-bg);
 }
 
 div.admonition.shortanswer p.admonition-title {
-    text-transform: capitalize;
-    color: var(--shortanswer-title-main) !important;
-    background-color: var(--shortanswer-title-bg) !important;
+    color: var(--admonition-text-color);
+    background-color: var(--shortanswer-title-bg);
     font-weight: normal;
+    text-transform: capitalize;
 }
 
 
@@ -267,14 +271,14 @@ div.admonition.shortanswer p.admonition-title {
 div.admonition.match {
     color: var(--admonition-text-color);
     border-left: 6px solid var(--match-main);
-    background-color: var(--match-bg) !important;
+    background-color: var(--match-bg);
 }
 
 div.admonition.match p.admonition-title {
-    text-transform: capitalize;
-    color: var(--match-main) !important;
-    background-color: var(--match-title-bg) !important;
+    color: var(--admonition-text-color);
+    background-color: var(--match-title-bg);
     font-weight: normal;
+    text-transform: capitalize;
 }
 
 /* ========================================== */
