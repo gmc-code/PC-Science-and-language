@@ -37,6 +37,7 @@ hr {
 
 /* ========================================== */
 /* Custom admonition */
+/* sphinx auto generates classes from .. admonition:: Question  etc  */
 /* ========================================== */
 
 div.admonition.answer,
