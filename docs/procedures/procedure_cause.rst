@@ -344,33 +344,33 @@ the right one depends on whether you are writing a formal laboratory protocol, o
         :icon: check-circle
         :class-container: dropdown-match
 
-   .. tab-set::
-        :sync-group: set1
+        .. tab-set::
+            :sync-group: set1
 
-        .. tab-item:: Q1
-            :sync: q1
+            .. tab-item:: Q1
+                :sync: q1
 
-            1. **(B) Purpose** — "So that" defines the goal of avoiding contamination.
+                1. **(B) Purpose** — "So that" defines the goal of avoiding contamination.
 
-        .. tab-item:: Q2
-            :sync: q2
+            .. tab-item:: Q2
+                :sync: q2
 
-            2. **(A) Reason** — "Since" explains the inherent dangerous quality of the compound.
+                2. **(A) Reason** — "Since" explains the inherent dangerous quality of the compound.
 
-        .. tab-item:: Q3
-            :sync: q3
+            .. tab-item:: Q3
+                :sync: q3
 
-            3. **(B) Purpose** — "In order to" states the specific goal of the safety action.
+                3. **(B) Purpose** — "In order to" states the specific goal of the safety action.
 
-        .. tab-item:: Q4
-            :sync: q4
+            .. tab-item:: Q4
+                :sync: q4
 
-            4. **(A) Reason** — "As" identifies the underlying cause or existing risk factor.
+                4. **(A) Reason** — "As" identifies the underlying cause or existing risk factor.
 
-        .. tab-item:: Q5
-            :sync: q5
+            .. tab-item:: Q5
+                :sync: q5
 
-            5. **(B) Purpose** — "In case" prepares for a specific potential event or goal.
+                5. **(B) Purpose** — "In case" prepares for a specific potential event or goal.
 
 
 
