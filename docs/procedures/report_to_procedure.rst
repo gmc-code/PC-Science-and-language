@@ -19,8 +19,8 @@ Consider the following example of a Report and its corresponding Procedure:
 
     * - Report
       - Procedure
-    * - :participantb:`The acid` :processb:`was added` :circb:`carefully`.
-      - :circb:`Carefully`, :processb:`add` :participantb:`the acid`.
+    * - :participant:`The acid` :processb:`was added` :circ:`carefully`.
+      - :circ:`Carefully`, :processb:`add` :participant:`the acid`.
 
 
 In a **Passive Voice Report**:
