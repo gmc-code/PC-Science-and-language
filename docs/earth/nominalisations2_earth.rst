@@ -1,5 +1,5 @@
 ===================================
-Verbs → Nouns 2: Earth
+Earth: Verbs → Nouns 2
 ===================================
 
 | Science explanations often turn actions (**verbs**) into things (**nouns**).

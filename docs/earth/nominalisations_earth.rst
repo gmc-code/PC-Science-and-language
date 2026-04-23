@@ -1,5 +1,5 @@
 ===================================
-Verbs → Nouns: Earth
+Earth: Verbs → Nouns
 ===================================
 
 | In science writing, actions are often turned into **nouns**.

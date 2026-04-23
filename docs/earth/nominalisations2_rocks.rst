@@ -1,5 +1,5 @@
 ===================================
-Verbs → Nouns 2: Rocks
+Rocks: Verbs → Nouns 2
 ===================================
 
 | Science explanations often turn actions (**verbs**) into things (**nouns**).

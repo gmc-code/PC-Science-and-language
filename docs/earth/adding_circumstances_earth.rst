@@ -1,5 +1,5 @@
 ===================================
-Adding circumstances: Earth
+Earth: Adding circumstances
 ===================================
 
 | Your task is to add a **circumstance** to each short clause.

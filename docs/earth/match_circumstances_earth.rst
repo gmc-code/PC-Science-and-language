@@ -1,5 +1,5 @@
 ===========================================
-Matching Circumstances: Plate Tectonics
+Plate Tectonics: Matching Circumstances
 ===========================================
 
 Match the **Circumstance (Prepositional Phrase)** in Column A to the correct **Process** in Column B to describe plate movements accurately.

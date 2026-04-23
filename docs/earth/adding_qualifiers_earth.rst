@@ -1,5 +1,5 @@
 ===================================
-Adding qualifiers: Earth
+Earth: Adding qualifiers
 ===================================
 
 | Your task is to add a **qualifier** to the noun in each short clause.

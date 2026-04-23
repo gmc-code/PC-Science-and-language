@@ -1,5 +1,5 @@
 ===================================
-Verbs → Nouns: Rocks (by type)
+Rocks: Verbs → Nouns
 ===================================
 
 | In science writing, actions are often turned into **nouns**.
@@ -51,7 +51,7 @@ Igneous rocks
         * - solidify
           -
 
-    .. dropdown:: Reveal Answer Key
+    .. dropdown::
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -111,7 +111,7 @@ Sedimentary rocks
         * - weather
           -
 
-    .. dropdown:: Reveal Answer Key
+    .. dropdown::
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
@@ -172,7 +172,7 @@ Metamorphic rocks
         * - transform
           -
 
-    .. dropdown:: Reveal Answer Key
+    .. dropdown::
         :icon: check-circle
         :class-container: dropdown-shortanswer
 
