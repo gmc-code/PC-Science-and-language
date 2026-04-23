@@ -47,7 +47,7 @@ When? (Point in Time / Sequence)
     3. **Biology:** Neutralize the specimen with the buffer solution __________ you observe the first sign of tissue degradation — every second of delay increases cellular damage.
     4. **Chemistry:** Note the temperature on your datasheet __________ the solution changes from blue to colourless.
 
-    **Group C: Prerequisites (Logic Gates)**
+    **Group C: Prerequisites**
 
     5. **Biology:** The final cell count may be recorded __________ the culture has completed the full 24-hour incubation period — not before.
 
