@@ -28,9 +28,13 @@ Examples
     avoid • protect • respect • stop • use
 
     1. Researchers must ______________ personal or medical data beyond what participants have consented to.
+
     2. Scientists should ______________ all required safety procedures to prevent harm during investigations.
+
     3. When valid alternatives exist, researchers should ______________ simulations or models instead of live animals.
+
     4. An experiment must ______________ immediately if it causes unexpected suffering.
+
     5. Field researchers must ______________ wildlife by observing animals without disturbing them.
 
 
