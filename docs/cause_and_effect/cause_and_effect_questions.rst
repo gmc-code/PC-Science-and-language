@@ -49,7 +49,7 @@ Cause and effect questions
             .. tab-item:: Model Answer
 
                 The air inside the container expands.
-                :conj:`As a result`, the pressure inside the container increases.
+                :conjb:`As a result`, the pressure inside the container increases.
 
 
 .. admonition:: Pattern 3: Conjunction (hence)
@@ -73,7 +73,7 @@ Cause and effect questions
             .. tab-item:: Model Answer
 
                 Calcium ions combine with carbonate ions to form an
-                insoluble solid, :conj:`hence` a cloudy white precipitate appears
+                insoluble solid, :conjb:`hence` a cloudy white precipitate appears
                 in the solution.
 
 
@@ -100,7 +100,7 @@ Cause and effect questions
 
                 | **nomR:** The rapid cooling of warm water vapour on contact with a cold surface.
 
-                :conj:`Due to` the rapid cooling of warm water vapour on contact with a cold surface, tiny droplets of liquid water form.
+                :conjb:`Due to` the rapid cooling of warm water vapour on contact with a cold surface, tiny droplets of liquid water form.
 
 
 
@@ -127,7 +127,7 @@ Cause and effect questions
                 | **nomR:** The rapid combustion of methane gas in oxygen.
                 | **nomO:** The production of a bright flame.
 
-                The rapid combustion of methane gas in oxygen **:conj:`causes`** the
+                The rapid combustion of methane gas in oxygen :conjb:`causes` the
                 production of a bright flame.
 
 
