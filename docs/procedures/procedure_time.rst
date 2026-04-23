@@ -180,7 +180,7 @@ How Often? (Frequency / Recurrence)
 
 
 .. admonition:: Multiple Choice: Multi-Category Conjunctions of Time Quiz
-    :class: mqc
+    :class: mcq
 
     Select the most appropriate conjunction for each scientific instruction to ensure maximum clarity and precision.
 
