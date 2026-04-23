@@ -31,7 +31,7 @@ Match the **Circumstance (Prepositional Phrase)** in Column A to the correct **P
         * - E) New crust forms...
           - 5) ...into the subduction zone.
 
-    .. dropdown:: Check your answers
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-match
 

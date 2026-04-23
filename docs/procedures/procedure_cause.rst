@@ -53,7 +53,7 @@ Conjunctions of Reason (The "Why")
 
     6. **Physics:** Do not allow the supply voltage to exceed 5 volts, __________ this resistor has a well-documented tendency to overheat at higher currents.
 
-    .. dropdown:: Check Answers
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-cloze
 
@@ -118,9 +118,8 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
             .. tab-item:: Model Answer
 
-                Q(1) **as** — "you can see the surface already beginning to discolour" makes the hazard visibly present right now.
-
-                Q(2) **since** — "well-established source" signals accepted background knowledge.
+                1. **as** — "you can see the surface already beginning to discolour" makes the hazard visibly present right now.
+                2. **since** — "well-established source" signals accepted background knowledge.
 
 
 
@@ -143,9 +142,8 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
             .. tab-item:: Model Answer
 
-                Q(1) **because** — the residual static mechanism is specific and non-obvious; the reader cannot be expected to already know it.
-
-                Q(2) **since** — vapour flammability at room temperature is standard, assumed knowledge in any chemistry course.
+                1. **because** — the residual static mechanism is specific and non-obvious; the reader cannot be expected to already know it.
+                2. **since** — vapour flammability at room temperature is standard, assumed knowledge in any chemistry course.
 
 
 .. admonition:: Cloze: As vs. Because
@@ -166,9 +164,8 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
             .. tab-item:: Model Answer
 
-                Q(1) **because** — internal stress is a non-visible mechanism being explained for the first time.
-
-                Q(2) **as** — the not-yet-solidified state is directly observable at the moment of handling.
+                1. **because** — internal stress is a non-visible mechanism being explained for the first time.
+                2. **as** — the not-yet-solidified state is directly observable at the moment of handling.
 
 
 ----
@@ -240,7 +237,7 @@ the right one depends on whether you are writing a formal laboratory protocol, o
     3. … ensure the data is representative of the wider geological formation.
     4. … the denser cellular material separates before the final high-speed spin is performed.
 
-    .. dropdown:: Check Answers
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-match
 
@@ -340,7 +337,7 @@ the right one depends on whether you are writing a formal laboratory protocol, o
                 .. grid-item::
                     (B) Purpose
 
-    .. dropdown:: Check Answers
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-mcq
 

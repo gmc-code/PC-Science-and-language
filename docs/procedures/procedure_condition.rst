@@ -80,7 +80,7 @@ to specify when an action is valid, necessary, or to be avoided.*
     3. **Earth Science:** Keep stirring the mixture **__________** the
        powder remains visible at the bottom of the beaker.
 
-    .. dropdown:: Check Answers
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-cloze
 
@@ -153,7 +153,7 @@ to specify when an action is valid, necessary, or to be avoided.*
                 | c. unless
                 | d. whether or not
 
-    .. dropdown:: Check Answers
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-mcq
 

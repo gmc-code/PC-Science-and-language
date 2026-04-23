@@ -51,7 +51,7 @@ When? (Point in Time / Sequence)
 
     5. **Biology:** The final cell count may be recorded __________ the culture has completed the full 24-hour incubation period — not before.
 
-    .. dropdown:: Check Answers
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-cloze
 
@@ -111,7 +111,7 @@ How Long? (Duration / Simultaneity)
     4. **Biology:** Agitate the flask __________ a second technician takes optical density readings at 30-second intervals.
     5. **Chemistry:** Keep the reaction vessel unsealed __________ the internal pressure stays below 2 atm; seal it immediately if that threshold is crossed.
 
-    .. dropdown:: Check Answers
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-cloze
 
@@ -165,17 +165,16 @@ How Often? (Frequency / Recurrence)
    1. **Chemistry:** Re-calibrate the pH probe __________ a new set of titration samples is prepared for testing. [Job: Marks a mandatory requirement for each repeated cycle of a process]
    2. **Chemistry:** Apply a neutralizing agent to the workbench __________ a corrosive chemical is accidentally splashed outside of the beaker. [Job: Indicates an action that must occur in response to a specific, unplanned event]
 
-   .. dropdown:: Check Answers
-      :icon: check-circle
-      :color: primary
-      :class-container: dropdown-cloze
+    .. dropdown:: Reveal Answer Key
+        :icon: check-circle
+        :class-container: dropdown-cloze
 
-      .. tab-set::
+        .. tab-set::
 
-         .. tab-item:: Model Answer
+            .. tab-item:: Model Answer
 
-            1. **Every time** (Ensures a repeated, scheduled action for quality control)
-            2. **Whenever** (Addresses a contingency or recurring "if-then" situation)
+                1. **Every time** (Ensures a repeated, scheduled action for quality control)
+                2. **Whenever** (Addresses a contingency or recurring "if-then" situation)
 
 ----
 
@@ -255,7 +254,7 @@ How Often? (Frequency / Recurrence)
         .. grid-item::
             (D) As
 
-    .. dropdown:: Check Answers
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-mcq
 
@@ -375,7 +374,7 @@ How Often? (Frequency / Recurrence)
                 .. grid-item::
                     (C) How often?
 
-    .. dropdown:: Check Answers
+    .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-mcq
 
