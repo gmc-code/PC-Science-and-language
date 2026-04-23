@@ -84,7 +84,12 @@ html_theme = 'sphinx_rtd_theme'
 html_title = "PC-Science-and-language"
 
 # Use custom css
-html_css_files = ["css/custom.css", "css/sfg.css"]
+html_css_files = [
+    "css/custom.css",
+    "css/sfg.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css",
+]
+
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

@@ -295,51 +295,60 @@ div.admonition.match p.admonition-title {
     content: none !important;
     font-family: inherit !important;
     margin-right: 0.2em;
-} */
+}
 
 /* --- Premise --- */
 .admonition.premise .admonition-title::before {
-    content: "📌 " !important;
+    content: "\f192"; /* circle-dot */
+    margin-right: 2em;
 }
 
 /* --- Reasoning --- */
 .admonition.reasoning .admonition-title::before {
-    content: "🧠 " !important;
+    content: "\f5dc"; /* brain */
+    margin-right: 2em;
 }
 
 /* --- Outcome --- */
 .admonition.outcome .admonition-title::before {
-    content: "🎯 " !important;
+    content: "\f11e"; /* flag-checkered */
+    margin-right: 2em;
 }
 
 /* --- Pro --- */
 .admonition.pro .admonition-title::before {
-    content: "💡 " !important;
+    content: "\f0eb"; /* lightbulb */
+    margin-right: 2em;
 }
 
 /* --- MCQ --- */
 .admonition.mcq .admonition-title::before {
-    content: "☑ " !important;
+    content: "\f0ae"; /* list-check */
+    margin-right: 2em;
 }
 
 /* --- CLOZE --- */
 .admonition.cloze .admonition-title::before {
-    content: "✎___ " !important;
+    content: "\f044"; /* pen-to-square */
+    margin-right: 2em;
 }
 
 /* --- SHORT ANSWER --- */
 .admonition.shortanswer .admonition-title::before {
-    content: "✎ " !important;
+    content: "\f11c \f518"; /* keyboard book-open*/
+    margin-right: 2em;
 }
 
 /* --- MATCHING --- */
 .admonition.match .admonition-title::before {
-    content: "🔗 " !important;
+    content: "\f0c1"; /* link */
+    margin-right: 2em;
 }
 
-/* --- Pro --- */
+/* --- question --- */
 .admonition.question .admonition-title::before {
-    content: "💡 " !important;
+    content: "\f059"; /* circle-question */
+    margin-right: 2em;
 }
 
 /* ========================================== */
