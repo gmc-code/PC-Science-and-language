@@ -305,7 +305,7 @@ div.admonition.match p.admonition-title {
 
 /* --- Reasoning --- */
 .admonition.reasoning .admonition-title::before {
-    content: "\f5dc"; /* brain */
+    content: "\f08b"; /* arrow-right-from-bracket */
     margin-right: 2em;
 }
 
@@ -323,7 +323,7 @@ div.admonition.match p.admonition-title {
 
 /* --- MCQ --- */
 .admonition.mcq .admonition-title::before {
-    content: "\f0ae"; /* list-check */
+    content: "\f14a"; /* square-check */
     margin-right: 2em;
 }
 
@@ -335,13 +335,13 @@ div.admonition.match p.admonition-title {
 
 /* --- SHORT ANSWER --- */
 .admonition.shortanswer .admonition-title::before {
-    content: "\f11c \f518"; /* keyboard book-open*/
+    content: "\f11c"; /* keyboard*/
     margin-right: 2em;
 }
 
 /* --- MATCHING --- */
 .admonition.match .admonition-title::before {
-    content: "\f0c1"; /* link */
+    content: "\f074"; /* shuffle */
     margin-right: 2em;
 }
 
