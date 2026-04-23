@@ -25,15 +25,15 @@ Consider the following example of a Report and its corresponding Procedure:
 
 In a **Passive Voice Report**:
 
-* The **Participant** (*the acid*) is at the start of the clause.
-* The **Process** (*were added*) uses a "to be" verb + past participle.
-* The **Circumstance** (*carefully*) is often after the process, giving more information about how, when, or where the action occurred.
+* The **Participant** (:participant:`The acid`) is at the start of the clause.
+* The **Process** (:processb:`was added`) uses a "to be" verb + past participle.
+* The **Circumstance** (:circ:`carefully`) is often after the process, giving more information about how, when, or where the action occurred.
 
 In an **Active Voice Procedure**:
 
-* The **Circumstance** (*carefully*) is sometimes foregrounded at the start of the clause to set the context for the action.
-* The **Process** (*add*) moves to the start of the clause, as a command, immediately following any initial circumstance.
-* The **Participant** (*the acid*) follows the process as the direct object of the command.
+* The **Circumstance** (:circ:`carefully`) is sometimes foregrounded at the start of the clause to set the context for the action.
+* The **Process** (:process:`add`) moves to the start of the clause, as a command, immediately following any initial circumstance.
+* The **Participant** (:participant:`the acid`) follows the process as the direct object of the command.
 
 To convert a Report into a Procedure, make the following changes:
 
