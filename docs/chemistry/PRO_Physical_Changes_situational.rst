@@ -65,9 +65,8 @@ Therefore, the clay changes shape but remains the same substance.
     __________________, the liquid changes __________________ into a gas.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -101,9 +100,8 @@ Therefore, the clay changes shape but remains the same substance.
     Therefore, the rubber band becomes longer but remains the same material.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -137,9 +135,8 @@ Therefore, the clay changes shape but remains the same substance.
     Therefore, the chalk breaks into smaller pieces without changing its substance.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -177,9 +174,8 @@ Therefore, the clay changes shape but remains the same substance.
     Therefore, a solid keeps its shape unless a force strong enough to __________________ it is applied.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -216,9 +212,8 @@ Therefore, the clay changes shape but remains the same substance.
     Therefore, the __________________ changes __________________ into a __________________.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -255,9 +250,8 @@ Therefore, the clay changes shape but remains the same substance.
     Therefore, the sponge becomes smaller under __________________ pressure.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -294,9 +288,8 @@ Therefore, the clay changes shape but remains the same substance.
     __________________, tiny droplets form on the mirror.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -333,9 +326,8 @@ Therefore, the clay changes shape but remains the same substance.
     __________________, frost forms on the grass.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -372,9 +364,8 @@ Therefore, the clay changes shape but remains the same substance.
     Therefore, the spoon __________________ cold to touch.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -411,9 +402,8 @@ Therefore, the clay changes shape but remains the same substance.
     Therefore, the clothing dries __________________.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -450,9 +440,8 @@ Therefore, the clay changes shape but remains the same substance.
     Therefore, the puddle disappears as the liquid __________________ into a gas.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -477,9 +466,8 @@ Therefore, the clay changes shape but remains the same substance.
     Why does a balloon shrink when placed in the freezer?
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -505,9 +493,8 @@ Therefore, the clay changes shape but remains the same substance.
     Why does a wet towel dry when left in the sun?
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 

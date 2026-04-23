@@ -81,9 +81,8 @@ to specify when an action is valid, necessary, or to be avoided.*
        powder remains visible at the bottom of the beaker.
 
     .. dropdown:: Check Answers
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -140,9 +139,8 @@ to specify when an action is valid, necessary, or to be avoided.*
        | d. whether or not
 
     .. dropdown:: Check Answers
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 

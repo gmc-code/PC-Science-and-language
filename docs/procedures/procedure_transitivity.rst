@@ -76,9 +76,8 @@ To identify each Process, ask "What is happening? What is the doing, sensing, sa
     #. Turn off the gas.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -122,9 +121,8 @@ To identify each Participant, ask "Who or what is involved in this process?"
 
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -168,9 +166,8 @@ To identify each Circumstance, ask "Where, when, why, how is it happening?".
     #. Turn off the gas.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -290,9 +287,8 @@ In these procedural steps, the **Process** is the command verb that starts each 
     #. Place the hot test tube into a wooden test tube rack to cool.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -347,9 +343,8 @@ In these procedural steps, the **Participant** is usually a concrete noun — th
 
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -403,9 +398,8 @@ In these procedural steps, circumstances of Manner (how), Place (where), and Ext
     #. Place the hot test tube into a wooden test tube rack to cool.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -528,9 +522,8 @@ Heating Zinc Oxide
 
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -582,9 +575,8 @@ Reaction: hydrochloric acid with magnesium ribbon
 
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -627,9 +619,8 @@ Reaction: lead(II) nitrate with potassium iodide
 
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 

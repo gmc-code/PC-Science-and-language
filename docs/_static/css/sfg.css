@@ -415,28 +415,28 @@ details.sd-dropdown.dropdown-match {
 
 
 /* --- Premise --- */
-.dropdown-premise .sd-dropdown {
+details.sd-dropdown.dropdown-premise {
     --dropdown-main: var(--premise-main);
     --dropdown-bg: var(--premise-bg);
     --dropdown-title-bg: var(--premise-title-bg);
 }
 
 /* --- Reasoning --- */
-.dropdown-reasoning .sd-dropdown {
+details.sd-dropdown.dropdown-reasoning {
     --dropdown-main: var(--reasoning-main);
     --dropdown-bg: var(--reasoning-bg);
     --dropdown-title-bg: var(--reasoning-title-bg);
 }
 
 /* --- Outcome --- */
-.dropdown-outcome .sd-dropdown {
+details.sd-dropdown.dropdown-outcome {
     --dropdown-main: var(--outcome-main);
     --dropdown-bg: var(--outcome-bg);
     --dropdown-title-bg: var(--outcome-title-bg);
 }
 
 /* --- PRO --- */
-.dropdown-outcome .sd-dropdown {
+details.sd-dropdown.dropdown-outcome {
     --dropdown-main: var(--pro-main);
     --dropdown-bg: var(--pro-bg);
     --dropdown-title-bg: var(--pro-title-bg);

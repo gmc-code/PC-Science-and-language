@@ -54,9 +54,8 @@ Conjunctions of Reason (The "Why")
     6. **Physics:** Do not allow the supply voltage to exceed 5 volts, __________ this resistor has a well-documented tendency to overheat at higher currents.
 
     .. dropdown:: Check Answers
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -112,9 +111,8 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
     2. **Biology:** Autoclave all glassware before use __________ non-sterile equipment is a well-established source of culture contamination in any microbiology laboratory.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -138,9 +136,8 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -162,9 +159,8 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
     2. **Biology:** Handle the petri dishes on a flat surface __________ the agar has not yet fully solidified and will shift if tilted.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -245,9 +241,8 @@ the right one depends on whether you are writing a formal laboratory protocol, o
     4. … the denser cellular material separates before the final high-speed spin is performed.
 
     .. dropdown:: Check Answers
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -326,9 +321,8 @@ the right one depends on whether you are writing a formal laboratory protocol, o
             (B) Purpose
 
     .. dropdown:: Check Answers
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 

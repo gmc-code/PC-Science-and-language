@@ -37,9 +37,8 @@ Examples
 
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -103,7 +102,7 @@ Examples
     .. dropdown::
         :icon: check-circle
         :color: success
-        :class-container: sd-dropdown-container
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 

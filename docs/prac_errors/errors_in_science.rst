@@ -189,7 +189,7 @@ Quick Reference: Error Source to Classification to Fix
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :color: success
-        :class-container: sd-dropdown-container
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 

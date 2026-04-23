@@ -32,9 +32,8 @@ Match the **Circumstance (Prepositional Phrase)** in Column A to the correct **P
           - 5) ...into the subduction zone.
 
     .. dropdown:: Check your answers
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 

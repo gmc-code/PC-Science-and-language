@@ -129,9 +129,8 @@ Relating verbs
     | Granite :process:`has` large crystals since it :process:`forms` from lava that :process:`cools` below ground.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -171,9 +170,8 @@ Existing verbs
     | Granite :process:`has` large crystals since it :process:`forms` from lava that :process:`cools` below ground.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -208,9 +206,8 @@ Note: Material processes may appear in passive form (e.g. "are trapped", "is for
     | Identify the action verbs by marking them in the text and listing them below.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -242,9 +239,8 @@ Sedimentary rocks: Processes
     | Identify the relating verbs.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -267,9 +263,8 @@ Sedimentary rocks: Processes
     | Identify the action verbs by marking them in the text and listing them below.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -322,9 +317,8 @@ Converting material to relational processes
     | Minerals :process:`cement` sediments together to form sedimentary rock.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -355,9 +349,8 @@ Converting relational to material processes
     | Non-foliated metamorphic rocks :process:`are` rocks without visible layers or banding.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -391,9 +384,8 @@ Nominalization of processes
     | Identify the action verbs by marking them in the text and listing them below.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 

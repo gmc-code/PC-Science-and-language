@@ -45,9 +45,8 @@ Conjunctions of Means (The "How")
     3. **Earth Science:** Record the direction of the magnetic field _________________ the use of a compass and the field mapping technique.
 
     .. dropdown:: Check Answers
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -112,9 +111,8 @@ Conjunctions of Comparison ("How Like?")
        in contact with the bench at all times.
 
     .. dropdown:: Check Answers
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -175,9 +173,8 @@ Conjunctions of Comparison ("How Like?")
        | d. through
 
     .. dropdown:: Check Answers
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 

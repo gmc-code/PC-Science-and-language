@@ -52,9 +52,8 @@ When? (Point in Time / Sequence)
     5. **Biology:** The final cell count may be recorded __________ the culture has completed the full 24-hour incubation period — not before.
 
     .. dropdown:: Check Answers
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -113,9 +112,8 @@ How Long? (Duration / Simultaneity)
     5. **Chemistry:** Keep the reaction vessel unsealed __________ the internal pressure stays below 2 atm; seal it immediately if that threshold is crossed.
 
     .. dropdown:: Check Answers
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -168,9 +166,9 @@ How Often? (Frequency / Recurrence)
    2. **Chemistry:** Apply a neutralizing agent to the workbench __________ a corrosive chemical is accidentally splashed outside of the beaker. [Job: Indicates an action that must occur in response to a specific, unplanned event]
 
    .. dropdown:: Check Answers
-      :icon: codescan
+      :icon: check-circle
       :color: primary
-      :class-container: sd-dropdown-container
+      :class-container: dropdown-shortanswer
 
       .. tab-set::
 
@@ -258,9 +256,8 @@ How Often? (Frequency / Recurrence)
             (D) As
 
     .. dropdown:: Check Answers
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -353,9 +350,8 @@ How Often? (Frequency / Recurrence)
             (C) How often?
 
     .. dropdown:: Check Answers
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 

@@ -171,7 +171,7 @@ Identifying parts of a nominal group
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :color: success
-        :class-container: sd-dropdown-container
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -205,7 +205,7 @@ Identifying parts of a nominal group
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :color: success
-        :class-container: sd-dropdown-container
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -240,7 +240,7 @@ Making nominal groups
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :color: success
-        :class-container: sd-dropdown-container
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 

@@ -33,10 +33,10 @@ PRO Physical Changes: Declarative Premise Scaffold
     Therefore, the liquid changes state into a gas.
 
     .. dropdown::
-        :icon: codescan
+        :icon: check-circle
         :class-container: dropdown-shortanswer
 
-        .. :class-container: sd-dropdown-container
+        .. :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -71,10 +71,10 @@ PRO Physical Changes: Declarative Premise Scaffold
     Therefore, ice changes state into a liquid.
 
     .. dropdown:: Reveal Answer Key
-        :icon: codescan
+        :icon: check-circle
         :class-container: dropdown-cloze
 
-        .. :class-container: sd-dropdown-container
+        .. :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -112,7 +112,7 @@ PRO Physical Changes: Declarative Premise Scaffold
         :color: success
         :class-container: dropdown-mcq
 
-        .. :class-container: sd-dropdown-container
+        .. :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -146,7 +146,7 @@ PRO Physical Changes: Declarative Premise Scaffold
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :color: success
-        :class-container: sd-dropdown-container
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -180,9 +180,8 @@ PRO Physical Changes: Declarative Premise Scaffold
     Therefore, the clay changes shape but remains the same substance.
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 

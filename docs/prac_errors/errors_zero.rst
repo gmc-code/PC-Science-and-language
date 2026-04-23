@@ -104,9 +104,8 @@ verify it is within calibration.
     this error before collecting data. *(1 mark)*
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 

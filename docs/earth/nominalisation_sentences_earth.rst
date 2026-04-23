@@ -136,9 +136,8 @@ Verb and Nominalisation Sentence Pairs
        | Nominalisation:: ________________________________________________________
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 

@@ -57,9 +57,8 @@ Accuracy and precision are independent. A result can be accurate but not precise
 
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -129,7 +128,7 @@ Accuracy and precision are independent. A result can be accurate but not precise
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :color: success
-        :class-container: sd-dropdown-container
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 

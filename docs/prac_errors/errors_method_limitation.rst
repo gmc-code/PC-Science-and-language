@@ -130,9 +130,8 @@ the experimental method before data collection begins.
     eliminate this error. *(1 mark)*
 
     .. dropdown::
-        :icon: codescan
-        :color: primary
-        :class-container: sd-dropdown-container
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
