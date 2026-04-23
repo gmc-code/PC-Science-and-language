@@ -35,7 +35,7 @@ Conjunctions of Reason (The "Why")
 6. **Physics:** Do not exceed 5 volts **since** the resistor is prone to overheating at higher currents.
 
 
-.. admonition:: Exercise: Conjunctions of Reason
+.. admonition:: Cloze: Conjunctions of Reason
     :class: cloze
 
     Fill in the gaps with the most appropriate conjunction:
@@ -100,7 +100,7 @@ As vs. Since vs. Because
 Here are 3 targeted questions for each confusable pair, with the disambiguation built into the sentence itself:
 
 
-.. admonition:: As vs. Since
+.. admonition:: Cloze: As vs. Since
     :class: cloze
 
     Fill in the gaps with the most appropriate conjunction:
@@ -123,7 +123,7 @@ Here are 3 targeted questions for each confusable pair, with the disambiguation 
 
 
 
-.. admonition:: Because vs. Since
+.. admonition:: Cloze: Because vs. Since
     :class: cloze
 
     Fill in the gaps with the most appropriate conjunction:
@@ -217,7 +217,7 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
 
 
-.. admonition:: Exercise — Conjunctions of Purpose: Matching Clauses
+.. admonition:: Match — Conjunctions of Purpose: Matching Clauses
     :class: match
 
     Match each **independent clause** (A-D) with the correct **dependent clause** (1-4)
@@ -266,7 +266,7 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
 ----
 
-.. admonition:: Exercise: Reason vs. Purpose
+.. admonition:: Multiple Choice: Reason vs. Purpose
     :class: mcq
 
     Identify whether the bolded conjunction introduces a **Reason** (explaining an existing risk/cause) or a **Purpose** (stating a goal to avoid a potential risk).
@@ -347,27 +347,27 @@ the right one depends on whether you are writing a formal laboratory protocol, o
             .. tab-item:: Q1
                 :sync: q1
 
-                1. **(B) Purpose** — "So that" defines the goal of avoiding contamination.
+                1. **B Purpose** — "So that" defines the goal of avoiding contamination.
 
             .. tab-item:: Q2
                 :sync: q2
 
-                2. **(A) Reason** — "Since" explains the inherent dangerous quality of the compound.
+                2. **A Reason** — "Since" explains the inherent dangerous quality of the compound.
 
             .. tab-item:: Q3
                 :sync: q3
 
-                3. **(B) Purpose** — "In order to" states the specific goal of the safety action.
+                3. **B Purpose** — "In order to" states the specific goal of the safety action.
 
             .. tab-item:: Q4
                 :sync: q4
 
-                4. **(A) Reason** — "As" identifies the underlying cause or existing risk factor.
+                4. **A Reason** — "As" identifies the underlying cause or existing risk factor.
 
             .. tab-item:: Q5
                 :sync: q5
 
-                5. **(B) Purpose** — "In case" prepares for a specific potential event or goal.
+                5. **B Purpose** — "In case" prepares for a specific potential event or goal.
 
 
 
