@@ -342,21 +342,27 @@ div.admonition.match p.admonition-title {
 /* ========================================== */
 
 
-/* --- Base dropdown --- */
+/* BASE */
 .sd-dropdown {
     border-left: 6px solid var(--dropdown-main);
-    background-color: var(--dropdown-bg);
-    border-radius: 6px;
-    overflow: hidden;
+    background: var(--dropdown-bg);
 }
 
-.sd-dropdown .sd-summary {
-    background-color: var(--dropdown-title-bg);
-    color: var(--admonition-text-color);
+/* CLOZE */
+.sd-dropdown.dropdown-cloze {
+    --dropdown-main: var(--cloze-main);
+    --dropdown-bg: var(--cloze-bg);
+    --dropdown-title-bg: var(--cloze-title-bg);
 }
 
-.sd-dropdown .sd-content {
-    background-color: var(--dropdown-bg);
+/* HEADER */
+.sd-dropdown .sd-summary-title {
+    background: var(--dropdown-title-bg);
+}
+
+/* CONTENT */
+.sd-dropdown .sd-summary-content {
+    background: var(--dropdown-bg);
 }
 
 
