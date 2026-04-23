@@ -3,11 +3,10 @@ Report to Procedure
 ========================================
 
 
-Transforming Scientific Writing
-----------------------------------
+Converting a Report to a Procedure
+-------------------------------------
 
-In science, different "voices" are utilized depending on the communicative purpose. A Procedure employs the active voice to provide clear, direct instructions. A Report shifts to the passive voice to describe events objectively, focusing on the experiment rather than the operator.
-Task: Converting a Report to a Procedure
+In science, different "voices", active or passive, are utilized depending on the communicative purpose. A Procedure employs the active voice ("do") to provide clear, direct instructions. A Report uses the passive voice ("was done") to describe events.
 
 This activity involves converting a past-tense report back into a set of instructions. This requires changing the mood of the sentences from declarative (stating a fact) to imperative (giving a command).
 
@@ -22,6 +21,7 @@ Consider the following example of a Report and its corresponding Procedure:
       - Procedure
     * - :participantb:`The acid` :processb:`was added` :circb:`carefully`.
       - :circb:`Carefully`, :processb:`add` :participantb:`the acid`.
+
 
 In a **Passive Voice Report**:
 
