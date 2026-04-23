@@ -145,50 +145,50 @@ Conjunctions of Comparison ("How Like?")
 
             1. **Chemistry:** Stir the copper sulfate crystals into the water _________________ they dissolve completely and the solution becomes uniform in colour.
 
-            | a. like
-            | b. as if
-            | c. in such a way that
-            | d. as though
+                | a. like
+                | b. as if
+                | c. in such a way that
+                | d. as though
 
         .. tab-item:: Q2
             :sync: q2
 
             2. **Physics:** Connect the ammeter to the circuit _________________ a short bridge between the two terminals, keeping both leads as close together as possible.
 
-            | a. through
-            | b. with
-            | c. by
-            | d. like
+                | a. through
+                | b. with
+                | c. by
+                | d. like
 
         .. tab-item:: Q3
             :sync: q3
 
             3. **Biology:** Separate the layers of the onion skin _________________ a pair of forceps, peeling back one thin sheet at a time.
 
-            | a. as
-            | b. in the manner that
-            | c. like
-            | d. with
+                | a. as
+                | b. in the manner that
+                | c. like
+                | d. with
 
         .. tab-item:: Q4
             :sync: q4
 
             4. **Earth Science:** Pour the sand and gravel mixture into the cylinder _________________ tipping a jug, keeping the stream of material narrow and controlled.
 
-            | a. by
-            | b. through
-            | c. as if
-            | d. with
+                | a. by
+                | b. through
+                | c. as if
+                | d. with
 
         .. tab-item:: Q5
             :sync: q5
 
             5. **Chemistry:** Filter the muddy water _________________ the use of filter paper folded into a cone and placed inside the funnel.
 
-            | a. the way that
-            | b. in such a way that
-            | c. as though
-            | d. through
+                | a. the way that
+                | b. in such a way that
+                | c. as though
+                | d. through
 
     .. dropdown:: Check Answers
         :icon: check-circle
