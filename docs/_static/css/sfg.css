@@ -286,9 +286,15 @@ div.admonition.match p.admonition-title {
 /* custom admonition icons */
 /* ========================================== */
 
-.rst-content .admonition-title:before {
-    margin-right: 2em;
+.admonition-title {
+    display: flex;
+    align-items: center;
+    gap: 1.5em;
 }
+
+/* .rst-content .admonition-title:before {
+    margin-right: 2em;
+} */
 
 /* .admonition .admonition-title::before {
     content: none !important;
