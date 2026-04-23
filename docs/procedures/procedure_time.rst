@@ -32,7 +32,7 @@ When? (Point in Time / Sequence)
 5.  **Chemistry:** Remove the crucible from the heat **when** the mass stops changing. (Purpose: End-point Timing)
 
 
-.. admonition:: Exercise: Precision in Sequencing
+.. admonition:: Cloze: Precision in Sequencing
     :class: cloze
 
     Select the most appropriate conjunction (**After**, **As soon as**, **Before**, **Once**, or **When**) to complete these instructions.
@@ -99,7 +99,7 @@ How Long? (Duration / Simultaneity)
 
 
 
-.. admonition:: Exercise: Duration and Simultaneity
+.. admonition:: Cloze: Duration and Simultaneity
     :class: cloze
 
     Fill in the gaps with the most appropriate conjunction:
@@ -157,7 +157,7 @@ How Often? (Frequency / Recurrence)
 2.  **Chemistry:** Neutralize any spills with sodium bicarbonate **whenever** a strong acid is dropped. (Purpose: Contingency)
 
 
-.. admonition:: Exercise: Frequency and Contingency
+.. admonition:: Cloze: Frequency and Contingency
    :class: cloze
 
    Fill in the gaps with the most appropriate conjunction: **Every time** or **Whenever**.
@@ -310,7 +310,7 @@ How Often? (Frequency / Recurrence)
 
 ----
 
-.. admonition:: Exercise: Time, Duration, or Frequency?
+.. admonition:: Multiple Choice: Time, Duration, or Frequency?
     :class: mcq
 
     Identify whether the bolded conjunction specifies a point in time (**When?**), a duration (**How long?**), or a frequency (**How often?**).
