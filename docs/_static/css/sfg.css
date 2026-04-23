@@ -15,8 +15,7 @@ span.rheme {
   border-radius: .25em;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
-  line-height: 1.2;
-  vertical-align: middle;
+  line-height: 1.6;
   border-style: solid;
   border-width: 1px;
 }
@@ -45,8 +44,7 @@ span.rhemeb {
   border-radius: .25em;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
-  line-height: 1.2;
-  vertical-align: middle;
+  line-height: 1.6;
 }
 
 /* Individual backgrounds (using your current color palette) */
