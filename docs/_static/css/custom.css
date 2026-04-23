@@ -6,6 +6,12 @@ readthedocs-flyout {
     opacity: 0.2; */
 }
 
+/* remove read the docs drop down menu for versions */
+
+.switch-menus {
+    display: none !important;
+}
+
 /* ========================================== */
 
 /* inline literals; change colour from built in red to blue */
