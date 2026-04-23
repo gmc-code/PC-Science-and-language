@@ -343,59 +343,54 @@ div.admonition.match p.admonition-title {
 
 
 /* BASE */
-.sd-dropdown {
+details.sd-dropdown {
     border-left: 6px solid var(--dropdown-main);
     background: var(--dropdown-bg);
 }
 
-/* CLOZE */
-.sd-dropdown.dropdown-cloze {
-    --dropdown-main: var(--cloze-main);
-    --dropdown-bg: var(--cloze-bg);
-    --dropdown-title-bg: var(--cloze-title-bg);
-}
-
 /* HEADER */
-.sd-dropdown .sd-summary-title {
+details.sd-dropdown > summary.sd-summary-title {
     background: var(--dropdown-title-bg);
+    color: var(--admonition-text-color);
 }
 
 /* CONTENT */
-.sd-dropdown .sd-summary-content {
+details.sd-dropdown .sd-summary-content {
     background: var(--dropdown-bg);
 }
 
 
-
 /* ========================================== */
 
-/* --- MCQ --- */
-.dropdown-mcq .sd-dropdown {
+/* MCQ */
+details.sd-dropdown.dropdown-mcq {
     --dropdown-main: var(--mcq-main);
     --dropdown-bg: var(--mcq-bg);
     --dropdown-title-bg: var(--mcq-title-bg);
 }
 
 /* CLOZE */
-.dropdown-cloze .sd-dropdown {
+details.sd-dropdown.dropdown-cloze {
     --dropdown-main: var(--cloze-main);
     --dropdown-bg: var(--cloze-bg);
     --dropdown-title-bg: var(--cloze-title-bg);
 }
 
 /* SHORT ANSWER */
-.dropdown-shortanswer .sd-dropdown {
+details.sd-dropdown.dropdown-shortanswer {
     --dropdown-main: var(--shortanswer-main);
     --dropdown-bg: var(--shortanswer-bg);
     --dropdown-title-bg: var(--shortanswer-title-bg);
 }
 
 /* MATCH */
-.dropdown-match .sd-dropdown {
+details.sd-dropdown.dropdown-match {
     --dropdown-main: var(--match-main);
     --dropdown-bg: var(--match-bg);
     --dropdown-title-bg: var(--match-title-bg);
 }
+
+
 
 /* --- Premise --- */
 .dropdown-premise .sd-dropdown {
