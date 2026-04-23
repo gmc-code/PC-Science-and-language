@@ -1,11 +1,9 @@
 /* remove read the docs fly out menu */
 
-/* #readthedocs-flyout {
-    display: none !important;
-} */
-
 readthedocs-flyout {
     display: none !important;
+    /* bottom: -200px !important;
+    opacity: 0.2; */
 }
 
 /* ========================================== */
@@ -59,7 +57,7 @@ div.admonition.answers p.admonition-title{
 div.admonition.question,
 div.admonition.questions{
     color: #404040;
-    border-left: 6px solid gold;
+    border-left: 6px solid #ffd700;
     /* border: 2px solid gold; */
     background-color: rgb(255, 255, 232)!important;
 }

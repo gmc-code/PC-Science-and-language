@@ -13,7 +13,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 
 .. admonition:: Question: Water Boiling
-    :class: questions
+    :class: short
 
     Explain why water turns into water vapour when boiled.
 
@@ -49,7 +49,7 @@ PRO Physical Changes: Declarative Premise Scaffold
 
 
 .. admonition:: Question: Ice Melting
-    :class: questions
+    :class: cloze
 
     Explain why ice melts when heated.
 
