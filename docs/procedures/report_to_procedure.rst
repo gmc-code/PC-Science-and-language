@@ -14,7 +14,7 @@ Consider the following example of a Report and its corresponding Procedure:
 
 .. list-table:: Report vs. Procedure
     :header-rows: 1
-    :widths: 40 40 20
+    :widths: 40 40
     :class: relaxed-logic-table
 
     * - Report
@@ -42,6 +42,7 @@ To convert a Report into a Procedure, make the following changes:
 3. **Reorder the Clause:** Swap the position of the Participant and the Process so the action leads the way. Change *"the bung was replaced"* to *"replace the bung"*.
 4. **Reposition the Circumstances (Adverbs)**: Move adverbs of manner or timing (like carefully, briefly, or immediately) from the end of the sentence to the front. In a procedure, these provide important context before the reader performs the step. For example, change "The bung was removed briefly" to ":circ:`Briefly`, :process:`remove` :participant:`the bung`."
 
+
 .. list-table:: Passive to Active Conversion Example
     :header-rows: 1
     :widths: 45 45
@@ -52,6 +53,7 @@ To convert a Report into a Procedure, make the following changes:
       - :circ:`Then`, :process:`replace` :participant:`the bung`.
     * - :circ:`Next`, :participant:`the acid` :process:`was added`.
       - :circ:`Next`, :process:`add` :participant:`the acid`.
+
 
 .. list-table:: Adverb Positioning: Report vs. Procedure
     :header-rows: 1
