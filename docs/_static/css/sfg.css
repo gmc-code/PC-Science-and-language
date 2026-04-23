@@ -344,7 +344,7 @@ div.admonition.match p.admonition-title {
 
 /* BASE */
 details.sd-dropdown {
-    border-left: 6px solid var(--dropdown-main);
+    border-left: 1px solid var(--dropdown-main);
     background: var(--dropdown-bg);
 }
 
