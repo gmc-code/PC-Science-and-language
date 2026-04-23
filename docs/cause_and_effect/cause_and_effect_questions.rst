@@ -49,7 +49,7 @@ Cause and effect questions
             .. tab-item:: Model Answer
 
                 The air inside the container expands.
-                As a result, the pressure inside the container increases.
+                :conj:`As a result`, the pressure inside the container increases.
 
 
 .. admonition:: Pattern 3: Conjunction (hence)
@@ -73,7 +73,7 @@ Cause and effect questions
             .. tab-item:: Model Answer
 
                 Calcium ions combine with carbonate ions to form an
-                insoluble solid, hence a cloudy white precipitate appears
+                insoluble solid, :conj:`hence` a cloudy white precipitate appears
                 in the solution.
 
 
@@ -100,7 +100,7 @@ Cause and effect questions
 
                 | **nomR:** The rapid cooling of warm water vapour on contact with a cold surface.
 
-                Due to the rapid cooling of warm water vapour on contact with a cold surface, tiny droplets of liquid water form.
+                :conj:`Due to` the rapid cooling of warm water vapour on contact with a cold surface, tiny droplets of liquid water form.
 
 
 
@@ -127,7 +127,7 @@ Cause and effect questions
                 | **nomR:** The rapid combustion of methane gas in oxygen.
                 | **nomO:** The production of a bright flame.
 
-                The rapid combustion of methane gas in oxygen causes the
+                The rapid combustion of methane gas in oxygen **:conj:`causes`** the
                 production of a bright flame.
 
 
@@ -154,8 +154,8 @@ Cause and effect questions
                 | **nomR:** The even spreading of food colouring through the water.
                 | **nomO:** The lightening of colour throughout the water.
 
-                The result of the even spreading of food colouring through
-                the water is the lightening of colour throughout the water.
+                *The result of* the even spreading of food colouring through
+                the water *is* the lightening of colour throughout the water.
 
 
 .. admonition:: Pattern 7: Conjunction (O because R)
