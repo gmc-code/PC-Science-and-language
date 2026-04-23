@@ -338,6 +338,90 @@ div.admonition.match p.admonition-title {
 }
 
 /* ========================================== */
+/* dropdown styling */
+/* ========================================== */
+
+
+/* --- Base dropdown styling --- */
+.sd-dropdown {
+    border-left: 6px solid var(--dropdown-main);
+    background-color: var(--dropdown-bg);
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+/* Header */
+.sd-dropdown .sd-summary {
+    background-color: var(--dropdown-title-bg);
+    color: var(--admonition-text-color);
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+/* Content */
+.sd-dropdown .sd-content {
+    background-color: var(--dropdown-bg);
+}
+
+/* Hover polish */
+.sd-dropdown .sd-summary:hover {
+    filter: brightness(0.96);
+}
+
+
+
+/* ========================================== */
+
+/* --- MCQ --- */
+.sd-dropdown.mcq {
+    --dropdown-main: var(--mcq-main);
+    --dropdown-bg: var(--mcq-bg);
+    --dropdown-title-bg: var(--mcq-title-bg);
+}
+
+/* --- CLOZE --- */
+.sd-dropdown.cloze {
+    --dropdown-main: var(--cloze-main);
+    --dropdown-bg: var(--cloze-bg);
+    --dropdown-title-bg: var(--cloze-title-bg);
+}
+
+/* --- SHORT ANSWER --- */
+.sd-dropdown.shortanswer {
+    --dropdown-main: var(--shortanswer-main);
+    --dropdown-bg: var(--shortanswer-bg);
+    --dropdown-title-bg: var(--shortanswer-title-bg);
+}
+
+/* --- MATCH --- */
+.sd-dropdown.match {
+    --dropdown-main: var(--match-main);
+    --dropdown-bg: var(--match-bg);
+    --dropdown-title-bg: var(--match-title-bg);
+}
+
+/* --- Premise --- */
+.sd-dropdown.premise {
+    --dropdown-main: var(--premise-main);
+    --dropdown-bg: var(--premise-bg);
+    --dropdown-title-bg: var(--premise-title-bg);
+}
+
+/* --- Reasoning --- */
+.sd-dropdown.reasoning {
+    --dropdown-main: var(--reasoning-main);
+    --dropdown-bg: var(--reasoning-bg);
+    --dropdown-title-bg: var(--reasoning-title-bg);
+}
+
+/* --- Outcome --- */
+.sd-dropdown.outcome {
+    --dropdown-main: var(--outcome-main);
+    --dropdown-bg: var(--outcome-bg);
+    --dropdown-title-bg: var(--outcome-title-bg);
+}
+
+/* ========================================== */
 
 
 .pro-answer {
