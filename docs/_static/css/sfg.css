@@ -286,6 +286,9 @@ div.admonition.match p.admonition-title {
 /* custom admonition icons */
 /* ========================================== */
 
+.rst-content .admonition-title:before {
+    margin-right: 2em;
+}
 
 /* .admonition .admonition-title::before {
     content: none !important;
