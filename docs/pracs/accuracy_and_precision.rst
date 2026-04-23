@@ -81,6 +81,7 @@ Accuracy and precision are independent. A result can be accurate but not precise
         :sync-group: set1
 
         .. tab-item:: Q1
+            :sync: q1
 
             1. Which situation shows **high accuracy and high precision**?
 
@@ -90,6 +91,7 @@ Accuracy and precision are independent. A result can be accurate but not precise
                 | d. Measurements far from the true value and scattered
 
         .. tab-item:: Q2
+            :sync: q2
 
             2. Which situation shows **high accuracy but low precision**?
 
@@ -99,6 +101,7 @@ Accuracy and precision are independent. A result can be accurate but not precise
                 | d. Readings that are consistently too high due to zero error
 
         .. tab-item:: Q3
+            :sync: q3
 
             3. Which situation shows **low accuracy but high precision**?
 
@@ -108,6 +111,7 @@ Accuracy and precision are independent. A result can be accurate but not precise
                 | d. A faulty scale giving consistent readings that are all too high
 
         .. tab-item:: Q4
+            :sync: q4
 
             4. Which situation shows **low accuracy and low precision**?
 
@@ -117,6 +121,7 @@ Accuracy and precision are independent. A result can be accurate but not precise
                 | d. Results that are correct and repeatable
 
         .. tab-item:: Q5
+            :sync: q5
 
             5. What type of error most often causes **low accuracy but high precision**?
 
@@ -134,22 +139,27 @@ Accuracy and precision are independent. A result can be accurate but not precise
             :sync-group: set1
 
             .. tab-item:: Q1
+                :sync: q1
 
                 1. a — Measurements close to the true value and close to each other
 
             .. tab-item:: Q2
+                :sync: q2
 
                 2. a — Readings that average to the true value but vary widely
 
             .. tab-item:: Q3
+                :sync: q3
 
                 3. d — A faulty scale giving consistent readings that are all too high
 
             .. tab-item:: Q4
+                :sync: q4
 
                 4. c — Results that are neither close to the true value nor to each other
 
             .. tab-item:: Q5
+                :sync: q5
 
                 5. b — Systematic error
 

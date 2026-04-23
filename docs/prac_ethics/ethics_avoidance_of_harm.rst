@@ -63,6 +63,7 @@ Examples
         :sync-group: set1
 
         .. tab-item:: Q1
+            :sync: q1
 
             1. Which action best demonstrates avoidance of harm in field research?
 
@@ -72,6 +73,7 @@ Examples
                 | d. Observing animals without disturbing their natural behaviour
 
         .. tab-item:: Q2
+            :sync: q2
 
             2. Why should researchers use simulations or models when possible?
 
@@ -81,6 +83,7 @@ Examples
                 | d. They are always faster to run
 
         .. tab-item:: Q3
+            :sync: q3
 
             3. When should an experiment be ended early?
 
@@ -90,6 +93,7 @@ Examples
                 | d. When the results are not what the researcher expected
 
         .. tab-item:: Q4
+            :sync: q4
 
             4. Why is it important to keep survey responses private?
 
@@ -99,6 +103,7 @@ Examples
                 | d. It makes data analysis easier
 
         .. tab-item:: Q5
+            :sync: q5
 
             5. Which action shows responsible handling of protected environments?
 
@@ -116,22 +121,27 @@ Examples
         :sync-group: set1
 
             .. tab-item:: Q1
+                :sync: q1
 
                 1. d. Observing animals without disturbing their natural behaviour
 
             .. tab-item:: Q2
+                :sync: q2
 
                 2. a. They reduce the need to involve live animals
 
             .. tab-item:: Q3
+                :sync: q3
 
                 3. c. When it causes unexpected suffering to participants
 
             .. tab-item:: Q4
+                :sync: q4
 
                 4. a. It protects individuals from potential harm or misuse of information
 
             .. tab-item:: Q5
+                :sync: q5
 
                 5. d. Staying on approved paths and obtaining required permits
 

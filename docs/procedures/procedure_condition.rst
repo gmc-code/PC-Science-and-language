@@ -105,51 +105,80 @@ to specify when an action is valid, necessary, or to be avoided.*
 
     Choose the most appropriate conjunction to complete each sentence.
 
-    1. **Biology:** Begin the dissection __________ your teacher has
-       handed out the safety instructions and checked your workstation.
+    .. tab-set::
+        :sync-group: set1
 
-       | a. if
-       | b. provided that
-       | c. unless
-       | d. whether or not
+        .. tab-item:: Q1
+            :sync: q1
 
-    2. **Chemistry:** Label your test tube with your name and the
-       substance inside __________ you plan to use it straight away
-       or leave it until the next lesson.
+            1. **Biology:** Begin the dissection __________ your teacher has
+            handed out the safety instructions and checked your workstation.
 
-       | a. if
-       | b. provided that
-       | c. unless
-       | d. whether or not
+            | a. if
+            | b. provided that
+            | c. unless
+            | d. whether or not
 
-    3. **Physics:** Switch on the fan __________ the temperature
-       of the resistor rises above 40 °C during the investigation.
+        .. tab-item:: Q2
+            :sync: q2
 
-       | a. if
-       | b. provided that
-       | c. unless
-       | d. whether or not
+            2. **Chemistry:** Label your test tube with your name and the
+            substance inside __________ you plan to use it straight away
+            or leave it until the next lesson.
 
-    4. **Earth Science:** Do not collect the rock sample __________
-       you are wearing protective gloves and safety goggles.
+            | a. if
+            | b. provided that
+            | c. unless
+            | d. whether or not
 
-       | a. if
-       | b. provided that
-       | c. unless
-       | d. whether or not
+        .. tab-item:: Q3
+            :sync: q3
+
+            3. **Physics:** Switch on the fan __________ the temperature
+            of the resistor rises above 40 °C during the investigation.
+
+            | a. if
+            | b. provided that
+            | c. unless
+            | d. whether or not
+
+        .. tab-item:: Q4
+            :sync: q4
+
+            4. **Earth Science:** Do not collect the rock sample __________
+            you are wearing protective gloves and safety goggles.
+
+            | a. if
+            | b. provided that
+            | c. unless
+            | d. whether or not
 
     .. dropdown:: Check Answers
         :icon: check-circle
         :class-container: dropdown-mcq
 
         .. tab-set::
+            :sync-group: set1
 
-            .. tab-item:: Model Answer
+            .. tab-item:: Q1
+                :sync: q1
 
-                1. b. **provided that**
-                2. d. **whether or not**
-                3. a. **if**
-                4. c. **unless**
+                    1. b. **provided that**
+
+            .. tab-item:: Q2
+                :sync: q2
+
+                      2. d. **whether or not**
+
+            .. tab-item:: Q3
+                :sync: q3
+
+                      3. a. **if**
+
+            .. tab-item:: Q4
+                :sync: q4
+
+                      4. c. **unless**
 
 
 

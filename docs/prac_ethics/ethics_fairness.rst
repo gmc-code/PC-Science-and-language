@@ -61,6 +61,7 @@ Examples
         :sync-group: set1
 
         .. tab-item:: Q1
+            :sync: q1
 
             1. Why is it important to let people choose whether to participate in a study?
 
@@ -70,6 +71,7 @@ Examples
                 | d. It makes the study faster
 
         .. tab-item:: Q2
+            :sync: q2
 
             2. What makes a survey question fair?
 
@@ -79,6 +81,7 @@ Examples
                 | d. Using complex scientific terms
 
         .. tab-item:: Q3
+            :sync: q3
 
             3. What is an example of unbiased data interpretation?
 
@@ -88,6 +91,7 @@ Examples
                 | d. Ignoring results that don't fit expectations
 
         .. tab-item:: Q4
+            :sync: q4
 
             4. Why should a study include a diverse sample?
 
@@ -97,6 +101,7 @@ Examples
                 | d. To ensure conclusions apply fairly to different groups
 
         .. tab-item:: Q5
+            :sync: q5
 
             5. Why is open access important for fairness in science?
 
@@ -114,22 +119,27 @@ Examples
             :sync-group: set1
 
             .. tab-item:: Q1
+                :sync: q1
 
                 1. a — It ensures participation is voluntary
 
             .. tab-item:: Q2
+                :sync: q2
 
                 2. b — Writing it in plain, understandable language
 
             .. tab-item:: Q3
+                :sync: q3
 
                 3. a — Applying the same criteria to all data
 
             .. tab-item:: Q4
+                :sync: q4
 
                 4. d — To ensure conclusions apply fairly to different groups
 
             .. tab-item:: Q5
+                :sync: q5
 
                 5. c — It allows all researchers to use and build on the findings
 

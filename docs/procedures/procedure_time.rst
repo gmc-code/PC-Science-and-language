@@ -277,92 +277,139 @@ How Often? (Frequency / Recurrence)
 
     Identify whether the bolded conjunction specifies a point in time (**When?**), a duration (**How long?**), or a frequency (**How often?**).
 
-    1. **Biology:** Record the temperature of the water bath **as soon as** the first bubbles appear on the leaf surface.
+    .. tab-set::
+        :sync-group: set1
 
-    .. grid:: 3
-        :gutter: 2
+        .. tab-item:: Q1
+            :sync: q1
 
-        .. grid-item::
-            (A) When?
-        .. grid-item::
-            (B) How long?
-        .. grid-item::
-            (C) How often?
+            1. **Biology:** Record the temperature of the water bath **as soon as** the first bubbles appear on the leaf surface.
 
-    2. **Physics:** Maintain the connection to the battery **as long as** the electromagnet is required to hold the metal washers.
+            .. grid:: 3
+                :gutter: 2
 
-    .. grid:: 3
-        :gutter: 2
+                .. grid-item::
+                    (A) When?
+                .. grid-item::
+                    (B) How long?
+                .. grid-item::
+                    (C) How often?
 
-        .. grid-item::
-            (A) When?
-        .. grid-item::
-            (B) How long?
-        .. grid-item::
-            (C) How often?
 
-    3. **Chemistry:** Rinse the thermometer with deionized water **every time** you move it between the two different beakers.
+        .. tab-item:: Q2
+            :sync: q2
 
-    .. grid:: 3
-        :gutter: 2
+            2. **Physics:** Maintain the connection to the battery **as long as** the electromagnet is required to hold the metal washers.
 
-        .. grid-item::
-            (A) When?
-        .. grid-item::
-            (B) How long?
-        .. grid-item::
-            (C) How often?
+            .. grid:: 3
+                :gutter: 2
 
-    4. **Earth Science:** Do not begin the erosion simulation **until** the sand has been leveled perfectly across the tray.
+                .. grid-item::
+                    (A) When?
+                .. grid-item::
+                    (B) How long?
+                .. grid-item::
+                    (C) How often?
 
-    .. grid:: 3
-        :gutter: 2
 
-        .. grid-item::
-            (A) When?
-        .. grid-item::
-            (B) How long?
-        .. grid-item::
-            (C) How often?
+        .. tab-item:: Q3
+            :sync: q3
 
-    5. **Physics:** Note the position of the trolley **when** the stopwatch reaches exactly five seconds.
+            3. **Chemistry:** Rinse the thermometer with deionized water **every time** you move it between the two different beakers.
 
-    .. grid:: 3
-        :gutter: 2
+            .. grid:: 3
+                :gutter: 2
 
-        .. grid-item::
-            (A) When?
-        .. grid-item::
-            (B) How long?
-        .. grid-item::
-            (C) How often?
+                .. grid-item::
+                    (A) When?
+                .. grid-item::
+                    (B) How long?
+                .. grid-item::
+                    (C) How often?
 
-    6. **Biology:** Check the heart rate of the daphnia **whenever** a new drop of caffeine solution is added to the slide.
 
-    .. grid:: 3
-        :gutter: 2
+        .. tab-item:: Q4
+            :sync: q4
 
-        .. grid-item::
-            (A) When?
-        .. grid-item::
-            (B) How long?
-        .. grid-item::
-            (C) How often?
+            4. **Earth Science:** Do not begin the erosion simulation **until** the sand has been leveled perfectly across the tray.
+
+            .. grid:: 3
+                :gutter: 2
+
+                .. grid-item::
+                    (A) When?
+                .. grid-item::
+                    (B) How long?
+                .. grid-item::
+                    (C) How often?
+
+
+        .. tab-item:: Q5
+            :sync: q5
+
+            5. **Physics:** Note the position of the trolley **when** the stopwatch reaches exactly five seconds.
+
+            .. grid:: 3
+                :gutter: 2
+
+                .. grid-item::
+                    (A) When?
+                .. grid-item::
+                    (B) How long?
+                .. grid-item::
+                    (C) How often?
+
+
+        .. tab-item:: Q6
+            :sync: q6
+
+            6. **Biology:** Check the heart rate of the daphnia **whenever** a new drop of caffeine solution is added to the slide.
+
+            .. grid:: 3
+                :gutter: 2
+
+                .. grid-item::
+                    (A) When?
+                .. grid-item::
+                    (B) How long?
+                .. grid-item::
+                    (C) How often?
 
     .. dropdown:: Check Answers
         :icon: check-circle
         :class-container: dropdown-mcq
 
         .. tab-set::
+            :sync-group: set1
 
-            .. tab-item:: Model Answer
+            .. tab-item:: Q1
+                :sync: q1
 
                 1. **(A) When?** — "As soon as" marks a specific trigger point in a sequence.
-                2. **(B) How long?** — "As long as" describes a duration based on a condition.
-                3. **(C) How often?** — "Every time" indicates a repeated requirement.
-                4. **(B) How long?** — "Until" defines the duration or end-point of a wait.
-                5. **(A) When?** — "When" marks an exact moment in time.
-                6. **(C) How often?** — "Whenever" indicates a recurring contingency.
 
+            .. tab-item:: Q2
+                :sync: q2
+
+                2. **(B) How long?** — "As long as" describes a duration based on a condition.
+
+            .. tab-item:: Q3
+                :sync: q3
+
+                3. **(C) How often?** — "Every time" indicates a repeated requirement.
+
+            .. tab-item:: Q4
+                :sync: q4
+
+                4. **(B) How long?** — "Until" defines the duration or end-point of a wait.
+
+            .. tab-item:: Q5
+                :sync: q5
+
+                5. **(A) When?** — "When" marks an exact moment in time.
+
+            .. tab-item:: Q6
+                :sync: q6
+
+                6. **(C) How often?** — "Whenever" indicates a recurring contingency.
 
 

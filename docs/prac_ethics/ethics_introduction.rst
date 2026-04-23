@@ -70,6 +70,7 @@ General Ethical Principles
         :sync-group: set1
 
         .. tab-item:: Q1
+            :sync: q1
 
             1. Which action best demonstrates ethical behaviour in scientific research?
 
@@ -79,6 +80,7 @@ General Ethical Principles
                 | d. Sharing personal information without consent
 
         .. tab-item:: Q2
+            :sync: q2
 
             2. Why is it important to minimise risks during an investigation?
 
@@ -88,6 +90,7 @@ General Ethical Principles
                 | d. It avoids the need for safety equipment
 
         .. tab-item:: Q3
+            :sync: q3
 
             3. Which action shows fairness in data interpretation?
 
@@ -97,6 +100,7 @@ General Ethical Principles
                 | d. Changing results to match predictions
 
         .. tab-item:: Q4
+            :sync: q4
 
             4. Why must researchers obtain consent before collecting personal information?
 
@@ -106,6 +110,7 @@ General Ethical Principles
                 | d. It reduces the need for follow-up questions
 
         .. tab-item:: Q5
+            :sync: q5
 
             5. Which example best demonstrates commitment to doing good?
 
@@ -117,30 +122,35 @@ General Ethical Principles
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-                :class-container: dropdown-mcq
+        :class-container: dropdown-mcq
 
         .. tab-set::
             :sync-group: set1
 
             .. tab-item:: Q1
+                :sync: q1
 
                 1. a — Reporting findings truthfully
 
             .. tab-item:: Q2
+                :sync: q2
 
                 2. b — It ensures the safety of people, animals, and the environment
 
             .. tab-item:: Q3
+                :sync: q3
 
                 3. c — Interpreting all data without bias
 
             .. tab-item:: Q4
+                :sync: q4
 
                 4. b — It protects participants' rights and dignity
 
             .. tab-item:: Q5
+                :sync: q5
 
-               1. d — Applying findings to improve people's lives
+                5. d — Applying findings to improve people's lives
 
 
 

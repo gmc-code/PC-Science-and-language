@@ -137,62 +137,94 @@ Conjunctions of Comparison ("How Like?")
 
     Choose the most appropriate conjunction to complete each sentence.
 
-    1. **Chemistry:** Stir the copper sulfate crystals into the water _________________ they dissolve completely and the solution becomes uniform in colour.
+    .. tab-set::
+        :sync-group: set1
 
-       | a. like
-       | b. as if
-       | c. in such a way that
-       | d. as though
+        .. tab-item:: Q1
+            :sync: q1
 
-    2. **Physics:** Connect the ammeter to the circuit _________________ a short bridge between the two terminals, keeping both leads as close together as possible.
+            1. **Chemistry:** Stir the copper sulfate crystals into the water _________________ they dissolve completely and the solution becomes uniform in colour.
 
-       | a. through
-       | b. with
-       | c. by
-       | d. like
+            | a. like
+            | b. as if
+            | c. in such a way that
+            | d. as though
 
-    3. **Biology:** Separate the layers of the onion skin _________________ a pair of forceps, peeling back one thin sheet at a time.
+        .. tab-item:: Q2
+            :sync: q2
 
-       | a. as
-       | b. in the manner that
-       | c. like
-       | d. with
+            2. **Physics:** Connect the ammeter to the circuit _________________ a short bridge between the two terminals, keeping both leads as close together as possible.
 
-    4. **Earth Science:** Pour the sand and gravel mixture into the cylinder _________________ tipping a jug, keeping the stream of material narrow and controlled.
+            | a. through
+            | b. with
+            | c. by
+            | d. like
 
-       | a. by
-       | b. through
-       | c. as if
-       | d. with
+        .. tab-item:: Q3
+            :sync: q3
 
-    5. **Chemistry:** Filter the muddy water _________________ the use of filter paper folded into a cone and placed inside the funnel.
+            3. **Biology:** Separate the layers of the onion skin _________________ a pair of forceps, peeling back one thin sheet at a time.
 
-       | a. the way that
-       | b. in such a way that
-       | c. as though
-       | d. through
+            | a. as
+            | b. in the manner that
+            | c. like
+            | d. with
+
+        .. tab-item:: Q4
+            :sync: q4
+
+            4. **Earth Science:** Pour the sand and gravel mixture into the cylinder _________________ tipping a jug, keeping the stream of material narrow and controlled.
+
+            | a. by
+            | b. through
+            | c. as if
+            | d. with
+
+        .. tab-item:: Q5
+            :sync: q5
+
+            5. **Chemistry:** Filter the muddy water _________________ the use of filter paper folded into a cone and placed inside the funnel.
+
+            | a. the way that
+            | b. in such a way that
+            | c. as though
+            | d. through
 
     .. dropdown:: Check Answers
         :icon: check-circle
         :class-container: dropdown-mcq
 
         .. tab-set::
+            :sync-group: set1
 
-            .. tab-item:: Model Answer
+            .. tab-item:: Q1
+                :sync: q1
 
                 1. **c. in such a way that** — emphasises the manner
-                   of stirring by specifying its intended outcome
-                   (uniform colour).
+                    of stirring by specifying its intended outcome
+                    (uniform colour).
+
+            .. tab-item:: Q2
+                :sync: q2
 
                 2. **d. like** — compares the ammeter's position to
                    a familiar object (a short bridge).
 
+            .. tab-item:: Q3
+                :sync: q3
+
                 3. **d. with** — specifies the tool held and used to
                    perform the action (forceps).
+
+            .. tab-item:: Q4
+                :sync: q4
 
                 4. **c. as if** — describes the manner of pouring
                    through a hypothetical illustration (tipping a
                    jug).
+
+            .. tab-item:: Q5
+                :sync: q5
 
                 5. **d. through** — introduces the underlying process
                    or medium (*through the use of*) by which

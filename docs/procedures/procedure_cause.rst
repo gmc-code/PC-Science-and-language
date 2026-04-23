@@ -274,62 +274,104 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
     Identify whether the bolded conjunction introduces a **Reason** (explaining an existing risk/cause) or a **Purpose** (stating a goal to avoid a potential risk).
 
-    1. **Biology:** Seal the petri dishes with Parafilm **so that** airborne fungal spores do not contaminate the culture.
+    .. tab-set::
+        :sync-group: set1
 
-    .. grid:: 4
-        :gutter: 2
+        .. tab-item:: Q1
+            :sync: q1
 
-        .. grid-item::
-            (A) Reason
-        .. grid-item::
-            (B) Purpose
+            1. **Biology:** Seal the petri dishes with Parafilm **so that** airborne fungal spores do not contaminate the culture.
 
-    2. **Chemistry:** Do not inhale the vapors directly **since** the compound is a known respiratory irritant.
+            .. grid:: 4
+                :gutter: 2
 
-    .. grid:: 4
-        :gutter: 2
+                .. grid-item::
+                    (A) Reason
+                .. grid-item::
+                    (B) Purpose
 
-        .. grid-item::
-            (A) Reason
-        .. grid-item::
-            (B) Purpose
+        .. tab-item:: Q2
+            :sync: q2
 
-    3. **Physics:** Wear insulated gloves **in order to** prevent accidental electrical discharge while handling the Van de Graaff generator.
-    .. grid:: 4
-        :gutter: 2
+            2. **Chemistry:** Do not inhale the vapors directly **since** the compound is a known respiratory irritant.
 
-        .. grid-item::
-            (A) Reason
-        .. grid-item::
-            (B) Purpose
+            .. grid:: 4
+                :gutter: 2
 
-    4. **Earth Science:** Wear safety goggles **as** the risk of flying rock fragments is high when using a rock hammer.
+                .. grid-item::
+                    (A) Reason
+                .. grid-item::
+                    (B) Purpose
 
-    .. grid:: 4
-        :gutter: 2
-        .. grid-item::
-            (A) Reason
-        .. grid-item::
-            (B) Purpose
+        .. tab-item:: Q3
+            :sync: q3
 
-    5. **Chemistry:** Keep a neutralizing agent nearby **in case** a corrosive liquid is spilled during the titration.
-    .. grid:: 4
-        :gutter: 2
-        .. grid-item::
-            (A) Reason
-        .. grid-item::
-            (B) Purpose
+            3. **Physics:** Wear insulated gloves **in order to** prevent accidental electrical discharge while handling the Van de Graaff generator.
+
+            .. grid:: 4
+                :gutter: 2
+
+                .. grid-item::
+                    (A) Reason
+                .. grid-item::
+                    (B) Purpose
+
+        .. tab-item:: Q4
+            :sync: q4
+
+            4. **Earth Science:** Wear safety goggles **as** the risk of flying rock fragments is high when using a rock hammer.
+
+            .. grid:: 4
+                :gutter: 2
+                .. grid-item::
+                    (A) Reason
+                .. grid-item::
+                    (B) Purpose
+
+        .. tab-item:: Q5
+            :sync: q5
+
+            5. **Chemistry:** Keep a neutralizing agent nearby **in case** a corrosive liquid is spilled during the titration.
+
+            .. grid:: 4
+                :gutter: 2
+                .. grid-item::
+                    (A) Reason
+                .. grid-item::
+                    (B) Purpose
 
     .. dropdown:: Check Answers
         :icon: check-circle
         :class-container: dropdown-match
 
-        .. tab-set::
+   .. tab-set::
+        :sync-group: set1
 
-            .. tab-item:: Model Answer
+        .. tab-item:: Q1
+            :sync: q1
 
-                1. **(B) Purpose** — "So that" defines the goal of avoiding contamination.
-                2. **(A) Reason** — "Since" explains the inherent dangerous quality of the compound.
-                3. **(B) Purpose** — "In order to" states the specific goal of the safety action.
-                4. **(A) Reason** — "As" identifies the underlying cause or existing risk factor.
-                5. **(B) Purpose** — "In case" prepares for a specific potential event or goal.
+            1. **(B) Purpose** — "So that" defines the goal of avoiding contamination.
+
+        .. tab-item:: Q2
+            :sync: q2
+
+            2. **(A) Reason** — "Since" explains the inherent dangerous quality of the compound.
+
+        .. tab-item:: Q3
+            :sync: q3
+
+            3. **(B) Purpose** — "In order to" states the specific goal of the safety action.
+
+        .. tab-item:: Q4
+            :sync: q4
+
+            4. **(A) Reason** — "As" identifies the underlying cause or existing risk factor.
+
+        .. tab-item:: Q5
+            :sync: q5
+
+            5. **(B) Purpose** — "In case" prepares for a specific potential event or goal.
+
+
+
+

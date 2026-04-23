@@ -60,8 +60,10 @@ Examples
     Choose the best answer for each question.
 
     .. tab-set::
+        :sync-group: set1
 
         .. tab-item:: Q1
+            :sync: q1
 
             1. Which action best reflects the principle of doing good in scientific research?
 
@@ -71,6 +73,7 @@ Examples
                 | d. Designing experiments that have no clear purpose
 
         .. tab-item:: Q2
+            :sync: q2
 
             2. Why should scientists ensure their investigations have a clear educational or social purpose?
 
@@ -80,6 +83,7 @@ Examples
                 | d. It helps maximise the positive impact of the research
 
         .. tab-item:: Q3
+            :sync: q3
 
             3. When is it appropriate to involve animals in scientific research?
 
@@ -89,6 +93,7 @@ Examples
                 | d. When there is a clear and meaningful benefit
 
         .. tab-item:: Q4
+            :sync: q4
 
             4. Why should scientists share their findings openly?
 
@@ -98,6 +103,7 @@ Examples
                 | d. To increase competition between research groups
 
         .. tab-item:: Q5
+            :sync: q5
 
             5. Which example best demonstrates applying findings for the good of society?
 
@@ -112,24 +118,30 @@ Examples
         :class-container: dropdown-mcq
 
         .. tab-set::
+            :sync-group: set1
 
             .. tab-item:: Q1
+                :sync: q1
 
                1. a — Choosing research questions that benefit the community
 
             .. tab-item:: Q2
+                :sync: q2
 
                2. d — It helps maximise the positive impact of the research
 
             .. tab-item:: Q3
+                :sync: q3
 
                3. d — When there is a clear and meaningful benefit
 
             .. tab-item:: Q4
+                :sync: q4
 
                4. a — To allow the wider community to benefit from the results
 
             .. tab-item:: Q5
+                :sync: q5
 
                5. c — Applying results to improve people's lives
 

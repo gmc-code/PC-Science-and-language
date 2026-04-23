@@ -59,9 +59,10 @@ Examples
     Choose the best answer for each question.
 
     .. tab-set::
+        :sync-group: set1
 
         .. tab-item:: Q1
-
+            :sync: q1
 
             1. Which action best demonstrates respect for research participants?
 
@@ -70,12 +71,18 @@ Examples
                 | c. Encouraging participants to stay even if they feel uncomfortable
                 | d. Sharing participant data with other groups for convenience
 
+        .. tab-item:: Q2
+            :sync: q2
+
             2. Why is it important to seek permission before entering cultural sites?
 
                 | a. It ensures respectful behaviour toward communities connected to the site
                 | b. It reduces the amount of paperwork required
                 | c. It guarantees more accurate scientific results
                 | d. It allows researchers to avoid safety training
+
+        .. tab-item:: Q3
+            :sync: q3
 
             3. Which action shows respect when working with biological material?
 
@@ -84,12 +91,18 @@ Examples
                 | c. Allowing untrained individuals to assist
                 | d. Ignoring safety guidelines if the risk seems low
 
+        .. tab-item:: Q4
+            :sync: q4
+
             4. Why should researchers cite funding bodies and data providers?
 
                 | a. To make the report appear longer
                 | b. To follow formatting rules only
                 | c. To acknowledge the contributions of those who supported the work
                 | d. To reduce the number of references needed
+
+        .. tab-item:: Q5
+            :sync: q5
 
             5. Which example best demonstrates respect for laboratory animals?
 
@@ -104,11 +117,32 @@ Examples
         :class-container: dropdown-mcq
 
         .. tab-set::
+            :sync-group: set1
 
-            .. tab-item:: Answers
+            .. tab-item:: Q1
+                :sync: q1
 
                 1. b — Allowing participants to withdraw from the study at any point
+
+            .. tab-item:: Q2
+                :sync: q2
+
                 2. a — It ensures respectful behaviour toward communities connected to the site
+
+            .. tab-item:: Q3
+                :sync: q3
+
                 3. b — Behaving respectfully and following proper procedures
+
+            .. tab-item:: Q4
+                :sync: q4
+
                 4. c — To acknowledge the contributions of those who supported the work
+
+            .. tab-item:: Q5
+                :sync: q5
+
                 5. b — Providing enrichment and social housing appropriate to the species
+
+
+
