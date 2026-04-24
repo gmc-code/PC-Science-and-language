@@ -14,21 +14,27 @@ Accuracy and precision are independent. A result can be accurate but not precise
 
 ----
 
+.. image:: images/accuracy_and_precision.jpg
+   :alt: accuracy_and_precision
+   :align: center
+   :scale: 50%
+
+
 | **Accuracy** — how close a measurement is to the true or accepted value.
 | **Precision** — how close repeated measurements are to each other.
-|
+
 | **High Accuracy + High Precision**
 | Example: A 50.00 g mass measured as 49.99 g, 50.01 g, 50.00 g.
 | → Correct and consistent.
-|
+
 | **High Accuracy + Low Precision**
 | Example: A 25°C water bath measured as 22°C, 27°C, 25°C, 26°C.
 | → Correct on average but scattered.
-|
+
 | **Low Accuracy + High Precision**
 | Example: A scale with a +5 g zero error measuring 50 g as 55.0 g, 55.1 g.
 | → Consistent but wrong (systematic error).
-|
+
 | **Low Accuracy + Low Precision**
 | Example: A worn spring balance measuring 200 g as 150 g, 230 g, 180 g, 260 g.
 | → Wrong and inconsistent.
