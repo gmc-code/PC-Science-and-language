@@ -39,7 +39,9 @@ Aim:
 
 ----
 
-.. admonition:: Fill in the Gaps Questions
+The following questions use identical wording for variables in the investigation description and in the  naming of the variables and in the aim.
+
+.. admonition:: Fill in the Gaps — Aims
     :class: cloze
 
     Answer each question.
@@ -55,10 +57,10 @@ Aim:
             **Word list (A → Z):**
             dissolve • temperature • time
 
-            A student is investigating how heating water affects how quickly sugar disappears when stirred.
+            A student is investigating how the temperature of water affects the time taken for sugar to dissolve.
 
-            1. The independent variable (IV) is the _____________________ of the water.
-            2. The dependent variable (DV) is the _____________________ taken for the sugar to _____________________.
+            1. The independent variable (IV) is the _____________________ of water.
+            2. The dependent variable (DV) is the _____________________ taken for  sugar to _____________________.
             3. The aim of the experiment is:
 
             To investigate the effect of the __________________________________ on the __________________________________.
@@ -70,9 +72,9 @@ Aim:
             Complete the following by filling in the missing words.
 
             **Word list (A → Z):**
-            distance • height • ramp
+            ramp • height • distance
 
-            A student is investigating how changing the height of a ramp affects how far a toy car travels.
+            A student is investigating how the height of a ramp affects the distance travelled by a toy car.
 
             1. The independent variable (IV) is the _____________________ of the _____________________.
             2. The dependent variable (DV) is the _____________________ travelled by the toy car.
@@ -87,12 +89,12 @@ Aim:
             Complete the following by filling in the missing words.
 
             **Word list (A → Z):**
-            length • pitch • rubber band
+            rubber band • length • pitch
 
-            A student is investigating how changing the length of a rubber band affects the pitch of the sound it produces.
+            A student is investigating how the length of a rubber band affects the pitch of the sound produced.
 
-            1. The independent variable (IV) is the _____________________ of the _____________________.
-            2. The dependent variable (DV) is the _____________________ of the sound.
+            1. The independent variable (IV) is the _____________________ of a _____________________.
+            2. The dependent variable (DV) is the _____________________ of the sound produced.
             3. The aim of the experiment is:
 
             To investigate the effect of the __________________________________ on the __________________________________.
@@ -104,13 +106,13 @@ Aim:
             Complete the following by filling in the missing words.
 
             **Word list (A → Z):**
-            light • plant • growth
+            amount • light • height
 
-            A student is investigating how the amount of light affects how tall a plant grows.
+            A student is investigating how the amount of light affects the height of a plant.
 
-            1. The independent variable (IV) is the _____________________ of _____________________.
-            2. The dependent variable (DV) is the _____________________ of the plant.
-            3. The aim of the experiment is:
+            4. The independent variable (IV) is the _____________________ of _____________________.
+            5. The dependent variable (DV) is the _____________________ of a plant.
+            6. The aim of the experiment is:
 
             To investigate the effect of the __________________________________ on the __________________________________.
 
@@ -121,13 +123,13 @@ Aim:
             Complete the following by filling in the missing words.
 
             **Word list (A → Z):**
-            salt • solubility • temperature
+            amount • dissolved • temperature
 
-            A student is investigating how water temperature affects how much salt dissolves.
+            A student is investigating how the temperature of water affects the amount of salt dissolved.
 
-            1. The independent variable (IV) is the _____________________ of the water.
-            2. The dependent variable (DV) is the _____________________ of the salt.
-            3. The aim of the experiment is:
+            4. The independent variable (IV) is the _____________________ of water.
+            5. The dependent variable (DV) is the _____________________ of salt _____________________.
+            6. The aim of the experiment is:
 
             To investigate the effect of the __________________________________ on the __________________________________.
 
@@ -140,10 +142,10 @@ Aim:
             **Word list (A → Z):**
             force • friction • surface
 
-            A student is investigating how different surfaces affect how much friction acts on a moving object.
+            A student is investigating how the type of surface affects the friction force acting on a moving object.
 
             1. The independent variable (IV) is the type of _____________________.
-            2. The dependent variable (DV) is the _____________________ force.
+            2. The dependent variable (DV) is the _____________  _____________ acting on a moving object.
             3. The aim of the experiment is:
 
             To investigate the effect of the __________________________________ on the __________________________________.
@@ -157,10 +159,10 @@ Aim:
             **Word list (A → Z):**
             erosion • slope • water
 
-            A student is investigating how the steepness of a slope affects how quickly soil is washed away by water.
+            A student is investigating how the steepness of a slope affects the rate of erosion caused by water.
 
-            1. The independent variable (IV) is the _____________________ of the slope.
-            2. The dependent variable (DV) is the rate of _____________________.
+            1. The independent variable (IV) is the _____________________ of a slope.
+            2. The dependent variable (DV) is the rate of _____________________ caused by _____________________.
             3. The aim of the experiment is:
 
             To investigate the effect of the __________________________________ on the __________________________________.
@@ -172,12 +174,12 @@ Aim:
             Complete the following by filling in the missing words.
 
             **Word list (A → Z):**
-            current • resistance • wire
+            current • thickness • wire
 
-            A student is investigating how the thickness of a wire affects the flow of electric current.
+            A student is investigating how the thickness of a wire affects the electric current flowing through it.
 
-            1. The independent variable (IV) is the thickness of the _____________________.
-            2. The dependent variable (DV) is the _____________________.
+            1. The independent variable (IV) is the _____________________ of a _____________________.
+            2. The dependent variable (DV) is the electric _____________________ flowing through the wire.
             3. The aim of the experiment is:
 
             To investigate the effect of the __________________________________ on the __________________________________.
@@ -191,10 +193,10 @@ Aim:
             **Word list (A → Z):**
             carbon dioxide • photosynthesis • rate
 
-            A student is investigating how the amount of carbon dioxide affects how quickly photosynthesis occurs.
+            A student is investigating how the amount of carbon dioxide affects the rate of photosynthesis in a plant.
 
             1. The independent variable (IV) is the amount of _____________________.
-            2. The dependent variable (DV) is the _____________________ of photosynthesis.
+            2. The dependent variable (DV) is the _____________________ of photosynthesis in a plant.
             3. The aim of the experiment is:
 
             To investigate the effect of the __________________________________ on the __________________________________.
@@ -208,9 +210,9 @@ Aim:
             **Word list (A → Z):**
             evaporation • surface area • water
 
-            A student is investigating how the surface area of water affects how quickly it evaporates.
+            A student is investigating how the surface area of water affects the rate of evaporation.
 
-            1. The independent variable (IV) is the _____________________ of the water.
+            1. The independent variable (IV) is the _____________________ of _____________________.
             2. The dependent variable (DV) is the rate of _____________________.
             3. The aim of the experiment is:
 
@@ -236,7 +238,7 @@ Aim:
 
                 1. height, ramp
                 2. distance
-                3. height of ramp, distance travelled by a toy car
+                3. height of a ramp, distance travelled by a toy car
 
             .. tab-item:: Q3
                 :sync: q3
@@ -249,57 +251,60 @@ Aim:
                 :sync: q4
 
                 1. amount, light
-                2. growth
-                3. amount of light, growth of a plant
+                2. height
+                3. amount of light, height of a plant
 
             .. tab-item:: Q5
                 :sync: q5
 
                 1. temperature
-                2. solubility
-                3. temperature of water, solubility of salt
+                2. amount of salt dissolved
+                3. temperature of water, amount of salt dissolved
 
             .. tab-item:: Q6
                 :sync: q6
 
                 1. surface
-                2. friction
+                2. friction, force
                 3. type of surface, friction force
 
             .. tab-item:: Q7
                 :sync: q7
 
                 1. steepness
-                2. erosion
-                3. steepness of slope, rate of erosion
+                2. erosion, water
+                3. steepness of a slope, rate of erosion caused by water
 
             .. tab-item:: Q8
                 :sync: q8
 
                 1. wire
                 2. current
-                3. thickness of wire, flow of electric current
+                3. thickness of a wire, electric current flowing through the wire.
 
             .. tab-item:: Q9
                 :sync: q9
 
-                1. carbon dioxide
-                2. rate
-                3. amount of carbon dioxide, rate of photosynthesis
+                4. carbon dioxide
+                5. rate
+                6. amount of carbon dioxide, rate of photosynthesis in a plant
 
             .. tab-item:: Q10
                 :sync: q10
 
-                1. surface area
-                2. evaporation
-                3. surface area of water, rate of evaporation
+                7. surface area, water
+                8. evaporatio
+                9. surface area of water, rate of evaporation
 
 
 
 
 ----
 
-.. admonition:: Fill in the Gaps Questions
+Harder Aims  —  nominalisations
+---------------------------------
+
+.. admonition:: Fill in the Gaps — Aims
     :class: cloze
 
     Answer each question.
@@ -317,7 +322,7 @@ Aim:
 
             A student is investigating how heating water affects how quickly sugar disappears when stirred.
 
-            1. The independent variable (IV) is the _____________________ of the water.
+            1. The independent variable (IV) is water _____________________.
             2. The dependent variable (DV) is the _____________________ taken for the sugar to _____________________.
             3. The aim of the experiment is:
 
