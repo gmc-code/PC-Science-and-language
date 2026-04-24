@@ -40,87 +40,6 @@ Key Patterns
 
 ----
 
-
-Mapping: “How” → Circumstance → Variable
------------------------------------------------
-
-The table below shows how informal investigation wording is translated into precise scientific terms.
-
-
-.. list-table::
-    :header-rows: 1
-    :widths: 35 35 30
-
-    * - Student wording
-      - Circumstance type
-      - Scientific variable wording
-
-    * - how high or low the sound is
-      - Attribute (quality)
-      - pitch of sound
-
-    * - how hot the water is
-      - Attribute (quality/degree)
-      - temperature of water
-
-    * - how loud it is
-      - Attribute (degree)
-      - sound intensity
-
-    * - how bright it is
-      - Attribute (degree)
-      - light intensity
-
-    * - how much friction there is
-      - Attribute (magnitude)
-      - frictional force
-
-    * - how hard it pushes
-      - Attribute (magnitude)
-      - applied force
-
-    * - how heavy it is
-      - Attribute (magnitude)
-      - weight
-
-    * - how far it goes
-      - Extent (distance)
-      - distance travelled
-
-    * - how long it takes
-      - Extent (time)
-      - time taken
-
-    * - how much water
-      - Extent (quantity)
-      - volume of water
-
-    * - how much ice
-      - Extent (quantity)
-      - mass of ice
-
-    * - how tall the plant grows
-      - Extent (vertical dimension)
-      - height of plant
-
-    * - how much electricity flows
-      - Extent (quantity over time)
-      - current
-
-    * - how quickly it melts
-      - Manner (rate)
-      - rate of melting
-
-    * - how fast the plant grows
-      - Manner (rate)
-      - growth rate of plant
-
-    * - how quickly soil is washed away
-      - Manner (rate)
-      - rate of erosion
-
-----
-
 .. admonition:: Multiple-Choice Questions
     :class: mcq
 
@@ -361,6 +280,87 @@ The table below shows how informal investigation wording is translated into prec
                 :sync: q15
 
                 b — extension of the spring
+
+----
+
+
+Mapping: “How” → Circumstance → Variable
+-----------------------------------------------
+
+The table below shows how informal investigation wording is translated into precise scientific terms.
+
+
+.. list-table::
+    :header-rows: 1
+    :widths: 35 35 30
+
+    * - Student wording
+      - Circumstance type
+      - Scientific variable wording
+
+    * - how high or low the sound is
+      - Attribute (quality)
+      - pitch of sound
+
+    * - how hot the water is
+      - Attribute (quality/degree)
+      - temperature of water
+
+    * - how loud it is
+      - Attribute (degree)
+      - sound intensity
+
+    * - how bright it is
+      - Attribute (degree)
+      - light intensity
+
+    * - how much friction there is
+      - Attribute (magnitude)
+      - frictional force
+
+    * - how hard it pushes
+      - Attribute (magnitude)
+      - applied force
+
+    * - how heavy it is
+      - Attribute (magnitude)
+      - weight
+
+    * - how far it goes
+      - Extent (distance)
+      - distance travelled
+
+    * - how long it takes
+      - Extent (time)
+      - time taken
+
+    * - how much water
+      - Extent (quantity)
+      - volume of water
+
+    * - how much ice
+      - Extent (quantity)
+      - mass of ice
+
+    * - how tall the plant grows
+      - Extent (vertical dimension)
+      - height of plant
+
+    * - how much electricity flows
+      - Extent (quantity over time)
+      - current
+
+    * - how quickly it melts
+      - Manner (rate)
+      - rate of melting
+
+    * - how fast the plant grows
+      - Manner (rate)
+      - growth rate of plant
+
+    * - how quickly soil is washed away
+      - Manner (rate)
+      - rate of erosion
 
 ----
 
