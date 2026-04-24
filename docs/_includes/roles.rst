@@ -23,10 +23,10 @@
 .. role:: circb
 .. role:: conjb
 
-.. role:: process-b
-.. role:: participant-b
-.. role:: circ-b
-.. role:: conj-b
+.. role:: processp
+.. role:: participantp
+.. role:: circp
+.. role:: conjp
 
 .. role:: rubricsmall
 
