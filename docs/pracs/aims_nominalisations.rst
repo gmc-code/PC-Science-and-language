@@ -55,13 +55,13 @@ The table below shows how informal investigation wording is translated into prec
       - Circumstance type
       - Scientific variable wording
 
-    * - how hot the water is
-      - Attribute (quality/degree)
-      - temperature of water
-
     * - how high or low the sound is
       - Attribute (quality)
       - pitch of sound
+
+    * - how hot the water is
+      - Attribute (quality/degree)
+      - temperature of water
 
     * - how loud it is
       - Attribute (degree)
