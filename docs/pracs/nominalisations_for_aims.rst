@@ -16,73 +16,159 @@ Key linguistic features
 
 ----
 
-Student-to-scientific variable transformation
------------------------------------------------
 
-The table below shows how informal investigation wording is translated into precise scientific terms.
-
-.. list-table::
-    :header-rows: 1
-    :widths: 40 60
-
-    * - Student wording
-      - Scientific variable wording
-    * - how far it goes
-      - distance travelled
-    * - how long it takes
-      - time taken
-    * - how quickly ice melts
-      - melting rate of ice
-    * - how quickly the temperature changes
-      - rate of temperature change
-    * - how much water
-      - volume of water
-    * - how much ice
-      - mass of ice
-    * - how hot the water is
-      - temperature of water
-    * - how tall the plant grows
-      - height of plant
-    * - how fast the plant grows
-      - growth rate of plant
-    * - how quickly soil is washed away
-      - rate of erosion
-    * - how high or low the sound is
-      - pitch
-    * - how loud it is
-      - sound intensity
-    * - how much electricity flows
-      - current
-    * - how much friction there is
-      - frictional force
-    * - how hard it pushes
-      - applied force
-    * - how heavy it is
-      - weight
-    * - how bright it is
-      - light intensity
-
-----
-
-Core Conversion Rules
---------------------
+Mapping: “How” → Circumstance → Variable
+-------------------------------------------
 
 .. list-table::
     :header-rows: 1
     :widths: 40 60
 
     * - Casual phrase
-      - Scientific form
+      -  Scientific form
     * - how fast
-      - rate of change of
+      -  rate of change of
     * - how long it takes
-      - time taken
+      -  time taken
     * - how far it goes
-      - distance travelled
+      -  distance travelled
     * - how much of a solid
-      - mass of solid
+      -  mass of solid
     * - how much of a liquid
-      - volume of liquid
+      -  volume of liquid
+
+----
+
+
+Mapping: “How” → Circumstance → Variable
+-----------------------------------------------
+
+The table below shows how informal investigation wording is translated into precise scientific terms.
+
+
+
+.. list-table::
+    :header-rows: 1
+    :widths: 35 25 40
+
+    * - Student wording
+      - SFL Circumstance type
+      - Scientific variable wording
+
+    * - how far it goes
+      - Extent (distance)
+      - distance travelled
+
+    * - how long it takes
+      - Extent (time)
+      - time taken
+
+    * - how quickly it melts
+      - Manner (rate)
+      - rate of melting
+
+    * - how much water
+      - Extent (quantity)
+      - volume of water
+
+    * - how much ice
+      - Extent (quantity)
+      - mass of ice
+
+    * - how hot the water is
+      - Attribute (quality/degree)
+      - temperature of water
+
+    * - how tall the plant grows
+      - Extent (vertical dimension)
+      - height of plant
+
+    * - how fast the plant grows
+      - Manner (rate)
+      - growth rate of plant
+
+    * - how quickly soil is washed away
+      - Manner (rate)
+      - rate of erosion
+
+    * - how high or low the sound is
+      - Attribute (quality)
+      - pitch of sound
+
+    * - how loud it is
+      - Attribute (degree)
+      - sound intensity
+
+    * - how much electricity flows
+      - Extent (quantity over time → flow)
+      - current
+
+    * - how much friction there is
+      - Attribute (magnitude)
+      - frictional force
+
+    * - how hard it pushes
+      - Attribute (magnitude)
+      - applied force
+
+    * - how heavy it is
+      - Attribute (magnitude)
+      - weight
+
+    * - how bright it is
+      - Attribute (degree)
+      - light intensity
+
+    * - how strong it is
+      - Attribute (quality/magnitude)
+      - strength (context-dependent)
+
+
+
+.. list-table::
+    :header-rows: 1
+    :widths: 40 60
+
+    * - Student wording
+      -  Scientific variable wording
+    * - how far it goes
+      -  distance travelled
+    * - how long it takes
+      -  time taken
+    * - how quickly ice melts
+      -  melting rate of ice
+    * - how quickly the temperature changes
+      -  rate of temperature change
+    * - how much water
+      -  volume of water
+    * - how much ice
+      -  mass of ice
+    * - how hot the water is
+      -  temperature of water
+    * - how tall the plant grows
+      -  height of plant
+    * - how fast the plant grows
+      -  growth rate of plant
+    * - how quickly soil is washed away
+      -  rate of erosion
+    * - how high or low the sound is
+      -  pitch
+    * - how loud it is
+      -  sound intensity
+    * - how much electricity flows
+      -  current
+    * - how much friction there is
+      -  frictional force
+    * - how hard it pushes
+      -  applied force
+    * - how heavy it is
+      -  weight
+    * - how bright it is
+      -  light intensity
+
+----
+
+
 
 ----
 
@@ -237,12 +323,12 @@ Core Conversion Rules
         .. tab-item:: Q15
             :sync: q15
 
-            A student investigates “how much light passes through different materials”. What is the best scientific variable?
+            A student writes “how much the spring stretches when different weights are added”. What is the best scientific variable?
 
-            | a. light intensity transmitted
-            | b. brightness rate
-            | c. light speed
-            | d. transparency force
+            | a. spring force
+            | b. extension of the spring
+            | c. spring length rate
+            | d. weight of spring
 
 
     .. dropdown:: Reveal Answer Key
@@ -325,7 +411,7 @@ Core Conversion Rules
             .. tab-item:: Q15
                 :sync: q15
 
-                a — light intensity transmitted
+                b — extension of the spring
 
 
 
