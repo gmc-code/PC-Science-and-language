@@ -352,7 +352,7 @@ Harder Aims  —  nominalisations
             **Word list (A → Z):**
             length • pitch • rubber band
 
-            A student is investigating how changing the length of a rubber band affects the pitch of the sound it produces.
+            A student is investigating how changing the length of a rubber band affects how high or low the sound is.
 
             1. The independent variable (IV) is the _____________________ of the _____________________.
             2. The dependent variable (DV) is the _____________________ of the sound.
@@ -366,7 +366,7 @@ Harder Aims  —  nominalisations
             Complete the following by filling in the missing words.
 
             **Word list (A → Z):**
-            light • plant • growth
+            height • light • plant
 
             A student is investigating how the amount of light affects how tall a plant grows.
 
@@ -454,7 +454,7 @@ Harder Aims  —  nominalisations
             2. The dependent variable (DV) is the _____________________ of photosynthesis.
             3. The aim of the experiment is:
 
-            To investigate the effect of carbon dioxide _____________________ on the _____________________ of photosynthesis.
+            To investigate the effect of the amount of _____________________ on the _____________________ of photosynthesis.
 
         .. tab-item:: Q10
             :sync: q10
@@ -466,7 +466,7 @@ Harder Aims  —  nominalisations
 
             A student is investigating how the surface area of water affects how quickly it evaporates.
 
-            1. The independent variable (IV) is the _____________________ of the water.
+            1. The independent variable (IV) is the _____________________ of the _____________________.
             2. The dependent variable (DV) is the rate of _____________________.
             3. The aim of the experiment is:
 
@@ -485,7 +485,7 @@ Harder Aims  —  nominalisations
 
                 1. temperature
                 2. time, dissolve
-                3. temperature of water, time taken for sugar to dissolve
+                3. water temperature, time taken for sugar to dissolve
 
             .. tab-item:: Q2
                 :sync: q2
@@ -505,50 +505,50 @@ Harder Aims  —  nominalisations
                 :sync: q4
 
                 1. light
-                2. growth
-                3. light, growth of a plant
+                2. height
+                3. light, height, plant
 
             .. tab-item:: Q5
                 :sync: q5
 
                 1. temperature
                 2. solubility
-                3. temperature of water, solubility of salt
+                3. temperature, solubility
 
             .. tab-item:: Q6
                 :sync: q6
 
                 1. surface
                 2. friction
-                3. type of surface, friction force
+                3. surface, friction
 
             .. tab-item:: Q7
                 :sync: q7
 
-                1. slope
+                1. steepness
                 2. erosion
-                3. slope, rate of erosion by water
+                3. steepness, erosion
 
             .. tab-item:: Q8
                 :sync: q8
 
                 1. wire
                 2. current
-                3. wire thickness, electric current
+                3. thickness, current
 
             .. tab-item:: Q9
                 :sync: q9
 
                 1. carbon dioxide
                 2. rate
-                3. carbon dioxide, rate of photosynthesis
+                3. carbon dioxide, rate
 
             .. tab-item:: Q10
                 :sync: q10
 
                 1. surface area
                 2. evaporation
-                3. water surface area, rate of evaporation
+                3. surface area, vaporation
 
 
 
