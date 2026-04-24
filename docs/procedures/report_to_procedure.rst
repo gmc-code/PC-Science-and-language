@@ -96,7 +96,7 @@ To convert a Report into a Procedure, make the following changes:
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-                :class-container: dropdown-shortanswer
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
