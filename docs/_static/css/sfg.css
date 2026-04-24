@@ -101,6 +101,27 @@ span.rhemeb {
 }
 
 /* ========================================== */
+/**  variables colours using roles directive */
+
+/* ========================================== */
+
+
+span.CV .CV {
+    color: #1f77b4;      /* blue */
+    font-weight: bold;
+}
+
+span.IV, .IV {
+    color: #d62728;      /* red */
+    font-weight: bold;
+}
+
+span.DV, .DV {
+    color: hsl(19, 100%, 50%);      /* orange red */
+    font-weight: bold;
+}
+
+/* ========================================== */
 /**  pro colours using roles directive */
 /** .pro-answer is for container with class pro-answer */
 /* ========================================== */
@@ -118,7 +139,7 @@ span.o, .o {
     color: #2ca02c;      /* green */
 }
 
-span.P {
+span.P .P {
     color: #1f77b4;      /* blue */
     font-weight: bold;
 }

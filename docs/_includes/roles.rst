@@ -7,6 +7,9 @@
 .. role:: R
 .. role:: O
 
+.. role:: IV
+.. role:: DV
+.. role:: CV
 
 .. role:: theme
 .. role:: rheme

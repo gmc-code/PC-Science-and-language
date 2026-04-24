@@ -16,87 +16,82 @@ The aim usually starts with:
 Example Aim
 ----------------
 
-**Experiment topic:** How light affects plant height
+**Experiment topic:**
+
+*    How the amount of light affects plant height
+*    The effect of the amount of light on plant height
+
+**Variables:**
 
 *   **IV (what is changed):** Amount of light
 *   **DV (what is measured):** Plant height
 
 **Aim:**
-*To investigate how the amount of light affects the height of plants.*
+
+*   *To investigate how the amount of light affects the height of plants.*
+*   *To investigate the effect of the amount of light on the height of plants.*
 
 ----
 
-## 3. The Pattern (Template Students Can Use)
+Patterns for Writing Aims
+------------------------------
 
-### ✅ **Standard Aim Pattern**
-
-> **To investigate how** **\[Independent Variable]** **affects** **\[Dependent Variable].**
-
-----
-
-### ✅ Another common pattern
-
-> **To investigate the effect of** **\[Independent Variable]** **on** **\[Dependent Variable].**
+*   To investigate how the :IV:`Independent Variable` affects the :DV:`Dependent Variable`.
+*   To investigate the effect of the :IV:`Independent Variable` on the :DV:`Dependent Variable`.
 
 Both are correct — consistency matters more than wording.
 
 ----
 
-## 4. More Junior Science Examples
+Example 1: Dissolving
+----------------------------
 
-### Example 1: Dissolving
+Experiment topic:
 
-*   **IV:** Temperature of water
-*   **DV:** Time taken for sugar to dissolve
+How the :IV:`temperature of water` affects the :DV:`time taken for sugar to dissolve`.
 
-✅ **Aim:**
+Variables:
 
-> *To investigate how the temperature of water affects the time taken for sugar to dissolve.*
+IV (what is changed): Temperature of water
+DV (what is measured): Time taken for sugar to dissolve
 
-----
+Aim:
 
-### Example 2: Forces
-
-*   **IV:** Ramp height
-*   **DV:** Distance a toy car travels
-
-✅ **Aim:**
-
-> *To investigate how the height of a ramp affects the distance travelled by a toy car.*
+To investigate how the :IV:`temperature of water` affects the :DV:`time taken for sugar to dissolve`.
 
 ----
 
-### Example 3: Sound
+Example 2: Forces
+------------------------
 
-*   **IV:** Length of rubber band
-*   **DV:** Pitch of sound
+Experiment topic:
 
-✅ **Aim:**
+How ramp height affects the distance travelled by a toy car.
 
-> *To investigate how the length of a rubber band affects the pitch of the sound produced.*
+Variables:
 
-----
+IV (what is changed): Ramp height
+DV (what is measured): Distance travelled by a toy car.
 
-## 5. How to Teach Students to Identify IV and DV
+Aim:
 
-A quick rule students remember well:
-
-*   ✅ **IV** = *What I change on purpose*
-*   ✅ **DV** = *What I measure or observe*
-
-You can also ask:
-
-*   “What am I changing?” → **IV**
-*   “What happens because of that change?” → **DV**
+To investigate how the effect of ramp height on the distance travelled by a toy car.
 
 ----
 
-## 6. Student Checklist (Very Useful!)
+Example 3: Sound
+----------------------------
 
-Before writing the aim, check:
+Experiment topic:
 
-*   ☐ Starts with **“To investigate…”**
-*   ☐ Includes **one IV**
-*   ☐ Includes **one DV**
-*   ☐ Does **NOT** include results or predictions
+How the length of a rubber band affects the pitch of sound
 
+
+Variables:
+
+IV (what is changed): Length of rubber band
+DV (what is measured): Pitch of sound
+
+Aim:
+
+To investigate the effect of the length of a rubber band on the pitch of the sound produced.

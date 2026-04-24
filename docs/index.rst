@@ -145,10 +145,11 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🧪🎯 Prac Accuracy and Precision
+    :caption: 🧪🎯 Prac Experiment Sections
     :numbered:
 
     pracs/accuracy_and_precision.rst
+    pracs/aims.rst
 
 
 .. toctree::
