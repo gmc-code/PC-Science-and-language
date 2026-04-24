@@ -51,7 +51,7 @@ The table below shows how informal investigation wording is translated into prec
 
 .. list-table::
     :header-rows: 1
-    :widths: 35 25 40
+    :widths: 33 35 32
 
     * - Student wording
       - SFL Circumstance type
@@ -102,7 +102,7 @@ The table below shows how informal investigation wording is translated into prec
       - sound intensity
 
     * - how much electricity flows
-      - Extent (quantity over time → flow)
+      - Extent (quantity over time)
       - current
 
     * - how much friction there is
@@ -120,56 +120,6 @@ The table below shows how informal investigation wording is translated into prec
     * - how bright it is
       - Attribute (degree)
       - light intensity
-
-    * - how strong it is
-      - Attribute (quality/magnitude)
-      - strength (context-dependent)
-
-
-
-.. list-table::
-    :header-rows: 1
-    :widths: 40 60
-
-    * - Student wording
-      -  Scientific variable wording
-    * - how far it goes
-      -  distance travelled
-    * - how long it takes
-      -  time taken
-    * - how quickly ice melts
-      -  melting rate of ice
-    * - how quickly the temperature changes
-      -  rate of temperature change
-    * - how much water
-      -  volume of water
-    * - how much ice
-      -  mass of ice
-    * - how hot the water is
-      -  temperature of water
-    * - how tall the plant grows
-      -  height of plant
-    * - how fast the plant grows
-      -  growth rate of plant
-    * - how quickly soil is washed away
-      -  rate of erosion
-    * - how high or low the sound is
-      -  pitch
-    * - how loud it is
-      -  sound intensity
-    * - how much electricity flows
-      -  current
-    * - how much friction there is
-      -  frictional force
-    * - how hard it pushes
-      -  applied force
-    * - how heavy it is
-      -  weight
-    * - how bright it is
-      -  light intensity
-
-----
-
 
 
 ----
