@@ -4,6 +4,11 @@ Aims: Nominalisation
 
 *Understanding how everyday wording is converted into scientific language is essential for correctly identifying variables and writing aims.*
 
+| A student is investigating how the amount of light affects how tall a plant grows.
+| To write a scientific aim, the everyday description, that uses verbs such as “affects” and “grows”, are converted into noun phrases (nominalisation), which represent measurable variables.
+| This proccess of conversion results in an aim: To investigate the effect of light intensity on plant height.
+
+----
 
 Key linguistic features
 ----------------------------
