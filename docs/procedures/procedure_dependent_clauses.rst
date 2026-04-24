@@ -69,6 +69,47 @@ Dependent clauses as circumstances and their Purpose
             | d. It describes unrelated background information
 
 
+        .. tab-item:: Q5
+            :sync: q5
+
+            Which sentence best illustrates the use of a dependent clause for **Goals & Precision**?
+
+            | a. Heat the solution until it begins to boil.
+            | b. Heat the solution because the teacher said so.
+            | c. Heat the solution although the colour remains unchanged.
+            | d. Heat the solution while ignoring temperature changes.
+
+        .. tab-item:: Q6
+            :sync: q6
+
+            A dependent clause that specifies **how accurately** a step must be performed contributes primarily to:
+
+            | a. Safety & Warnings
+            | b. Goals & Precision
+            | c. Conditions
+            | d. Equipment selection
+
+        .. tab-item:: Q7
+            :sync: q7
+
+            Which instruction uses a dependent clause to manage **Sequence & Timing**?
+
+            | a. Stir the mixture until the solid fully dissolves.
+            | b. Stir the mixture because it looks cloudy.
+            | c. Stir the mixture even though the temperature is low.
+            | d. Stir the mixture unless the colour changes.
+
+        .. tab-item:: Q8
+            :sync: q8
+
+            A clause such as “**before adding the reagent**” is used in a procedure primarily to:
+
+            | a. Emphasize personal preference
+            | b. Provide background theory
+            | c. Control the chronological order of steps
+            | d. Replace the main action entirely
+
+
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
         :class-container: dropdown-mcq
@@ -96,3 +137,22 @@ Dependent clauses as circumstances and their Purpose
 
                 b — It establishes a condition that must be met
 
+            .. tab-item:: Q5
+                :sync: q5
+
+                a — Heat the solution until it begins to boil.
+
+            .. tab-item:: Q6
+                :sync: q6
+
+                b — Goals & Precision
+
+            .. tab-item:: Q7
+                :sync: q7
+
+                a — Stir the mixture until the solid fully dissolves.
+
+            .. tab-item:: Q8
+                :sync: q8
+
+                c — Control the chronological order of steps
