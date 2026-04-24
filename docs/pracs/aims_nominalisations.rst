@@ -289,7 +289,7 @@ Key Patterns
 ----
 
 
-Mapping: “How” → Circumstance → Variable
+Mapping: “How” → Variable
 -----------------------------------------------
 
 The table below shows how informal investigation wording is translated into precise scientific terms.
@@ -300,35 +300,35 @@ The table below shows how informal investigation wording is translated into prec
     :widths: 35 35 30
 
     * - Student wording
-      - Circumstance type
+      - Linguistic Feature
       - Scientific variable wording
 
     * - how high or low the sound is
-      - Attribute (quality)
+      - Quality
       - pitch of sound
 
     * - how hot the water is
-      - Attribute (quality/degree)
+      - Quality
       - temperature of water
 
     * - how loud it is
-      - Attribute (degree)
+      - Quality (Intensity)
       - sound intensity
 
     * - how bright it is
-      - Attribute (degree)
+      - Quality (Intensity)
       - light intensity
 
     * - how much friction there is
-      - Attribute (magnitude)
+      - Quality (Intensity)
       - frictional force
 
     * - how hard it pushes
-      - Attribute (magnitude)
+      - Quality (Intensity)
       - applied force
 
     * - how heavy it is
-      - Attribute (magnitude)
+      - Quality (magnitude)
       - weight
 
     * - how far it goes
@@ -336,23 +336,23 @@ The table below shows how informal investigation wording is translated into prec
       - distance travelled
 
     * - how long it takes
-      - Extent (time)
+      - Extent (duration)
       - time taken
 
     * - how much water
-      - Extent (quantity)
+      - Quality (amount)
       - volume of water
 
     * - how much ice
-      - Extent (quantity)
+      - Quality (amount)
       - mass of ice
 
     * - how tall the plant grows
-      - Extent (vertical dimension)
+      - Extent (dimension)
       - height of plant
 
     * - how much electricity flows
-      - Extent (quantity over time)
+      - Manner (rate)
       - current
 
     * - how quickly it melts
@@ -369,11 +369,10 @@ The table below shows how informal investigation wording is translated into prec
 
 
 ----
-
-.. admonition:: Matching Circumstance Types
+.. admonition:: Matching Scientific Variables
     :class: match
 
-    Answer each question.
+    Match each informal description to the correct scientific variable.
 
     .. tab-set::
         :sync-group: set1
@@ -381,10 +380,10 @@ The table below shows how informal investigation wording is translated into prec
         .. tab-item:: Q1
             :sync: q1
 
-            Match each **student wording** to the correct **circumstance type**.
+            Match each **student wording** to the correct **scientific variable**.
 
             **Options:**
-            (A) Extent (time), (B) Attribute (degree), (C) Extent (distance), (D) Manner (rate)
+            (A) time taken, (B) sound intensity, (C) distance travelled, (D) rate of melting
 
             .. list-table::
                 :header-rows: 1
@@ -392,7 +391,7 @@ The table below shows how informal investigation wording is translated into prec
 
                 * - No.
                   - Student wording
-                  - Circumstance type
+                  - Scientific variable
                 * - 1.1
                   - how loud it is
                   - [_______________]
@@ -409,10 +408,10 @@ The table below shows how informal investigation wording is translated into prec
         .. tab-item:: Q2
             :sync: q2
 
-            Match each **student wording** to the correct **circumstance type**.
+            Match each **student wording** to the correct **scientific variable**.
 
             **Options:**
-            (A) Extent (quantity), (B) Manner (rate), (C) Attribute (quality), (D) Extent (vertical dimension)
+            (A) volume of water, (B) growth rate of plant, (C) temperature of water, (D) height of plant
 
             .. list-table::
                 :header-rows: 1
@@ -420,7 +419,7 @@ The table below shows how informal investigation wording is translated into prec
 
                 * - No.
                   - Student wording
-                  - Circumstance type
+                  - Scientific variable
                 * - 2.1
                   - how fast the plant grows
                   - [_______________]
@@ -437,10 +436,10 @@ The table below shows how informal investigation wording is translated into prec
         .. tab-item:: Q3
             :sync: q3
 
-            Match each **student wording** to the correct **circumstance type**.
+            Match each **student wording** to the correct **scientific variable**.
 
             **Options:**
-            (A) Attribute (quality), (B) Extent (quantity over time), (C) Attribute (magnitude), (D) Manner (rate)
+            (A) pitch of sound, (B) current, (C) frictional force, (D) rate of erosion
 
             .. list-table::
                 :header-rows: 1
@@ -448,7 +447,7 @@ The table below shows how informal investigation wording is translated into prec
 
                 * - No.
                   - Student wording
-                  - Circumstance type
+                  - Scientific variable
                 * - 3.1
                   - how quickly soil is washed away
                   - [_______________]
@@ -465,10 +464,10 @@ The table below shows how informal investigation wording is translated into prec
         .. tab-item:: Q4
             :sync: q4
 
-            Match each **student wording** to the correct **circumstance type**.
+            Match each **student wording** to the correct **scientific variable**.
 
             **Options:**
-            (A) Manner (rate), (B) Extent (time), (C) Attribute (degree), (D) Extent (quantity)
+            (A) rate of melting, (B) time taken, (C) light intensity, (D) mass of ice
 
             .. list-table::
                 :header-rows: 1
@@ -476,7 +475,7 @@ The table below shows how informal investigation wording is translated into prec
 
                 * - No.
                   - Student wording
-                  - Circumstance type
+                  - Scientific variable
                 * - 4.1
                   - how quickly it melts
                   - [_______________]
@@ -502,38 +501,36 @@ The table below shows how informal investigation wording is translated into prec
                 :sync: q1
 
                 | **Answers:**
-                | 1.1 (B) Attribute (degree);
-                | 1.2 (C) Extent (distance);
-                | 1.3 (D) Manner (rate);
-                | 1.4 (A) Extent (time).
+                | 1.1 (B) sound intensity;
+                | 1.2 (C) distance travelled;
+                | 1.3 (D) rate of melting;
+                | 1.4 (A) time taken.
 
             .. tab-item:: Q2
                 :sync: q2
 
                 | **Answers:**
-                | 2.1 (B) Manner (rate);
-                | 2.2 (D) Extent (vertical dimension);
-                | 2.3 (C) Attribute (quality);
-                | 2.4 (A) Extent (quantity).
+                | 2.1 (B) growth rate of plant;
+                | 2.2 (D) height of plant;
+                | 2.3 (C) temperature of water;
+                | 2.4 (A) volume of water.
 
             .. tab-item:: Q3
                 :sync: q3
 
                 | **Answers:**
-                | 3.1 (D) Manner (rate);
-                | 3.2 (C) Attribute (magnitude);
-                | 3.3 (A) Attribute (quality);
-                | 3.4 (B) Extent (quantity over time).
+                | 3.1 (D) rate of erosion;
+                | 3.2 (C) frictional force;
+                | 3.3 (A) pitch of sound;
+                | 3.4 (B) current.
 
             .. tab-item:: Q4
                 :sync: q4
 
                 | **Answers:**
-                | 4.1 (A) Manner (rate);
-                | 4.2 (B) Extent (time);
-                | 4.3 (C) Attribute (degree);
-                | 4.4 (D) Extent (quantity).
-
-
+                | 4.1 (A) rate of melting;
+                | 4.2 (B) time taken;
+                | 4.3 (C) light intensity;
+                | 4.4 (D) mass of ice.
 
 
