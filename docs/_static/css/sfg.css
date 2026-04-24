@@ -4,6 +4,21 @@
 /**  sfg colours using roles directive */
 /* ========================================== */
 
+/* ========================================== */
+/* plain -- just colour */
+/* ========================================== */
+
+span.participantp { color: #d62728; }
+span.processp     { color: #2ca02c; }
+span.circp        { color: #4a3dff; }
+span.conjp        { color: #6b7280; }
+span.themep       { color: #1f77b4; }
+span.rhemep       { color: #111827; }
+
+/* ========================================== */
+/* with border */
+/* ========================================== */
+
 span.participant,
 span.process,
 span.circ,
@@ -27,8 +42,10 @@ span.conj        { color: #6b7280; font-style: italic; }
 span.theme       { color: #1f77b4; border-color: #1f77b4; }
 span.rheme       { color: #111827; border-color: #111827; }
 
+/* ========================================== */
+/* filled in colour */
+/* ========================================== */
 
-/* NEW: backcolour variants for the others */
 /* Shared chip-like styling for all *b roles */
 span.participantb,
 span.processb,

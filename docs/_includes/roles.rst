@@ -10,6 +10,8 @@
 
 .. role:: theme
 .. role:: rheme
+.. role:: themeb
+.. role:: rhemeb
 
 .. role:: process
 .. role:: participant
@@ -21,8 +23,10 @@
 .. role:: circb
 .. role:: conjb
 
-.. role:: themeb
-.. role:: rhemeb
+.. role:: process-b
+.. role:: participant-b
+.. role:: circ-b
+.. role:: conj-b
 
 .. role:: rubricsmall
 
