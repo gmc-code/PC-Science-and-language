@@ -1,5 +1,5 @@
 ==========================================================
-Scientific language register transformation
+Aims: Nominalisation
 ==========================================================
 
 *Understanding how everyday wording is converted into scientific language is essential for correctly identifying variables and writing aims.*
