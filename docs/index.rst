@@ -150,6 +150,7 @@ PC-Science-and-language
 
     pracs/accuracy_and_precision.rst
     pracs/aims.rst
+    pracs/nominalisations_for_aims.rst
 
 
 .. toctree::
