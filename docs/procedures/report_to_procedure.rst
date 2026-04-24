@@ -114,5 +114,120 @@ To convert a Report into a Procedure, make the following changes:
                 #. :circ:`Finally`, :process:`remove` :participant:`the delivery tube` :circ:`from the limewater` :circ:`before the reaction is stopped`.
 
 
+And again as separate steps:
+
+.. admonition:: Report to a Procedure
+    :class: shortanswer
+
+    Rewrite each report step into a clear instruction by applying the grammar shifts described above (start with the verb).
+
+    .. tab-set::
+        :sync-group: procset
+
+        .. tab-item:: Q1
+            :sync: q1
+
+            :circ:`First`, :participant:`several marble chips` :process:`were placed` :circ:`into a clean conical flask`.
+
+        .. tab-item:: Q2
+            :sync: q2
+
+            :circ:`Then`, :participant:`a rubber bung with a delivery tube` :process:`was fitted` :circ:`into the mouth of the flask`.
+
+        .. tab-item:: Q3
+            :sync: q3
+
+            :circ:`Next`, :participant:`the other end of the delivery tube` :process:`was submerged` :circ:`in a beaker of limewater`.
+
+        .. tab-item:: Q4
+            :sync: q4
+
+            :circ:`After the setup was ready`, :participant:`the bung` :process:`was removed` :circ:`briefly`.
+
+        .. tab-item:: Q5
+            :sync: q5
+
+            :participant:`20 mL of dilute hydrochloric acid` :process:`was added` :circ:`carefully` :circ:`to the flask`.
+
+        .. tab-item:: Q6
+            :sync: q6
+
+            :circ:`Immediately`, :participant:`the bung` :process:`was replaced` :circ:`to ensure no gas escaped`.
+
+        .. tab-item:: Q7
+            :sync: q7
+
+            :circ:`During the reaction`, :participant:`effervescence` :process:`was observed` :circ:`inside the conical flask`.
+
+        .. tab-item:: Q8
+            :sync: q8
+
+            :participant:`The limewater` :process:`was monitored` :circ:`simultaneously` :circ:`as gas bubbled through it`.
+
+        .. tab-item:: Q9
+            :sync: q9
+
+            :circ:`After a short period`, :participant:`a milky white color` :process:`was observed` :circ:`in the limewater`.
+
+        .. tab-item:: Q10
+            :sync: q10
+
+            :circ:`Finally`, :participant:`the delivery tube` :process:`was removed` :circ:`from the limewater` :circ:`before the reaction was stopped`.
 
 
+    .. dropdown:: Reveal Answer Key
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
+
+        .. tab-set::
+            :sync-group: procset
+
+            .. tab-item:: Q1
+                :sync: q1
+
+                :circ:`First`, :process:`place` :participant:`several marble chips` :circ:`into a clean conical flask`.
+
+            .. tab-item:: Q2
+                :sync: q2
+
+                :circ:`Then`, :process:`fit` :participant:`a rubber bung with a delivery tube` :circ:`into the mouth of the flask`.
+
+            .. tab-item:: Q3
+                :sync: q3
+
+                :circ:`Next`, :process:`submerge` :participant:`the other end of the delivery tube` :circ:`in a beaker of limewater`.
+
+            .. tab-item:: Q4
+                :sync: q4
+
+                :circ:`Briefly`, :process:`remove` :participant:`the bung`.
+
+            .. tab-item:: Q5
+                :sync: q5
+
+                :circ:`Carefully`, :process:`add` :participant:`20 mL of dilute hydrochloric acid` :circ:`to the flask`.
+
+            .. tab-item:: Q6
+                :sync: q6
+
+                :circ:`Immediately`, :process:`replace` :participant:`the bung` :circ:`to ensure no gas escapes`.
+
+            .. tab-item:: Q7
+                :sync: q7
+
+                :circ:`During the reaction`, :process:`observe` :participant:`the effervescence` :circ:`inside the conical flask`.
+
+            .. tab-item:: Q8
+                :sync: q8
+
+                :circ:`Simultaneously`, :process:`monitor` :participant:`the limewater` :circ:`as gas bubbles through it`.
+
+            .. tab-item:: Q9
+                :sync: q9
+
+                :circ:`After a short period`, :process:`observe` :participant:`the milky white color` :circ:`in the limewater`.
+
+            .. tab-item:: Q10
+                :sync: q10
+
+                :circ:`Finally`, :process:`remove` :participant:`the delivery tube` :circ:`from the limewater` :circ:`before the reaction is stopped`.
