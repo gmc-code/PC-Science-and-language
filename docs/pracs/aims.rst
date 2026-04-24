@@ -106,9 +106,9 @@ The following questions use identical wording for variables in the investigation
             Complete the following by filling in the missing words.
 
             **Word list (A → Z):**
-            amount • light • height
+            duration • sunlight • height
 
-            A student is investigating how the amount of light affects the height of a plant.
+            A student is investigating how the duration of sunlight affects the height of a plant.
 
             4. The independent variable (IV) is the _____________________ of _____________________.
             5. The dependent variable (DV) is the _____________________ of a plant.
@@ -123,9 +123,9 @@ The following questions use identical wording for variables in the investigation
             Complete the following by filling in the missing words.
 
             **Word list (A → Z):**
-            amount • dissolved • temperature
+            dissolved •  mass • temperature
 
-            A student is investigating how the temperature of water affects the amount of salt dissolved.
+            A student is investigating how the temperature of water affects the mass of salt dissolved.
 
             4. The independent variable (IV) is the _____________________ of water.
             5. The dependent variable (DV) is the _____________________ of salt _____________________.
@@ -157,7 +157,7 @@ The following questions use identical wording for variables in the investigation
             Complete the following by filling in the missing words.
 
             **Word list (A → Z):**
-            erosion • slope • water
+            erosion • steepness • water
 
             A student is investigating how the steepness of a slope affects the rate of erosion caused by water.
 
@@ -193,10 +193,10 @@ The following questions use identical wording for variables in the investigation
             **Word list (A → Z):**
             carbon dioxide • photosynthesis • rate
 
-            A student is investigating how the amount of carbon dioxide affects the rate of photosynthesis in a plant.
+            A student is investigating how the concentration of carbon dioxide affects the rate of photosynthesis in a plant.
 
-            1. The independent variable (IV) is the amount of _____________________.
-            2. The dependent variable (DV) is the _____________________ of photosynthesis in a plant.
+            1. The independent variable (IV) is the concentration of _____________________.
+            2. The dependent variable (DV) is the _____________________ of _____________________ in a plant.
             3. The aim of the experiment is:
 
             To investigate the effect of the __________________________________ on the __________________________________.
@@ -250,16 +250,16 @@ The following questions use identical wording for variables in the investigation
             .. tab-item:: Q4
                 :sync: q4
 
-                1. amount, light
+                1. duration, sunlight
                 2. height
-                3. amount of light, height of a plant
+                3. duration of sunlight, height of a plant
 
             .. tab-item:: Q5
                 :sync: q5
 
                 1. temperature
-                2. amount of salt dissolved
-                3. temperature of water, amount of salt dissolved
+                2. mass, dissolved
+                3. temperature of water, mass of salt dissolved
 
             .. tab-item:: Q6
                 :sync: q6
@@ -278,7 +278,7 @@ The following questions use identical wording for variables in the investigation
             .. tab-item:: Q8
                 :sync: q8
 
-                1. wire
+                1. thickness, wire
                 2. current
                 3. thickness of a wire, electric current flowing through the wire.
 
@@ -286,14 +286,14 @@ The following questions use identical wording for variables in the investigation
                 :sync: q9
 
                 4. carbon dioxide
-                5. rate
-                6. amount of carbon dioxide, rate of photosynthesis in a plant
+                5. rate, photosynthesis
+                6. concentration of carbon dioxide, rate of photosynthesis in a plant
 
             .. tab-item:: Q10
                 :sync: q10
 
                 7. surface area, water
-                8. evaporatio
+                8. evaporation
                 9. surface area of water, rate of evaporation
 
 
