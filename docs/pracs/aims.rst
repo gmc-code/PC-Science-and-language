@@ -1,14 +1,17 @@
 ================================================
-Aims
+Practical Aims
 ================================================
 
 
-An **aim** is a **one-sentence statement** that states:
+Aims
+-------------
 
-*   **what is changed** (Independent Variable, IV), and
-*   **what is measured or observed** (Dependent Variable, DV)
+An **aim** is a **single sentence** that states:
 
-The aim usually starts with:
+- **what is changed** (Independent Variable — IV)
+- **what is measured or observed** (Dependent Variable — DV)
+
+An aim usually begins with:
 **“To investigate…”**
 
 ----
@@ -18,28 +21,18 @@ Example Aim
 
 **Experiment topic:**
 
-*    How the amount of light affects plant height
-*    The effect of the amount of light on plant height
+- How the :ivb:`amount of light` affects :dvb:`plant height`.
+- How the :ivb:`IV` affects the :dvb:`DV`.
 
 **Variables:**
 
-*   **IV (what is changed):** Amount of light
-*   **DV (what is measured):** Plant height
+- IV (what is changed): Amount of light
+- DV (what is measured): Plant height
 
 **Aim:**
 
-*   *To investigate how the amount of light affects the height of plants.*
-*   *To investigate the effect of the amount of light on the height of plants.*
-
-----
-
-Patterns for Writing Aims
-------------------------------
-
-*   To investigate how the :ivb:`Independent Variable` affects the :dvb:`Dependent Variable`.
-*   To investigate the effect of the :ivb:`Independent Variable` on the :dv:`Dependent Variable`.
-
-Both are correct — consistency matters more than wording.
+- To investigate the effect of the amount of light on the height of plants.
+- To investigate the effect of the :ivb:`IV` on the :dvb:`DV`.
 
 ----
 
