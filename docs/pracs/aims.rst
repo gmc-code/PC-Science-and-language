@@ -66,6 +66,7 @@ The following questions use identical wording for variables in the investigation
             To investigate the effect of the __________________________________ on the __________________________________.
 
 
+
         .. tab-item:: Q2
             :sync: q2
 
