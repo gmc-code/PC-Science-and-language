@@ -28,12 +28,12 @@ Experiment topic:
 
 Variables:
 
-- IV (what is changed): amount of light
-- DV (what is measured): plant height
+- :ivb:`IV` (what is changed): :ivb:`amount of light`
+- :dvb:`DV` (what is measured): :dvb:`plant height`
 
 Aim:
 
-- To investigate the effect of the amount of light on plant height.
+- To investigate the effect of the :ivb:`amount of light` on :dvb:`plant height`.
 - To investigate the effect of the :ivb:`IV` on :dvb:`DV`.
 
 ----
