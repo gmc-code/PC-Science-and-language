@@ -16,26 +16,28 @@ Key linguistic features
 
 ----
 
+Key Patterns
+--------------------
 
-Mapping: “How” → Circumstance → Variable
--------------------------------------------
+**1. Extent → measurable amount**
 
-.. list-table::
-    :header-rows: 1
-    :widths: 40 60
+- how far → distance
+- how long → time
+- how much → mass / volume
 
-    * - Casual phrase
-      -  Scientific form
-    * - how fast
-      -  rate of change of
-    * - how long it takes
-      -  time taken
-    * - how far it goes
-      -  distance travelled
-    * - how much of a solid
-      -  mass of solid
-    * - how much of a liquid
-      -  volume of liquid
+→ Becomes **quantity variables**
+
+**2. Manner → rate variables**
+
+- how fast / how quickly
+
+→ Becomes **rate of change variables**
+
+**3. Attribute → property variables**
+
+- how hot, loud, bright, strong
+
+→ Becomes **measurable properties** (e.g. temperature, intensity, force)
 
 ----
 
