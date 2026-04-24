@@ -369,6 +369,7 @@ The table below shows how informal investigation wording is translated into prec
 
 
 ----
+
 .. admonition:: Matching Scientific Variables
     :class: match
 
