@@ -50,7 +50,7 @@ The table below shows how informal investigation wording is translated into prec
 
 .. list-table::
     :header-rows: 1
-    :widths: 33 35 32
+    :widths: 35 35 30
 
     * - Student wording
       - SFL Circumstance type
