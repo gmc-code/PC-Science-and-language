@@ -36,8 +36,8 @@ Example Aim
 Patterns for Writing Aims
 ------------------------------
 
-*   To investigate how the :IV:`Independent Variable` affects the :DV:`Dependent Variable`.
-*   To investigate the effect of the :IV:`Independent Variable` on the :DV:`Dependent Variable`.
+*   To investigate how the :ivb:`Independent Variable` affects the :dvb:`Dependent Variable`.
+*   To investigate the effect of the :ivb:`Independent Variable` on the :dv:`Dependent Variable`.
 
 Both are correct — consistency matters more than wording.
 
@@ -48,7 +48,7 @@ Example 1: Dissolving
 
 Experiment topic:
 
-How the :IV:`temperature of water` affects the :DV:`time taken for sugar to dissolve`.
+How the :iv:`temperature of water` affects the :dv:`time taken for sugar to dissolve`.
 
 Variables:
 
@@ -57,7 +57,7 @@ DV (what is measured): Time taken for sugar to dissolve
 
 Aim:
 
-To investigate how the :IV:`temperature of water` affects the :DV:`time taken for sugar to dissolve`.
+To investigate how the :iv:`temperature of water` affects the :dv:`time taken for sugar to dissolve`.
 
 ----
 

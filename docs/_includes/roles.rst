@@ -3,13 +3,16 @@
 .. role:: p
 .. role:: r
 .. role:: o
-.. role:: P
-.. role:: R
-.. role:: O
+.. role:: pb
+.. role:: rb
+.. role:: ob
 
-.. role:: IV
-.. role:: DV
-.. role:: CV
+.. role:: iv
+.. role:: dv
+.. role:: cv
+.. role:: ivb
+.. role:: dvb
+.. role:: cvb
 
 .. role:: theme
 .. role:: rheme

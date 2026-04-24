@@ -99,53 +99,44 @@ span.rhemeb {
     border: 1px solid currentColor;
   }
 }
+
 /* ========================================== */
 /* variable colours using roles directive */
-/* ========================================== */
-
-span.CV, .CV {
-    color: #1f77b4;      /* blue */
-    font-weight: bold;
-}
-
-span.IV, .IV {
-    color: #d62728;      /* red */
-    font-weight: bold;
-}
-
-span.DV, .DV {
-    color: hsl(19, 100%, 50%);      /* orange red */
-    font-weight: bold;
-}
-
-/* ========================================== */
 /* pro colours using roles directive */
 /* ========================================== */
 
-span.p, .p {
-    color: #1f77b4;      /* blue */
+/* normal colours */
+span.p, .p,
+span.cv, .cv {
+    color: #1f77b4; /* blue */
 }
 
-span.r, .r {
-    color: #d62728;      /* red */
+span.r, .r,
+span.dv, .dv {
+    color: #d62728; /* red */
 }
 
-span.o, .o {
-    color: #2ca02c;      /* green */
+span.o, .o,
+span.iv, .iv {
+    color: #2ca02c; /* green */
 }
 
-span.P, .P {
-    color: #1f77b4;      /* blue */
+/* bold colours */
+span.pb, .pb,
+span.cvb, .cvb {
+    color: #1f77b4; /* blue */
     font-weight: bold;
 }
 
-span.R, .R {
-    color: #d62728;      /* red */
+span.rb, .rb,
+span.dvb, .dvb {
+    color: #d62728; /* red */
     font-weight: bold;
 }
 
-span.O, .O {
-    color: #2ca02c;      /* green */
+span.ob, .ob,
+span.ivb, .ivb {
+    color: #2ca02c; /* green */
     font-weight: bold;
 }
 
