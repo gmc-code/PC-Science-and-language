@@ -48,7 +48,7 @@ The table below shows how informal investigation wording is translated into prec
     * - how quickly soil is washed away
       - rate of erosion
     * - how high or low the sound is
-      - pitch of the sound
+      - pitch
     * - how loud it is
       - sound intensity
     * - how much electricity flows
@@ -174,6 +174,76 @@ Core Conversion Rules
             | c. plant growth force
             | d. plant extension speed
 
+        .. tab-item:: Q9
+            :sync: q9
+
+            A student writes the aim as “to investigate how fast the temperature changes when heating water”. What is the best scientific variable?
+
+            | a. temperature of water
+            | b. heat of water
+            | c. rate of temperature change
+            | d. time taken
+
+        .. tab-item:: Q10
+            :sync: q10
+
+            In an experiment, a student records “how much salt dissolves in water”. Which is the most appropriate variable?
+
+            | a. solubility
+            | b. mass of salt dissolved
+            | c. volume of salt
+            | d. rate of dissolving
+
+        .. tab-item:: Q11
+            :sync: q11
+
+            A student writes “how quickly a metal rod expands when heated”. What is the correct scientific variable?
+
+            | a. length of rod
+            | b. expansion of rod
+            | c. rate of expansion
+            | d. temperature of rod
+
+        .. tab-item:: Q12
+            :sync: q12
+
+            The phrase “how much gas is produced in 30 seconds” should be written as:
+
+            | a. gas production
+            | b. rate of gas production
+            | c. volume of gas produced
+            | d. gas speed
+
+        .. tab-item:: Q13
+            :sync: q13
+
+            A student writes “how strong the magnet is” in an investigation. What is the most appropriate scientific variable?
+
+            | a. magnetic force
+            | b. magnet strength rate
+            | c. magnet size
+            | d. magnetic energy
+
+        .. tab-item:: Q14
+            :sync: q14
+
+            The phrase “how quickly the pendulum slows down” is best expressed as:
+
+            | a. speed of pendulum
+            | b. time taken
+            | c. rate of change of speed
+            | d. pendulum force
+
+        .. tab-item:: Q15
+            :sync: q15
+
+            A student investigates “how much light passes through different materials”. What is the best scientific variable?
+
+            | a. light intensity transmitted
+            | b. brightness rate
+            | c. light speed
+            | d. transparency force
+
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
@@ -221,6 +291,41 @@ Core Conversion Rules
                 :sync: q8
 
                 b — plant height
+
+            .. tab-item:: Q9
+                :sync: q9
+
+                c — rate of temperature change
+
+            .. tab-item:: Q10
+                :sync: q10
+
+                b — mass of salt dissolved
+
+            .. tab-item:: Q11
+                :sync: q11
+
+                c — rate of expansion
+
+            .. tab-item:: Q12
+                :sync: q12
+
+                c — volume of gas produced
+
+            .. tab-item:: Q13
+                :sync: q13
+
+                a — magnetic force
+
+            .. tab-item:: Q14
+                :sync: q14
+
+                c — rate of change of speed
+
+            .. tab-item:: Q15
+                :sync: q15
+
+                a — light intensity transmitted
 
 
 
