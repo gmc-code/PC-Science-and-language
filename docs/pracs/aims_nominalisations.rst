@@ -67,6 +67,10 @@ The table below shows how informal investigation wording is translated into prec
       - Attribute (degree)
       - sound intensity
 
+    * - how bright it is
+      - Attribute (degree)
+      - light intensity
+
     * - how much friction there is
       - Attribute (magnitude)
       - frictional force
@@ -78,10 +82,6 @@ The table below shows how informal investigation wording is translated into prec
     * - how heavy it is
       - Attribute (magnitude)
       - weight
-
-    * - how bright it is
-      - Attribute (degree)
-      - light intensity
 
     * - how far it goes
       - Extent (distance)
@@ -118,81 +118,6 @@ The table below shows how informal investigation wording is translated into prec
     * - how quickly soil is washed away
       - Manner (rate)
       - rate of erosion
-
-
-
-.. list-table::
-    :header-rows: 1
-    :widths: 35 35 30
-
-    * - Student wording
-      - Circumstance type
-      - Scientific variable wording
-
-    * - how far it goes
-      - Extent (distance)
-      - distance travelled
-
-    * - how long it takes
-      - Extent (time)
-      - time taken
-
-    * - how quickly it melts
-      - Manner (rate)
-      - rate of melting
-
-    * - how much water
-      - Extent (quantity)
-      - volume of water
-
-    * - how much ice
-      - Extent (quantity)
-      - mass of ice
-
-    * - how hot the water is
-      - Attribute (quality/degree)
-      - temperature of water
-
-    * - how tall the plant grows
-      - Extent (vertical dimension)
-      - height of plant
-
-    * - how fast the plant grows
-      - Manner (rate)
-      - growth rate of plant
-
-    * - how quickly soil is washed away
-      - Manner (rate)
-      - rate of erosion
-
-    * - how high or low the sound is
-      - Attribute (quality)
-      - pitch of sound
-
-    * - how loud it is
-      - Attribute (degree)
-      - sound intensity
-
-    * - how much electricity flows
-      - Extent (quantity over time)
-      - current
-
-    * - how much friction there is
-      - Attribute (magnitude)
-      - frictional force
-
-    * - how hard it pushes
-      - Attribute (magnitude)
-      - applied force
-
-    * - how heavy it is
-      - Attribute (magnitude)
-      - weight
-
-    * - how bright it is
-      - Attribute (degree)
-      - light intensity
-
 
 ----
 
