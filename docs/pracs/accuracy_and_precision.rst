@@ -41,8 +41,6 @@ Accuracy and precision are independent. A result can be accurate but not precise
 
 ----
 
-
-
 .. admonition:: Fill in the Gaps — Accuracy and Precision
     :class: cloze
 
