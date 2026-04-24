@@ -19,25 +19,24 @@ Key linguistic features
 Key Patterns
 --------------------
 
-**1. Extent → measurable amount**
+**1. Extent → measurable amount** → Becomes **quantity variables**
 
-- how far → distance
-- how long → time
-- how much → mass / volume
+- how far → distance travelled
+- how long → time taken
+- how much (solid) → mass of solid
+- how much (liquid) → volume of liquid
 
-→ Becomes **quantity variables**
+**2. Manner → rate variables** → Becomes **rate of change variables**
 
-**2. Manner → rate variables**
+- how fast → rate of motion
+- how quickly it melts → rate of melting
+- how fast it grows → growth rate
 
-- how fast / how quickly
+**3. Attribute → property variables** → Becomes **measurable properties**
 
-→ Becomes **rate of change variables**
-
-**3. Attribute → property variables**
-
-- how hot, loud, bright, strong
-
-→ Becomes **measurable properties** (e.g. temperature, intensity, force)
+- how hot → temperature
+- how loud → sound intensity
+- how bright → light intensity
 
 ----
 
