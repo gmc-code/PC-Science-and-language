@@ -487,7 +487,7 @@ The table below shows how informal investigation wording is translated into prec
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-        :class-container: dropdown-mcq
+        :class-container: dropdown-match
 
         .. tab-set::
             :sync-group: set1
