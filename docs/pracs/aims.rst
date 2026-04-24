@@ -5,8 +5,8 @@ Aims
 
 An **aim** is a **one-sentence statement** that states:
 
-*   **what is changed** (IV), and
-*   **what is measured or observed** (DV)
+*   **what is changed** (Independent Variable, IV), and
+*   **what is measured or observed** (Dependent Variable, DV)
 
 The aim usually starts with:
 **“To investigate…”**
