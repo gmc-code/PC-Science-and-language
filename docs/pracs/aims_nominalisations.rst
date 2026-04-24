@@ -375,7 +375,7 @@ The table below shows how informal investigation wording is translated into prec
         .. tab-item:: Q1
             :sync: q1
 
-            Match each **student wording** to the correct **SFL circumstance type**.
+            Match each **student wording** to the correct **circumstance type**.
 
             **Options:**
             (A) Extent (time), (B) Attribute (degree), (C) Extent (distance), (D) Manner (rate)
@@ -403,7 +403,7 @@ The table below shows how informal investigation wording is translated into prec
         .. tab-item:: Q2
             :sync: q2
 
-            Match each **student wording** to the correct **SFL circumstance type**.
+            Match each **student wording** to the correct **circumstance type**.
 
             **Options:**
             (A) Extent (quantity), (B) Manner (rate), (C) Attribute (quality), (D) Extent (vertical dimension)
@@ -431,7 +431,7 @@ The table below shows how informal investigation wording is translated into prec
         .. tab-item:: Q3
             :sync: q3
 
-            Match each **student wording** to the correct **SFL circumstance type**.
+            Match each **student wording** to the correct **circumstance type**.
 
             **Options:**
             (A) Attribute (quality), (B) Extent (quantity over time), (C) Attribute (magnitude), (D) Manner (rate)
@@ -459,7 +459,7 @@ The table below shows how informal investigation wording is translated into prec
         .. tab-item:: Q4
             :sync: q4
 
-            Match each **student wording** to the correct **SFL circumstance type**.
+            Match each **student wording** to the correct **circumstance type**.
 
             **Options:**
             (A) Manner (rate), (B) Extent (time), (C) Attribute (degree), (D) Extent (quantity)
