@@ -53,7 +53,7 @@ The table below shows how informal investigation wording is translated into prec
     :widths: 35 35 30
 
     * - Student wording
-      - SFL Circumstance type
+      - Circumstance type
       - Scientific variable wording
 
     * - how far it goes
@@ -364,10 +364,171 @@ The table below shows how informal investigation wording is translated into prec
 
                 b — extension of the spring
 
+----
+
+.. admonition:: Matching Circumstance Types
+    :class: match
+
+    Answer each question.
+
+    .. tab-set::
+        :sync-group: set1
+
+        .. tab-item:: Q1
+            :sync: q1
+
+            Match each **student wording** to the correct **SFL circumstance type**.
+
+            **Options:**
+            (A) Extent (time), (B) Attribute (degree), (C) Extent (distance), (D) Manner (rate)
+
+            .. list-table::
+                :header-rows: 1
+                :widths: 15 45 40
+
+                * - No.
+                  - Student wording
+                  - Circumstance type
+                * - 1.1
+                  - how loud it is
+                  - [_______________]
+                * - 1.2
+                  - how far it goes
+                  - [_______________]
+                * - 1.3
+                  - how quickly it melts
+                  - [_______________]
+                * - 1.4
+                  - how long it takes
+                  - [_______________]
+
+        .. tab-item:: Q2
+            :sync: q2
+
+            Match each **student wording** to the correct **SFL circumstance type**.
+
+            **Options:**
+            (A) Extent (quantity), (B) Manner (rate), (C) Attribute (quality), (D) Extent (vertical dimension)
+
+            .. list-table::
+                :header-rows: 1
+                :widths: 15 45 40
+
+                * - No.
+                  - Student wording
+                  - Circumstance type
+                * - 2.1
+                  - how fast the plant grows
+                  - [_______________]
+                * - 2.2
+                  - how tall the plant grows
+                  - [_______________]
+                * - 2.3
+                  - how hot the water is
+                  - [_______________]
+                * - 2.4
+                  - how much water
+                  - [_______________]
+
+        .. tab-item:: Q3
+            :sync: q3
+
+            Match each **student wording** to the correct **SFL circumstance type**.
+
+            **Options:**
+            (A) Attribute (quality), (B) Extent (quantity over time), (C) Attribute (magnitude), (D) Manner (rate)
+
+            .. list-table::
+                :header-rows: 1
+                :widths: 15 45 40
+
+                * - No.
+                  - Student wording
+                  - Circumstance type
+                * - 3.1
+                  - how quickly soil is washed away
+                  - [_______________]
+                * - 3.2
+                  - how much friction there is
+                  - [_______________]
+                * - 3.3
+                  - how high or low the sound is
+                  - [_______________]
+                * - 3.4
+                  - how much electricity flows
+                  - [_______________]
+
+        .. tab-item:: Q4
+            :sync: q4
+
+            Match each **student wording** to the correct **SFL circumstance type**.
+
+            **Options:**
+            (A) Manner (rate), (B) Extent (time), (C) Attribute (degree), (D) Extent (quantity)
+
+            .. list-table::
+                :header-rows: 1
+                :widths: 15 45 40
+
+                * - No.
+                  - Student wording
+                  - Circumstance type
+                * - 4.1
+                  - how quickly it melts
+                  - [_______________]
+                * - 4.2
+                  - how long it takes
+                  - [_______________]
+                * - 4.3
+                  - how bright it is
+                  - [_______________]
+                * - 4.4
+                  - how much ice
+                  - [_______________]
 
 
+    .. dropdown:: Reveal Answer Key
+        :icon: check-circle
+        :class-container: dropdown-mcq
 
+        .. tab-set::
+            :sync-group: set1
 
+            .. tab-item:: Q1
+                :sync: q1
+
+                | **Answers:**
+                | 1.1 (B) Attribute (degree);
+                | 1.2 (C) Extent (distance);
+                | 1.3 (D) Manner (rate);
+                | 1.4 (A) Extent (time).
+
+            .. tab-item:: Q2
+                :sync: q2
+
+                | **Answers:**
+                | 2.1 (B) Manner (rate);
+                | 2.2 (D) Extent (vertical dimension);
+                | 2.3 (C) Attribute (quality);
+                | 2.4 (A) Extent (quantity).
+
+            .. tab-item:: Q3
+                :sync: q3
+
+                | **Answers:**
+                | 3.1 (D) Manner (rate);
+                | 3.2 (C) Attribute (magnitude);
+                | 3.3 (A) Attribute (quality);
+                | 3.4 (B) Extent (quantity over time).
+
+            .. tab-item:: Q4
+                :sync: q4
+
+                | **Answers:**
+                | 4.1 (A) Manner (rate);
+                | 4.2 (B) Extent (time);
+                | 4.3 (C) Attribute (degree);
+                | 4.4 (D) Extent (quantity).
 
 
 
