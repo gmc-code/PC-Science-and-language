@@ -76,8 +76,8 @@ The following questions use identical wording for variables in the investigation
 
             A student is investigating how the height of a ramp affects the distance travelled by a toy car.
 
-            1. The independent variable (IV) is the _____________________ of the _____________________.
-            2. The dependent variable (DV) is the _____________________ travelled by the toy car.
+            1. The independent variable (IV) is the _____________________ of a _____________________.
+            2. The dependent variable (DV) is the _____________________ travelled by a toy car.
             3. The aim of the experiment is:
 
             To investigate the effect of the __________________________________ on the __________________________________.
