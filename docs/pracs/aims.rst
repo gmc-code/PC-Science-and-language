@@ -8,11 +8,11 @@ Aims
 An aim is a single sentence that usually begins with:
 “To investigate…”
 
-e.g. To investigate the effect of the amount of light on plant height.
+e.g. To investigate the effect of light intensity on plant height.
 
 An aim should include:
 
-- what is changed (Independent Variable — IV) — the amount of light
+- what is changed (Independent Variable — IV) — light intensity
 - what is measured or observed (Dependent Variable — DV) — plant height
 
 ----
@@ -23,18 +23,18 @@ Example Aim
 Experiment topic:
 
 - How the :ivb:`IV` affects the :dvb:`DV`.
-- How the :ivb:`amount of light` affects :dvb:`plant height`.
+- How the :ivb:`light intensity` affects :dvb:`plant height`.
 
 
 Variables:
 
-- :ivb:`IV` (what is changed): :ivb:`amount of light`
+- :ivb:`IV` (what is changed): :ivb:`light intensity`
 - :dvb:`DV` (what is measured): :dvb:`plant height`
 
 Aim:
 
 - To investigate the effect of the :ivb:`IV` on :dvb:`DV`.
-- To investigate the effect of the :ivb:`amount of light` on :dvb:`plant height`.
+- To investigate the effect of the :ivb:`light intensity` on :dvb:`plant height`.
 
 
 ----

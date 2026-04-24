@@ -367,6 +367,7 @@ The table below shows how informal investigation wording is translated into prec
       - Manner (rate)
       - rate of erosion
 
+
 ----
 
 .. admonition:: Matching Circumstance Types
