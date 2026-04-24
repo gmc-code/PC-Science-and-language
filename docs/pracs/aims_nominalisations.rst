@@ -412,7 +412,7 @@ The table below shows how informal investigation wording is translated into prec
             Match each **student wording** to the correct **scientific variable**.
 
             **Options:**
-            (A) volume of water, (B) growth rate of plant, (C) temperature of water, (D) height of plant
+            (A) volume of water, (B) growth rate of the plant, (C) temperature of water, (D) height of the plant
 
             .. list-table::
                 :header-rows: 1
@@ -511,8 +511,8 @@ The table below shows how informal investigation wording is translated into prec
                 :sync: q2
 
                 | **Answers:**
-                | 2.1 (B) growth rate of plant;
-                | 2.2 (D) height of plant;
+                | 2.1 (B) growth rate of the plant;
+                | 2.2 (D) height of the plant;
                 | 2.3 (C) temperature of water;
                 | 2.4 (A) volume of water.
 
