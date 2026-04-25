@@ -21,19 +21,22 @@ def simple_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
     return [node], []
 
 def participant_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
-    # Docutils 0.22+ (RTD) provides inliner.document and inliner.parent
-    document = getattr(inliner, 'document', None)
-    parent = getattr(inliner, 'parent', None)
-    memo = getattr(inliner, 'memo', None)
-
-    # If all three exist, use the full signature
-    if document is not None and parent is not None and memo is not None:
-        parsed, messages = inliner.parse(text, lineno, memo, parent)
-    else:
-        # Absolute fallback: do NOT call inliner.parse()
-        # Just treat the text as literal inline content
-        parsed = [nodes.Text(text)]
-        messages = []
+    # Try the full signature (works on many Docutils builds)
+    try:
+        parsed, messages = inliner.parse(
+            text,
+            lineno,
+            inliner.memo,
+            inliner.document
+        )
+    except Exception:
+        # Fallback: use the inliner itself to parse inline markup
+        try:
+            parsed, messages = inliner.parse(text, lineno, {}, inliner.document)
+        except Exception:
+            # Absolute fallback: treat as literal text
+            parsed = [nodes.Text(text)]
+            messages = []
 
     node = nodes.inline(rawtext, '', *parsed, classes=['participant'])
     return [node], messages
