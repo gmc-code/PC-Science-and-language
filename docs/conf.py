@@ -32,9 +32,10 @@ def participant_role(name, rawtext, text, lineno, inliner, options={}, content=[
     node = nodes.inline(rawtext, '', *parsed, classes=['participant'])
     return [node], messages
 
+
 def setup(app):
     roles.register_local_role('participant', participant_role)
-)
+
 
     # roles.register_local_role('process', participant_role)
     # roles.register_local_role('circ', participant_role)
