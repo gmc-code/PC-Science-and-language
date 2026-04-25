@@ -5,28 +5,37 @@
 # import os
 # import sys
 
-from pathlib import Path
-from docutils import nodes
-from docutils.parsers.rst import roles
+
 
 project = 'PC-Science-and-language'
 copyright = '2026, GMC'
 author = 'GMC'
 
+# ------------------------------------------------------------
+from pathlib import Path
+
 roles_file = Path(__file__).parent / "_includes" / "roles.rst"
 rst_prolog = roles_file.read_text(encoding="utf-8")
 
+# ------------------------------------------------------------
+# to allow ** in participant role
 
-
+from docutils import nodes
+from docutils.parsers.rst import roles
 
 def participant_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
-    # Allow nested markup by parsing the text normally
-    node = nodes.emphasis(text, text)   # or nodes.inline(text, text, classes=['participant'])
-    return [node], []
+    # Re-parse the inner text so **bold**, *italic*, etc. work
+    parsed, messages = inliner.parse(text, lineno)
+
+    # Wrap parsed content in an inline node with a CSS class
+    node = nodes.inline(rawtext, '', *parsed, classes=['participant'])
+    return [node], messages
 
 def setup(app):
-
     roles.register_canonical_role('participant', participant_role)
+
+
+# ------------------------------------------------------------
 
 
 # sys.path.insert(0, os.path.abspath('../../'))
