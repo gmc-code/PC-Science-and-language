@@ -40,19 +40,18 @@ def simple_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
 
 #     node = nodes.inline(rawtext, '', *parsed, classes=['participant'])
 #     return [node], messages
-from docutils import nodes
-from docutils.parsers.rst import roles
+
 
 def participant_role(name, rawtext, text, lineno, inliner, options=None, content=None):
     if options is None:
         options = {}
     roles.set_classes(options)
 
-    # Proper nested parsing (this is the key fix)
+    # Correct modern Docutils call (no memo)
     parsed_nodes, messages = inliner.parse(
         text,
         lineno,
-        inliner.memo
+        inliner.document
     )
 
     node = nodes.inline(rawtext, '', *parsed_nodes, classes=['participant'])
