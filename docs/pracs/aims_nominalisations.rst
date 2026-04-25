@@ -296,59 +296,67 @@ The table below shows how informal investigation wording is translated into prec
 
 .. list-table::
     :header-rows: 1
-    :widths: 35 20 35
+    :widths: 30 40 30
 
     * - Student wording
-      - Linguistic feature
+      - SFG meaning type
       - Scientific variable
+
     * - how high or low the sound is
-      - Quality
+      - Attribute: Quality (scalar)
       - pitch of sound
-    * - how hot the water is
-      - Quality
+
+    * - how cold or hot the water is
+      - Attribute: Quality (scalar)
       - temperature of water
+
     * - how loud it is
-      - Quality (intensity)
+      - Attribute: Quality (intensive)
       - sound intensity
+
+    * - how fast it is moving
+      - Attribute: Quality (intensive)
+      - speed
+
     * - how bright it is
-      - Quality (intensity)
+      - Attribute: Quality (intensive)
       - light intensity
-    * - how much friction there is
-      - Quality (intensity)
+
+    * - how much friction
+      - Attribute: Quantity (amount)
       - frictional force
-    * - how hard it pushes
-      - Quality (intensity)
-      - applied force
+
     * - how heavy it is
-      - Quality (magnitude)
+      - Attribute: Quantity (amount)
       - weight
+
     * - how much water
-      - Quality (amount)
-      - volume of water
+      - Attribute: Quantity (amount)
+      - volume
+
     * - how much ice
-      - Quality (amount)
-      - mass of ice
-    * - how much electricity flows
-      - Quality (amount)
-      - current
+      - Attribute: Quantity (amount)
+      - mass
+
     * - how far it goes
-      - Extent (distance)
+      - Circumstance: Extent (distance)
       - distance travelled
+
     * - how long it takes
-      - Extent (duration)
+      - Circumstance: Extent (duration)
       - time taken
+
     * - how tall the plant grows
-      - Extent (dimension)
+      - Attribute: Extent (dimension)
       - height of plant
+
+    * - how much electricity flows
+      - Circumstance: Manner (rate)
+      - current
+
     * - how quickly it melts
-      - Manner (rate)
+      - Circumstance: Manner (rate)
       - rate of melting
-    * - how fast the plant grows
-      - Manner (rate)
-      - growth rate of plant
-    * - how quickly soil is washed away
-      - Manner (rate)
-      - rate of erosion
 
 ----
 
