@@ -155,368 +155,146 @@ The noun group (Thing) is marked.
 
     * - Place / Position
       - in
-      - :participant:`The water` :participantb:`in the beaker` was heated.
+      - :participantb:`The water` :participant:`in the beaker` was heated.
 
     * - Place / Position
       - on
-      - :participant:`The bacteria` :participantb:`on the agar plate` grew rapidly.
+      - :participantb:`The bacteria` :participant:`on the agar plate` grew rapidly.
 
     * - Place / Position
       - at
-      - :participant:`The reaction` :participantb:`at the metal surface` was observed.
+      - :participantb:`The reaction` :participant:`at the metal surface` was observed.
 
     * - Place / Position
       - under
-      - :participant:`The plant` :participantb:`under the lamp` grew faster.
+      - :participantb:`The plant` :participant:`under the lamp` grew faster.
 
     * - Place / Position
       - above
-      - :participant:`The cloud` :participantb:`above the mountain` contained moisture.
+      - :participantb:`The cloud` :participant:`above the mountain` contained moisture.
 
     * - Place / Position
       - below
-      - :participant:`The temperature` :participantb:`below zero` caused freezing.
+      - :participantb:`The temperature` :participant:`below zero` caused freezing.
 
     * - Place / Position
       - over
-      - :participant:`The layer` :participantb:`over the liquid` prevented evaporation.
+      - :participantb:`The layer` :participant:`over the liquid` prevented evaporation.
 
     * - Place / Position
       - between
-      - :participant:`The distance` :participantb:`between the markers` was measured.
+      - :participantb:`The distance` :participant:`between the markers` was measured.
 
     * - Place / Position
       - near
-      - :participant:`The plants` :participantb:`near the window` grew faster.
+      - :participantb:`The plants` :participant:`near the window` grew faster.
 
     * - Place / Position
       - beside
-      - :participant:`The beaker` :participantb:`beside the burner` contained salt water.
+      - :participantb:`The beaker` :participant:`beside the burner` contained salt water.
 
     * - Place / Position
       - next to
-      - :participant:`The thermometer` :participantb:`next to the flask` recorded the temperature.
+      - :participantb:`The thermometer` :participant:`next to the flask` recorded the temperature.
 
     * - Place / Position
       - behind
-      - :participant:`The equipment` :participantb:`behind the screen` was protected.
+      - :participantb:`The equipment` :participant:`behind the screen` was protected.
 
     * - Place / Position
       - in front of
-      - :participant:`The sample` :participantb:`in front of the sensor` was analysed.
+      - :participantb:`The sample` :participant:`in front of the sensor` was analysed.
 
     * - Place / Position
       - inside
-      - :participant:`The gas` :participantb:`inside the test tube` expanded.
+      - :participantb:`The gas` :participant:`inside the test tube` expanded.
 
     * - Place / Position
       - outside
-      - :participant:`The air` :participantb:`outside the container` cooled rapidly.
+      - :participantb:`The air` :participant:`outside the container` cooled rapidly.
 
     * - Place / Position
       - around
-      - :participant:`The field lines` :participantb:`around the magnet` were visible.
+      - :participantb:`The field lines` :participant:`around the magnet` were visible.
 
     * - Movement / Direction
       - into
-      - :participant:`The flow` :participantb:`into the container` was measured.
+      - :participantb:`The flow` :participant:`into the container` was measured.
 
     * - Movement / Direction
       - onto
-      - :participant:`The transfer` :participantb:`onto the filter paper` was observed.
+      - :participantb:`The transfer` :participant:`onto the filter paper` was observed.
 
     * - Movement / Direction
       - out of
-      - :participant:`The movement` :participantb:`out of the chamber` was recorded.
+      - :participantb:`The movement` :participant:`out of the chamber` was recorded.
 
     * - Movement / Direction
       - from
-      - :participant:`The distance` :participantb:`from the start line` was measured.
+      - :participantb:`The distance` :participant:`from the start line` was measured.
 
     * - Movement / Direction
       - to
-      - :participant:`The transfer` :participantb:`to the metal rod` increased temperature.
+      - :participantb:`The transfer` :participant:`to the metal rod` increased temperature.
 
     * - Movement / Direction
       - towards
-      - :participant:`The motion` :participantb:`towards the magnet` accelerated.
+      - :participantb:`The motion` :participant:`towards the magnet` accelerated.
 
     * - Movement / Direction
       - away from
-      - :participant:`The movement` :participantb:`away from the heat source` slowed.
+      - :participantb:`The movement` :participant:`away from the heat source` slowed.
 
     * - Movement / Direction
       - through
-      - :participant:`The current` :participantb:`through the wire` increased.
+      - :participantb:`The current` :participant:`through the wire` increased.
 
     * - Movement / Direction
       - across
-      - :participant:`The force` :participantb:`across the surface` was distributed evenly.
+      - :participantb:`The force` :participant:`across the surface` was distributed evenly.
 
     * - Movement / Direction
       - along
-      - :participant:`The wave` :participantb:`along the rope` transferred energy.
+      - :participantb:`The wave` :participant:`along the rope` transferred energy.
 
     * - Possession / Relation
       - of
-      - :participant:`The colour` :participantb:`of the solution` changed.
+      - :participantb:`The colour` :participant:`of the solution` changed.
 
     * - Possession / Relation
       - belonging to
-      - :participant:`The sample` :participantb:`belonging to trial A` reacted faster.
+      - :participantb:`The sample` :participant:`belonging to trial A` reacted faster.
 
     * - Topic / Reference
       - about
-      - :participant:`The data` :participantb:`about the reaction` were recorded.
+      - :participantb:`The data` :participant:`about the reaction` were recorded.
 
     * - Topic / Reference
       - concerning
-      - :participant:`The report` :participantb:`concerning heat transfer` was submitted.
+      - :participantb:`The report` :participant:`concerning heat transfer` was submitted.
 
     * - Topic / Reference
       - in relation to
-      - :participant:`The change` :participantb:`in relation to temperature` was measured.
+      - :participantb:`The change` :participant:`in relation to temperature` was measured.
 
     * - Topic / Reference
       - with respect to
-      - :participant:`The trend` :participantb:`with respect to time` was plotted.
+      - :participantb:`The trend` :participant:`with respect to time` was plotted.
 
     * - Addition
       - in addition to
-      - :participant:`The results` :participantb:`in addition to the measurements` were analysed.
+      - :participantb:`The results` :participant:`in addition to the measurements` were analysed.
 
     * - Addition
       - as well as
-      - :participant:`The gas` :participantb:`as well as the liquid` was observed.
+      - :participantb:`The gas` :participant:`as well as the liquid` was observed.
 
     * - Exception
       - except
-      - :participant:`The samples` :participantb:`except the control` reacted.
+      - :participantb:`The samples` :participant:`except the control` reacted.
 
     * - Exception
       - apart from
-      - :participant:`The results` :participantb:`apart from trial 2` were consistent.
+      - :participantb:`The results` :participant:`apart from trial 2` were consistent.
 
-
-
-----
-
-
-old
-
-.. list-table::
-    :header-rows: 1
-    :widths: 22 18 60
-
-    * - Category
-      - Preposition
-      - Example sentence (noun group marked)
-
-    * - Place / Position
-      - in
-      - :participant:`The water` :participantb:`in the beaker` was heated.
-
-    * - Place / Position
-      - on
-      - :participant:`The bacteria` :participantb:`on the agar plate` grew rapidly.
-
-    * - Place / Position
-      - at
-      - The reaction occurred at :participant:`the surface` :participantb:`of the metal`.
-
-    * - Place / Position
-      - under
-      - :participant:`The plant` :participantb:`under the lamp` grew faster.
-
-    * - Place / Position
-      - above
-      - :participant:`The cloud` :participantb:`above the mountain` contained moisture.
-
-    * - Place / Position
-      - below
-      - Ice formed at :participant:`the temperature` :participantb:`below zero`.
-
-    * - Place / Position
-      - over
-      - Heat spread across :participant:`the surface` :participantb:`over the liquid`.
-
-    * - Place / Position
-      - between
-      - The distance between :participant:`the markers` :participantb:`between the sites` was measured.
-
-    * - Place / Position
-      - among
-      - :participant:`The particles` :participantb:`among the mixture` moved freely.
-
-    * - Place / Position
-      - near
-      - :participant:`The plants` :participantb:`near the window` grew faster.
-
-    * - Place / Position
-      - beside
-      - :participant:`The beaker` :participantb:`beside the burner` contained salt water.
-
-    * - Place / Position
-      - next to
-      - :participant:`The thermometer` :participantb:`next to the flask` recorded the temperature.
-
-    * - Place / Position
-      - behind
-      - :participant:`The equipment` :participantb:`behind the screen` was protected.
-
-    * - Place / Position
-      - in front of
-      - :participant:`The sample` :participantb:`in front of the sensor` was analysed.
-
-    * - Place / Position
-      - inside
-      - Gas formed in :participant:`the reaction` :participantb:`inside the test tube`.
-
-    * - Place / Position
-      - outside
-      - Ice melted outside :participant:`the container` :participantb:`outside the freezer`.
-
-    * - Place / Position
-      - around
-      - Field lines formed around :participant:`the magnet` :participantb:`around the coil`.
-
-    * - Movement
-      - into
-      - Gas moved into :participant:`the liquid` :participantb:`into the container`.
-
-    * - Movement
-      - onto
-      - The solution was poured onto :participant:`the filter paper` :participantb:`onto the funnel`.
-
-    * - Movement
-      - out of
-      - Gas escaped out of :participant:`the syringe` :participantb:`out of the chamber`.
-
-    * - Movement
-      - from
-      - The distance from :participant:`the start line` :participantb:`from the edge` was measured.
-
-    * - Movement
-      - to
-      - Heat travelled to :participant:`the metal rod` :participantb:`to the end`.
-
-    * - Movement
-      - towards
-      - The object moved towards :participant:`the magnet` :participantb:`towards the field`.
-
-    * - Movement
-      - away from
-      - Particles moved away from :participant:`the heat source` :participantb:`away from the flame`.
-
-    * - Movement
-      - through
-      - Current flowed through :participant:`the wire` :participantb:`through the circuit`.
-
-    * - Movement
-      - across
-      - Force acted across :participant:`the surface` :participantb:`across the plate`.
-
-    * - Movement
-      - along
-      - Wave energy travelled along :participant:`the rope` :participantb:`along the track`.
-
-    * - Time
-      - before
-      - The reading before :participant:`the heating` :participantb:`before the experiment` was recorded.
-
-    * - Time
-      - after
-      - Mass after :participant:`the reaction` :participantb:`after mixing` increased.
-
-    * - Time
-      - during
-      - Gas formed during :participant:`the reaction` :participantb:`during heating`.
-
-    * - Time
-      - since
-      - Change since :participant:`the start` :participantb:`since the experiment` was observed.
-
-    * - Time
-      - until
-      - Heating continued until :participant:`the boiling` :participantb:`until equilibrium`.
-
-    * - Time
-      - by
-      - Energy by :participant:`the battery` :participantb:`by the power source` was measured.
-
-    * - Method / Means
-      - with
-      - Solution with :participant:`the salt` :participantb:`with impurities` was tested.
-
-    * - Method / Means
-      - without
-      - Control without :participant:`the light` :participantb:`without exposure` showed no growth.
-
-    * - Method / Means
-      - using
-      - Mixture using :participant:`the filter paper` :participantb:`using the funnel` was separated.
-
-    * - Possession / Relation
-      - of
-      - Colour of :participant:`the solution` :participantb:`of the liquid` changed.
-
-    * - Possession / Relation
-      - belonging to
-      - Sample belonging to :participant:`the group` :participantb:`belonging to trial A` reacted faster.
-
-    * - Comparison
-      - like
-      - Crystal formed like :participant:`the structure` :participantb:`like ice` patterns.
-
-    * - Comparison
-      - unlike
-      - Result unlike :participant:`the control` :participantb:`unlike trial 1` showed change.
-
-    * - Comparison
-      - as
-      - Material behaved as :participant:`the conductor` :participantb:`as a metal` was tested.
-
-    * - Comparison
-      - compared with
-      - Result compared with :participant:`the control` :participantb:`compared with baseline` was higher.
-
-    * - Condition
-      - depending on
-      - Outcome depending on :participant:`the temperature` :participantb:`depending on heat` varied.
-
-    * - Condition
-      - according to
-      - Result according to :participant:`the data` :participantb:`according to measurements` was consistent.
-
-    * - Topic / Reference
-      - about
-      - Data about :participant:`the reaction` :participantb:`about the experiment` was recorded.
-
-    * - Topic / Reference
-      - concerning
-      - Report concerning :participant:`the experiment` :participantb:`concerning heat transfer` was submitted.
-
-    * - Topic / Reference
-      - in relation to
-      - Change in relation to :participant:`the heat` :participantb:`in relation to energy` was measured.
-
-    * - Topic / Reference
-      - with respect to
-      - Trend with respect to :participant:`the time` :participantb:`with respect to change` was plotted.
-
-    * - Addition
-      - in addition to
-      - Results in addition to :participant:`the measurements` :participantb:`in addition to data` were analysed.
-
-    * - Addition
-      - as well as
-      - Gas as well as :participant:`the liquid` :participantb:`as well as the solid` was observed.
-
-    * - Exception
-      - except
-      - All samples except :participant:`the control` :participantb:`except trial 3` reacted.
-
-    * - Exception
-      - apart from
-      - All results apart from :participant:`the trial` :participantb:`apart from experiment 2` were consistent.
 
