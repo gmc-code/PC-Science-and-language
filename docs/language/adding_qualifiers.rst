@@ -138,12 +138,149 @@ Common Scientific Qualifiers:
 
 ----
 
-Main Prepositions for Qualifiers
+Common prepositions used in noun group qualifiers
 -----------------------------------------------------
 
 These are the most common prepositions used in noun group qualifiers.
 Each sentence shows a prepositional phrase functioning as a **qualifier in a noun group**.
 The noun group (Thing) is marked.
+
+
+.. list-table::
+    :header-rows: 1
+    :widths: 22 18 60
+
+    * - Category
+      - Preposition
+      - Example sentence (noun group marked)
+
+    * - Place / Position
+      - in
+      - :participantb:`The water` :participant:`in the beaker` was heated.
+
+    * - Place / Position
+      - on
+      - :participantb:`The bacteria` :participant:`on the agar plate` grew rapidly.
+
+    * - Place / Position
+      - at
+      - :participantb:`The reaction` :participant:`at the metal surface` was observed.
+
+    * - Place / Position
+      - under
+      - :participantb:`The plant` :participant:`under the lamp` grew faster.
+
+    * - Place / Position
+      - above
+      - :participantb:`The cloud` :participant:`above the mountain` contained moisture.
+
+    * - Place / Position
+      - below
+      - :participantb:`The temperature` :participant:`below zero` caused freezing.
+
+    * - Place / Position
+      - over
+      - :participantb:`The layer` :participant:`over the liquid` prevented evaporation.
+
+    * - Place / Position
+      - between
+      - :participantb:`The distance` :participant:`between the markers` was measured.
+
+    * - Place / Position
+      - near
+      - :participantb:`The plants` :participant:`near the window` grew faster.
+
+    * - Place / Position
+      - beside
+      - :participantb:`The beaker` :participant:`beside the burner` contained salt water.
+
+    * - Place / Position
+      - next to
+      - :participantb:`The thermometer` :participant:`next to the flask` recorded the temperature.
+
+    * - Place / Position
+      - behind
+      - :participantb:`The equipment` :participant:`behind the screen` was protected.
+
+    * - Place / Position
+      - in front of
+      - :participantb:`The sample` :participant:`in front of the sensor` was analysed.
+
+    * - Place / Position
+      - inside
+      - :participantb:`The gas` :participant:`inside the test tube` expanded.
+
+    * - Place / Position
+      - outside
+      - :participantb:`The air` :participant:`outside the container` cooled rapidly.
+
+    * - Place / Position
+      - around
+      - :participantb:`The field lines` :participant:`around the magnet` were visible.
+
+    * - Movement / Direction
+      - from
+      - :participantb:`The distance` :participant:`from the start line` was measured.
+
+    * - Movement / Direction
+      - through
+      - :participantb:`The current` :participant:`through the wire` increased.
+
+    * - Movement / Direction
+      - across
+      - :participantb:`The force` :participant:`across the surface` was distributed evenly.
+
+    * - Movement / Direction
+      - along
+      - :participantb:`The wave` :participant:`along the rope` transferred energy.
+
+    * - Possession / Relation
+      - of
+      - :participantb:`The colour` :participant:`of the solution` changed.
+
+    * - Possession / Relation
+      - belonging to
+      - :participantb:`The sample` :participant:`belonging to trial A` reacted faster.
+
+    * - Topic / Reference
+      - about
+      - :participantb:`The data` :participant:`about the reaction` were recorded.
+
+    * - Topic / Reference
+      - concerning
+      - :participantb:`The report` :participant:`concerning heat transfer` was submitted.
+
+    * - Topic / Reference
+      - in relation to
+      - :participantb:`The change` :participant:`in relation to temperature` was measured.
+
+    * - Topic / Reference
+      - with respect to
+      - :participantb:`The trend` :participant:`with respect to time` was plotted.
+
+    * - Addition
+      - in addition to
+      - :participantb:`The results` :participant:`in addition to the measurements` were analysed.
+
+    * - Addition
+      - as well as
+      - :participantb:`The gas` :participant:`as well as the liquid` was observed.
+
+    * - Exception
+      - except
+      - :participantb:`The samples` :participant:`except the control` reacted.
+
+    * - Exception
+      - apart from
+      - :participantb:`The results` :participant:`apart from trial 2` were consistent.
+
+
+
+
+
+
+----
+
 
 .. list-table::
     :header-rows: 1
