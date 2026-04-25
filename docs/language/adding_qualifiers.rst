@@ -5,15 +5,13 @@ Adding Qualifiers
 Building Precise Noun Groups
 -----------------------------------
 
-In scientific writing, we must be extremely specific about **which** thing we are describing and **what exactly it refers to**.
-
-We achieve this by expanding the **noun group**.
-
-One key way to do this is by adding a **Qualifier**.
-
-A **Qualifier** is a group of words that comes **after the noun** and gives extra information to define it more precisely.
+| In scientific writing, we must be extremely specific about **which** thing we are describing and **what exactly it refers to**.
+| We achieve this by expanding the **noun group**.
+| One key way to do this is by adding a **Qualifier**.
+| A **Qualifier** is a group of words that comes **after the noun** and gives extra information to define it more precisely.
 
 It helps answer questions like:
+
 - which one?
 - what type?
 - in what situation?
@@ -157,7 +155,7 @@ The noun group (Thing) is marked.
 
     * - Place / Position
       - in
-      - :participant:`the water in the beaker` was heated.
+      - :participant:`the water **in the beaker**` was heated.
 
     * - Place / Position
       - on
