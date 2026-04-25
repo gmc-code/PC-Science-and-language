@@ -6,6 +6,7 @@
 # import sys
 
 from pathlib import Path
+from docutils.parsers.rst import roles
 
 project = 'PC-Science-and-language'
 copyright = '2026, GMC'
@@ -14,6 +15,14 @@ author = 'GMC'
 roles_file = Path(__file__).parent / "_includes" / "roles.rst"
 rst_prolog = roles_file.read_text(encoding="utf-8")
 
+
+
+def setup(app):
+
+    roles.register_canonical_role(
+        'participant',
+        roles.GenericRole('participant', roles.emphasis)
+    )
 
 
 # sys.path.insert(0, os.path.abspath('../../'))
