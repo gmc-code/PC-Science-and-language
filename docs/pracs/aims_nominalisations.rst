@@ -294,79 +294,62 @@ Mapping: “How” → Variable
 
 The table below shows how informal investigation wording is translated into precise scientific terms.
 
-
 .. list-table::
     :header-rows: 1
-    :widths: 35 35 30
+    :stub-columns: 1
+    :widths: 35 20 35
 
     * - Student wording
-      - Linguistic Feature
-      - Scientific variable wording
-
+      - Linguistic feature
+      - Scientific variable
     * - how high or low the sound is
       - Quality
       - pitch of sound
-
     * - how hot the water is
       - Quality
       - temperature of water
-
     * - how loud it is
-      - Quality (Intensity)
+      - Quality (intensity)
       - sound intensity
-
     * - how bright it is
-      - Quality (Intensity)
+      - Quality (intensity)
       - light intensity
-
     * - how much friction there is
-      - Quality (Intensity)
+      - Quality (intensity)
       - frictional force
-
     * - how hard it pushes
-      - Quality (Intensity)
+      - Quality (intensity)
       - applied force
-
     * - how heavy it is
       - Quality (magnitude)
       - weight
-
-    * - how far it goes
-      - Extent (distance)
-      - distance travelled
-
-    * - how long it takes
-      - Extent (duration)
-      - time taken
-
     * - how much water
       - Quality (amount)
       - volume of water
-
     * - how much ice
       - Quality (amount)
       - mass of ice
-
+    * - how much electricity flows
+      - Quality (amount)
+      - current
+    * - how far it goes
+      - Extent (distance)
+      - distance travelled
+    * - how long it takes
+      - Extent (duration)
+      - time taken
     * - how tall the plant grows
       - Extent (dimension)
       - height of plant
-
-    * - how much electricity flows
-      - Manner (rate)
-      - current
-
     * - how quickly it melts
       - Manner (rate)
       - rate of melting
-
     * - how fast the plant grows
       - Manner (rate)
       - growth rate of plant
-
     * - how quickly soil is washed away
       - Manner (rate)
       - rate of erosion
-
 
 ----
 
