@@ -307,7 +307,7 @@ The table below shows how informal investigation wording is translated into prec
       - Property (scale)
       - speed
 
-      * - how high or low the sound is
+    * - how high or low the sound is
       - Property (scale)
       - pitch of sound
 
