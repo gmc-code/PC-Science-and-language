@@ -48,6 +48,10 @@ PC-Science-and-language
     earth/nominalisations2_earth.rst
     earth/nominalisation_sentences_earth.rst
 
+    earth/adding_qualifiers_earth.rst
+
+    earth/adding_circumstances_earth.rst
+    earth/match_circumstances_earth.rst
 
 
 .. toctree::
@@ -58,9 +62,11 @@ PC-Science-and-language
     language/nominal_groups.rst
     language/clauses.rst
     language/sentences.rst
+    language/active_passive.rst
     language/Sequential_explanations.rst
     language/marked_themes.rst
 
+    language/Stages_and_Phases.rst
     language/genre_procedure.rst
 
 
@@ -72,9 +78,6 @@ PC-Science-and-language
     language/nominalisation_verbs.rst
 
 
-
-
-
 .. toctree::
     :maxdepth: 2
     :caption: ⏱️ Circumstances
@@ -83,9 +86,6 @@ PC-Science-and-language
     language/circumstance_resources.rst
     language/circumstance_prepositional_phrases.rst
     language/circumstances_manner.rst
-    earth/adding_circumstances_earth.rst
-    earth/match_circumstances_earth.rst
-
 
 
 .. toctree::
@@ -93,7 +93,7 @@ PC-Science-and-language
     :caption: 🧷 Qualifiers
     :numbered:
 
-    earth/adding_qualifiers_earth.rst
+    language/adding_qualifiers.rst
 
 
 .. toctree::
