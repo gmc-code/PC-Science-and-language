@@ -12,16 +12,30 @@ copyright = '2026, GMC'
 author = 'GMC'
 
 # ------------------------------------------------------------
-from pathlib import Path
+from docutils.parsers.rst import roles
 
-roles_file = Path(__file__).parent / "_includes" / "roles.rst"
-rst_prolog = roles_file.read_text(encoding="utf-8")
+def simple_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
+    node = nodes.inline(rawtext, text, classes=[name])
+    return [node], []
+
+def setup(app):
+    for rolename in [
+        "p","r","o","pb","rb","ob",
+        "iv","dv","cv","ivb","dvb","cvb",
+        "theme","rheme","themeb","rhemeb",
+        "process","participant","circ","conj",
+        "processb","participantb","circb","conjb",
+        "processp","participantp","circp","conjp",
+        "rubricsmall"
+    ]:
+        roles.register_local_role(rolename, simple_role)
+
 
 # ------------------------------------------------------------
 # to allow ** in participant role
 
 from docutils import nodes
-from docutils.parsers.rst import roles
+
 
 def participant_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
     # Try the full signature first (newer Docutils)
