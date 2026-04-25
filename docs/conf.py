@@ -6,6 +6,7 @@
 # import sys
 
 from pathlib import Path
+from docutils import nodes
 from docutils.parsers.rst import roles
 
 project = 'PC-Science-and-language'
@@ -17,12 +18,15 @@ rst_prolog = roles_file.read_text(encoding="utf-8")
 
 
 
+
+def participant_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
+    # Allow nested markup by parsing the text normally
+    node = nodes.emphasis(text, text)   # or nodes.inline(text, text, classes=['participant'])
+    return [node], []
+
 def setup(app):
 
-    roles.register_canonical_role(
-        'participant',
-        roles.GenericRole('participant', roles.emphasis)
-    )
+    roles.register_canonical_role('participant', participant_role)
 
 
 # sys.path.insert(0, os.path.abspath('../../'))
