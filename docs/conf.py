@@ -24,8 +24,13 @@ from docutils import nodes
 from docutils.parsers.rst import roles
 
 def participant_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
-    # Parse inner RST (this is the key!)
-    parsed_nodes, messages = inliner.parse(text, lineno)
+    # Parse inner RST so **bold**, *italic*, etc. work
+    parsed_nodes, messages = inliner.parse(
+        text,
+        lineno,
+        inliner.memo,
+        inliner.document
+    )
 
     # Wrap parsed content in an inline node with a CSS class
     node = nodes.inline(rawtext, '', *parsed_nodes, classes=['participant'])
@@ -33,6 +38,11 @@ def participant_role(name, rawtext, text, lineno, inliner, options={}, content=[
 
 def setup(app):
     roles.register_local_role('participant', participant_role)
+    # roles.register_local_role('process', participant_role)
+    # roles.register_local_role('circ', participant_role)
+    # roles.register_local_role('conj', participant_role)
+    # roles.register_local_role('theme', participant_role)
+    # roles.register_local_role('rtheme', participant_role)
 
 
 # ------------------------------------------------------------
