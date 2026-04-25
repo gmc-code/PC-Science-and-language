@@ -26,6 +26,7 @@ Phases
 | They organise how meaning unfolds *inside* a stage.
 
 | Characteristics:
+
 - Phases are sub-moves that contribute to the purpose of the stage.
 - They help guide the reader step-by-step through the meaning.
 

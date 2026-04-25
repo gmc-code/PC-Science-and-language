@@ -22,13 +22,15 @@ Earth: Adding qualifiers
     - movement **with great force**,
     - layers **in thin sheets**
 
-Choose the type of qualifier shown in brackets for each clause.
+----
 
-Example
--------
+Example: Adding qualifiers
+------------------------------
 
 | Clause: Water erodes weakened rock
 | With qualifier: Water erodes weakened rock **over** long periods.
+
+----
 
 .. admonition:: Fill in the Gaps — Adding qualifiers
     :class: cloze

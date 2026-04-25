@@ -2,7 +2,7 @@
 Active - Passive
 ========================================
 
-*add transitivity with doer and done to; Actor and Goal
+*add transitivity with doer and done to; Actor and Goal*
 
 Participant Shifts in Active and Passive Voice
 ----------------------------------------------
@@ -50,7 +50,7 @@ when the clause is rewritten in the passive voice.
 
 ----
 
-Transforming Scientific Writing
+Transforming Scientific Writing 2
 ----------------------------------
 
 In science, different "voices" are utilized depending on the communicative purpose.
@@ -70,7 +70,7 @@ In an **Active Voice Procedure**:
 * The **Participant** follows the process as the direct object of the command.
 
 Transforming Scientific Writing
--------------------------------
+---------------------------------
 
 In science, different "voices" are utilized depending on the communicative purpose.
 A Procedure employs the active voice to provide clear, direct instructions.
@@ -125,5 +125,7 @@ Examples of Active and Passive
 
 *Report (Passive):*
 ``The temperature of the soil sample **was recorded** every five minutes.``
+
+
 
 
