@@ -20,7 +20,9 @@
 .. role:: rhemeb
 
 .. role:: process
-.. role:: participant
+
+
+
 .. role:: circ
 .. role:: conj
 
