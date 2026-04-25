@@ -20,64 +20,32 @@ def simple_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
     node = nodes.inline(rawtext, text, classes=[name])
     return [node], []
 
-# def participant_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
-#     # Try the full signature (works on many Docutils builds)
-#     try:
-#         parsed, messages = inliner.parse(
-#             text,
-#             lineno,
-#             inliner.memo,
-#             inliner.document
-#         )
-#     except Exception:
-#         # Fallback: use the inliner itself to parse inline markup
-#         try:
-#             parsed, messages = inliner.parse(text, lineno, {}, inliner.document)
-#         except Exception:
-#             # Absolute fallback: treat as literal text
-#             parsed = [nodes.Text(text)]
-#             messages = []
-
-#     node = nodes.inline(rawtext, '', *parsed, classes=['participant'])
-#     return [node], messages
-
-
-def participant_role(name,
-                     rawtext,
-                     text,
-                     lineno,
-                     inliner,
-                     options=None,
-                     content=None):
-    if options is None:
-        options = {}
-
-    # Create a container node
-    node = nodes.inline(classes=['participant'])
-
-    # This is the key: use the state's inline parser properly
-    parsed, messages = inliner.parse(text, lineno, inliner.document)
-
-    node.extend(parsed)
-    return [node], messages
+# def setup(app):
+#     # register simple roles
+#     for rolename in [
+#         "p","r","o","pb","rb","ob",
+#         "iv","dv","cv","ivb","dvb","cvb",
+#         "theme","rheme","themeb","rhemeb",
+#         "process","participant","circ","conj",
+#         "processb","participantb","circb","conjb",
+#         "processp","participantp","circp","conjp",
+#         "rubricsmall"
+#     ]:
+#         roles.register_local_role(rolename, simple_role)
 
 def setup(app):
-    # register simple roles
-    for rolename in [
+    roles_to_register = [
         "p","r","o","pb","rb","ob",
         "iv","dv","cv","ivb","dvb","cvb",
         "theme","rheme","themeb","rhemeb",
-        "process","circ","conj",
+        "process","participant","circ","conj",
         "processb","participantb","circb","conjb",
         "processp","participantp","circp","conjp",
         "rubricsmall"
-    ]:
-        roles.register_local_role(rolename, simple_role)
+    ]
 
-    # register the special nested-markup role
-    roles.register_local_role('participant', participant_role)
-
-
+    for rolename in roles_to_register:
+        app.add_role(rolename, simple_role)
 # ------------------------------------------------------------
 
 
