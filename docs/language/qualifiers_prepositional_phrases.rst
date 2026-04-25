@@ -1,5 +1,5 @@
 ===================================
-Qualifiers: prepositionalnphrases
+Qualifiers: prepositional phrases
 ===================================
 
 Building Precise Noun Groups
