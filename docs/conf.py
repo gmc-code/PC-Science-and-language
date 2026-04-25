@@ -12,13 +12,30 @@ copyright = '2026, GMC'
 author = 'GMC'
 
 # ------------------------------------------------------------
+
+from docutils import nodes
 from docutils.parsers.rst import roles
 
 def simple_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
     node = nodes.inline(rawtext, text, classes=[name])
     return [node], []
 
+def participant_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
+    try:
+        parsed, messages = inliner.parse(
+            text,
+            lineno,
+            inliner.memo,
+            inliner.document
+        )
+    except Exception:
+        parsed, messages = inliner.parse(text, lineno)
+
+    node = nodes.inline(rawtext, '', *parsed, classes=['participant'])
+    return [node], messages
+
 def setup(app):
+    # register simple roles
     for rolename in [
         "p","r","o","pb","rb","ob",
         "iv","dv","cv","ivb","dvb","cvb",
@@ -30,40 +47,8 @@ def setup(app):
     ]:
         roles.register_local_role(rolename, simple_role)
 
-
-# ------------------------------------------------------------
-# to allow ** in participant role
-
-from docutils import nodes
-
-
-def participant_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
-    # Try the full signature first (newer Docutils)
-    try:
-        parsed, messages = inliner.parse(
-            text,
-            lineno,
-            inliner.memo,
-            inliner.document
-        )
-    except Exception:
-        # Fallback for RTD's Docutils (no memo, no parent)
-        parsed, messages = inliner.parse(text, lineno)
-
-    node = nodes.inline(rawtext, '', *parsed, classes=['participant'])
-    return [node], messages
-
-def setup(app):
+    # register the special nested-markup role
     roles.register_local_role('participant', participant_role)
-
-
-
-
-    # roles.register_local_role('process', participant_role)
-    # roles.register_local_role('circ', participant_role)
-    # roles.register_local_role('conj', participant_role)
-    # roles.register_local_role('theme', participant_role)
-    # roles.register_local_role('rtheme', participant_role)
 
 
 # ------------------------------------------------------------
