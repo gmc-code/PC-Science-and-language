@@ -275,163 +275,90 @@ The noun group (Thing) is marked.
       - :participantb:`The results` :participant:`apart from trial 2` were consistent.
 
 
-
-
-
-
 ----
 
+.. admonition:: Expansion Drill Questions
+    :class: shortanswer
 
-.. list-table::
-    :header-rows: 1
-    :widths: 22 18 60
+    Expand each sentence by adding a **noun-group qualifier (prepositional phrase)**.
+    Keep the meaning scientific and precise.
 
-    * - Category
-      - Preposition
-      - Example sentence (noun group marked)
+    .. tab-set::
+        :sync-group: set1
 
-    * - Place / Position
-      - in
-      - :participantb:`The water` :participant:`in the beaker` was heated.
+        .. tab-item:: Q1
+            :sync: q1
 
-    * - Place / Position
-      - on
-      - :participantb:`The bacteria` :participant:`on the agar plate` grew rapidly.
+            The plant grew quickly.
+            → Expand using a place prepositional phrase (in / on / under / near)
 
-    * - Place / Position
-      - at
-      - :participantb:`The reaction` :participant:`at the metal surface` was observed.
+        .. tab-item:: Q2
+            :sync: q2
 
-    * - Place / Position
-      - under
-      - :participantb:`The plant` :participant:`under the lamp` grew faster.
+            The current increased steadily.
+            → Expand using a movement prepositional phrase (through / across / along)
 
-    * - Place / Position
-      - above
-      - :participantb:`The cloud` :participant:`above the mountain` contained moisture.
+        .. tab-item:: Q3
+            :sync: q3
 
-    * - Place / Position
-      - below
-      - :participantb:`The temperature` :participant:`below zero` caused freezing.
+            The colour changed suddenly.
+            → Expand using a relational prepositional phrase (of / belonging to)
 
-    * - Place / Position
-      - over
-      - :participantb:`The layer` :participant:`over the liquid` prevented evaporation.
+        .. tab-item:: Q4
+            :sync: q4
 
-    * - Place / Position
-      - between
-      - :participantb:`The distance` :participant:`between the markers` was measured.
+            The report was submitted to the teacher.
+            → Expand using a topic prepositional phrase (about / concerning)
 
-    * - Place / Position
-      - near
-      - :participantb:`The plants` :participant:`near the window` grew faster.
+        .. tab-item:: Q5
+            :sync: q5
 
-    * - Place / Position
-      - beside
-      - :participantb:`The beaker` :participant:`beside the burner` contained salt water.
+            The reaction was observed carefully.
+            → Expand using a time prepositional phrase (before / after / during)
 
-    * - Place / Position
-      - next to
-      - :participantb:`The thermometer` :participant:`next to the flask` recorded the temperature.
 
-    * - Place / Position
-      - behind
-      - :participantb:`The equipment` :participant:`behind the screen` was protected.
+    .. dropdown:: Reveal Suggested Answers
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
 
-    * - Place / Position
-      - in front of
-      - :participantb:`The sample` :participant:`in front of the sensor` was analysed.
+        .. tab-set::
+            :sync-group: set1
 
-    * - Place / Position
-      - inside
-      - :participantb:`The gas` :participant:`inside the test tube` expanded.
+            .. tab-item:: Q1
+                :sync: q1
 
-    * - Place / Position
-      - outside
-      - :participantb:`The air` :participant:`outside the container` cooled rapidly.
+                :participantb:`The plant` :participant:`in the greenhouse` grew quickly.
+                :participantb:`The plant` :participant:`under the lamp` grew quickly.
+                :participantb:`The plant` :participant:`near the window` grew quickly.
 
-    * - Place / Position
-      - around
-      - :participantb:`The field lines` :participant:`around the magnet` were visible.
+            .. tab-item:: Q2
+                :sync: q2
 
-    * - Movement / Direction
-      - into
-      - :participantb:`The flow` :participant:`into the container` was measured.
+                :participantb:`The current` :participant:`through the wire` increased steadily.
+                :participantb:`The current` :participant:`across the circuit` increased steadily.
+                :participantb:`The current` :participant:`along the conductor` increased steadily.
 
-    * - Movement / Direction
-      - onto
-      - :participantb:`The transfer` :participant:`onto the filter paper` was observed.
+            .. tab-item:: Q3
+                :sync: q3
 
-    * - Movement / Direction
-      - out of
-      - :participantb:`The movement` :participant:`out of the chamber` was recorded.
+                :participantb:`The colour` :participant:`of the solution` changed suddenly.
+                :participantb:`The colour` :participant:`of the liquid` changed suddenly.
+                :participantb:`The colour` :participant:`belonging to the mixture` changed suddenly.
 
-    * - Movement / Direction
-      - from
-      - :participantb:`The distance` :participant:`from the start line` was measured.
+            .. tab-item:: Q4
+                :sync: q4
 
-    * - Movement / Direction
-      - to
-      - :participantb:`The transfer` :participant:`to the metal rod` increased temperature.
+                :participantb:`The report` :participant:`about the experiment` was submitted to the teacher.
+                :participantb:`The report` :participant:`concerning heat transfer` was submitted to the teacher.
+                :participantb:`The report` :participant:`about the investigation` was submitted to the teacher.
 
-    * - Movement / Direction
-      - towards
-      - :participantb:`The motion` :participant:`towards the magnet` accelerated.
+            .. tab-item:: Q5
+                :sync: q5
 
-    * - Movement / Direction
-      - away from
-      - :participantb:`The movement` :participant:`away from the heat source` slowed.
+                :participantb:`The reaction` :participant:`during heating` was observed carefully.
+                :participantb:`The reaction` :participant:`before mixing` was observed carefully.
+                :participantb:`The reaction` :participant:`after adding the acid` was observed carefully.
 
-    * - Movement / Direction
-      - through
-      - :participantb:`The current` :participant:`through the wire` increased.
 
-    * - Movement / Direction
-      - across
-      - :participantb:`The force` :participant:`across the surface` was distributed evenly.
-
-    * - Movement / Direction
-      - along
-      - :participantb:`The wave` :participant:`along the rope` transferred energy.
-
-    * - Possession / Relation
-      - of
-      - :participantb:`The colour` :participant:`of the solution` changed.
-
-    * - Possession / Relation
-      - belonging to
-      - :participantb:`The sample` :participant:`belonging to trial A` reacted faster.
-
-    * - Topic / Reference
-      - about
-      - :participantb:`The data` :participant:`about the reaction` were recorded.
-
-    * - Topic / Reference
-      - concerning
-      - :participantb:`The report` :participant:`concerning heat transfer` was submitted.
-
-    * - Topic / Reference
-      - in relation to
-      - :participantb:`The change` :participant:`in relation to temperature` was measured.
-
-    * - Topic / Reference
-      - with respect to
-      - :participantb:`The trend` :participant:`with respect to time` was plotted.
-
-    * - Addition
-      - in addition to
-      - :participantb:`The results` :participant:`in addition to the measurements` were analysed.
-
-    * - Addition
-      - as well as
-      - :participantb:`The gas` :participant:`as well as the liquid` was observed.
-
-    * - Exception
-      - except
-      - :participantb:`The samples` :participant:`except the control` reacted.
-
-    * - Exception
-      - apart from
-      - :participantb:`The results` :participant:`apart from trial 2` were consistent.
 
 
