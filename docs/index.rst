@@ -62,12 +62,15 @@ PC-Science-and-language
     language/nominal_groups.rst
     language/clauses.rst
     language/sentences.rst
+    language/complex_sentences.rst
     language/active_passive.rst
     language/Sequential_explanations.rst
     language/marked_themes.rst
 
     language/Stages_and_Phases.rst
     language/genre_procedure.rst
+
+    language/grammatical_metaphor.rst
 
 
 .. toctree::

@@ -253,32 +253,32 @@ The prepositional phrase is outlined.
         .. tab-item:: Q1
             :sync: q1
 
-            The water was heated gently.
-            → Expand using a place prepositional phrase (in / on / under / near)
+            | The water was heated gently.
+            | → Expand using a place prepositional phrase (in / on / under / near)
 
         .. tab-item:: Q2
             :sync: q2
 
-            The bacteria grew rapidly.
-            → Expand using a place prepositional phrase (on / in / near / under)
+            | The bacteria grew rapidly.
+            | → Expand using a place prepositional phrase (on / in / near / under)
 
         .. tab-item:: Q3
             :sync: q3
 
-            The plant grew faster.
-            → Expand using a place prepositional phrase (under / in / near / beside)
+            | The plant grew faster.
+            | → Expand using a place prepositional phrase (under / in / near / beside)
 
         .. tab-item:: Q4
             :sync: q4
 
-            The beaker contained salt water.
-            → Expand using a place prepositional phrase (beside / next to / in / on)
+            | The beaker contained salt water.
+            | → Expand using a place prepositional phrase (beside / next to / in / on)
 
         .. tab-item:: Q5
             :sync: q5
 
-            The field lines were mapped using iron filings.
-            → Expand using a place prepositional phrase (around / above / near / between)
+            | The field lines were mapped using iron filings.
+            | → Expand using a place prepositional phrase (around / above / near / between)
 
 
     .. dropdown:: Reveal Suggested Answers
@@ -291,37 +291,37 @@ The prepositional phrase is outlined.
             .. tab-item:: Q1
                 :sync: q1
 
-                :participantb:`The water` :participant:`in the beaker` was heated gently.
-                :participantb:`The water` :participant:`in the container` was heated gently.
-                :participantb:`The water` :participant:`in the flask` was heated gently.
+                | :participantb:`The water` :participant:`in the beaker` was heated gently.
+                | :participantb:`The water` :participant:`in the container` was heated gently.
+                | :participantb:`The water` :participant:`in the flask` was heated gently.
 
             .. tab-item:: Q2
                 :sync: q2
 
-                :participantb:`The bacteria` :participant:`on the agar plate` grew rapidly.
-                :participantb:`The bacteria` :participant:`in the culture dish` grew rapidly.
-                :participantb:`The bacteria` :participant:`near the edge` grew rapidly.
+                | :participantb:`The bacteria` :participant:`on the agar plate` grew rapidly.
+                | :participantb:`The bacteria` :participant:`in the culture dish` grew rapidly.
+                | :participantb:`The bacteria` :participant:`near the edge` grew rapidly.
 
             .. tab-item:: Q3
                 :sync: q3
 
-                :participantb:`The plant` :participant:`under the lamp` grew faster.
-                :participantb:`The plant` :participant:`near the window` grew faster.
-                :participantb:`The plant` :participant:`in the greenhouse` grew faster.
+                | :participantb:`The plant` :participant:`under the lamp` grew faster.
+                | :participantb:`The plant` :participant:`near the window` grew faster.
+                | :participantb:`The plant` :participant:`in the greenhouse` grew faster.
 
             .. tab-item:: Q4
                 :sync: q4
 
-                :participantb:`The beaker` :participant:`beside the burner` contained salt water.
-                :participantb:`The beaker` :participant:`next to the flask` contained salt water.
-                :participantb:`The beaker` :participant:`on the bench` contained salt water.
+                | :participantb:`The beaker` :participant:`beside the burner` contained salt water.
+                | :participantb:`The beaker` :participant:`next to the flask` contained salt water.
+                | :participantb:`The beaker` :participant:`on the bench` contained salt water.
 
             .. tab-item:: Q5
                 :sync: q5
 
-                :participantb:`The field lines` :participant:`around the magnet` were mapped using iron filings.
-                :participantb:`The field lines` :participant:`near the coil` were mapped using iron filings.
-                :participantb:`The field lines` :participant:`above the magnet` were mapped using iron filings.
+                | :participantb:`The field lines` :participant:`around the magnet` were mapped using iron filings.
+                | :participantb:`The field lines` :participant:`near the coil` were mapped using iron filings.
+                | :participantb:`The field lines` :participant:`above the magnet` were mapped using iron filings.
 
 ----
 
@@ -393,16 +393,16 @@ The prepositional phrase is outlined.
             .. tab-item:: Q1
                 :sync: q1
 
-                :participantb:`The distance` :participant:`from the start line` was measured precisely with a laser rangefinder.
-                :participantb:`The distance` :participant:`from the retort stand` was measured precisely with a laser rangefinder.
-                :participantb:`The distance` :participant:`from the bench` was measured precisely with a laser rangefinder.
+                | :participantb:`The distance` :participant:`from the start line` was measured precisely with a laser rangefinder.
+                | :participantb:`The distance` :participant:`from the retort stand` was measured precisely with a laser rangefinder.
+                | :participantb:`The distance` :participant:`from the bench` was measured precisely with a laser rangefinder.
 
             .. tab-item:: Q2
                 :sync: q2
 
-                :participantb:`The current` :participant:`through the wire` increased rapidly once the voltage was increased.
-                :participantb:`The current` :participant:`through the circuit` increased rapidly once the voltage was increased.
-                :participantb:`The current` :participant:`through the conductor` increased rapidly once the voltage was increased.
+                | :participantb:`The current` :participant:`through the wire` increased rapidly once the voltage was increased.
+                | :participantb:`The current` :participant:`through the circuit` increased rapidly once the voltage was increased.
+                | :participantb:`The current` :participant:`through the conductor` increased rapidly once the voltage was increased.
 
 ----
 
@@ -448,8 +448,8 @@ The prepositional phrase is outlined.
         .. tab-item:: Q1
             :sync: q1
 
-            The colour changed instantly from pink to a deep violet.
-            → Expand using a possession / relation prepositional phrase (of)
+            | The colour changed instantly from pink to a deep violet.
+            | → Expand using a possession / relation prepositional phrase (of)
 
 
     .. dropdown:: Reveal Suggested Answers
@@ -462,9 +462,9 @@ The prepositional phrase is outlined.
             .. tab-item:: Q1
                 :sync: q1
 
-                :participantb:`The colour` :participant:`of the solution` changed instantly from pink to a deep violet.
-                :participantb:`The colour` :participant:`of the indicator` changed instantly from pink to a deep violet.
-                :participantb:`The colour` :participant:`of the solid` changed instantly from pink to a deep violet.
+                | :participantb:`The colour` :participant:`of the solution` changed instantly from pink to a deep violet.
+                | :participantb:`The colour` :participant:`of the indicator` changed instantly from pink to a deep violet.
+                | :participantb:`The colour` :participant:`of the solid` changed instantly from pink to a deep violet.
 
 
 ----
@@ -516,20 +516,20 @@ The prepositional phrase is outlined.
         .. tab-item:: Q1
             :sync: q1
 
-            The measurements were carefully recorded.
-            → Expand using a topic / reference prepositional phrase (from)
+            | The measurements were carefully recorded.
+            | → Expand using a topic / reference prepositional phrase (from)
 
         .. tab-item:: Q2
             :sync: q2
 
-            The report was formally submitted.
-            → Expand using a topic / reference prepositional phrase (concerning)
+            | The report was formally submitted.
+            | → Expand using a topic / reference prepositional phrase (concerning)
 
         .. tab-item:: Q3
             :sync: q3
 
-            The trend was clearly plotted.
-            → Expand using a topic / reference prepositional phrase (with respect to)
+            | The trend was clearly plotted.
+            | → Expand using a topic / reference prepositional phrase (with respect to)
 
 
     .. dropdown:: Reveal Suggested Answers
@@ -542,23 +542,23 @@ The prepositional phrase is outlined.
             .. tab-item:: Q1
                 :sync: q1
 
-                :participantb:`The measurements` :participant:`about the reaction` were carefully recorded.
-                :participantb:`The measurements` :participant:`about the experiment` were carefully recorded.
-                :participantb:`The measurements` :participant:`about the chemical reaction` were carefully recorded.
+                | :participantb:`The measurements` :participant:`about the reaction` were carefully recorded.
+                | :participantb:`The measurements` :participant:`about the experiment` were carefully recorded.
+                | :participantb:`The measurements` :participant:`about the chemical reaction` were carefully recorded.
 
             .. tab-item:: Q2
                 :sync: q2
 
-                :participantb:`The report` :participant:`concerning heat transfer` was formally submitted.
-                :participantb:`The report` :participant:`concerning the investigation` was formally submitted.
-                :participantb:`The report` :participant:`concerning energy transfer` was formally submitted.
+                | :participantb:`The report` :participant:`concerning heat transfer` was formally submitted.
+                | :participantb:`The report` :participant:`concerning the investigation` was formally submitted.
+                | :participantb:`The report` :participant:`concerning energy transfer` was formally submitted.
 
             .. tab-item:: Q3
                 :sync: q3
 
-                :participantb:`The trend` :participant:`with respect to time` was clearly plotted.
-                :participantb:`The trend` :participant:`with respect to temperature` was clearly plotted.
-                :participantb:`The trend` :participant:`with respect to the variable` was clearly plotted.
+                | :participantb:`The trend` :participant:`with respect to time` was clearly plotted.
+                | :participantb:`The trend` :participant:`with respect to temperature` was clearly plotted.
+                | :participantb:`The trend` :participant:`with respect to the variable` was clearly plotted.
 
 ----
 
@@ -610,20 +610,20 @@ The prepositional phrase is outlined.
         .. tab-item:: Q1
             :sync: q1
 
-            The gas was observed escaping through the valve.
-            → Expand using an addition prepositional phrase (as well as)
+            | The gas was observed escaping through the valve.
+            | → Expand using an addition prepositional phrase (as well as)
 
         .. tab-item:: Q2
             :sync: q2
 
-            All the samples reacted immediately when the acid was added.
-            → Expand using an exception prepositional phrase (except)
+            | All the samples reacted immediately when the acid was added.
+            | → Expand using an exception prepositional phrase (except)
 
         .. tab-item:: Q3
             :sync: q3
 
-            All of the results were consistent with the original hypothesis.
-            → Expand using an exception prepositional phrase (apart from)
+            | All of the results were consistent with the original hypothesis.
+            | → Expand using an exception prepositional phrase (apart from)
 
 
     .. dropdown:: Reveal Suggested Answers
@@ -636,23 +636,23 @@ The prepositional phrase is outlined.
             .. tab-item:: Q1
                 :sync: q1
 
-                :participantb:`The gas` :participant:`as well as the liquid` was observed escaping through the valve.
-                :participantb:`The gas` :participant:`as well as the residue` was observed escaping through the valve.
-                :participantb:`The gas` :participant:`as well as the vapour` was observed escaping through the valve.
+                | :participantb:`The gas` :participant:`as well as the liquid` was observed escaping through the valve.
+                | :participantb:`The gas` :participant:`as well as the residue` was observed escaping through the valve.
+                | :participantb:`The gas` :participant:`as well as the vapour` was observed escaping through the valve.
 
             .. tab-item:: Q2
                 :sync: q2
 
-                :participantb:`All the samples` :participant:`except the control` reacted immediately when the acid was added.
-                :participantb:`All the samples` :participant:`except the first trial` reacted immediately when the acid was added.
-                :participantb:`All the samples` :participant:`except the pure water` reacted immediately when the acid was added.
+                | :participantb:`All the samples` :participant:`except the control` reacted immediately when the acid was added.
+                | :participantb:`All the samples` :participant:`except the first trial` reacted immediately when the acid was added.
+                | :participantb:`All the samples` :participant:`except the pure water` reacted immediately when the acid was added.
 
             .. tab-item:: Q3
                 :sync: q3
 
-                :participantb:`All of the results` :participant:`apart from trial 2` were consistent with the original hypothesis.
-                :participantb:`All of the results` :participant:`apart from the final reading` were consistent with the original hypothesis.
-                :participantb:`All of the results` :participant:`apart from the outliers` were consistent with the original hypothesis.
+                | :participantb:`All of the results` :participant:`apart from trial 2` were consistent with the original hypothesis.
+                | :participantb:`All of the results` :participant:`apart from the final reading` were consistent with the original hypothesis.
+                | :participantb:`All of the results` :participant:`apart from the outliers` were consistent with the original hypothesis.
 
 
 
@@ -671,32 +671,32 @@ The prepositional phrase is outlined.
         .. tab-item:: Q1
             :sync: q1
 
-            The plant grew quickly.
-            → Expand using a place prepositional phrase (in / on / under / near)
+            | The plant grew quickly.
+            | → Expand using a place prepositional phrase (in / on / under / near)
 
         .. tab-item:: Q2
             :sync: q2
 
-            The current increased steadily.
-            → Expand using a movement prepositional phrase (through / across / along)
+            | The current increased steadily.
+            | → Expand using a movement prepositional phrase (through / across / along)
 
         .. tab-item:: Q3
             :sync: q3
 
-            The colour changed suddenly.
-            → Expand using a relational prepositional phrase (of / belonging to)
+            | The colour changed suddenly.
+            | → Expand using a relational prepositional phrase (of / belonging to)
 
         .. tab-item:: Q4
             :sync: q4
 
-            The report was submitted to the teacher.
-            → Expand using a topic prepositional phrase (about / concerning)
+            | The report was submitted to the teacher.
+            | → Expand using a topic prepositional phrase (about / concerning)
 
         .. tab-item:: Q5
             :sync: q5
 
-            The reaction was observed carefully.
-            → Expand using a time prepositional phrase (before / after / during)
+            | The reaction was observed carefully.
+            | → Expand using a time prepositional phrase (before / after / during)
 
 
     .. dropdown:: Reveal Suggested Answers

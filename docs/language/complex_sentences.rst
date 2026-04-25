@@ -47,3 +47,5 @@ Cause and Effect Conjunctions in Science
 * **As a result:** The rock was cooled quickly. **As a result**, it formed small crystals.
 * **Hence:** The data was inconsistent; **hence**, the hypothesis was rejected.
 * **Thus:** The force was doubled, **thus** doubling the acceleration.
+
+
