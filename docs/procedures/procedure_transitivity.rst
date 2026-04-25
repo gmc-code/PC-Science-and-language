@@ -40,7 +40,7 @@ Steps for light a Bunsen burner are listed below.
 Transitivity Analysis
 ----------------------
 
-SFG Transitivity Analysis is a grammatical framework used to explore how meanings are encoded in a clause by identifying the Process (the action or state), the Participants (the entities involved), and the Circumstances (the background details like time, place, or manner).
+Transitivity Analysis is a grammatical framework used to explore how meanings are encoded in a clause by identifying the Process (the action or state), the Participants (the entities involved), and the Circumstances (the background details like time, place, or manner).
 
 Probe questions are used to identify the Process, Participants and Circumstances.
 
