@@ -65,7 +65,7 @@ Exmples of Prepositional phrases functioning as Qualifiers
   Describes the specific physical state or the way something behaves.
 
   * The movement **with a constant speed** was plotted on the distance-time graph.
-  * The solution **in a saturated state** began to form crystals as it cooled.
+  * The gas **under high pressure** expanded rapidly when the valve was opened.
 
 
 ----
@@ -161,9 +161,9 @@ Exmples of Prepositional phrases functioning as Qualifiers
 Common prepositions of Place / Position
 -----------------------------------------------------
 
-These are the most common prepositions used in noun group qualifiers.
-Each sentence shows a prepositional phrase functioning as a **qualifier in a noun group**.
-The prepositional phrase is outlined.
+| These are the most common prepositions used in noun group qualifiers.
+| Each sentence shows a prepositional phrase functioning as a **qualifier in a noun group**.
+| The prepositional phrase is outlined.
 
 
 .. list-table::
@@ -244,8 +244,8 @@ The prepositional phrase is outlined.
 .. admonition:: Expansion of noun groups by prepositions of Place / Position
     :class: shortanswer
 
-    Expand each sentence by adding a **noun-group qualifier (place / position prepositional phrase)**.
-    Keep the meaning scientific and precise.
+    | Expand each sentence by adding a **noun-group qualifier (place / position prepositional phrase)**.
+    | Keep the meaning scientific and precise.
 
     .. tab-set::
         :sync-group: set1
@@ -328,9 +328,9 @@ The prepositional phrase is outlined.
 Common prepositions of Movement / Direction
 -----------------------------------------------------
 
-These are common prepositions of movement / direction in noun group qualifiers.
-Each sentence shows a prepositional phrase functioning as a **qualifier in a noun group**.
-The prepositional phrase is outlined.
+| These are common prepositions of movement / direction in noun group qualifiers.
+| Each sentence shows a prepositional phrase functioning as a **qualifier in a noun group**.
+| The prepositional phrase is outlined.
 
 
 
@@ -364,8 +364,8 @@ The prepositional phrase is outlined.
 .. admonition::  Expansion of noun groups by prepositions of Movement / Direction
     :class: shortanswer
 
-    Expand each sentence by adding a **noun-group qualifier (movement / direction or possession / relation prepositional phrase)**.
-    Keep the meaning scientific and precise.
+    | Expand each sentence by adding a **noun-group qualifier (movement / direction or possession / relation prepositional phrase)**.
+    | Keep the meaning scientific and precise.
 
     .. tab-set::
         :sync-group: set2
@@ -373,14 +373,14 @@ The prepositional phrase is outlined.
         .. tab-item:: Q1
             :sync: q1
 
-            The distance was measured precisely with a laser rangefinder.
-            → Expand using a movement prepositional phrase (from)
+            | The distance was measured precisely with a laser rangefinder.
+            | → Expand using a movement prepositional phrase (from)
 
         .. tab-item:: Q2
             :sync: q2
 
-            The current increased rapidly once the voltage was increased.
-            → Expand using a movement prepositional phrase (through)
+            | The current increased rapidly once the voltage was increased.
+            | → Expand using a movement prepositional phrase (through)
 
 
     .. dropdown:: Reveal Suggested Answers
@@ -410,9 +410,9 @@ The prepositional phrase is outlined.
 Common prepositions of Possession / Relation
 -----------------------------------------------------
 
-These are common prepositions of possession / relation in noun group qualifiers.
-Each sentence shows a prepositional phrase functioning as a **qualifier in a noun group**.
-The prepositional phrase is outlined.
+| These are common prepositions of possession / relation in noun group qualifiers.
+| Each sentence shows a prepositional phrase functioning as a **qualifier in a noun group**.
+| The prepositional phrase is outlined.
 
 
 
@@ -439,8 +439,8 @@ The prepositional phrase is outlined.
 .. admonition::  Expansion of noun groups by prepositions of Movement / Direction
     :class: shortanswer
 
-    Expand each sentence by adding a **noun-group qualifier (movement / direction or possession / relation prepositional phrase)**.
-    Keep the meaning scientific and precise.
+    | Expand each sentence by adding a **noun-group qualifier (movement / direction or possession / relation prepositional phrase)**.
+    | Keep the meaning scientific and precise.
 
     .. tab-set::
         :sync-group: set2
@@ -472,9 +472,9 @@ The prepositional phrase is outlined.
 Common prepositions of Topic / Reference
 -----------------------------------------------------
 
-These are common prepositions of topic / reference in noun group qualifiers.
-Each sentence shows a prepositional phrase functioning as a **qualifier in a noun group**.
-The prepositional phrase is outlined.
+| These are common prepositions of topic / reference in noun group qualifiers.
+| Each sentence shows a prepositional phrase functioning as a **qualifier in a noun group**.
+| The prepositional phrase is outlined.
 
 
 .. list-table::
@@ -507,8 +507,8 @@ The prepositional phrase is outlined.
 .. admonition:: Expansion of noun groups by prepositions of Topic / Reference
     :class: shortanswer
 
-    Expand each sentence by adding a **noun-group qualifier (topic / reference prepositional phrase)**.
-    Keep the meaning scientific and precise. The base sentence must remain the same in each answer, with only the prepositional phrase changing. Adverbs are retained.
+    | Expand each sentence by adding a **noun-group qualifier (topic / reference prepositional phrase)**.
+    | Keep the meaning scientific and precise. The base sentence must remain the same in each answer, with only the prepositional phrase changing. Adverbs are retained.
 
     .. tab-set::
         :sync-group: set1
@@ -565,9 +565,9 @@ The prepositional phrase is outlined.
 Common prepositions of Addition / Exception
 -----------------------------------------------------
 
-These are common prepositions of addition / exception in noun group qualifiers.
-Each sentence shows a prepositional phrase functioning as a **qualifier in a noun group**.
-The prepositional phrase is outlined.
+| These are common prepositions of addition / exception in noun group qualifiers.
+| Each sentence shows a prepositional phrase functioning as a **qualifier in a noun group**.
+| The prepositional phrase is outlined.
 
 
 .. list-table::
@@ -601,8 +601,8 @@ The prepositional phrase is outlined.
 .. admonition:: Expansion of noun groups by prepositions of Addition / Exception
     :class: shortanswer
 
-    Expand each sentence by adding a **noun-group qualifier (addition or exception prepositional phrase)**.
-    Keep the meaning scientific and precise. The base sentence must remain the same in each answer, with only the prepositional phrase changing. Adverbs are retained.
+    | Expand each sentence by adding a **noun-group qualifier (addition or exception prepositional phrase)**.
+    | Keep the meaning scientific and precise. The base sentence must remain the same in each answer, with only the prepositional phrase changing. Adverbs are retained.
 
     .. tab-set::
         :sync-group: set3
@@ -662,8 +662,8 @@ The prepositional phrase is outlined.
 .. admonition:: Expansion Drill Questions
     :class: shortanswer
 
-    Expand each sentence by adding a **noun-group qualifier (prepositional phrase)**.
-    Keep the meaning scientific and precise.
+    | Expand each sentence by adding a **noun-group qualifier (prepositional phrase)**.
+    | Keep the meaning scientific and precise.
 
     .. tab-set::
         :sync-group: set3
