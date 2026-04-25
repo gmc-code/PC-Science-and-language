@@ -147,7 +147,7 @@ The noun group (Thing) is marked.
 
 .. list-table::
     :header-rows: 1
-    :widths: 25 15 60
+    :widths: 22 18 60
 
     * - Category
       - Preposition
