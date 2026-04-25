@@ -47,12 +47,11 @@ def participant_role(name, rawtext, text, lineno, inliner, options=None, content
         options = {}
     roles.set_classes(options)
 
-    # Correct modern Docutils call (no memo)
-    parsed_nodes, messages = inliner.parse(
-        text,
-        lineno,
-        inliner.document
-    )
+    try:
+        parsed_nodes, messages = inliner.parse(text, lineno, inliner.document)
+    except TypeError:
+        # fallback for older versions
+        parsed_nodes, messages = inliner.parse(text, lineno, inliner.memo)
 
     node = nodes.inline(rawtext, '', *parsed_nodes, classes=['participant'])
     return [node], messages
