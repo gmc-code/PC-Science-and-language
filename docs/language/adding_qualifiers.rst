@@ -34,19 +34,34 @@ Common Scientific Qualifiers:
 ---------------------------------
 
 * **Place (Location):**
-    Pinpoints exactly where the object is.
-    * The chloroplasts **in the plant cell**
-    * The valves **between the heart chambers**
+  Pinpoints exactly where the object is.
 
-* **Time (Duration/Sequence):**
-    Specifies when the event occurs or how long it lasts.
-    * The colour change **after five minutes**
-    * The fossilisation **over millions of years**
+  * The chloroplasts **in the plant cell**
+  * The valves **between the heart chambers**
 
-* **Manner (Method/Quality):**
-    Explains how something is done or its specific state.
-    * The movement **with a constant speed**
-    * The bonding **through electron sharing**
+* **Time (Sequence):**
+  Specifies when an event occurs in relation to other steps in the process.
+
+  * The colour change **after five minutes** was recorded carefully.
+  * The reaction **before the addition of acid** remained stable.
+
+* **Time (Duration):**
+  Specifies how long a process or state lasts.
+
+  * The fossilisation **over millions of years** preserved the skeletal structure.
+  * The incubation **for seventy-two hours** allowed the cultures to develop.
+
+* **Manner (Method/Means):**
+  Explains the tools or specific processes used to achieve a result.
+
+  * The bonding **through electron sharing** results in a covalent structure.
+  * The separation **by filtration** effectively removed the insoluble solids.
+
+* **Manner (Quality/State):**
+  Describes the specific physical state or the way something behaves.
+
+  * The movement **with a constant speed** was plotted on the distance-time graph.
+  * The solution **in a saturated state** began to form crystals as it cooled.
 
 
 ----
