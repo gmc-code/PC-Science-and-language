@@ -50,7 +50,7 @@ Common Scientific Qualifiers:
 
 ----
 
-.. admonition:: Matching Qualifiers — Set 1: Biology and Physics
+.. admonition:: Matching Qualifiers — Biology and Physics
     :class: match
 
     Match the correct **Qualifier** (post-modifier) to the core **Thing**.
@@ -94,7 +94,7 @@ Common Scientific Qualifiers:
 
 ----
 
-.. admonition:: Matching Qualifiers — Set 2: Chemistry and Earth Science
+.. admonition:: Matching Qualifiers — Chemistry and Earth Science
     :class: match
 
     Match the correct **Qualifier** (post-modifier) to the core **Thing**.
@@ -156,7 +156,7 @@ The noun group (Thing) is marked.
 
     * - Place / Position
       - in
-      - :participantb:`The water` :participant:`in the beaker` was heated.
+      - :participantb:`The water` :participant:`in the beaker` was heated gradually.
 
     * - Place / Position
       - on
@@ -164,51 +164,51 @@ The noun group (Thing) is marked.
 
     * - Place / Position
       - at
-      - :participantb:`The reaction` :participant:`at the metal surface` was observed.
+      - :participantb:`The reaction` :participant:`at the metal surface` was observed closely.
 
     * - Place / Position
       - under
-      - :participantb:`The plant` :participant:`under the lamp` grew faster.
+      - :participantb:`The plant` :participant:`under the lamp` grew significantly faster.
 
     * - Place / Position
       - above
-      - :participantb:`The cloud` :participant:`above the mountain` contained moisture.
+      - :participantb:`The cloud` :participant:`above the mountain` slowly released moisture.
 
     * - Place / Position
       - below
-      - :participantb:`The temperature` :participant:`below zero` caused freezing.
+      - :participantb:`The temperature` :participant:`below zero` instantly caused freezing.
 
     * - Place / Position
       - over
-      - :participantb:`The layer` :participant:`over the liquid` prevented evaporation.
+      - :participantb:`The layer` :participant:`over the liquid` effectively prevented evaporation.
 
     * - Place / Position
       - between
-      - :participantb:`The distance` :participant:`between the markers` was measured.
+      - :participantb:`The distance` :participant:`between the markers` was measured precisely.
 
     * - Place / Position
       - near
-      - :participantb:`The plants` :participant:`near the window` grew faster.
+      - :participantb:`The plants` :participant:`near the window` grew noticeably faster.
 
     * - Place / Position
       - beside
-      - :participantb:`The beaker` :participant:`beside the burner` contained salt water.
+      - :participantb:`The beaker` :participant:`beside the burner` slowly warmed the salt water.
 
     * - Place / Position
       - next to
-      - :participantb:`The thermometer` :participant:`next to the flask` recorded the temperature.
+      - :participantb:`The thermometer` :participant:`next to the flask` accurately recorded the temperature.
 
     * - Place / Position
       - behind
-      - :participantb:`The equipment` :participant:`behind the screen` was protected.
+      - :participantb:`The equipment` :participant:`behind the screen` was adequately protected.
 
     * - Place / Position
       - in front of
-      - :participantb:`The sample` :participant:`in front of the sensor` was analysed.
+      - :participantb:`The sample` :participant:`in front of the sensor` was analysed automatically.
 
     * - Place / Position
       - inside
-      - :participantb:`The gas` :participant:`inside the test tube` expanded.
+      - :participantb:`The gas` :participant:`inside the test tube` expanded uniformly.
 
     * - Place / Position
       - outside
@@ -216,47 +216,283 @@ The noun group (Thing) is marked.
 
     * - Place / Position
       - around
-      - :participantb:`The field lines` :participant:`around the magnet` were visible.
+      - :participantb:`The field lines` :participant:`around the magnet` were clearly visible.
+
+
+----
+
+.. admonition:: Expansion Drill Questions
+    :class: shortanswer
+
+    Expand each sentence by adding a **noun-group qualifier (place / position prepositional phrase)**.
+    Keep the meaning scientific and precise.
+
+    .. tab-set::
+        :sync-group: set1
+
+        .. tab-item:: Q1
+            :sync: q1
+
+            The water was heated gently.
+            → Expand using a place prepositional phrase (in / on / under / near)
+
+        .. tab-item:: Q2
+            :sync: q2
+
+            The bacteria grew rapidly.
+            → Expand using a place prepositional phrase (on / in / near / under)
+
+        .. tab-item:: Q3
+            :sync: q3
+
+            The plant grew faster.
+            → Expand using a place prepositional phrase (under / in / near / beside)
+
+        .. tab-item:: Q4
+            :sync: q4
+
+            The beaker contained salt water.
+            → Expand using a place prepositional phrase (beside / next to / in / on)
+
+        .. tab-item:: Q5
+            :sync: q5
+
+            The field lines were mapped using iron filings.
+            → Expand using a place prepositional phrase (around / above / near / between)
+
+
+    .. dropdown:: Reveal Suggested Answers
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
+
+        .. tab-set::
+            :sync-group: set1
+
+            .. tab-item:: Q1
+                :sync: q1
+
+                :participantb:`The water` :participant:`in the beaker` was heated gently.
+                :participantb:`The water` :participant:`in the container` was heated gently.
+                :participantb:`The water` :participant:`in the flask` was heated gently.
+
+            .. tab-item:: Q2
+                :sync: q2
+
+                :participantb:`The bacteria` :participant:`on the agar plate` grew rapidly.
+                :participantb:`The bacteria` :participant:`in the culture dish` grew rapidly.
+                :participantb:`The bacteria` :participant:`near the edge` grew rapidly.
+
+            .. tab-item:: Q3
+                :sync: q3
+
+                :participantb:`The plant` :participant:`under the lamp` grew faster.
+                :participantb:`The plant` :participant:`near the window` grew faster.
+                :participantb:`The plant` :participant:`in the greenhouse` grew faster.
+
+            .. tab-item:: Q4
+                :sync: q4
+
+                :participantb:`The beaker` :participant:`beside the burner` contained salt water.
+                :participantb:`The beaker` :participant:`next to the flask` contained salt water.
+                :participantb:`The beaker` :participant:`on the bench` contained salt water.
+
+            .. tab-item:: Q5
+                :sync: q5
+
+                :participantb:`The field lines` :participant:`around the magnet` were mapped using iron filings.
+                :participantb:`The field lines` :participant:`near the coil` were mapped using iron filings.
+                :participantb:`The field lines` :participant:`above the magnet` were mapped using iron filings.
+
+----
+
+.. list-table::
+    :header-rows: 1
+    :widths: 22 18 60
+
+    * - Category
+      - Preposition
+      - Example sentence (noun group marked)
 
     * - Movement / Direction
       - from
-      - :participantb:`The distance` :participant:`from the start line` was measured.
+      - :participantb:`The distance` :participant:`from the start line` was measured precisely with a laser rangefinder.
 
     * - Movement / Direction
       - through
-      - :participantb:`The current` :participant:`through the wire` increased.
+      - :participantb:`The current` :participant:`through the wire` increased rapidly once the voltage was adjusted.
 
     * - Movement / Direction
       - across
-      - :participantb:`The force` :participant:`across the surface` was distributed evenly.
+      - :participantb:`The force` :participant:`across the surface` was distributed evenly to prevent the material from fracturing.
 
     * - Movement / Direction
       - along
-      - :participantb:`The wave` :participant:`along the rope` transferred energy.
+      - :participantb:`The wave` :participant:`along the rope` transferred energy efficiently toward the fixed end.
 
     * - Possession / Relation
       - of
-      - :participantb:`The colour` :participant:`of the solution` changed.
+      - :participantb:`The colour` :participant:`of the solution` changed instantly from clear to a deep violet.
 
     * - Possession / Relation
       - belonging to
-      - :participantb:`The sample` :participant:`belonging to trial A` reacted faster.
+      - :participantb:`The sample` :participant:`belonging to trial A` reacted faster than the specimens in the control group.
+
+
+----
+
+
+.. admonition:: Expansion Drill Questions
+    :class: shortanswer
+
+    Expand each sentence by adding a **noun-group qualifier (movement / direction or possession / relation prepositional phrase)**.
+    Keep the meaning scientific and precise.
+
+    .. tab-set::
+        :sync-group: set2
+
+        .. tab-item:: Q1
+            :sync: q1
+
+            The distance was measured precisely with a laser rangefinder.
+            → Expand using a movement prepositional phrase (from)
+
+        .. tab-item:: Q2
+            :sync: q2
+
+            The current increased rapidly once the voltage was increased.
+            → Expand using a movement prepositional phrase (through)
+
+        .. tab-item:: Q3
+            :sync: q3
+
+            The colour changed instantly from pink to a deep violet.
+            → Expand using a possession / relation prepositional phrase (of)
+
+
+    .. dropdown:: Reveal Suggested Answers
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
+
+        .. tab-set::
+            :sync-group: set2
+
+            .. tab-item:: Q1
+                :sync: q1
+
+                :participantb:`The distance` :participant:`from the start line` was measured precisely with a laser rangefinder.
+                :participantb:`The distance` :participant:`from the retort stand` was measured precisely with a laser rangefinder.
+                :participantb:`The distance` :participant:`from the bench` was measured precisely with a laser rangefinder.
+
+            .. tab-item:: Q2
+                :sync: q2
+
+                :participantb:`The current` :participant:`through the wire` increased rapidly once the voltage was increased.
+                :participantb:`The current` :participant:`through the circuit` increased rapidly once the voltage was increased.
+                :participantb:`The current` :participant:`through the conductor` increased rapidly once the voltage was increased.
+
+            .. tab-item:: Q3
+                :sync: q3
+
+                :participantb:`The colour` :participant:`of the solution` changed instantly from pink to a deep violet.
+                :participantb:`The colour` :participant:`of the indicator` changed instantly from pink to a deep violet.
+                :participantb:`The colour` :participant:`of the solid` changed instantly from pink to a deep violet.
+
+
+----
+
+
+.. list-table::
+    :header-rows: 1
+    :widths: 22 18 60
+
+    * - Category
+      - Preposition
+      - Example sentence (noun group marked)
 
     * - Topic / Reference
-      - about
-      - :participantb:`The data` :participant:`about the reaction` were recorded.
+      - from
+      - :participantb:`The data` :participant:`from the reaction` was recorded automatically by the digital sensors.
 
     * - Topic / Reference
       - concerning
-      - :participantb:`The report` :participant:`concerning heat transfer` was submitted.
+      - :participantb:`The report` :participant:`concerning heat transfer` was submitted for review after the final trial.
 
     * - Topic / Reference
       - in relation to
-      - :participantb:`The change` :participant:`in relation to temperature` was measured.
+      - :participantb:`The change` :participant:`in relation to temperature` was measured carefully using a high-precision probe.
 
     * - Topic / Reference
       - with respect to
-      - :participantb:`The trend` :participant:`with respect to time` was plotted.
+      - :participantb:`The trend` :participant:`with respect to time` was plotted on a scatter graph to show the rate of change.
+
+
+----
+
+.. admonition:: Expansion Drill Questions
+    :class: shortanswer
+
+    Expand each sentence by adding a **noun-group qualifier (topic / reference prepositional phrase)**.
+    Keep the meaning scientific and precise. The base sentence must remain the same in each answer, with only the prepositional phrase changing. Adverbs are retained.
+
+    .. tab-set::
+        :sync-group: set1
+
+        .. tab-item:: Q1
+            :sync: q1
+
+            The measurements were carefully recorded.
+            → Expand using a topic / reference prepositional phrase (from)
+
+        .. tab-item:: Q2
+            :sync: q2
+
+            The report was formally submitted.
+            → Expand using a topic / reference prepositional phrase (concerning)
+
+        .. tab-item:: Q3
+            :sync: q3
+
+            The trend was clearly plotted.
+            → Expand using a topic / reference prepositional phrase (with respect to)
+
+
+    .. dropdown:: Reveal Suggested Answers
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
+
+        .. tab-set::
+            :sync-group: set1
+
+            .. tab-item:: Q1
+                :sync: q1
+
+                :participantb:`The measurements` :participant:`about the reaction` were carefully recorded.
+                :participantb:`The measurements` :participant:`about the experiment` were carefully recorded.
+                :participantb:`The measurements` :participant:`about the chemical reaction` were carefully recorded.
+
+            .. tab-item:: Q2
+                :sync: q2
+
+                :participantb:`The report` :participant:`concerning heat transfer` was formally submitted.
+                :participantb:`The report` :participant:`concerning the investigation` was formally submitted.
+                :participantb:`The report` :participant:`concerning energy transfer` was formally submitted.
+
+            .. tab-item:: Q3
+                :sync: q3
+
+                :participantb:`The trend` :participant:`with respect to time` was clearly plotted.
+                :participantb:`The trend` :participant:`with respect to temperature` was clearly plotted.
+                :participantb:`The trend` :participant:`with respect to the variable` was clearly plotted.
+
+----
+
+.. list-table::
+    :header-rows: 1
+    :widths: 22 18 60
+
+    * - Category
+      - Preposition
+      - Example sentence (noun group marked)
 
     * - Addition
       - in addition to
@@ -277,6 +513,68 @@ The noun group (Thing) is marked.
 
 ----
 
+
+.. admonition:: Expansion Drill Questions
+    :class: shortanswer
+
+    Expand each sentence by adding a **noun-group qualifier (addition or exception prepositional phrase)**.
+    Keep the meaning scientific and precise. The base sentence must remain the same in each answer, with only the prepositional phrase changing. Adverbs are retained.
+
+    .. tab-set::
+        :sync-group: set3
+
+        .. tab-item:: Q1
+            :sync: q1
+
+            The gas was observed escaping through the valve.
+            → Expand using an addition prepositional phrase (as well as)
+
+        .. tab-item:: Q2
+            :sync: q2
+
+            All the samples reacted immediately when the acid was added.
+            → Expand using an exception prepositional phrase (except)
+
+        .. tab-item:: Q3
+            :sync: q3
+
+            All of the results were consistent with the original hypothesis.
+            → Expand using an exception prepositional phrase (apart from)
+
+
+    .. dropdown:: Reveal Suggested Answers
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
+
+        .. tab-set::
+            :sync-group: set3
+
+            .. tab-item:: Q1
+                :sync: q1
+
+                :participantb:`The gas` :participant:`as well as the liquid` was observed escaping through the valve.
+                :participantb:`The gas` :participant:`as well as the residue` was observed escaping through the valve.
+                :participantb:`The gas` :participant:`as well as the vapour` was observed escaping through the valve.
+
+            .. tab-item:: Q2
+                :sync: q2
+
+                :participantb:`All the samples` :participant:`except the control` reacted immediately when the acid was added.
+                :participantb:`All the samples` :participant:`except the first trial` reacted immediately when the acid was added.
+                :participantb:`All the samples` :participant:`except the pure water` reacted immediately when the acid was added.
+
+            .. tab-item:: Q3
+                :sync: q3
+
+                :participantb:`All of the results` :participant:`apart from trial 2` were consistent with the original hypothesis.
+                :participantb:`All of the results` :participant:`apart from the final reading` were consistent with the original hypothesis.
+                :participantb:`All of the results` :participant:`apart from the outliers` were consistent with the original hypothesis.
+
+
+
+----
+
+
 .. admonition:: Expansion Drill Questions
     :class: shortanswer
 
@@ -284,7 +582,7 @@ The noun group (Thing) is marked.
     Keep the meaning scientific and precise.
 
     .. tab-set::
-        :sync-group: set1
+        :sync-group: set3
 
         .. tab-item:: Q1
             :sync: q1
@@ -322,42 +620,42 @@ The noun group (Thing) is marked.
         :class-container: dropdown-shortanswer
 
         .. tab-set::
-            :sync-group: set1
+            :sync-group: set3
 
             .. tab-item:: Q1
                 :sync: q1
 
-                :participantb:`The plant` :participant:`in the greenhouse` grew quickly.
-                :participantb:`The plant` :participant:`under the lamp` grew quickly.
-                :participantb:`The plant` :participant:`near the window` grew quickly.
+                | :participantb:`The plant` :participant:`in the greenhouse` grew quickly.
+                | :participantb:`The plant` :participant:`under the lamp` grew quickly.
+                | :participantb:`The plant` :participant:`near the window` grew quickly.
 
             .. tab-item:: Q2
                 :sync: q2
 
-                :participantb:`The current` :participant:`through the wire` increased steadily.
-                :participantb:`The current` :participant:`across the circuit` increased steadily.
-                :participantb:`The current` :participant:`along the conductor` increased steadily.
+                | :participantb:`The current` :participant:`through the wire` increased steadily.
+                | :participantb:`The current` :participant:`across the circuit` increased steadily.
+                | :participantb:`The current` :participant:`along the conductor` increased steadily.
 
             .. tab-item:: Q3
                 :sync: q3
 
-                :participantb:`The colour` :participant:`of the solution` changed suddenly.
-                :participantb:`The colour` :participant:`of the liquid` changed suddenly.
-                :participantb:`The colour` :participant:`belonging to the mixture` changed suddenly.
+                | :participantb:`The colour` :participant:`of the solution` changed suddenly.
+                | :participantb:`The colour` :participant:`of the liquid` changed suddenly.
+                | :participantb:`The colour` :participant:`belonging to the mixture` changed suddenly.
 
             .. tab-item:: Q4
                 :sync: q4
 
-                :participantb:`The report` :participant:`about the experiment` was submitted to the teacher.
-                :participantb:`The report` :participant:`concerning heat transfer` was submitted to the teacher.
-                :participantb:`The report` :participant:`about the investigation` was submitted to the teacher.
+                | :participantb:`The report` :participant:`about the experiment` was submitted to the teacher.
+                | :participantb:`The report` :participant:`concerning heat transfer` was submitted to the teacher.
+                | :participantb:`The report` :participant:`about the investigation` was submitted to the teacher.
 
             .. tab-item:: Q5
                 :sync: q5
 
-                :participantb:`The reaction` :participant:`during heating` was observed carefully.
-                :participantb:`The reaction` :participant:`before mixing` was observed carefully.
-                :participantb:`The reaction` :participant:`after adding the acid` was observed carefully.
+                | :participantb:`The reaction` :participant:`during heating` was observed carefully.
+                | :participantb:`The reaction` :participant:`before mixing` was observed carefully.
+                | :participantb:`The reaction` :participant:`after adding the acid` was observed carefully.
 
 
 
