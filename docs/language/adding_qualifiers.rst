@@ -144,39 +144,225 @@ Main Prepositions for Qualifiers
 -----------------------------------------------------
 
 These are the most common prepositions used in noun group qualifiers.
+Each sentence shows a prepositional phrase functioning as a **qualifier in a noun group**.
+The noun group (Thing) is marked.
 
-**Place / Position**
-in, on, at, under, above, below, over, between, among, near, beside, next to, behind, in front of, inside, outside, around
+.. list-table::
+    :header-rows: 1
+    :widths: 25 15 60
 
-**Movement**
-into, onto, out of, from, to, towards, away from, through, across, along
+    * - Category
+      - Preposition
+      - Example sentence (noun group marked)
 
-**Time**
-before, after, during, since, until, by, within
+    * - Place / Position
+      - in
+      - :participant:`the water in the beaker` was heated.
 
-**Cause / Reason**
-because of, due to, as a result of
+    * - Place / Position
+      - on
+      - :participant:`the bacteria on the agar plate` grew rapidly.
 
-**Purpose / Function**
-for, in order to
+    * - Place / Position
+      - at
+      - The reaction occurred at :participant:`the surface of the metal`.
 
-**Method / Means**
-by, with, without, using
+    * - Place / Position
+      - under
+      - :participant:`the plant under the lamp` grew faster.
 
-**Possession / Relation**
-of, belonging to
+    * - Place / Position
+      - above
+      - :participant:`the cloud above the mountain` contained moisture.
 
-**Comparison**
-like, unlike, as, compared with
+    * - Place / Position
+      - below
+      - Ice formed at :participant:`the temperature below zero`.
 
-**Condition**
-depending on, according to
+    * - Place / Position
+      - over
+      - Heat spread across :participant:`the surface over the liquid`.
 
-**Topic / Reference**
-about, concerning, in relation to, with respect to
+    * - Place / Position
+      - between
+      - The distance between :participant:`the markers between the sites` was measured.
 
-**Addition (more formal)**
-in addition to, as well as
+    * - Place / Position
+      - among
+      - :participant:`the particles among the mixture` moved freely.
 
-**Exception**
-except, apart from
+    * - Place / Position
+      - near
+      - :participant:`the plants near the window` grew faster.
+
+    * - Place / Position
+      - beside
+      - :participant:`the beaker beside the burner` contained salt water.
+
+    * - Place / Position
+      - next to
+      - :participant:`the thermometer next to the flask` recorded the temperature.
+
+    * - Place / Position
+      - behind
+      - :participant:`the equipment behind the screen` was protected.
+
+    * - Place / Position
+      - in front of
+      - :participant:`the sample in front of the sensor` was analysed.
+
+    * - Place / Position
+      - inside
+      - Gas formed in :participant:`the reaction inside the test tube`.
+
+    * - Place / Position
+      - outside
+      - Ice melted outside :participant:`the container outside the freezer`.
+
+    * - Place / Position
+      - around
+      - Field lines formed around :participant:`the magnet around the coil`.
+
+    * - Movement
+      - into
+      - Gas moved into :participant:`the liquid into the container`.
+
+    * - Movement
+      - onto
+      - The solution was poured onto :participant:`the filter paper onto the funnel`.
+
+    * - Movement
+      - out of
+      - Gas escaped out of :participant:`the syringe out of the chamber`.
+
+    * - Movement
+      - from
+      - The distance from :participant:`the start line from the edge` was measured.
+
+    * - Movement
+      - to
+      - Heat travelled to :participant:`the metal rod to the end`.
+
+    * - Movement
+      - towards
+      - The object moved towards :participant:`the magnet towards the field`.
+
+    * - Movement
+      - away from
+      - Particles moved away from :participant:`the heat source away from the flame`.
+
+    * - Movement
+      - through
+      - Current flowed through :participant:`the wire through the circuit`.
+
+    * - Movement
+      - across
+      - Force acted across :participant:`the surface across the plate`.
+
+    * - Movement
+      - along
+      - Wave energy travelled along :participant:`the rope along the track`.
+
+    * - Time
+      - before
+      - The reading before :participant:`the heating before the experiment` was recorded.
+
+    * - Time
+      - after
+      - Mass after :participant:`the reaction after mixing` increased.
+
+    * - Time
+      - during
+      - Gas formed during :participant:`the reaction during heating`.
+
+    * - Time
+      - since
+      - Change since :participant:`the start since the experiment` was observed.
+
+    * - Time
+      - until
+      - Heating continued until :participant:`the boiling until equilibrium`.
+
+    * - Time
+      - by
+      - Energy by :participant:`the battery by the power source` was measured.
+
+    * - Method / Means
+      - with
+      - Solution with :participant:`the salt with impurities` was tested.
+
+    * - Method / Means
+      - without
+      - Control without :participant:`the light without exposure` showed no growth.
+
+    * - Method / Means
+      - using
+      - Mixture using :participant:`the filter paper using the funnel` was separated.
+
+    * - Possession / Relation
+      - of
+      - Colour of :participant:`the solution of the liquid` changed.
+
+    * - Possession / Relation
+      - belonging to
+      - Sample belonging to :participant:`the group belonging to trial A` reacted faster.
+
+    * - Comparison
+      - like
+      - Crystal formed like :participant:`the structure like ice` patterns.
+
+    * - Comparison
+      - unlike
+      - Result unlike :participant:`the control unlike trial 1` showed change.
+
+    * - Comparison
+      - as
+      - Material behaved as :participant:`the conductor as a metal` was tested.
+
+    * - Comparison
+      - compared with
+      - Result compared with :participant:`the control compared with baseline` was higher.
+
+    * - Condition
+      - depending on
+      - Outcome depending on :participant:`the temperature depending on heat` varied.
+
+    * - Condition
+      - according to
+      - Result according to :participant:`the data according to measurements` was consistent.
+
+    * - Topic / Reference
+      - about
+      - Data about :participant:`the reaction about the experiment` was recorded.
+
+    * - Topic / Reference
+      - concerning
+      - Report concerning :participant:`the experiment concerning heat transfer` was submitted.
+
+    * - Topic / Reference
+      - in relation to
+      - Change in relation to :participant:`the heat in relation to energy` was measured.
+
+    * - Topic / Reference
+      - with respect to
+      - Trend with respect to :participant:`the time with respect to change` was plotted.
+
+    * - Addition
+      - in addition to
+      - Results in addition to :participant:`the measurements in addition to data` were analysed.
+
+    * - Addition
+      - as well as
+      - Gas as well as :participant:`the liquid as well as the solid` was observed.
+
+    * - Exception
+      - except
+      - All samples except :participant:`the control except trial 3` reacted.
+
+    * - Exception
+      - apart from
+      - All results apart from :participant:`the trial apart from experiment 2` were consistent.
+
+
+
+
