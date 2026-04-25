@@ -23,18 +23,21 @@ rst_prolog = roles_file.read_text(encoding="utf-8")
 from docutils import nodes
 from docutils.parsers.rst import roles
 
-
 def participant_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
-    # This is the universal, version-safe way to parse nested inline markup
-    parsed, messages = inliner.parse_inline(text, lineno)
+    # Docutils 0.22.x requires memo and parent
+    memo = inliner.memo
+    parent = inliner.parent
+
+    # Parse nested inline markup safely
+    parsed, messages = inliner.parse(text, lineno, memo, parent)
 
     # Wrap parsed content in an inline node with a CSS class
     node = nodes.inline(rawtext, '', *parsed, classes=['participant'])
     return [node], messages
 
-
 def setup(app):
     roles.register_local_role('participant', participant_role)
+
 
 
     # roles.register_local_role('process', participant_role)

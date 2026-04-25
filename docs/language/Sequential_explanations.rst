@@ -7,7 +7,7 @@ Sequential explanations
 
 
 Example
-----------------------------------------------
+----------
 
 .. rubric:: How Ice Changes from Solid to Liquid
 
@@ -134,7 +134,7 @@ Stages and Phases of a Sequential Explanation
 
 
 How Ice Changes from Solid to Liquid
-----------------------------------
+--------------------------------------
 
 .. rubric:: Title
 

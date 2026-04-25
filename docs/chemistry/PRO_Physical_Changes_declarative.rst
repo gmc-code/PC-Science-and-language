@@ -1,6 +1,6 @@
-================================================
+===========================================
 PRO Physical Changes: declarative premise
-================================================
+===========================================
 
 | Examine the following examples of PRO (Premise-Reasoning-Outcome) structures in scientific explanations.
 | They use a declarative premise which is a statement of a general rule, principle, or property. It declares how something works in general rather than describing a specific situation.
@@ -340,6 +340,7 @@ Therefore, the clay changes shape but remains the same substance.
                 Therefore, frost forms on the grass.
 
 ----
+
 .. admonition:: Fill in the Gaps — Cold to touch
     :class: cloze
 
