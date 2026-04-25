@@ -244,9 +244,6 @@ Common prepositions of Place / Position
 .. admonition:: Expansion of noun groups by prepositions of Place / Position
     :class: shortanswer
 
-    | Expand each sentence by adding a **noun-group qualifier (place / position prepositional phrase)**.
-    | Keep the meaning scientific and precise.
-
     .. tab-set::
         :sync-group: set1
 
@@ -364,9 +361,6 @@ Common prepositions of Movement / Direction
 .. admonition::  Expansion of noun groups by prepositions of Movement / Direction
     :class: shortanswer
 
-    | Expand each sentence by adding a **noun-group qualifier (movement / direction or possession / relation prepositional phrase)**.
-    | Keep the meaning scientific and precise.
-
     .. tab-set::
         :sync-group: set2
 
@@ -439,9 +433,6 @@ Common prepositions of Possession / Relation
 .. admonition::  Expansion of noun groups by prepositions of Movement / Direction
     :class: shortanswer
 
-    | Expand each sentence by adding a **noun-group qualifier (movement / direction or possession / relation prepositional phrase)**.
-    | Keep the meaning scientific and precise.
-
     .. tab-set::
         :sync-group: set2
 
@@ -506,9 +497,6 @@ Common prepositions of Topic / Reference
 
 .. admonition:: Expansion of noun groups by prepositions of Topic / Reference
     :class: shortanswer
-
-    | Expand each sentence by adding a **noun-group qualifier (topic / reference prepositional phrase)**.
-    | Keep the meaning scientific and precise. The base sentence must remain the same in each answer, with only the prepositional phrase changing. Adverbs are retained.
 
     .. tab-set::
         :sync-group: set1
@@ -601,9 +589,6 @@ Common prepositions of Addition / Exception
 .. admonition:: Expansion of noun groups by prepositions of Addition / Exception
     :class: shortanswer
 
-    | Expand each sentence by adding a **noun-group qualifier (addition or exception prepositional phrase)**.
-    | Keep the meaning scientific and precise. The base sentence must remain the same in each answer, with only the prepositional phrase changing. Adverbs are retained.
-
     .. tab-set::
         :sync-group: set3
 
@@ -661,9 +646,6 @@ Common prepositions of Addition / Exception
 
 .. admonition:: Expansion Drill Questions
     :class: shortanswer
-
-    | Expand each sentence by adding a **noun-group qualifier (prepositional phrase)**.
-    | Keep the meaning scientific and precise.
 
     .. tab-set::
         :sync-group: set3
