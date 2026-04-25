@@ -20,27 +20,43 @@ def simple_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
     node = nodes.inline(rawtext, text, classes=[name])
     return [node], []
 
-def participant_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
-    # Try the full signature (works on many Docutils builds)
-    try:
-        parsed, messages = inliner.parse(
-            text,
-            lineno,
-            inliner.memo,
-            inliner.document
-        )
-    except Exception:
-        # Fallback: use the inliner itself to parse inline markup
-        try:
-            parsed, messages = inliner.parse(text, lineno, {}, inliner.document)
-        except Exception:
-            # Absolute fallback: treat as literal text
-            parsed = [nodes.Text(text)]
-            messages = []
+# def participant_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
+#     # Try the full signature (works on many Docutils builds)
+#     try:
+#         parsed, messages = inliner.parse(
+#             text,
+#             lineno,
+#             inliner.memo,
+#             inliner.document
+#         )
+#     except Exception:
+#         # Fallback: use the inliner itself to parse inline markup
+#         try:
+#             parsed, messages = inliner.parse(text, lineno, {}, inliner.document)
+#         except Exception:
+#             # Absolute fallback: treat as literal text
+#             parsed = [nodes.Text(text)]
+#             messages = []
 
-    node = nodes.inline(rawtext, '', *parsed, classes=['participant'])
+#     node = nodes.inline(rawtext, '', *parsed, classes=['participant'])
+#     return [node], messages
+from docutils import nodes
+from docutils.parsers.rst import roles
+
+def participant_role(name, rawtext, text, lineno, inliner, options=None, content=None):
+    if options is None:
+        options = {}
+    roles.set_classes(options)
+
+    # Proper nested parsing (this is the key fix)
+    parsed_nodes, messages = inliner.parse(
+        text,
+        lineno,
+        inliner.memo
+    )
+
+    node = nodes.inline(rawtext, '', *parsed_nodes, classes=['participant'])
     return [node], messages
-
 
 def setup(app):
     # register simple roles
@@ -48,7 +64,7 @@ def setup(app):
         "p","r","o","pb","rb","ob",
         "iv","dv","cv","ivb","dvb","cvb",
         "theme","rheme","themeb","rhemeb",
-        "process","participant","circ","conj",
+        "process","circ","conj",
         "processb","participantb","circb","conjb",
         "processp","participantp","circp","conjp",
         "rubricsmall"
