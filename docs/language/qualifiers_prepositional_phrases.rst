@@ -30,8 +30,8 @@ Qualifiers are often prepositional phrases (e.g. *in the beaker*, *at high tempe
 
 ----
 
-Common Prepositional phrases functioning as Qualifiers
---------------------------------------------------------
+Exmples of Prepositional phrases functioning as Qualifiers
+-------------------------------------------------------------
 
 * **Place (Location):**
   Pinpoints exactly where the object is.
@@ -39,11 +39,13 @@ Common Prepositional phrases functioning as Qualifiers
   * The chloroplasts **in the plant cell** are green.
   * The valves **between the heart chambers** prevent backflow.
 
+
 * **Time (Sequence):**
   Specifies when an event occurs in relation to other steps in the process.
 
   * The colour change **after five minutes** was recorded carefully.
   * The reaction **before the addition of acid** remained stable.
+
 
 * **Time (Duration):**
   Specifies how long a process or state lasts.
@@ -51,11 +53,13 @@ Common Prepositional phrases functioning as Qualifiers
   * The fossilisation **over millions of years** preserved the skeletal structure.
   * The incubation **for seventy-two hours** allowed the cultures to develop.
 
+
 * **Manner (Method/Means):**
   Explains the tools or specific processes used to achieve a result.
 
   * The bonding **through electron sharing** results in a covalent structure.
   * The separation **by filtration** effectively removed the insoluble solids.
+
 
 * **Manner (Quality/State):**
   Describes the specific physical state or the way something behaves.
