@@ -24,19 +24,24 @@ from docutils import nodes
 from docutils.parsers.rst import roles
 
 def participant_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
-    # Docutils 0.22.x requires memo and parent
-    memo = inliner.memo
-    parent = inliner.parent
+    # Try the full signature first (newer Docutils)
+    try:
+        parsed, messages = inliner.parse(
+            text,
+            lineno,
+            inliner.memo,
+            inliner.document
+        )
+    except Exception:
+        # Fallback for RTD's Docutils (no memo, no parent)
+        parsed, messages = inliner.parse(text, lineno)
 
-    # Parse nested inline markup safely
-    parsed, messages = inliner.parse(text, lineno, memo, parent)
-
-    # Wrap parsed content in an inline node with a CSS class
     node = nodes.inline(rawtext, '', *parsed, classes=['participant'])
     return [node], messages
 
 def setup(app):
     roles.register_local_role('participant', participant_role)
+
 
 
 
