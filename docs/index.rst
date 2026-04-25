@@ -93,7 +93,7 @@ PC-Science-and-language
     :caption: 🧷 Qualifiers
     :numbered:
 
-    language/adding_qualifiers.rst
+    language/qualifiers_prepositional_phrases.rst
 
 
 .. toctree::

@@ -1,5 +1,5 @@
 ===================================
-Adding Qualifiers
+Qualifiers: prepositionalnphrases
 ===================================
 
 Building Precise Noun Groups
@@ -30,14 +30,14 @@ Qualifiers are often prepositional phrases (e.g. *in the beaker*, *at high tempe
 
 ----
 
-Common Scientific Qualifiers:
----------------------------------
+Common Prepositional phrases functioning as Qualifiers
+--------------------------------------------------------
 
 * **Place (Location):**
   Pinpoints exactly where the object is.
 
-  * The chloroplasts **in the plant cell**
-  * The valves **between the heart chambers**
+  * The chloroplasts **in the plant cell** are green.
+  * The valves **between the heart chambers** prevent backflow.
 
 * **Time (Sequence):**
   Specifies when an event occurs in relation to other steps in the process.
@@ -115,7 +115,7 @@ Common Scientific Qualifiers:
 
     Match the correct **Qualifier** (post-modifier) to the core **Thing**.
 
-    **Options:** (A) over millions of years, (B) after the addition of acid, (C) in the test tube, (D) during the reaction, (E) from the bunsen burner
+    **Options:** (A) over millions of years, (B) after heating, (C) in the test tube, (D) during the reaction, (E) from the bunsen burner
 
     .. list-table::
         :header-rows: 1
@@ -149,17 +149,17 @@ Common Scientific Qualifiers:
         | 2.2 (C) residue **in the test tube**;
         | 2.3 (E) heat **from the bunsen burner**;
         | 2.4 (A) fossilisation **over millions of years**;
-        | 2.5 (B) colour change **after the addition of acid**.
+        | 2.5 (B) colour change **after heating**.
 
 
 ----
 
-Common prepositions used in noun group qualifiers
+Common prepositions of Place / Position
 -----------------------------------------------------
 
 These are the most common prepositions used in noun group qualifiers.
 Each sentence shows a prepositional phrase functioning as a **qualifier in a noun group**.
-The noun group (Thing) is marked.
+The prepositional phrase is outlined.
 
 
 .. list-table::
@@ -168,7 +168,7 @@ The noun group (Thing) is marked.
 
     * - Category
       - Preposition
-      - Example sentence (noun group marked)
+      - Example sentence
 
     * - Place / Position
       - in
@@ -237,7 +237,7 @@ The noun group (Thing) is marked.
 
 ----
 
-.. admonition:: Expansion Drill Questions
+.. admonition:: Expansion of noun groups by prepositions of Place / Position
     :class: shortanswer
 
     Expand each sentence by adding a **noun-group qualifier (place / position prepositional phrase)**.
@@ -321,6 +321,15 @@ The noun group (Thing) is marked.
 
 ----
 
+Common prepositions of Movement / Direction
+-----------------------------------------------------
+
+These are common prepositions of movement / direction in noun group qualifiers.
+Each sentence shows a prepositional phrase functioning as a **qualifier in a noun group**.
+The prepositional phrase is outlined.
+
+
+
 .. list-table::
     :header-rows: 1
     :widths: 22 18 60
@@ -345,19 +354,10 @@ The noun group (Thing) is marked.
       - along
       - :participantb:`The wave` :participant:`along the rope` transferred energy efficiently toward the fixed end.
 
-    * - Possession / Relation
-      - of
-      - :participantb:`The colour` :participant:`of the solution` changed instantly from clear to a deep violet.
-
-    * - Possession / Relation
-      - belonging to
-      - :participantb:`The sample` :participant:`belonging to trial A` reacted faster than the specimens in the control group.
-
-
 ----
 
 
-.. admonition:: Expansion Drill Questions
+.. admonition::  Expansion of noun groups by prepositions of Movement / Direction
     :class: shortanswer
 
     Expand each sentence by adding a **noun-group qualifier (movement / direction or possession / relation prepositional phrase)**.
@@ -377,12 +377,6 @@ The noun group (Thing) is marked.
 
             The current increased rapidly once the voltage was increased.
             → Expand using a movement prepositional phrase (through)
-
-        .. tab-item:: Q3
-            :sync: q3
-
-            The colour changed instantly from pink to a deep violet.
-            → Expand using a possession / relation prepositional phrase (of)
 
 
     .. dropdown:: Reveal Suggested Answers
@@ -406,8 +400,63 @@ The noun group (Thing) is marked.
                 :participantb:`The current` :participant:`through the circuit` increased rapidly once the voltage was increased.
                 :participantb:`The current` :participant:`through the conductor` increased rapidly once the voltage was increased.
 
-            .. tab-item:: Q3
-                :sync: q3
+----
+
+
+Common prepositions of Possession / Relation
+-----------------------------------------------------
+
+These are common prepositions of possession / relation in noun group qualifiers.
+Each sentence shows a prepositional phrase functioning as a **qualifier in a noun group**.
+The prepositional phrase is outlined.
+
+
+
+.. list-table::
+    :header-rows: 1
+    :widths: 22 18 60
+
+    * - Category
+      - Preposition
+      - Example sentence (noun group marked)
+
+    * - Possession / Relation
+      - of
+      - :participantb:`The colour` :participant:`of the solution` changed instantly from clear to a deep violet.
+
+    * - Possession / Relation
+      - belonging to
+      - :participantb:`The sample` :participant:`belonging to trial A` reacted faster than the specimens in the control group.
+
+
+----
+
+
+.. admonition::  Expansion of noun groups by prepositions of Movement / Direction
+    :class: shortanswer
+
+    Expand each sentence by adding a **noun-group qualifier (movement / direction or possession / relation prepositional phrase)**.
+    Keep the meaning scientific and precise.
+
+    .. tab-set::
+        :sync-group: set2
+
+        .. tab-item:: Q1
+            :sync: q1
+
+            The colour changed instantly from pink to a deep violet.
+            → Expand using a possession / relation prepositional phrase (of)
+
+
+    .. dropdown:: Reveal Suggested Answers
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
+
+        .. tab-set::
+            :sync-group: set2
+
+            .. tab-item:: Q1
+                :sync: q1
 
                 :participantb:`The colour` :participant:`of the solution` changed instantly from pink to a deep violet.
                 :participantb:`The colour` :participant:`of the indicator` changed instantly from pink to a deep violet.
@@ -415,6 +464,13 @@ The noun group (Thing) is marked.
 
 
 ----
+
+Common prepositions of Topic / Reference
+-----------------------------------------------------
+
+These are common prepositions of topic / reference in noun group qualifiers.
+Each sentence shows a prepositional phrase functioning as a **qualifier in a noun group**.
+The prepositional phrase is outlined.
 
 
 .. list-table::
@@ -444,7 +500,7 @@ The noun group (Thing) is marked.
 
 ----
 
-.. admonition:: Expansion Drill Questions
+.. admonition:: Expansion of noun groups by prepositions of Topic / Reference
     :class: shortanswer
 
     Expand each sentence by adding a **noun-group qualifier (topic / reference prepositional phrase)**.
@@ -502,6 +558,14 @@ The noun group (Thing) is marked.
 
 ----
 
+Common prepositions of Addition / Exception
+-----------------------------------------------------
+
+These are common prepositions of addition / exception in noun group qualifiers.
+Each sentence shows a prepositional phrase functioning as a **qualifier in a noun group**.
+The prepositional phrase is outlined.
+
+
 .. list-table::
     :header-rows: 1
     :widths: 22 18 60
@@ -530,7 +594,7 @@ The noun group (Thing) is marked.
 ----
 
 
-.. admonition:: Expansion Drill Questions
+.. admonition:: Expansion of noun groups by prepositions of Addition / Exception
     :class: shortanswer
 
     Expand each sentence by adding a **noun-group qualifier (addition or exception prepositional phrase)**.
