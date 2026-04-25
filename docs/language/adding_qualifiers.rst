@@ -28,22 +28,23 @@ Qualifiers are often prepositional phrases (e.g. *in the beaker*, *at high tempe
     - as a **Circumstance** → it describes a process
       (e.g. *the water was heated in the beaker*)
 
-    The difference depends on what the phrase is attached to.
-
 ----
 
 Common Scientific Qualifiers:
 ---------------------------------
 
-* **Place (Location):** Pinpoints exactly where the object is.
+* **Place (Location):**
+    Pinpoints exactly where the object is.
     * The chloroplasts **in the plant cell**
     * The valves **between the heart chambers**
 
-* **Time (Duration/Sequence):** Specifies when the event occurs or how long it lasts.
+* **Time (Duration/Sequence):**
+    Specifies when the event occurs or how long it lasts.
     * The colour change **after five minutes**
     * The fossilisation **over millions of years**
 
-* **Manner (Method/Quality):** Explains how something is done or its specific state.
+* **Manner (Method/Quality):**
+    Explains how something is done or its specific state.
     * The movement **with a constant speed**
     * The bonding **through electron sharing**
 
