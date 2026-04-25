@@ -296,7 +296,6 @@ The table below shows how informal investigation wording is translated into prec
 
 .. list-table::
     :header-rows: 1
-    :stub-columns: 1
     :widths: 35 20 35
 
     * - Student wording
