@@ -20,32 +20,18 @@ def simple_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
     node = nodes.inline(rawtext, text, classes=[name])
     return [node], []
 
-# def setup(app):
-#     # register simple roles
-#     for rolename in [
-#         "p","r","o","pb","rb","ob",
-#         "iv","dv","cv","ivb","dvb","cvb",
-#         "theme","rheme","themeb","rhemeb",
-#         "process","participant","circ","conj",
-#         "processb","participantb","circb","conjb",
-#         "processp","participantp","circp","conjp",
-#         "rubricsmall"
-#     ]:
-#         roles.register_local_role(rolename, simple_role)
 
 def setup(app):
     roles_to_register = [
-        "p","r","o","pb","rb","ob",
-        "iv","dv","cv","ivb","dvb","cvb",
-        "theme","rheme","themeb","rhemeb",
-        "process","participant","circ","conj",
-        "processb","participantb","circb","conjb",
-        "processp","participantp","circp","conjp",
-        "rubricsmall"
+        "p", "r", "o", "pb", "rb", "ob", "iv", "dv", "cv", "ivb", "dvb", "cvb",
+        "theme", "rheme", "themeb", "rhemeb", "process", "participant", "circ",
+        "conj", "processb", "participantb", "circb", "conjb", "processp",
+        "participantp", "circp", "conjp", "rubricsmall"
     ]
 
     for rolename in roles_to_register:
         app.add_role(rolename, simple_role)
+
 # ------------------------------------------------------------
 
 

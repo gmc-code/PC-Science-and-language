@@ -155,7 +155,7 @@ The noun group (Thing) is marked.
 
     * - Place / Position
       - in
-      - :participant:`the water **in the beaker**` was heated.
+      - :participant:`the water` :participantb:`in the beaker` was heated.
 
     * - Place / Position
       - on
