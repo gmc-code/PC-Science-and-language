@@ -1,32 +1,54 @@
 ===================================
-Adding qualifiers
+Adding Qualifiers
 ===================================
 
-| Your task is to add a **qualifier** to the noun in each short clause.
-| A qualifier is a group of words (often a prepositional phrase) that tells us
-| **which one**, **what kind**, or **which part** of the participant we mean.
-| In scientific writing, qualifiers often express:
+Building Precise Noun Groups
+-----------------------------------
 
-- **Time** (when the noun is involved)
-    - the reaction **after five minutes**
-    - growth **during the spring**
+In scientific writing, we must be extremely specific about **which** thing we are describing and **what exactly it refers to**.
 
-- **Place** (where the noun is located)
-    - electrons **in the outer shell**
-    - valves **between the heart chambers**
+We achieve this by expanding the **noun group**.
 
-- **Manner / quality** (what kind of noun)
-    - movement **with constant velocity**
-    - bonding **through electron sharing**
+One key way to do this is by adding a **Qualifier**.
 
+A **Qualifier** is a group of words that comes **after the noun** and gives extra information to define it more precisely.
+
+It helps answer questions like:
+- which one?
+- what type?
+- in what situation?
+
+Qualifiers are often prepositional phrases (e.g. *in the beaker*, *at high temperature*, *of the solution*), but can also take other forms.
+
+.. note::
+
+    A prepositional phrase can function in two different ways:
+
+    - as a **Qualifier** → it describes a noun
+      (e.g. *the water in the beaker*)
+
+    - as a **Circumstance** → it describes a process
+      (e.g. *the water was heated in the beaker*)
+
+    The difference depends on what the phrase is attached to.
 
 ----
 
-Example
--------
+Common Scientific Qualifiers:
+---------------------------------
 
-| Clause: The sun rises in the east.
-| With qualifier: The sun rises in the east **in the morning**.
+* **Place (Location):** Pinpoints exactly where the object is.
+    * The chloroplasts **in the plant cell**
+    * The valves **between the heart chambers**
+
+* **Time (Duration/Sequence):** Specifies when the event occurs or how long it lasts.
+    * The colour change **after five minutes**
+    * The fossilisation **over millions of years**
+
+* **Manner (Method/Quality):** Explains how something is done or its specific state.
+    * The movement **with a constant speed**
+    * The bonding **through electron sharing**
+
 
 ----
 
@@ -116,3 +138,45 @@ Example
         | 2.5 (B) colour change **after the addition of acid**.
 
 
+----
+
+Main Prepositions for Qualifiers
+-----------------------------------------------------
+
+These are the most common prepositions used in noun group qualifiers.
+
+**Place / Position**
+in, on, at, under, above, below, over, between, among, near, beside, next to, behind, in front of, inside, outside, around
+
+**Movement**
+into, onto, out of, from, to, towards, away from, through, across, along
+
+**Time**
+before, after, during, since, until, by, within
+
+**Cause / Reason**
+because of, due to, as a result of
+
+**Purpose / Function**
+for, in order to
+
+**Method / Means**
+by, with, without, using
+
+**Possession / Relation**
+of, belonging to
+
+**Comparison**
+like, unlike, as, compared with
+
+**Condition**
+depending on, according to
+
+**Topic / Reference**
+about, concerning, in relation to, with respect to
+
+**Addition (more formal)**
+in addition to, as well as
+
+**Exception**
+except, apart from
