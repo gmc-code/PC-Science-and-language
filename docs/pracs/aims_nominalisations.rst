@@ -294,69 +294,106 @@ Mapping: “How” → Variable
 
 The table below shows how informal investigation wording is translated into precise scientific terms.
 
+
 .. list-table::
     :header-rows: 1
-    :widths: 30 40 30
+    :widths: 30 35 35
 
     * - Student wording
-      - SFG meaning type
+      - Type of quantity
       - Scientific variable
 
-    * - how high or low the sound is
-      - Attribute: Quality (scalar)
+    * - how fast it is moving
+      - Property (scale)
+      - speed
+
+      * - how high or low the sound is
+      - Property (scale)
       - pitch of sound
 
     * - how cold or hot the water is
-      - Attribute: Quality (scalar)
+      - Property (scale)
       - temperature of water
 
     * - how loud it is
-      - Attribute: Quality (intensive)
+      - Property (strength)
       - sound intensity
 
-    * - how fast it is moving
-      - Attribute: Quality (intensive)
-      - speed
-
     * - how bright it is
-      - Attribute: Quality (intensive)
+      - Property (strength)
       - light intensity
 
-    * - how much friction
-      - Attribute: Quantity (amount)
+    * - how much friction there is
+      - Property (strength)
       - frictional force
 
     * - how heavy it is
-      - Attribute: Quantity (amount)
+      - Property (strength)
       - weight
 
-    * - how much water
-      - Attribute: Quantity (amount)
+    * - how much water there is
+      - Amount
       - volume
 
-    * - how much ice
-      - Attribute: Quantity (amount)
+    * - how much ice there is
+      - Amount
       - mass
 
     * - how far it goes
-      - Circumstance: Extent (distance)
+      - Distance
       - distance travelled
 
     * - how long it takes
-      - Circumstance: Extent (duration)
+      - Time
       - time taken
 
     * - how tall the plant grows
-      - Attribute: Extent (dimension)
+      - Size
       - height of plant
 
     * - how much electricity flows
-      - Circumstance: Manner (rate)
+      - Rate
       - current
 
     * - how quickly it melts
-      - Circumstance: Manner (rate)
+      - Rate
       - rate of melting
+
+
+
+Explanation of Terms in Column 2
+-------------------------------------------
+
+.. rubric:: Property (Scale):
+
+Refers to characteristics that can be measured on a continuous scale and can be expressed numerically.
+
+.. rubric:: Property (Strength):
+
+Refers to characteristics that indicate the intensity or force of a phenomenon.
+This includes variables that describe the strength or magnitude of an effect.
+
+.. rubric:: Amount:
+
+This term describes the quantity of a substance or object.
+
+.. rubric:: Distance:
+
+This term measures how far something travels or the length of a path.
+
+.. rubric:: Time:
+
+Refers to the duration or length of an event or process.
+This measurement tells us how long it takes for something to happen.
+
+.. rubric:: Size:
+
+Describes the dimensions or magnitude of an object, like height or width.
+
+.. rubric:: Rate:
+
+This term indicates a measure of how quickly or slowly something happens in relation to time.
+
 
 ----
 
