@@ -1,5 +1,5 @@
 =============================================================
-Prepositional Phrases (Earth Science - Rocks)
+Rocks: Prepositional Phrases
 =============================================================
 
 | Prepositional phrases are versatile.
