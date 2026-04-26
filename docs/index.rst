@@ -40,20 +40,20 @@ PC-Science-and-language
     :numbered:
 
 
-    earth/nominalisations_rocks.rst
-    earth/nominalisations2_rocks.rst
+    earth/rocks_nominalisations.rst
+    earth/rocks_nominalisations2.rst
     earth/rocks_processes.rst
     earth/rocks_prepositional_phrases.rst
 
 
-    earth/nominalisations_earth.rst
-    earth/nominalisations2_earth.rst
-    earth/nominalisation_sentences_earth.rst
+    earth/earth_nominalisations.rst
+    earth/earth_nominalisations2.rst
+    earth/earth_nominalisation_sentences.rst
 
-    earth/adding_qualifiers_earth.rst
+    earth/earth_adding_qualifiers.rst
 
-    earth/adding_circumstances_earth.rst
-    earth/match_circumstances_earth.rst
+    earth/earth_adding_circumstances.rst
+    earth/earth_match_circumstances.rst
 
 
 .. toctree::
