@@ -77,19 +77,19 @@ Igneous rocks
 
     Complete each scientific sentence by filling in the missing nominalised form.
 
-    1. Lava :process:`cools`` rapidly at the surface.
+    1. Lava :process:`cools` rapidly at the surface.
           The ______________ of lava is rapid at the surface.
 
-    2. Magma :process:`crystallises`` as it loses heat.
+    2. Magma :process:`crystallises` as it loses heat.
          The ______________ of magma occurs as it loses heat.
 
-    3. Volcanoes :process:`erupt`` when pressure builds up.
+    3. Volcanoes :process:`erupt` when pressure builds up.
         The ______________ of volcanoes happens when pressure builds up.
 
-    4. Rocks :process:`weather`` when exposed to wind and rain.
+    4. Rocks :process:`weather` when exposed to wind and rain.
         The ______________ of rocks occurs when they are exposed to wind and rain.
 
-    5. Magma :process:`solidifies`` when cooling is slow.
+    5. Magma :process:`solidifies` when cooling is slow.
         The ______________ of magma occurs when cooling is slow.
 
 
@@ -262,16 +262,16 @@ Metamorphic rocks
     1. Heat :process:`melts` rock deep underground.
         The ______________ of rock occurs deep underground.
 
-    2. Pressure :process:`compresses`` rock during mountain building.
+    2. Pressure :process:`compresses` rock during mountain building.
         The ______________ of rock happens during mountain building.
 
-    3. Minerals :process:`recrystallise`` when exposed to heat and pressure.
+    3. Minerals :process:`recrystallise` when exposed to heat and pressure.
         The ______________ of minerals occurs when they are exposed to heat and pressure.
 
-    4. Rocks :process:`deform`` under intense tectonic forces.
+    4. Rocks :process:`deform` under intense tectonic forces.
         The ______________ of rock takes place under intense tectonic forces.
 
-    5. Rocks :process:`transform`` when conditions change inside the Earth.
+    5. Rocks :process:`transform` when conditions change inside the Earth.
         The ______________ of rock occurs when conditions change inside the Earth.
 
 
