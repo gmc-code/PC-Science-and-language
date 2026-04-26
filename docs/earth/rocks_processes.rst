@@ -130,12 +130,11 @@ Relating verbs
 
        **5. Description**
 
-       - have characteristics such as
        - have properties such as
        - have features such as
        - are characterised by
        - are described as
-
+       - have characteristics such as
 
 
     .. grid-item-card::

@@ -2,11 +2,11 @@
 Rocks: Verbs → Nouns
 ===================================
 
-| In science writing, actions are often turned into **nouns**.
+| In science writing, **actions** (verbs) are often turned into **things** (nouns).
 | These nouns are called **nominalisations**.
 | Each rock type has its own typical processes.
 
-Your task is to **rewrite each verb as its correct nominalisation**.
+Your task is to **nominalize each verb**.
 
 Example
 -------
