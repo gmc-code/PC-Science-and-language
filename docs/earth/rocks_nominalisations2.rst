@@ -70,6 +70,7 @@ Igneous rocks
                     * - Magma **solidifies**
                       - The **solidification** of magma
 
+----
 
 .. admonition:: Fill in the Gaps — Nominalisation (Geology)
     :class: cloze
