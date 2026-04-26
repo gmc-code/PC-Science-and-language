@@ -70,6 +70,9 @@ Exmples of Prepositional phrases functioning as Qualifiers
 
 ----
 
+Matching Qualifiers to the head noun
+-----------------------------------------------------
+
 .. admonition:: Matching Qualifiers — Biology and Physics
     :class: match
 
@@ -434,7 +437,7 @@ Common prepositions of Possession / Relation
 ----
 
 
-.. admonition::  Expansion of noun groups by prepositions of Movement / Direction
+.. admonition::  Expansion of noun groups by prepositions of Possession / Relation
     :class: shortanswer
 
     Write three sentences of your choice, each one adding a prepositional phrase to its noun group.
@@ -444,6 +447,12 @@ Common prepositions of Possession / Relation
 
         .. tab-item:: Q1
             :sync: q1
+
+            | → Expand the noun group by adding a prepositional phrase as a possession/relation qualifier using **“belonging to”**.
+            | The sample reacted faster than the others in the experiment.
+
+        .. tab-item:: Q2
+            :sync: q2
 
             | → Expand the noun group, by adding a prepositional phrase as a possession/relation qualifier using **“of”**.
             | The colour changed instantly from pink to a deep violet.
@@ -459,10 +468,16 @@ Common prepositions of Possession / Relation
             .. tab-item:: Q1
                 :sync: q1
 
+                | :participantb:`The sample` :participant:`belonging to trial A` reacted faster than the others in the experiment.
+                | :participantb:`The sample` :participant:`belonging to the heated group` reacted faster than the others in the experiment.
+                | :participantb:`The sample` :participant:`belonging to the control group` reacted faster than the others in the experiment.
+
+            .. tab-item:: Q2
+                :sync: q2
+
                 | :participantb:`The colour` :participant:`of the solution` changed instantly from pink to a deep violet.
                 | :participantb:`The colour` :participant:`of the indicator` changed instantly from pink to a deep violet.
                 | :participantb:`The colour` :participant:`of the solid` changed instantly from pink to a deep violet.
-
 
 ----
 
@@ -653,8 +668,10 @@ Common prepositions of Addition / Exception
 
 ----
 
+Mixed prepositional phrase qualifiers
+-----------------------------------------------------
 
-.. admonition:: Noun group expansion: mixed prepositional qualifiers
+.. admonition:: Noun group expansion: mixed prepositional phrase qualifiers
     :class: shortanswer
 
     Write three sentences of your choice, each one adding a prepositional phrase to its noun group.
