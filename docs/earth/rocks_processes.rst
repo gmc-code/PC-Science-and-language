@@ -58,66 +58,55 @@ Relational verbs answer:
 Relating verbs
 -------------------
 
-| Relating verbs (is, are, has) are used to define and describe and classify.
-| They are not used to describe actions.
-| The most common relating verb is "is" and its plural form "are".
-| The verb "has" is also a common relating verb used to describe possession or characteristics.
+| Relational processes link a participant to its identity, class, or attributes.
+| Relating verbs (is, are, has) are used to define, classify and describe.
+| They express states of being or having, not actions.
+| The most common relating verbs are forms of be (is, are).
+| The verb "has" is also used to express possession or attributes.
 
 | They are used for a variety of purposes including:
 - definition (is / is defined as)
+- naming (is called / is known as)
 - classification (is a type of / belongs to)
 - composition (consists of / is made of)
+- description (has properties such as / is characterised by)
+- location (is found in)
 
-
-| Other common relating verbs include:
-.. grid:: 4
-   :gutter: 1
-
-   .. grid-item::
-
-      - consist of
-      - contain
-      - include
-      - have parts such as
-      - are composed of
-      - are referred to as
-      - are grouped as
-
-   .. grid-item::
-
-      - have characteristics such as
-      - have properties such as
-      - have features such as
-      - are characterised by
-      - are formed from
-      - are called
-      - are classified as
-
-   .. grid-item::
-
-      - are made of
-      - are a type of
-      - are examples of
-      - are found in
-      - are considered to be
-      - are named
-      - are sorted as
-
-   .. grid-item::
-
-      - are defined as
-      - are described as
-      - are identified as
-      - are known as
-      - are regarded as
-      - are categorised as
-      - are organised as
 
 .. grid:: 3
     :gutter: 1
 
     .. grid-item::
-       **1. Part-Whole / Composition**
+       **1. Definition**
+
+       - is
+       - is defined as
+       - is identified as
+       - are regarded as
+       - are considered to be
+
+    .. grid-item::
+       **2. Naming**
+
+       - are referred to as
+       - are called
+       - are named
+       - are known as
+       - are recognised as
+
+    .. grid-item::
+       **3. Classification**
+
+       - are a type of
+       - are examples of
+       - are classified as
+       - are categorised as
+       - are grouped as
+       - are sorted as
+       - are organised as
+
+    .. grid-item::
+       **4. Part-Whole / Composition**
 
        - consist of
        - contain
@@ -127,29 +116,9 @@ Relating verbs
        - are made of
        - are formed from
 
-    .. grid-item::
-       **2. Classification**
-
-       - are a type of
-       - are examples of
-       - are found in
-       - are classified as
-       - are categorised as
-       - are grouped as
-       - are sorted as
-       - are organised as
 
     .. grid-item::
-       **3. Naming**
-
-       - are referred to as
-       - are called
-       - are named
-       - are known as
-       - are recognised as
-
-    .. grid-item::
-       **4. Description**
+       **5. Description**
 
        - have characteristics such as
        - have properties such as
@@ -157,30 +126,16 @@ Relating verbs
        - are characterised by
        - are described as
 
-    .. grid-item::
-       **5. Definition**
 
-       - are defined as
-       - are identified as
-       - are regarded as
-       - are considered to be
 
     .. grid-item::
+       **6. Location**
+
+       - are found in
+       - are located in
 
 
 
-| Common variations of "is" and "are" include:
-- "is a type of" / "are types of"
-- "is an example of" / "are examples of"
-- "is made of" / "are made of"
-- "is found in" / "are found in"
-
-| Common variations of "has" and "have" include:
-- "has characteristics such as" / "have characteristics such as"
-- "has characteristics including" / "have characteristics including"
-- "has properties such as" / "have properties such as"
-- "has features such as" / "have features such as"
-- "has parts such as" / "have parts such as"
 
 ----
 
