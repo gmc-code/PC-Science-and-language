@@ -1,5 +1,5 @@
 ======================================================
-Rocks: Processes
+Rocks: Information Reports
 ======================================================
 
 | The texts below consider some verbs used in information reports about rocks.
@@ -19,7 +19,6 @@ Context for examing processes: Information reports
 - They are written in the **simple present tense** to express timeless facts.
 - They include **circumstances** of location, time, manner, and cause to add factual detail.
 
-----
 
 Igneous rocks: Processes
 -------------------------------------

@@ -42,7 +42,8 @@ PC-Science-and-language
 
     earth/rocks_nominalisations.rst
     earth/rocks_nominalisations2.rst
-    earth/rocks_processes.rst
+    earth/rocks_action_processes.rst
+
     earth/rocks_prepositional_phrases.rst
     earth/rocks_adding_circumstances.rst
 
