@@ -77,7 +77,7 @@ Igneous rocks
 
     Complete each scientific sentence by filling in the missing nominalised form.
 
-    1. Lava cools quickly at the surface.
+    1. Lava cools rapidly at the surface.
           The ______________ of lava is rapid at the surface.
 
     2. Magma crystallises as it loses heat.
@@ -168,19 +168,19 @@ Sedimentary rocks
     Complete each scientific sentence by filling in the missing nominalised form.
 
     1. Water deposits sediments in rivers and oceans.
-        The ______________ of sediments by water forms new layers.
+        The ______________ of sediments by water occurs in rivers and oceans.
 
-    2. Sediments compact under increasing pressure.
-        The ______________ of sediments occurs under increasing pressure.
+    2. Sediments compact under great pressure.
+        The ______________ of sediments occurs under great pressure.
 
     3. Minerals cement particles together during rock formation.
-        The ______________ of particles by minerals strengthens the rock.
+        The ______________ of particles by minerals occurs during rock formation.
 
     4. Rocks erode when exposed to wind and moving water.
         The ______________ of rocks happens when they are exposed to wind and moving water.
 
     5. Minerals precipitate from solution in underground cavities.
-        The ______________ of minerals from solution creates crystal deposits.
+        The ______________ of minerals from solution occurs in underground cavities.
 
 
     .. dropdown:: Reveal Answer Key
@@ -241,8 +241,8 @@ Metamorphic rocks
 
                     * - Everyday (process)
                       - Scientific (participant)
-                    * - Heat **changes** rock
-                      - The **heating** of rock
+                    * - Heat **melts** rock
+                      - The **melting** of rock
                     * - Pressure **compresses** rock
                       - The **compression** of rock
                     * - Minerals **recrystallise**
@@ -259,7 +259,7 @@ Metamorphic rocks
 
     Complete each scientific sentence by filling in the missing nominalised form.
 
-    1. Heat changes rock deep underground.
+    1. Heat melts rock deep underground.
         The ______________ of rock occurs deep underground.
 
     2. Pressure compresses rock during mountain building.
@@ -271,8 +271,8 @@ Metamorphic rocks
     4. Rocks deform under intense tectonic forces.
         The ______________ of rock takes place under intense tectonic forces.
 
-    5. Rocks transform when conditions change inside Earth.
-        The ______________ of rock occurs when conditions change inside Earth.
+    5. Rocks transform when conditions change inside the Earth.
+        The ______________ of rock occurs when conditions change inside the Earth.
 
 
     .. dropdown:: Reveal Answer Key
@@ -283,7 +283,7 @@ Metamorphic rocks
 
             .. tab-item:: Answers
 
-                1. heating
+                1. melting
                 2. compression
                 3. recrystallisation
                 4. deformation
