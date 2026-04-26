@@ -76,7 +76,9 @@ Relating verbs
 .. grid:: 3
     :gutter: 1
 
-    .. grid-item::
+    .. grid-item-card::
+       :class-card: sd-border
+
        **1. Definition**
 
        - is
@@ -85,7 +87,9 @@ Relating verbs
        - are regarded as
        - are considered to be
 
-    .. grid-item::
+    .. grid-item-card::
+       :class-card: sd-border
+
        **2. Naming**
 
        - are referred to as
@@ -94,7 +98,9 @@ Relating verbs
        - are known as
        - are recognised as
 
-    .. grid-item::
+    .. grid-item-card::
+       :class-card: sd-border
+
        **3. Classification**
 
        - are a type of
@@ -105,7 +111,9 @@ Relating verbs
        - are sorted as
        - are organised as
 
-    .. grid-item::
+    .. grid-item-card::
+       :class-card: sd-border
+
        **4. Part-Whole / Composition**
 
        - consist of
@@ -117,7 +125,9 @@ Relating verbs
        - are formed from
 
 
-    .. grid-item::
+    .. grid-item-card::
+       :class-card: sd-border
+
        **5. Description**
 
        - have characteristics such as
@@ -128,7 +138,9 @@ Relating verbs
 
 
 
-    .. grid-item::
+    .. grid-item-card::
+       :class-card: sd-border
+
        **6. Location**
 
        - are found in
