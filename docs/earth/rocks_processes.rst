@@ -70,36 +70,103 @@ Relating verbs
 
 
 | Other common relating verbs include:
-- "consist of"
-- "contain"
-- "include"
-- "have characteristics such as"
-- "have properties such as"
-- "have features such as"
-- "have parts such as"
-- "are made of"
-- "are a type of"
-- "are examples of"
-- "are found in"
-- "are classified as"
-- "are composed of"
-- "are formed from"
-- "are characterised by"
-- "are defined as"
-- "are described as"
-- "are identified as"
-- "are known as"
-- "are considered to be"
-- "are regarded as"
-- "are recognised as"
-- "are referred to as"
-- "are called"
-- "are named"
-- "are categorised as"
-- "are grouped as"
-- "are classified as"
-- "are sorted as"
-- "are organised as"
+.. grid:: 4
+   :gutter: 1
+
+   .. grid-item::
+
+      - consist of
+      - contain
+      - include
+      - have parts such as
+      - are composed of
+      - are referred to as
+      - are grouped as
+
+   .. grid-item::
+
+      - have characteristics such as
+      - have properties such as
+      - have features such as
+      - are characterised by
+      - are formed from
+      - are called
+      - are classified as
+
+   .. grid-item::
+
+      - are made of
+      - are a type of
+      - are examples of
+      - are found in
+      - are considered to be
+      - are named
+      - are sorted as
+
+   .. grid-item::
+
+      - are defined as
+      - are described as
+      - are identified as
+      - are known as
+      - are regarded as
+      - are categorised as
+      - are organised as
+
+.. grid:: 3
+    :gutter: 1
+
+    .. grid-item::
+       **1. Part-Whole / Composition**
+
+       - consist of
+       - contain
+       - include
+       - have parts such as
+       - are composed of
+       - are made of
+       - are formed from
+
+    .. grid-item::
+       **2. Classification / Taxonomy**
+
+       - are a type of
+       - are examples of
+       - are found in
+       - are classified as
+       - are categorised as
+       - are grouped as
+       - are sorted as
+       - are organised as
+
+    .. grid-item::
+       **3. Identification / Naming**
+
+       - are referred to as
+       - are called
+       - are named
+       - are known as
+       - are recognised as
+
+    .. grid-item::
+       **4. Description / Characterisation**
+
+       - have characteristics such as
+       - have properties such as
+       - have features such as
+       - are characterised by
+       - are described as
+
+    .. grid-item::
+       **5. Definition / Status**
+
+       - are defined as
+       - are identified as
+       - are regarded as
+       - are considered to be
+
+    .. grid-item::
+       <!-- intentionally left blank -->
 
 
 
