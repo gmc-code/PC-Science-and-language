@@ -149,8 +149,6 @@ Examples
           -
         * - Stress **fractures** crust
           -
-        * - Crust **extends**
-          -
         * - Crust **sinks**
           -
 
@@ -172,8 +170,6 @@ Examples
                       - The **erosion** of rock by water
                     * - Stress **fractures** crust
                       - The **fracturing** of crust by stress
-                    * - Crust **extends**
-                      - The **extension** of crust
                     * - Crust **sinks**
                       - The **sinking** of crust
 
