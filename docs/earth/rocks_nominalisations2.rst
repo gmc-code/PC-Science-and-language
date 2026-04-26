@@ -78,19 +78,19 @@ Igneous rocks
     Complete each scientific sentence by filling in the missing nominalised form.
 
     1. Lava cools quickly at the surface.
-      The ______________ of lava is rapid at the surface.
+        The ______________ of lava is rapid at the surface.
 
     2. Magma crystallises as it loses heat.
-      The ______________ of magma occurs as it loses heat.
+        The ______________ of magma occurs as it loses heat.
 
     3. Volcanoes erupt when pressure builds up.
-       The ______________ of volcanoes happens when pressure builds up.
+        The ______________ of volcanoes happens when pressure builds up.
 
     4. Rocks weather when exposed to wind and rain.
-       The ______________ of rocks occurs when they are exposed to wind and rain.
+        The ______________ of rocks occurs when they are exposed to wind and rain.
 
     5. Magma solidifies when cooling is slow.
-       The ______________ of magma occurs when cooling is slow.
+        The ______________ of magma occurs when cooling is slow.
 
 
     .. dropdown:: Reveal Answer Key
