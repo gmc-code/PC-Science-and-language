@@ -21,7 +21,7 @@ Rocks: Prepositional Phrases
 
 
 
-.. list-table:: **Qualifier vs. Circumstance: Rocks & Geology**
+.. list-table:: Qualifier vs. Circumstance: Rocks & Geology
     :header-rows: 1
     :widths: 20 40 40
 
