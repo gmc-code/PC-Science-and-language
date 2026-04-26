@@ -6,13 +6,15 @@ Rocks: Prepositional Phrases
 | In scientific writing, the same phrase can play two different roles depending on whether it is "sticking" to a noun or "explaining" a verb.
 
 * **As a Qualifier** (part of the **Noun Group**)
-    It describes a noun and tells us **which** specific thing we are talking about. It cannot be moved away from the noun without breaking the meaning.
+    | It describes a noun and tells us **which** specific thing we are talking about.
+    | It cannot be moved away from the noun without breaking the meaning.
 
     * Example: *The crystals* **in the sedimentary layer** *are microscopic.*
     * **Scientific Logic:** (Qualifier — which crystals? Only the ones in that specific layer.)
 
 * **As a Circumstance** (part of the **Clause**)
-    It describes a process (verb) and tells us **where, when, or how** the action happened. These phrases are more mobile and can often be moved to the start of the sentence.
+    | It describes a process (verb) and tells us **where, when, or how** the action happened.
+    | These phrases are more mobile and can often be moved to the start of the sentence.
 
     * Example: *The crystals formed* **in the sedimentary layer.**
     * **Scientific Logic:** (Circumstance — where did the process of 'forming' occur?)
