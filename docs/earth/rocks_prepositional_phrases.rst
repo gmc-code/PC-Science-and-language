@@ -30,8 +30,8 @@ Rocks: Prepositional Phrases
    :widths: 20 40 40
 
     * - Prepositional Phrase
-      - Used as a **Qualifier** (Describing the Noun)
-      - Used as a **Circumstance** (Describing the Action)
+      - Used as a :participant:`Qualifier` (Describing the Noun)
+      - Used as a :circ:`Circumstance` (Describing the Action)
     * - **inside the volcano**
       - The magma :participant:`inside the volcano` is viscous.
       - Molten rock cools slowly :circ:`inside the volcano`.
