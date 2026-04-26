@@ -31,8 +31,6 @@ Example
           - Lava cools (time) ________________________________
         * - Magma rises.
           - Magma rises (place) ________________________________
-        * - Ash settles.
-          - Ash settles (place) ________________________________
         * - Rock melts.
           - Rock melts (place) ________________________________
         * - Crust sinks.
@@ -41,8 +39,8 @@ Example
           - Plates diverge (place) ________________________________
         * - Plates converge.
           - Plates converge (place) ________________________________
-        * - Gases escape.
-          - Gases escape (place) ________________________________
+        * - Volcanic gases escape.
+          - Volcanic gases escape (place) ________________________________
         * - Seismic waves travel.
           - Seismic waves travel (place) ________________________________
         * - Volcanoes erupt.
@@ -63,23 +61,20 @@ Example
                     * - Simple clause
                       - With added circumstance
                     * - Lava cools.
-                      - Lava cools **after an eruption**.
+                      - Lava cools :circ:`after an eruption`.
                     * - Magma rises.
-                      - Magma rises **through the upper mantle**.
-                    * - Ash settles.
-                      - Ash settles **on surrounding regions**.
+                      - Magma rises :circ:`through the upper mantle`.
                     * - Rock melts.
-                      - Rock melts **beneath Earth's crust**.
+                      - Rock melts :circ:`beneath Earth's crust`.
                     * - Crust sinks.
-                      - Crust sinks **into the mantle**.
+                      - Crust sinks :circ:`into the mantle`.
                     * - Plates diverge.
-                      - Plates diverge **at mid-ocean ridges**.
+                      - Plates diverge :circ:`at mid-ocean ridges`.
                     * - Plates converge.
-                      - Plates converge **at subduction zones**.
-                    * - Gases escape.
-                      - Volcanic gases escape **into the atmosphere**.
+                      - Plates converge :circ:`at subduction zones`.
+                    * - Volcanic gases escape.
+                      - Volcanic gases escape :circ:`into the atmosphere`.
                     * - Seismic waves travel.
-                      - Seismic waves travel **across the crust**.
+                      - Seismic waves travel :circ:`through the crust`.
                     * - Volcanoes erupt.
-                      - Volcanoes erupt **during major events**.
-
+                      - Volcanoes erupt :circ:`during major seismic events`.

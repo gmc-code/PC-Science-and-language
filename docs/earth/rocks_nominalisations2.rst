@@ -216,7 +216,7 @@ Metamorphic rocks
 
         * - Everyday (process)
           - Scientific (participant)
-        * - Heat **changes** rock
+        * - Heat **melts** rock
           -
         * - Pressure **compresses** rock
           -
