@@ -161,6 +161,44 @@ Sedimentary rocks
                     * - Minerals **precipitate** from solution
                       - The **precipitation** of minerals from solution
 
+
+.. admonition:: Fill in the Gaps — Nominalisation (Geology)
+    :class: cloze
+
+    Complete each scientific sentence by filling in the missing nominalised form.
+
+    1. Water deposits sediments in rivers and oceans.
+        The ______________ of sediments by water forms new layers.
+
+    2. Sediments compact under increasing pressure.
+        The ______________ of sediments occurs under increasing pressure.
+
+    3. Minerals cement particles together during rock formation.
+        The ______________ of particles by minerals strengthens the rock.
+
+    4. Rocks erode when exposed to wind and moving water.
+        The ______________ of rocks happens when they are exposed to wind and moving water.
+
+    5. Minerals precipitate from solution in underground cavities.
+        The ______________ of minerals from solution creates crystal deposits.
+
+
+    .. dropdown:: Reveal Answer Key
+        :icon: check-circle
+        :class-container: dropdown-cloze
+
+        .. tab-set::
+
+            .. tab-item:: Answers
+
+                1. deposition
+                2. compaction
+                3. cementation
+                4. erosion
+                5. precipitation
+
+
+
 ----
 
 Metamorphic rocks
@@ -213,3 +251,41 @@ Metamorphic rocks
                       - The **deformation** of rock
                     * - Rocks **transform**
                       - The **transformation** of rock
+
+
+
+.. admonition:: Fill in the Gaps — Nominalisation (Metamorphic Processes)
+    :class: cloze
+
+    Complete each scientific sentence by filling in the missing nominalised form.
+
+    1. Heat changes rock deep underground.
+       The ______________ of rock occurs deep underground.
+
+    2. Pressure compresses rock during mountain building.
+       The ______________ of rock happens during mountain building.
+
+    3. Minerals recrystallise when exposed to heat and pressure.
+       The ______________ of minerals occurs when they are exposed to heat and pressure.
+
+    4. Rocks deform under intense tectonic forces.
+       The ______________ of rock takes place under intense tectonic forces.
+
+    5. Rocks transform when conditions change inside Earth.
+       The ______________ of rock occurs when conditions change inside Earth.
+
+
+    .. dropdown:: Reveal Answer Key
+        :icon: check-circle
+        :class-container: dropdown-cloze
+
+        .. tab-set::
+
+            .. tab-item:: Answers
+
+                1. heating
+                2. compression
+                3. recrystallisation
+                4. deformation
+                5. transformation
+
