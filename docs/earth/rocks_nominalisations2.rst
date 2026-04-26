@@ -77,19 +77,19 @@ Igneous rocks
 
     Complete each scientific sentence by filling in the missing nominalised form.
 
-    1. Lava cools rapidly at the surface.
+    1. Lava :process:`cools`` rapidly at the surface.
           The ______________ of lava is rapid at the surface.
 
-    2. Magma crystallises as it loses heat.
+    2. Magma :process:`crystallises`` as it loses heat.
          The ______________ of magma occurs as it loses heat.
 
-    3. Volcanoes erupt when pressure builds up.
+    3. Volcanoes :process:`erupt`` when pressure builds up.
         The ______________ of volcanoes happens when pressure builds up.
 
-    4. Rocks weather when exposed to wind and rain.
+    4. Rocks :process:`weather`` when exposed to wind and rain.
         The ______________ of rocks occurs when they are exposed to wind and rain.
 
-    5. Magma solidifies when cooling is slow.
+    5. Magma :process:`solidifies`` when cooling is slow.
         The ______________ of magma occurs when cooling is slow.
 
 
@@ -167,19 +167,19 @@ Sedimentary rocks
 
     Complete each scientific sentence by filling in the missing nominalised form.
 
-    1. Water deposits sediments in rivers and oceans.
+    1. Water :process:`deposits` sediments in rivers and oceans.
         The ______________ of sediments by water occurs in rivers and oceans.
 
-    2. Sediments compact under great pressure.
+    2. Sediments :process:`compact` under great pressure.
         The ______________ of sediments occurs under great pressure.
 
-    3. Minerals cement particles together during rock formation.
+    3. Minerals :process:`cement` particles together during rock formation.
         The ______________ of particles by minerals occurs during rock formation.
 
-    4. Rocks erode when exposed to wind and moving water.
+    4. Rocks :process:`erode` when exposed to wind and moving water.
         The ______________ of rocks happens when they are exposed to wind and moving water.
 
-    5. Minerals precipitate from solution in underground cavities.
+    5. Minerals :process:`precipitate` from solution in underground cavities.
         The ______________ of minerals from solution occurs in underground cavities.
 
 
@@ -259,19 +259,19 @@ Metamorphic rocks
 
     Complete each scientific sentence by filling in the missing nominalised form.
 
-    1. Heat melts rock deep underground.
+    1. Heat :process:`melts` rock deep underground.
         The ______________ of rock occurs deep underground.
 
-    2. Pressure compresses rock during mountain building.
+    2. Pressure :process:`compresses`` rock during mountain building.
         The ______________ of rock happens during mountain building.
 
-    3. Minerals recrystallise when exposed to heat and pressure.
+    3. Minerals :process:`recrystallise`` when exposed to heat and pressure.
         The ______________ of minerals occurs when they are exposed to heat and pressure.
 
-    4. Rocks deform under intense tectonic forces.
+    4. Rocks :process:`deform`` under intense tectonic forces.
         The ______________ of rock takes place under intense tectonic forces.
 
-    5. Rocks transform when conditions change inside the Earth.
+    5. Rocks :process:`transform`` when conditions change inside the Earth.
         The ______________ of rock occurs when conditions change inside the Earth.
 
 
