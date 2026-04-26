@@ -128,7 +128,7 @@ Relating verbs
        - are formed from
 
     .. grid-item::
-       **2. Classification / Taxonomy**
+       **2. Classification**
 
        - are a type of
        - are examples of
@@ -140,7 +140,7 @@ Relating verbs
        - are organised as
 
     .. grid-item::
-       **3. Identification / Naming**
+       **3. Naming**
 
        - are referred to as
        - are called
@@ -149,7 +149,7 @@ Relating verbs
        - are recognised as
 
     .. grid-item::
-       **4. Description / Characterisation**
+       **4. Description**
 
        - have characteristics such as
        - have properties such as
@@ -158,7 +158,7 @@ Relating verbs
        - are described as
 
     .. grid-item::
-       **5. Definition / Status**
+       **5. Definition**
 
        - are defined as
        - are identified as
@@ -166,7 +166,6 @@ Relating verbs
        - are considered to be
 
     .. grid-item::
-       <!-- intentionally left blank -->
 
 
 
