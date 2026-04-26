@@ -23,7 +23,7 @@ Rocks: Prepositional Phrases
 
 .. list-table:: **Qualifier vs. Circumstance: Rocks & Geology**
     :header-rows: 1
-    :widths: 35 35 30
+    :widths: 20 40 40
 
     * - Prepositional Phrase
       - Used as a **Qualifier** (Describing the Noun)
