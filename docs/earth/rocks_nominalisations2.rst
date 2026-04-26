@@ -40,7 +40,7 @@ Igneous rocks
           -
         * - Volcanoes **erupt**
           -
-        * - Lava **flows**
+        * - Rocks **weather**
           -
         * - Magma **solidifies**
           -
@@ -65,8 +65,8 @@ Igneous rocks
                       - The **crystallisation** of magma
                     * - Volcanoes **erupt**
                       - The **eruption** of volcanoes
-                    * - Lava **flows**
-                      - The **flow** of lava
+                    * - Rocks **weather**
+                      - The **weathering** of rocks
                     * - Magma **solidifies**
                       - The **solidification** of magma
 
@@ -78,10 +78,10 @@ Igneous rocks
     Complete each scientific sentence by filling in the missing nominalised form.
 
     1. Lava cools quickly at the surface.
-        The ______________ of lava is rapid at the surface.
+          The ______________ of lava is rapid at the surface.
 
     2. Magma crystallises as it loses heat.
-        The ______________ of magma occurs as it loses heat.
+         The ______________ of magma occurs as it loses heat.
 
     3. Volcanoes erupt when pressure builds up.
         The ______________ of volcanoes happens when pressure builds up.
