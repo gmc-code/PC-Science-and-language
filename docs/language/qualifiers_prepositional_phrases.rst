@@ -252,31 +252,31 @@ Common prepositions of Place / Position
         .. tab-item:: Q1
             :sync: q1
 
-            | → Expand the noun group **the water** by adding a prepositional phrase as a place qualifier using **“in”**.
+            | → Expand the noun group, **the water**, by adding a prepositional phrase as a place qualifier using **“in”**.
             | The water was heated gently.
 
         .. tab-item:: Q2
             :sync: q2
 
-            | → Expand the noun group **the bacteria** by adding a prepositional phrase as a place qualifier using **“on / in / near”**.
+            | → Expand the noun group, **the bacteria**, by adding a prepositional phrase as a place qualifier using **“on / in / near”**.
             | The bacteria grew rapidly.
 
         .. tab-item:: Q3
             :sync: q3
 
-            | → Expand the noun group **the plant** by adding a prepositional phrase as a place qualifier using **“under / near / beside”**.
+            | → Expand the noun group, **the plant**, by adding a prepositional phrase as a place qualifier using **“under / near / beside”**.
             | The plant grew faster.
 
         .. tab-item:: Q4
             :sync: q4
 
-            | → Expand the noun group **the beaker** by adding a prepositional phrase as a place qualifier using **“beside / next to / on”**.
+            | → Expand the noun group, **the beaker**, by adding a prepositional phrase as a place qualifier using **“beside / next to / on”**.
             | The beaker contained salt water.
 
         .. tab-item:: Q5
             :sync: q5
 
-            | → Expand the noun group **the field lines** by adding a prepositional phrase as a place qualifier using **“around / between/ above”**.
+            | → Expand the noun group, **the field lines**, by adding a prepositional phrase as a place qualifier using **“around / between/ above”**.
             | The field lines were mapped using iron filings.
 
 
@@ -371,13 +371,13 @@ Common prepositions of Movement / Direction
         .. tab-item:: Q1
             :sync: q1
 
-            | → Expand the noun group **the distance** by adding a prepositional phrase as a movement/direction qualifier using **“from”**.
+            | → Expand the noun group, **the distance**, by adding a prepositional phrase as a movement/direction qualifier using **“from”**.
             | The distance was measured precisely with a laser rangefinder.
 
         .. tab-item:: Q2
             :sync: q2
 
-            | → Expand the noun group **the current** by adding a prepositional phrase as a movement/direction qualifier using **“through”**.
+            | → Expand the noun group, **the current**, by adding a prepositional phrase as a movement/direction qualifier using **“through”**.
             | The current increased rapidly once the voltage was increased.
 
 
@@ -445,7 +445,7 @@ Common prepositions of Possession / Relation
         .. tab-item:: Q1
             :sync: q1
 
-            | → Expand the noun group by adding a prepositional phrase as a possession/relation qualifier using **“of”**.
+            | → Expand the noun group, by adding a prepositional phrase as a possession/relation qualifier using **“of”**.
             | The colour changed instantly from pink to a deep violet.
 
 
@@ -512,19 +512,19 @@ Common prepositions of Topic / Reference
         .. tab-item:: Q1
             :sync: q1
 
-            | → Expand the noun group **the measurements** by adding a prepositional phrase as a movement/direction qualifier using **“from”**.
+            | → Expand the noun group, **the measurements**, by adding a prepositional phrase as a movement/direction qualifier using **“from”**.
             | The measurements were carefully recorded.
 
         .. tab-item:: Q2
             :sync: q2
 
-            | → Expand the noun group **the report** by adding a prepositional phrase as a topic/reference qualifier using **“concerning”**.
+            | → Expand the noun group, **the report**, by adding a prepositional phrase as a topic/reference qualifier using **“concerning”**.
             | The report was formally submitted.
 
         .. tab-item:: Q3
             :sync: q3
 
-            | → Expand the noun group **the trend** by adding a prepositional phrase as a topic/reference qualifier using **“with respect to”**.
+            | → Expand the noun group, **the trend**, by adding a prepositional phrase as a topic/reference qualifier using **“with respect to”**.
             | The trend was clearly plotted.
 
 
@@ -605,19 +605,19 @@ Common prepositions of Addition / Exception
         .. tab-item:: Q1
             :sync: q1
 
-            | → Expand the noun group **the gas** by adding a prepositional phrase as an addition qualifier using **“as well as”**.
+            | → Expand the noun group, **the gas**, by adding a prepositional phrase as an addition qualifier using **“as well as”**.
             | The gas was observed escaping through the valve.
 
         .. tab-item:: Q2
             :sync: q2
 
-            | → Expand the noun group **the samples** by adding a prepositional phrase as an exception qualifier using **“except”**.
+            | → Expand the noun group, **the samples**, by adding a prepositional phrase as an exception qualifier using **“except”**.
             | All the samples reacted immediately when the acid was added.
 
         .. tab-item:: Q3
             :sync: q3
 
-            | → Expand the noun group **the results** by adding a prepositional phrase as an exception qualifier using **“apart from”**.
+            | → Expand the noun group, **the results**, by adding a prepositional phrase as an exception qualifier using **“apart from”**.
             | All of the results were consistent with the original hypothesis.
 
 
@@ -665,31 +665,31 @@ Common prepositions of Addition / Exception
         .. tab-item:: Q1
             :sync: q1
 
-            | → Expand the noun group **the plant** by adding a prepositional phrase as a place qualifier using **“in / on / under / near”**.
+            | → Expand the noun group, **the plant**, by adding a prepositional phrase as a place qualifier using **“in / on / under / near”**.
             | The plant grew quickly.
 
         .. tab-item:: Q2
             :sync: q2
 
-            | → Expand the noun group **the current** by adding a prepositional phrase as a movement/direction qualifier using **“through / across / along”**.
+            | → Expand the noun group, **the current**, by adding a prepositional phrase as a movement/direction qualifier using **“through / across / along”**.
             | The current increased steadily.
 
         .. tab-item:: Q3
             :sync: q3
 
-            | → Expand the noun group **the colour** by adding a prepositional phrase as a possession/relation qualifier using **“of / belonging to”**.
+            | → Expand the noun group, **the colour**, by adding a prepositional phrase as a possession/relation qualifier using **“of / belonging to”**.
             | The colour changed suddenly.
 
         .. tab-item:: Q4
             :sync: q4
 
-            | → Expand the noun group **the report** by adding a prepositional phrase as a topic/reference qualifier using **“about / concerning”**.
+            | → Expand the noun group, **the report**, by adding a prepositional phrase as a topic/reference qualifier using **“about / concerning”**.
             | The report was submitted to the teacher.
 
         .. tab-item:: Q5
             :sync: q5
 
-            | → Expand the noun group **the reaction** by adding a prepositional phrase as a time qualifier using **“before / after / during”**.
+            | → Expand the noun group, **the reaction**, by adding a prepositional phrase as a time qualifier using **“before / after / during”**.
             | The reaction was observed carefully.
 
 
