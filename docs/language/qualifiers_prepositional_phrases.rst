@@ -251,31 +251,31 @@ Common prepositions of Place / Position
             :sync: q1
 
             | The water was heated gently.
-            | → Expand using a place prepositional phrase (in / on / under / near)
+            | → Expand the noun group by adding a **prepositional phrase as a place qualifier** (in / on / under / near)
 
         .. tab-item:: Q2
             :sync: q2
 
             | The bacteria grew rapidly.
-            | → Expand using a place prepositional phrase (on / in / near / under)
+            | → Expand using a prepositional phrase (on / in / near / under)
 
         .. tab-item:: Q3
             :sync: q3
 
             | The plant grew faster.
-            | → Expand using a place prepositional phrase (under / in / near / beside)
+            | → Expand using a prepositional phrase (under / in / near / beside)
 
         .. tab-item:: Q4
             :sync: q4
 
             | The beaker contained salt water.
-            | → Expand using a place prepositional phrase (beside / next to / in / on)
+            | → Expand using a prepositional phrase (beside / next to / in / on)
 
         .. tab-item:: Q5
             :sync: q5
 
             | The field lines were mapped using iron filings.
-            | → Expand using a place prepositional phrase (around / above / near / between)
+            | → Expand using a prepositional phrase (around / above / near / between)
 
 
     .. dropdown:: Reveal Suggested Answers
@@ -368,13 +368,13 @@ Common prepositions of Movement / Direction
             :sync: q1
 
             | The distance was measured precisely with a laser rangefinder.
-            | → Expand using a movement prepositional phrase (from)
+            | → Expand using a prepositional phrase (from)
 
         .. tab-item:: Q2
             :sync: q2
 
             | The current increased rapidly once the voltage was increased.
-            | → Expand using a movement prepositional phrase (through)
+            | → Expand using a prepositional phrase (through)
 
 
     .. dropdown:: Reveal Suggested Answers
@@ -440,7 +440,7 @@ Common prepositions of Possession / Relation
             :sync: q1
 
             | The colour changed instantly from pink to a deep violet.
-            | → Expand using a possession / relation prepositional phrase (of)
+            | → Expand using a prepositional phrase (of)
 
 
     .. dropdown:: Reveal Suggested Answers
@@ -505,19 +505,19 @@ Common prepositions of Topic / Reference
             :sync: q1
 
             | The measurements were carefully recorded.
-            | → Expand using a topic / reference prepositional phrase (from)
+            | → Expand using a prepositional phrase (from)
 
         .. tab-item:: Q2
             :sync: q2
 
             | The report was formally submitted.
-            | → Expand using a topic / reference prepositional phrase (concerning)
+            | → Expand using a prepositional phrase (concerning)
 
         .. tab-item:: Q3
             :sync: q3
 
             | The trend was clearly plotted.
-            | → Expand using a topic / reference prepositional phrase (with respect to)
+            | → Expand using a prepositional phrase (with respect to)
 
 
     .. dropdown:: Reveal Suggested Answers
@@ -596,19 +596,19 @@ Common prepositions of Addition / Exception
             :sync: q1
 
             | The gas was observed escaping through the valve.
-            | → Expand using an addition prepositional phrase (as well as)
+            | → Expand using a prepositional phrase (as well as)
 
         .. tab-item:: Q2
             :sync: q2
 
             | All the samples reacted immediately when the acid was added.
-            | → Expand using an exception prepositional phrase (except)
+            | → Expand using a prepositional phrase (except)
 
         .. tab-item:: Q3
             :sync: q3
 
             | All of the results were consistent with the original hypothesis.
-            | → Expand using an exception prepositional phrase (apart from)
+            | → Expand using a prepositional phrase (apart from)
 
 
     .. dropdown:: Reveal Suggested Answers
@@ -654,31 +654,31 @@ Common prepositions of Addition / Exception
             :sync: q1
 
             | The plant grew quickly.
-            | → Expand using a place prepositional phrase (in / on / under / near)
+            | → Expand using a prepositional phrase (in / on / under / near)
 
         .. tab-item:: Q2
             :sync: q2
 
             | The current increased steadily.
-            | → Expand using a movement prepositional phrase (through / across / along)
+            | → Expand using a prepositional phrase (through / across / along)
 
         .. tab-item:: Q3
             :sync: q3
 
             | The colour changed suddenly.
-            | → Expand using a relational prepositional phrase (of / belonging to)
+            | → Expand using a prepositional phrase (of / belonging to)
 
         .. tab-item:: Q4
             :sync: q4
 
             | The report was submitted to the teacher.
-            | → Expand using a topic prepositional phrase (about / concerning)
+            | → Expand using a prepositional phrase (about / concerning)
 
         .. tab-item:: Q5
             :sync: q5
 
             | The reaction was observed carefully.
-            | → Expand using a time prepositional phrase (before / after / during)
+            | → Expand using a prepositional phrase (before / after / during)
 
 
     .. dropdown:: Reveal Suggested Answers
