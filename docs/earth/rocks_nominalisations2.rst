@@ -260,19 +260,19 @@ Metamorphic rocks
     Complete each scientific sentence by filling in the missing nominalised form.
 
     1. Heat changes rock deep underground.
-       The ______________ of rock occurs deep underground.
+        The ______________ of rock occurs deep underground.
 
     2. Pressure compresses rock during mountain building.
-       The ______________ of rock happens during mountain building.
+        The ______________ of rock happens during mountain building.
 
     3. Minerals recrystallise when exposed to heat and pressure.
-       The ______________ of minerals occurs when they are exposed to heat and pressure.
+        The ______________ of minerals occurs when they are exposed to heat and pressure.
 
     4. Rocks deform under intense tectonic forces.
-       The ______________ of rock takes place under intense tectonic forces.
+        The ______________ of rock takes place under intense tectonic forces.
 
     5. Rocks transform when conditions change inside Earth.
-       The ______________ of rock occurs when conditions change inside Earth.
+        The ______________ of rock occurs when conditions change inside Earth.
 
 
     .. dropdown:: Reveal Answer Key
