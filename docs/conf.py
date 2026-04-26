@@ -25,7 +25,7 @@ def setup(app):
     roles_to_register = [
         "p", "r", "o", "pb", "rb", "ob", "iv", "dv", "cv", "ivb", "dvb", "cvb",
         "theme", "rheme", "themeb", "rhemeb", "process", "participant", "circ",
-        "conj", "processb", "participantb", "circb", "conjb", "processp",
+        "conj", "part","processb", "participantb", "circb", "conjb", "partb", "processp",
         "participantp", "circp", "conjp", "rubricsmall"
     ]
 

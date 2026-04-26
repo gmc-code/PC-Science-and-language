@@ -8,12 +8,13 @@
 /* plain -- just colour */
 /* ========================================== */
 
-span.participantp { color: #d62728; }
-span.processp     { color: #2ca02c; }
-span.circp        { color: #4a3dff; }
-span.conjp        { color: #6b7280; }
-span.themep       { color: #1f77b4; }
-span.rhemep       { color: #111827; }
+span.participantp    { color: #d62728; }
+span.processp        { color: #2ca02c; }
+span.circp           { color: #4a3dff; }
+span.conjp           { color: #6b7280; }
+span.partp         { color: #6b7280; }
+span.themep          { color: #1f77b4; }
+span.rhemep          { color: #111827; }
 
 /* ========================================== */
 /* with border */
@@ -23,6 +24,7 @@ span.participant,
 span.process,
 span.circ,
 span.conj,
+span.partp,
 span.theme,
 span.rheme {
 
@@ -39,6 +41,7 @@ span.participant { color: #d62728; border-color: #d62728; }
 span.process     { color: #2ca02c; border-color: #2ca02c; }
 span.circ        { color: #4a3dff; border-color: #4a3dff; }
 span.conj        { color: #6b7280; font-style: italic; }
+span.part        { color: #6b7280; font-style: italic; }
 span.theme       { color: #1f77b4; border-color: #1f77b4; }
 span.rheme       { color: #111827; border-color: #111827; }
 
@@ -51,6 +54,7 @@ span.participantb,
 span.processb,
 span.circb,
 span.conjb,
+span.partb,
 span.themeb,
 span.rhemeb {
   /* text color: off-white */
@@ -69,6 +73,7 @@ span.participantb { background-color: #d62728; } /* red */
 span.processb     { background-color: #2ca02c; } /* green */
 span.circb        { background-color: #4a3dff; } /* indigo */
 span.conjb        { background-color: #6b7280; font-style: italic; } /* gray, italic */
+span.partb        { background-color: #6b7280; font-style: italic; } /* gray, italic */
 span.themeb       { background-color: #1f77b4; font-weight: 600; } /* blue, bold */
 span.rhemeb       { background-color: #111827; } /* near-black */
 
@@ -76,6 +81,7 @@ span.rhemeb       { background-color: #111827; } /* near-black */
 span.participantb,
 span.processb,
 span.circb,
+span.partb,
 span.conjb,
 span.themeb,
 span.rhemeb {
@@ -87,6 +93,7 @@ span.rhemeb {
   span.participantb,
   span.processb,
   span.circb,
+  span.partb,
   span.conjb,
   span.themeb,
   span.rhemeb {
