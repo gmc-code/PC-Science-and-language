@@ -2,11 +2,18 @@
 Earth: Adding circumstances
 ===================================
 
-| A **circumstance** is an adverbial phrase that adds context to a clause —
-| expressing *when* or *where* something happens.
+| A **circumstance** is an adverbial (adverb, adverbial group, prepositional phrases, noun group) that adds context to a clause —
+| often expressing *when* or *where* or *how* or *why* something happens.
 
 - **Time** (when?) — *over long periods*, *during earthquakes*
 - **Place** (where?) — *along active fault zones*, *at mid-ocean ridges*
+- **Manner** (how?) — *by subduction*, *by erosion*, *by volcanism*
+- **Cause** (why?) — *due to volcanism*, *as a result of erosion*
+
+----
+
+Prepositional phrases as circumstances
+-----------------------------------------
 
 | Unlike qualifiers (which are embedded inside a noun group and cannot move),
 | circumstances are **mobile**: the same phrase can sit at the end of a clause
@@ -26,6 +33,10 @@ Example mobility test
 | Both are grammatical. The phrase is not locked inside a noun — it is a circumstance.
 
 ----
+
+Igneous rock circumstances
+---------------------------
+
 
 .. admonition:: Short Answer Questions
     :class: shortanswer
@@ -177,6 +188,180 @@ Example mobility test
                 Plates slip along faults **during seismic rupture**.
 
                 **During seismic rupture**, plates slip along faults.
+
+----
+
+Sedemetary Rock circumstances
+------------------------------
+
+.. admonition:: Short Answer Questions
+    :class: shortanswer
+
+    For each clause, write it twice: once with the circumstance at the **end**, and once at the **front**. Choose from:
+
+    * in river deltas
+    * in shallow seas
+    * in the pore spaces
+    * over millions of years
+    * under great pressure
+
+    .. tab-set::
+        :sync-group: sedimentary1
+
+        .. tab-item:: Q1
+            :sync: q1
+
+            **Time.** Rivers transport sediment downstream.
+
+        .. tab-item:: Q2
+            :sync: q2
+
+            **Place.** Sediment layers accumulate.
+
+        .. tab-item:: Q3
+            :sync: q3
+
+            **Place.** Shell fragments and organic matter settle.
+
+        .. tab-item:: Q4
+            :sync: q4
+
+            **Manner.** Compaction transforms loose sediment into rock.
+
+        .. tab-item:: Q5
+            :sync: q5
+
+            **Place.** Minerals cement sediment grains together.
+
+    .. dropdown:: Reveal Answer Key
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
+
+        .. tab-set::
+            :sync-group: sedimentary1
+
+            .. tab-item:: Q1
+                :sync: q1
+
+                Rivers transport sediment downstream **over millions of years**.
+
+                **Over millions of years**, rivers transport sediment downstream.
+
+            .. tab-item:: Q2
+                :sync: q2
+
+                Sediment layers accumulate **in river deltas**.
+
+                **In river deltas**, sediment layers accumulate.
+
+            .. tab-item:: Q3
+                :sync: q3
+
+                Shell fragments and organic matter settle **in shallow seas**.
+
+                **In shallow seas**, shell fragments and organic matter settle.
+
+            .. tab-item:: Q4
+                :sync: q4
+
+                Compaction transforms loose sediment into rock **under great pressure**.
+
+                **Under great pressure**, compaction transforms loose sediment into rock.
+
+            .. tab-item:: Q5
+                :sync: q5
+
+                Minerals cement sediment grains together **in the pore spaces**.
+
+                **In the pore spaces**, minerals cement sediment grains together.
+
+----
+
+Metamorphic Rock circumstances
+------------------------------
+
+.. admonition:: Short Answer Questions
+    :class: shortanswer
+
+    For each clause, write it twice: once with the circumstance at the **end**, and once at the **front**. Choose from:
+
+    * along tectonic plate boundaries
+    * deep within the crust
+    * during continental collision
+    * over millions of years
+    * under intense heat and pressure
+
+    .. tab-set::
+        :sync-group: metamorphic1
+
+        .. tab-item:: Q1
+            :sync: q1
+
+            **Place.** Minerals recrystallise.
+
+        .. tab-item:: Q2
+            :sync: q2
+
+            **Place.** Rock texture changes.
+
+        .. tab-item:: Q3
+            :sync: q3
+
+            **Manner.** New minerals form.
+
+        .. tab-item:: Q4
+            :sync: q4
+
+            **Time.** Foliation develops in rock layers.
+
+        .. tab-item:: Q5
+            :sync: q5
+
+            **Time.** Rocks are slowly transformed.
+
+    .. dropdown:: Reveal Answer Key
+        :icon: check-circle
+        :class-container: dropdown-shortanswer
+
+        .. tab-set::
+            :sync-group: metamorphic1
+
+            .. tab-item:: Q1
+                :sync: q1
+
+                Minerals recrystallise **deep within the crust**.
+
+                **Deep within the crust**, minerals recrystallise.
+
+            .. tab-item:: Q2
+                :sync: q2
+
+                Rock texture changes **along tectonic plate boundaries**.
+
+                **Along tectonic plate boundaries**, rock texture changes.
+
+            .. tab-item:: Q3
+                :sync: q3
+
+                New minerals form **under intense heat and pressure**.
+
+                **Under intense heat and pressure**, new minerals form.
+
+            .. tab-item:: Q4
+                :sync: q4
+
+                Foliation develops in rock layers **during continental collision**.
+
+                **During continental collision**, foliation develops in rock layers.
+
+            .. tab-item:: Q5
+                :sync: q5
+
+                Rocks are slowly transformed **over millions of years**.
+
+                **Over millions of years**, rocks are slowly transformed.
+
+
 
 
 
