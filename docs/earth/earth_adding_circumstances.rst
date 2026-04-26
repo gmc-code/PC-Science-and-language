@@ -6,13 +6,15 @@ Earth: Adding circumstances
 | A circumstance is a group of words (often a prepositional phrase) that tells us
 | **where**, **when**, or **how** the process happens.
 
-Choose the type of circumstance shown in brackets for each clause.
+Write a prepositional phrase for the type of circumstance shown in brackets for each clause.
 
 Example
 -------
 
 | Clause: Lava cools (time)
 | With circumstance: Lava cools **after an eruption**.
+
+
 
 .. admonition:: Adding circumstances
     :class: shortanswer
