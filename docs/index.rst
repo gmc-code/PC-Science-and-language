@@ -43,6 +43,8 @@ PC-Science-and-language
     earth/nominalisations_rocks.rst
     earth/nominalisations2_rocks.rst
     earth/rocks_processes.rst
+    earth/rocks_prepositional_phrases.rst
+
 
     earth/nominalisations_earth.rst
     earth/nominalisations2_earth.rst

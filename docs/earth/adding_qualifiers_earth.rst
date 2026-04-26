@@ -126,3 +126,6 @@ Example: Adding qualifiers
                     * - 9.
                       - Plates slip along faults.
                       - Plates slip along faults **during** seismic rupture.
+
+
+

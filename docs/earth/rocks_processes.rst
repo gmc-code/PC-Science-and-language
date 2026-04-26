@@ -5,8 +5,10 @@ Rocks: Processes
 | The texts below consider some verbs used in information reports about rocks.
 | It identifies the different types of processes and how they are used to describe and explain geological phenomena.
 
-Information reports
-------------------------
+----
+
+Context for examing processes: Information reports
+--------------------------------------------------
 
 - Some features of Information Reports:
 
