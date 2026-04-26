@@ -4,7 +4,10 @@ Earth: Adding circumstances
 
 | A **circumstance** is an adverbial phrase that adds context to a clause —
 | expressing *when* or *where* something happens.
-|
+
+- **Time** (when?) — *over long periods*, *during earthquakes*
+- **Place** (where?) — *along active fault zones*, *at mid-ocean ridges*
+
 | Unlike qualifiers (which are embedded inside a noun group and cannot move),
 | circumstances are **mobile**: the same phrase can sit at the end of a clause
 | *or* be shifted to the front — and the grammar still works.
@@ -12,15 +15,7 @@ Earth: Adding circumstances
 
 ----
 
-Types of circumstance
----------------------
-
-- **Time** (when?) — *over long periods*, *during earthquakes*
-- **Place** (where?) — *along active fault zones*, *at mid-ocean ridges*
-
-----
-
-Example: The mobility test
+Example mobility test
 ---------------------------
 
 | Simple clause: Water erodes weakened rock.
@@ -35,7 +30,13 @@ Example: The mobility test
 .. admonition:: Short Answer Questions
     :class: shortanswer
 
-    For each clause, write it twice: once with the circumstance at the **end**, and once at the **front**. Choose from: *along active fault zones / at convergent boundaries / at mid-ocean ridges / beneath volcanic regions / during earthquakes / during major seismic events / during seismic rupture / over long periods*.
+    For each clause, write it twice: once with the circumstance at the **end**, and once at the **front**. Choose from:
+
+    * along active fault zones
+    * at convergent boundaries
+    * beneath volcanic regions
+    * during major seismic events
+    * over long periods
 
     .. tab-set::
         :sync-group: circumstances1
@@ -48,7 +49,7 @@ Example: The mobility test
         .. tab-item:: Q2
             :sync: q2
 
-            **Place.** Stress fractures the crust.
+            **Place.** Pressure fractures the crust.
 
         .. tab-item:: Q3
             :sync: q3
@@ -82,9 +83,9 @@ Example: The mobility test
             .. tab-item:: Q2
                 :sync: q2
 
-                Stress fractures the crust **along active fault zones**.
+                Pressure fractures the crust **along active fault zones**.
 
-                **Along active fault zones**, stress fractures the crust.
+                **Along active fault zones**, presssure fractures the crust.
 
             .. tab-item:: Q3
                 :sync: q3
@@ -111,7 +112,13 @@ Example: The mobility test
 .. admonition:: Short Answer Questions
     :class: shortanswer
 
-    For each clause, write it twice: once with the circumstance at the **end**, and once at the **front**. Choose from: *along active fault zones / at convergent boundaries / at mid-ocean ridges / beneath volcanic regions / during earthquakes / during major seismic events / during seismic rupture / over long periods*.
+    For each clause, write it twice: once with the circumstance at the **end**, and once at the **front**. Choose from:
+
+    * at convergent boundaries
+    * at mid-ocean ridges
+    * during earthquakes
+    * during seismic rupture
+
 
     .. tab-set::
         :sync-group: circumstances2
