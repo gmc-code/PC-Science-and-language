@@ -72,7 +72,7 @@ Igneous rocks
 
 ----
 
-.. admonition:: Fill in the Gaps — Nominalisation (Geology)
+.. admonition:: Fill in the Gaps — Nominalisation  (Igneous processes)
     :class: cloze
 
     Complete each scientific sentence by filling in the missing nominalised form.
@@ -162,7 +162,7 @@ Sedimentary rocks
                       - The **precipitation** of minerals from solution
 
 
-.. admonition:: Fill in the Gaps — Nominalisation (Geology)
+.. admonition:: Fill in the Gaps — Nominalisation (Sedimentary processes)
     :class: cloze
 
     Complete each scientific sentence by filling in the missing nominalised form.
