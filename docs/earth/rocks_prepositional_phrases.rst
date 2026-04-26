@@ -25,10 +25,6 @@ Rocks: Prepositional Phrases
     :header-rows: 1
     :widths: 20 40 40
 
- .. list-table:: **Qualifier vs. Circumstance: Rocks & Geology**
-   :header-rows: 1
-   :widths: 20 40 40
-
     * - Prepositional Phrase
       - Used as a :participant:`Qualifier` (Describing the Noun)
       - Used as a :circ:`Circumstance` (Describing the Action)
@@ -62,38 +58,3 @@ Rocks: Prepositional Phrases
     * - **with a glassy texture**
       - The obsidian :participant:`with a glassy texture` cooled fast.
       - Lava solidified instantly :circ:`with a glassy texture`.
-
-
-    * - Prepositional Phrase
-      - Used as a **Qualifier** (Describing the Noun)
-      - Used as a **Circumstance** (Describing the Action)
-    * - **inside the volcano**
-      - The magma :participant:`inside the volcano` is viscous.
-      - Molten rock cools slowly :circ:`inside the volcano`.
-    * - **under the Earth's crust**
-      - The pressure **under the surface** increases with depth.
-      - Pressure increases **under the surface**.
-    * - **in the limestone**
-      - The fossils **in the limestone** are well-preserved.
-      - Ancient organisms were trapped **in the limestone**.
-    * - **along the coastline**
-      - The erosion **along the coastline** is increasing.
-      - Large rocks break down quickly **along the coastline**.
-    * - **with large grains**
-      - The igneous rocks **with large grains** are intrusive.
-      - Magma solidifies **with large grains** when cooling is slow.
-    * - **above the bedrock**
-      - The layers **above the bedrock** contain silt.
-      - Sediments settle gradually **above the bedrock**.
-    * - **from the mantle**
-      - The heat **from the mantle** melts the rock.
-      - Metamorphism occurs **from the mantle's** extreme heat.
-    * - **between the layers**
-      - The minerals **between the layers** act as cement.
-      - New crystals grow tightly **between the layers**.
-    * - **during the winter**
-      - The weathering **during the winter** causes cracks.
-      - Rocks expand and contract **during the winter**.
-    * - **with a glassy texture**
-      - The obsidian **with a glassy texture** cooled fast.
-      - Lava solidified instantly **with a glassy texture**..
