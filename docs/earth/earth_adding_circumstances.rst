@@ -30,23 +30,23 @@ Example
         * - Simple clause (noun + verb)
           - With added circumstance
         * - Lava cools.
-          - Lava cools (time) ________________________________
+          - Lava cools (time)  ___________ an eruption.
         * - Magma rises.
-          - Magma rises (place) ________________________________
+          - Magma rises (place) ___________ the upper mantle.
         * - Rock melts.
-          - Rock melts (place) ________________________________
+          - Rock melts (place) _____________ Earth's crust.
         * - Crust sinks.
-          - Crust sinks (place) ________________________________
+          - Crust sinks (place) _______________ the mantle.
         * - Plates diverge.
-          - Plates diverge (place) ________________________________
+          - Plates diverge (place) _________________ mid-ocean ridges.
         * - Plates converge.
-          - Plates converge (place) ________________________________
+          - Plates converge (place) _________________ subduction zones.
         * - Volcanic gases escape.
-          - Volcanic gases escape (place) ________________________________
+          - Volcanic gases escape (place) ________________ the atmosphere.
         * - Seismic waves travel.
-          - Seismic waves travel (place) ________________________________
+          - Seismic waves travel (place) ________________ the crust.
         * - Volcanoes erupt.
-          - Volcanoes erupt (time) ________________________________
+          - Volcanoes erupt (time) ____________________ major seismic events.
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
