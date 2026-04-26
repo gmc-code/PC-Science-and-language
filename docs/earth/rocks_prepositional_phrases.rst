@@ -19,93 +19,181 @@ Rocks: Prepositional Phrases
     * Example: *The crystals formed* **in the sedimentary layer.**
     * **Scientific Logic:** (Circumstance — where did the process of 'forming' occur?)
 
+----
 
 
-.. list-table:: Qualifier vs. Circumstance: Rocks & Geology
-    :header-rows: 1
-    :widths: 20 40 40
+.. admonition:: Multiple-Choice Questions
+    :class: mcq
 
-    * - Prepositional Phrase
-      - Used as a :participant:`Qualifier` (Describing the Noun)
-      - Used as a :circ:`Circumstance` (Describing the Action)
-    * - **inside the volcano**
-      - The magma :participant:`inside the volcano` is viscous.
-      - Molten rock cools slowly :circ:`inside the volcano`.
-    * - **under the Earth's crust**
-      - The pressure :participant:`under the Earth's crust` increases with depth.
-      - Pressure increases :circ:`under the Earth's crust`.
-    * - **in the limestone**
-      - The fossils :participant:`in the limestone` are well-preserved.
-      - Ancient organisms were trapped :circ:`in the limestone`.
-    * - **along the coastline**
-      - The erosion :participant:`along the coastline` is increasing.
-      - Large rocks break down quickly :circ:`along the coastline`.
-    * - **with large grains**
-      - The igneous rocks :participant:`with large grains` are intrusive.
-      - Magma solidifies :circ:`with large grains` when cooling is slow.
-    * - **above the bedrock**
-      - The layers :participant:`above the bedrock` contain silt.
-      - Sediments settle gradually :circ:`above the bedrock`.
-    * - **from the mantle**
-      - The heat :participant:`from the mantle` melts the rock.
-      - Metamorphism occurs :circ:`from the mantle's` extreme heat.
-    * - **between the layers**
-      - The minerals :participant:`between the layers` act as cement.
-      - New crystals grow tightly :circ:`between the layers`.
-    * - **during the winter**
-      - The weathering :participant:`during the winter` causes cracks.
-      - Rocks expand and contract :circ:`during the winter`.
-    * - **with a glassy texture**
-      - The obsidian :participant:`with a glassy texture` cooled fast.
-      - Lava solidified instantly :circ:`with a glassy texture`.
+    Choose the best answer for each question.
+
+    .. tab-set::
+        :sync-group: set1
+
+        .. tab-item:: Q1
+            :sync: q1
+
+            In the sentence below, what is the function of the prepositional phrase **"in the cave"**?
+
+            The crystals **in the cave** were unusually large.
+
+            | a. Qualifier
+            | b. Circumstance
+
+        .. tab-item:: Q2
+            :sync: q2
+
+            In the sentence below, what is the function of the prepositional phrase **"in the cave"**?
+
+            New crystals formed **in the cave** over thousands of years.
+
+            | a. Qualifier
+            | b. Circumstance
+
+        .. tab-item:: Q3
+            :sync: q3
+
+            What is the function of the prepositional phrase **"under the crust"**?
+
+            The pressure **under the crust** increases with depth.
+
+            | a. Qualifier
+            | b. Circumstance
+
+        .. tab-item:: Q4
+            :sync: q4
+
+            What is the function of the prepositional phrase **"under the crust"**?
+
+            Pressure increases **under the crust** during tectonic movement.
+
+            | a. Qualifier
+            | b. Circumstance
+
+        .. tab-item:: Q5
+            :sync: q5
+
+            What is the function of the prepositional phrase **"between the layers"**?
+
+            The minerals **between the layers** act as cement.
+
+            | a. Qualifier
+            | b. Circumstance
+
+        .. tab-item:: Q6
+            :sync: q6
+
+            What is the function of the prepositional phrase **"between the layers"**?
+
+            New crystals grow tightly **between the layers**.
+
+            | a. Qualifier
+            | b. Circumstance
+
+        .. tab-item:: Q7
+            :sync: q7
+
+            What is the function of the prepositional phrase **"along the coastline"**?
+
+            The erosion **along the coastline** is increasing.
+
+            | a. Qualifier
+            | b. Circumstance
+
+        .. tab-item:: Q8
+            :sync: q8
+
+            What is the function of the prepositional phrase **"along the coastline"**?
+
+            Large rocks break down quickly **along the coastline**.
+
+            | a. Qualifier
+            | b. Circumstance
+
+        .. tab-item:: Q9
+            :sync: q9
+
+            What is the function of the prepositional phrase **"with large grains"**?
+
+            The igneous rocks **with large grains** are intrusive.
+
+            | a. Qualifier
+            | b. Circumstance
+
+        .. tab-item:: Q10
+            :sync: q10
+
+            What is the function of the prepositional phrase **"with large grains"**?
+
+            Magma solidifies **with large grains** when cooling is slow.
+
+            | a. Qualifier
+            | b. Circumstance
 
 
-.. list-table:: Qualifier vs. Circumstance: Rocks & Geology
-    :header-rows: 1
-    :widths: 20 40 40
+    .. dropdown:: Reveal Answer Key
+        :icon: check-circle
+        :class-container: dropdown-mcq
 
-    * - Prepositional Phrase
-      - Used as a :participant:`Qualifier` (Describing the Noun)
-      - Used as a :circ:`Circumstance` (Describing the Action)
+        .. tab-set::
+            :sync-group: set1
 
-    * - **inside the volcano**
-      - The magma :participant:`inside the volcano` is viscous.
-      - Molten rock cools slowly :circ:`inside the volcano`.
+            .. tab-item:: Q1
+                :sync: q1
 
-    * - **under the Earth's crust**
-      - The pressure :participant:`under the Earth's crust` increases with depth.
-      - Pressure increases :circ:`under the Earth's crust`.
+                | a — Qualifier
+                | *Probe:* Is it describing the noun **crystals**? → Yes.
 
-    * - **in the limestone**
-      - The fossils :participant:`in the limestone` are well-preserved.
-      - Ancient organisms were trapped :circ:`in the limestone`.
+            .. tab-item:: Q2
+                :sync: q2
 
-    * - **along the coastline**
-      - The erosion :participant:`along the coastline` is increasing.
-      - Large rocks break down quickly :circ:`along the coastline`.
+                | b — Circumstance
+                | *Probe:* Is it describing where the **forming** happens? → Yes.
 
-    * - **with large grains**
-      - The igneous rocks :participant:`with large grains` are intrusive.
-      - Magma solidifies :circ:`with large grains` when cooling is slow.
+            .. tab-item:: Q3
+                :sync: q3
 
-    * - **above the bedrock**
-      - The layers :participant:`above the bedrock` contain silt.
-      - Sediments settle gradually :circ:`above the bedrock`.
+                | a — Qualifier
+                | *Probe:* Is it describing the noun **pressure**? → Yes.
 
-    * - **from the mantle**
-      - The heat :participant:`from the mantle` melts the rock.
-      - Metamorphism occurs :circ:`from the mantle` due to extreme heat.
+            .. tab-item:: Q4
+                :sync: q4
 
-    * - **between the layers**
-      - The minerals :participant:`between the layers` act as cement.
-      - New crystals grow tightly :circ:`between the layers`.
+                | b — Circumstance
+                | *Probe:* Is it describing where the **increase** happens? → Yes.
 
-    * - **during the winter**
-      - The weathering :participant:`during the winter` causes cracks.
-      - Rocks expand and contract :circ:`during the winter`.
+            .. tab-item:: Q5
+                :sync: q5
 
-    * - **with a glassy texture**
-      - The obsidian :participant:`with a glassy texture` cooled fast.
-      - Lava solidified instantly :circ:`with a glassy texture`.
+                | a — Qualifier
+                | *Probe:* Is it describing the noun **minerals**? → Yes.
 
+            .. tab-item:: Q6
+                :sync: q6
 
+                | b — Circumstance
+                | *Probe:* Is it describing where the **growing** happens? → Yes.
+
+            .. tab-item:: Q7
+                :sync: q7
+
+                | a — Qualifier
+                | *Probe:* Is it describing the noun **erosion**? → Yes.
+
+            .. tab-item:: Q8
+                :sync: q8
+
+                | b — Circumstance
+                | *Probe:* Is it describing where the **breaking down** happens? → Yes.
+
+            .. tab-item:: Q9
+                :sync: q9
+
+                | a — Qualifier
+                | *Probe:* Is it describing the noun **igneous rocks**? → Yes.
+
+            .. tab-item:: Q10
+                :sync: q10
+
+                | b — Circumstance
+                | *Probe:* Is it describing how the **solidifying** happens? → Yes.
