@@ -28,19 +28,19 @@ Example
         * - Simple clause (noun + verb)
           - With added circumstance
         * - Basalt cools.
-          - Basalt cools (place) ________________________________
+          - Basalt cools (place) __________________ on the surface after lava erupts.
         * - Granite hardens.
-          - Granite hardens (place) ________________________________
+          - Granite hardens (place) _______________ deep underground over millions of years.
         * - Obsidian breaks.
-          - Obsidian breaks (manner) ________________________________
+          - Obsidian breaks (manner) _______________ with a sharp, glassy fracture.
         * - Pumice floats.
-          - Pumice floats (manner) ________________________________
+          - Pumice floats (manner) _________________ because of trapped gas bubbles.
         * - Sandstone crumbles.
-          - Sandstone crumbles (place) ________________________________
+          - Sandstone crumbles (place) ________________ along exposed cliff faces.
         * - Marble reacts.
-          - Marble reacts (manner) ________________________________
+          - Marble reacts (manner) _______________ when exposed to weak acids.
         * - Limestone dissolves.
-          - Limestone dissolves (manner) ________________________________
+          - Limestone dissolves (manner) _______________ in slightly acidic groundwater.
 
 
     .. dropdown:: Reveal Answer Key
