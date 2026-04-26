@@ -287,9 +287,9 @@ Metamorphic Rock circumstances
 
     * along tectonic plate boundaries
     * deep within the crust
-    * during continental collision
+    * through contact with magma
     * over millions of years
-    * under intense heat and pressure
+    * from limestone during metamorphism
 
     .. tab-set::
         :sync-group: metamorphic1
@@ -297,27 +297,23 @@ Metamorphic Rock circumstances
         .. tab-item:: Q1
             :sync: q1
 
-            **Place.** Minerals recrystallise.
+            **Place.** Slate forms.
 
         .. tab-item:: Q2
             :sync: q2
 
-            **Place.** Rock texture changes.
+            **Place.** Schist develops.
 
         .. tab-item:: Q3
             :sync: q3
 
-            **Manner.** New minerals form.
+            **Manner.** Quartzite forms.
 
         .. tab-item:: Q4
             :sync: q4
 
-            **Time.** Foliation develops in rock layers.
+            **Matter (Origin).** Marble forms.
 
-        .. tab-item:: Q5
-            :sync: q5
-
-            **Time.** Rocks are slowly transformed.
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
@@ -329,39 +325,29 @@ Metamorphic Rock circumstances
             .. tab-item:: Q1
                 :sync: q1
 
-                Minerals recrystallise **deep within the crust**.
+                Slate forms **along tectonic plate boundaries**.
 
-                **Deep within the crust**, minerals recrystallise.
+                **Along tectonic plate boundaries**, slate forms.
 
             .. tab-item:: Q2
                 :sync: q2
 
-                Rock texture changes **along tectonic plate boundaries**.
+                Schist develops **deep within the crust**.
 
-                **Along tectonic plate boundaries**, rock texture changes.
+                **Deep within the crust**, schist develops.
 
             .. tab-item:: Q3
                 :sync: q3
 
-                New minerals form **under intense heat and pressure**.
+                Quartzite forms **through contact with magma**.
 
-                **Under intense heat and pressure**, new minerals form.
+                **Through contact with magma**, quartzite forms.
 
             .. tab-item:: Q4
                 :sync: q4
 
-                Foliation develops in rock layers **during continental collision**.
+                Marble forms **from limestone during metamorphism**.
 
-                **During continental collision**, foliation develops in rock layers.
-
-            .. tab-item:: Q5
-                :sync: q5
-
-                Rocks are slowly transformed **over millions of years**.
-
-                **Over millions of years**, rocks are slowly transformed.
-
-
-
+                **From limestone during metamorphism**, marble forms.
 
 
