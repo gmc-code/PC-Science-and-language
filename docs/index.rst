@@ -16,23 +16,6 @@ PC-Science-and-language
     introduction/introduction.rst
 
 
-.. toctree::
-    :maxdepth: 2
-    :caption: 🧪 Chemistry
-    :numbered:
-
-    chemistry/PRO_Physical_Changes_declarative.rst
-    chemistry/PRO_Physical_Changes_situational.rst
-    chemistry/PRO_Physical_Changes_scaffold.rst
-
-    chemistry/PRO_Chemical_Changes.rst
-    chemistry/PRO_Chemical_Changes_B.rst
-
-
-    .. chemistry/chemistry_PEEL.rst
-    .. chemistry/chemistry_themes.rst
-
-
 
 .. toctree::
     :maxdepth: 2
@@ -218,6 +201,23 @@ PC-Science-and-language
     prac_errors/errors_operator.rst
     prac_errors/errors_recording.rst
 
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪 Chemistry
+    :numbered:
+
+    chemistry/PRO_Physical_Changes_declarative.rst
+    chemistry/PRO_Physical_Changes_situational.rst
+    chemistry/PRO_Physical_Changes_scaffold.rst
+
+    chemistry/PRO_Chemical_Changes.rst
+    chemistry/PRO_Chemical_Changes_B.rst
+
+
+    .. chemistry/chemistry_PEEL.rst
+    .. chemistry/chemistry_themes.rst
 
 
 
