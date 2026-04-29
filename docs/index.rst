@@ -18,13 +18,13 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🧪 Mixtures
+    :caption: 🧪 States of Matter and Mixtures
     :numbered:
 
-    mixtures/states_mixtures_active_passive.rst
-    mixtures/states_mixtures_nominalisations.rst
-    mixtures/states_mixtures_nominalisations2.rst
-docs/_static/states_mixtures/states_mixtures_nominalisations.rst
+    states_mixtures/states_mixtures_active_passive.rst
+    states_mixtures/states_mixtures_nominalisations.rst
+    states_mixtures/states_mixtures_nominalisations2.rst
+
 
 
 .. toctree::
