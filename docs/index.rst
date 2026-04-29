@@ -16,6 +16,16 @@ PC-Science-and-language
     introduction/introduction.rst
 
 
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪 Mixtures
+    :numbered:
+
+    mixtures/states_mixtures_active_passive.rst
+    mixtures/states_mixtures_nominalisations.rst
+    mixtures/states_mixtures_nominalisations2.rst
+
+
 
 .. toctree::
     :maxdepth: 2
