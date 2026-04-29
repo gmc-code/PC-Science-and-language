@@ -35,7 +35,7 @@ Examples
           -
         * - Steam **condenses**
           -
-        * - Particles **diffuse**
+        * - Gas particles **diffuse**
           -
         * - Dry ice **sublimes**
           -
@@ -57,11 +57,11 @@ Examples
                     * - Everyday (process)
                       - Scientific (participant)
                     * - Liquids **freeze**
-                      - The **freezing** (or solidification) of liquids
+                      - The **freezing** of liquids
                     * - Steam **condenses**
                       - The **condensation** of steam
-                    * - Particles **diffuse**
-                      - The **diffusion** of particles
+                    * - Gas particles **diffuse**
+                      - The **diffusion** of gas particles
                     * - Dry ice **sublimes**
                       - The **sublimation** of dry ice
                     * - Gas **deposits** as a solid
@@ -80,8 +80,6 @@ Examples
 
         * - Everyday (process)
           - Scientific (participant)
-        * - Salt **dissolves** in water
-          -
         * - The lab technician **filters** the suspension
           -
         * - Liquids **distil** at different temperatures
@@ -105,8 +103,6 @@ Examples
 
                     * - Everyday (process)
                       - Scientific (participant)
-                    * - Salt **dissolves** in water
-                      - The **dissolution** of salt in water
                     * - The lab technician **filters** the suspension
                       - The **filtration** of the suspension by the lab technician
                     * - Liquids **distil** at different temperatures
@@ -115,3 +111,4 @@ Examples
                       - The **settling** of sediments at the bottom
                     * - The machine **centrifuges** the blood
                       - The **centrifugation** of blood by the machine
+

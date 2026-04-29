@@ -11,14 +11,19 @@ Your task is to **nominalize each verb**.
 Example
 ---------
 
+Common endings are -ing and -ation.
+
+
 .. list-table::
     :header-rows: 1
     :widths: 40 50
 
     * - Verb
       - Nominalisation
-    * - move
-      - movement
+    * - boil
+      - boiling
+    * - solidify
+      - solidification
 
 ----
 
@@ -135,8 +140,6 @@ Example
 
         * - Verb
           - Nominalisation
-        * - dissolve
-          -
         * - distil
           -
         * - filter
@@ -162,8 +165,6 @@ Example
 
                     * - Verb
                       - Nominalisation
-                    * - dissolve
-                      - solution (or dissolving)
                     * - distil
                       - distillation
                     * - filter

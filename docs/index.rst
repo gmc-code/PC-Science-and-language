@@ -21,9 +21,10 @@ PC-Science-and-language
     :caption: 🧪 States of Matter and Mixtures
     :numbered:
 
-    states_mixtures/states_mixtures_active_passive.rst
     states_mixtures/states_mixtures_nominalisations.rst
     states_mixtures/states_mixtures_nominalisations2.rst
+    states_mixtures/states_mixtures_nominalisations3.rst
+    states_mixtures/states_mixtures_active_passive.rst
 
 
 
