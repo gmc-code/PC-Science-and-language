@@ -65,7 +65,7 @@ Examples
                     * - Dry ice **sublimes**
                       - The **sublimation** of dry ice
                     * - Gas **deposits** as a solid
-                      - The **deposition** of gas
+                      - The **deposition** of gas as a solid
 
 ----
 
@@ -106,9 +106,9 @@ Examples
                     * - The lab technician **filters** the suspension
                       - The **filtration** of the suspension by the lab technician
                     * - Liquids **distil** at different temperatures
-                      - The **distillation** of liquids
+                      - The **distillation** of liquids at different temperatures
                     * - Sediments **settle** at the bottom
                       - The **settling** of sediments at the bottom
-                    * - The machine **centrifuges** the blood
-                      - The **centrifugation** of blood by the machine
+                    * - The new machine **centrifuges** the blood
+                      - The **centrifugation** of blood by the new machine
 

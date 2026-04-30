@@ -40,7 +40,7 @@ Examples
           -
         * - Dry ice **sublimes** directly
           -
-        * - Gas **deposits** quickly as a solid
+        * - Gas **deposits** slowly on the surface
           -
 
     .. dropdown:: Reveal Answer Key
@@ -65,10 +65,9 @@ Examples
                       - The **rapid diffusion** of gas particles
                     * - Dry ice **sublimes** directly
                       - The **direct sublimation** of dry ice
-                    * - Gas **deposits** slowly as a solid
-                      - The **slow deposition** of gas
+                    * - Gas **deposits** slowly on the surface
+                      - The **slow deposition** of gas on the surface
 
-----
 
 ----
 
@@ -109,15 +108,15 @@ Examples
                     * - Everyday (process)
                       - Scientific (participant)
                     * - Salt **dissolves** quickly in water
-                      - The **quick dissolution** of salt in water
+                      - The **quick dissolving** of salt in water
                     * - Sugar **dissolves** completely in the solution
-                      - The **complete dissolution** of sugar in the solution
+                      - The **complete dissolving** of sugar in the solution
                     * - The solute **mixes** evenly through the solvent
                       - The **even mixing** of the solute through the solvent
                     * - The solution **forms** gradually
                       - The **gradual formation** of the solution
-                    * - Water **dissolves** the substance effectively
-                      - The **effective dissolution** of the substance by water
+                    * - Water **dissolves** the solute effectively
+                      - The **effective dissolving** of the solute by water
 
 ----
 
@@ -183,9 +182,7 @@ Examples
           - Scientific (participant)
         * - The substances **combine** physically
           -
-        * - The mixture **contains** different particles
-          -
-        * - The components **separate** easily
+        * - The substances **separate** easily
           -
         * - The solution **appears** uniform throughout
           -
@@ -208,12 +205,10 @@ Examples
                       - Scientific (participant)
                     * - The substances **combine** physically
                       - The **physical combination** of substances
-                    * - The mixture **contains** different particles
-                      - The **containment** of different particles in the mixture
-                    * - The components **separate** easily
-                      - The **easy separation** of components
-                    * - The solution **appears** uniform throughout
-                      - The **uniform appearance** of the solution throughout
+                    * - The substances **separate** easily
+                      - The **easy separation** of substances
+                    * - The solution **appears** uniform
+                      - The **uniform appearance** of the solution
                     * - The suspension **settles** slowly
                       - The **slow settling** of the suspension
 
@@ -255,8 +250,8 @@ Examples
                       - The **careful filtration** of the suspension by the lab technician
                     * - Liquids **distil** efficiently at different temperatures
                       - The **efficient distillation** of liquids at different temperatures
-                    * - The machine **centrifuges** the blood rapidly
-                      - The **rapid centrifugation** of blood by the machine
+                    * - The new machine **centrifuges** the blood rapidly
+                      - The **rapid centrifugation** of blood by the new machine
 
 
 
