@@ -20,27 +20,29 @@ Examples
 
 
 .. admonition:: Grammar Toolkit: Packing the Noun Group
-   :class: note
+    :class: note
 
-   To build a complex scientific noun group, use **probe questions** to identify the different parts of the clause. You can then "pack" these answers together.
+    To build a complex scientific noun group, use **probe questions** to identify the different parts of the clause. You can then "pack" these answers together.
 
-   **Example Clause:** *Solids melt*
+    **Example Clause:** *Solids melt*
 
-   .. list-table::
-      :header-rows: 1
-      :widths: 40 25 35
+    .. list-table::
+        :header-rows: 1
+        :widths: 40 25 35
 
-      * - Probe Question
-        - Identified Part
-        - Nominalised Form
-      * - **What is happening?** (Process)
-        - melt
-        - **melting** (Noun)
-      * - **What?** (Participant)
-        - solids
-        - **of solids**
+        * - Probe Question
+            - Identified Part
+            - Nominalised Form
+        * - **What is happening?** (Process)
+            - melt
+            - **melting** (Noun)
+        * - **What?** (Participant)
+            - solids
+            - **of solids**
 
-   *Solids melt* becomes *The melting of solids*
+    **Example Clause:** *Solids melt*
+
+    **Example Nominalisation:** *The melting of solids*
 
 ----
 

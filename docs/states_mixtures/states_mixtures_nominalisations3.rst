@@ -21,33 +21,35 @@ Examples
 
 
 .. admonition:: Grammar Toolkit: Packing the Noun Group
-   :class: note
+    :class: note
 
-   To build a complex scientific noun group, use **probe questions** to identify the different parts of the clause. You can then "pack" these answers together.
+    To build a complex scientific noun group, use **probe questions** to identify the different parts of the clause. You can then "pack" these answers together.
 
-   **Example Clause:** *The machine centrifuges the blood rapidly.*
+    **Example Clause:** *The machine centrifuges the blood rapidly.*
 
-   .. list-table::
-      :header-rows: 1
-      :widths: 40 25 35
+    .. list-table::
+        :header-rows: 1
+        :widths: 40 25 35
 
-      * - Probe Question
-        - Identified Part
-        - Nominalised Form
-      * - **What is happening?** (Process)
-        - centrifuges
-        - **centrifugation** (Noun)
-      * - **How?** (Manner)
-        - rapidly
-        - **rapid** (Adjective)
-      * - **To what?** (Participant)
-        - the blood
-        - **of blood**
-      * - **By what?** (Actor)
-        - the machine
-        - **by the machine**
+        * - Probe Question
+            - Identified Part
+            - Nominalised Form
+        * - **What is happening?** (Process)
+            - centrifuges
+            - **centrifugation** (Noun)
+        * - **How?** (Manner)
+            - rapidly
+            - **rapid** (Adjective)
+        * - **To what?** (Participant)
+            - the blood
+            - **of blood**
+        * - **By what?** (Actor)
+            - the machine
+            - **by the machine**
 
-   **Example Nominalisation:** *The rapid centrifugation of blood by the machine*
+    **Example Clause:** *The machine centrifuges the blood rapidly.*
+
+    **Example Nominalisation:** *The rapid centrifugation of blood by the machine*
 
 ----
 
