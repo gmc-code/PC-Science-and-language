@@ -28,7 +28,7 @@ Examples
 
    .. list-table::
       :header-rows: 1
-      :widths: 30 30 40
+      :widths: 40 25 35
 
       * - Probe Question
         - Identified Part
@@ -40,8 +40,7 @@ Examples
         - solids
         - **of solids**
 
-   **ExampleResult:**
-   | "The **melting** of solids..."
+   **ExampleResult:** *The melting of solids*
 
 ----
 
