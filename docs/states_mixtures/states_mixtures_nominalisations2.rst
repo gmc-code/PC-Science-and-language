@@ -18,6 +18,31 @@ Examples
 | Verb: Water **evaporates** from the mixture
 | Nominalisation: The **evaporation** of water from the mixture
 
+
+.. admonition:: Grammar Toolkit: Packing the Noun Group
+   :class: note
+
+   To build a complex scientific noun group, use **probe questions** to identify the different parts of the clause. You can then "pack" these answers together.
+
+   **Example Clause:** *Solids melt*
+
+   .. list-table::
+      :header-rows: 1
+      :widths: 30 30 40
+
+      * - Probe Question
+        - Identified Part
+        - Nominalised Form
+      * - **What is happening?** (Process)
+        - melt
+        - **melting** (Noun)
+      * - **What?** (Participant)
+        - solids
+        - **of solids**
+
+   **ExampleResult:**
+   | "The **melting** of solids..."
+
 ----
 
 .. admonition:: Phase Change Processes

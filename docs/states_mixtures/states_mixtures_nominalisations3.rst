@@ -19,6 +19,38 @@ Examples
 | Verb: Water **evaporates** rapidly from the mixture
 | Nominalisation: The **rapid evaporation** of water from the mixture
 
+
+.. admonition:: Grammar Toolkit: Packing the Noun Group
+   :class: note
+
+   To build a complex scientific noun group, use **probe questions** to identify the different parts of the clause. You can then "pack" these answers together.
+
+   **Example Clause:** *The machine centrifuges the blood rapidly.*
+
+   .. list-table::
+      :header-rows: 1
+      :widths: 30 30 40
+
+      * - Probe Question
+        - Identified Part
+        - Nominalised Form
+      * - **What is happening?** (Process)
+        - centrifuges
+        - **centrifugation** (Noun)
+      * - **How?** (Manner)
+        - rapidly
+        - **rapid** (Adjective)
+      * - **To what?** (Participant)
+        - the blood
+        - **of blood**
+      * - **By what?** (Actor)
+        - the machine
+        - **by the machine**
+
+
+   **Example Result:**
+   | "The **rapid centrifugation of blood by the machine**..."
+
 ----
 
 .. admonition:: Phase Change Processes
