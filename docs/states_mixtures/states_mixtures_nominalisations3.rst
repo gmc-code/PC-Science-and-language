@@ -261,7 +261,7 @@ Examples
           -
         * - Liquids **distil** efficiently at different temperatures
           -
-        * - The machine **centrifuges** the blood rapidly
+        * - The new machine **centrifuges** the blood rapidly
           -
 
     .. dropdown:: Reveal Answer Key
