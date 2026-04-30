@@ -95,8 +95,6 @@ Common endings are -ing and -ation.
           -
         * - diffuse
           -
-        * - flow
-          -
         * - compress
           -
         * - collide
@@ -120,8 +118,6 @@ Common endings are -ing and -ation.
                       - vibration
                     * - diffuse
                       - diffusion
-                    * - flow
-                      - flow
                     * - compress
                       - compression
                     * - collide

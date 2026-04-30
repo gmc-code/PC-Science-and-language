@@ -12,20 +12,75 @@ Process → Participant
 | In science, these actions are often rewritten as **nouns** so they can be described, linked, measured, or used as causes.
 | This involves changing a **process** into a **participant**.
 
-This table begins with a process only (a single verb). No participant is included.
+This table has a process only (a single verb).
 
-.. list-table:: Process to Participant
+.. list-table:: Nominalisation Continuum
+   :widths: 20 30 50
+   :header-rows: 1
+
+   * - Verb (Action)
+     - -ing Ending (Less Formal)
+     - -ation / Technical Ending (More Formal)
+   * - Condense
+     - Condensing
+     - Condensation
+   * - Evaporate
+     - Evaporating
+     - Evaporation
+   * - Filter
+     - Filtering
+     - Filtration
+
+Beyond the standard **-ing** and **-ation** suffixes, science often uses more irregular nominalisation shifts to turn processes into participants.
+
+.. list-table:: Irregular Science Nominalisations: Years 7-9
+    :widths: 20 30 50
     :header-rows: 1
-    :widths: 35 45
 
-    * - Everyday (process)
-      - Scientific (participant)
-    * - **collide**
-      - **collision**
-    * - **spreads**
-      - **spreading**
-    * - **converge**
-      - **convergence**
+    * - Verb (Process)
+      - -ing Ending (Less Formal)
+      - Formal Technical Noun
+    * - Erode
+      - Eroding
+      - Erosion
+    * - Erupt
+      - Erupting
+      - Eruption
+    * - Absorb
+      - Absorbing
+      - Absorption
+    * - Evolve
+      - Evolving
+      - Evolution
+    * - Reproduce
+      - Reproducing
+      - Reproduction
+    * - Expand
+      - Expanding
+      - Expansion
+    * - Diffuse
+      - Diffusing
+      - Diffusion
+    * - Compress
+      - Compressing
+      - Compression
+    * - Divide
+      - Dividing
+      - Division
+    * - Grow
+      - Growing
+      - Growth
+    * - Warm
+      - Warming
+      - Warmth
+    * - Weigh
+      - Weighing
+      - Weight
+
+
+
+----
+
 
 This table begins with a participant + process (a noun + verb), forming a full clause.
 
@@ -74,16 +129,9 @@ Turning processes into participants allows scientists to:
       - Plates **collide**, forming mountains.
       - The **collision of plates** forms mountains.
 
-    * - Compare processes
-      - Lava **flows** faster than ash **falls**.
-      - The **flow of lava** is faster than the **fall of ash**.
-
-    * - Build chains of reasoning
-      - Magma **rises** and **cools**, creating new crust.
-      - The **rising and cooling of magma** creates new crust.
 
     * - Write more formally and precisely
-      - Earthquakes **release** energy suddenly.
-      - The **sudden release of energy** causes earthquakes.
+      - VOlcanos **erupt** suddenly, causing earthquakes.
+      - The **sudden eruption of volcanoes** causes earthquakes.
 
 
