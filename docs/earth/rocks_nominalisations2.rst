@@ -15,6 +15,9 @@ Example
 | Verb: Lava **cools**
 | Nominalisation: The **cooling** of lava
 
+| Verb: Water **evaporates**
+| Nominalisation: The **evaporation** of water
+
 
 ----
 

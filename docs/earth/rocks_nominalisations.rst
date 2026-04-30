@@ -9,16 +9,26 @@ Rocks: Verbs → Nouns
 Your task is to **nominalize each verb**.
 
 Example
--------
+---------
 
-.. list-table::
+This table has a process only (a single verb).
+
+.. list-table:: Nominalisation Continuum
+    :widths: 20 30 50
     :header-rows: 1
-    :widths: 40 50
 
-    * - Verb
-      - Nominalisation
-    * - cool
-      - cooling
+    * - Verb (Action)
+      - -ing Ending (Less Formal)
+      - -ation / Technical Ending (More Formal)
+    * - Condense
+      - Condensing
+      - Condensation
+    * - Evaporate
+      - Evaporating
+      - Evaporation
+    * - Filter
+      - Filtering
+      - Filtration
 
 ----
 
@@ -41,8 +51,6 @@ Igneous rocks
         * - crystallise
           -
         * - erupt
-          -
-        * - flow
           -
         * - form
           -
@@ -71,8 +79,6 @@ Igneous rocks
                       - crystallisation
                     * - erupt
                       - eruption
-                    * - flow
-                      - flow
                     * - form
                       - formation
                     * - melt
