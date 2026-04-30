@@ -40,7 +40,7 @@ Examples
         - solids
         - **of solids**
 
-   **ExampleResult:** *The melting of solids*
+   *Solids melt* becomes *The melting of solids*
 
 ----
 
