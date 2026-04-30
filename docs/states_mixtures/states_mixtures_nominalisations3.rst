@@ -29,7 +29,7 @@ Examples
 
    .. list-table::
       :header-rows: 1
-      :widths: 30 30 40
+      :widths: 40 25 35
 
       * - Probe Question
         - Identified Part
@@ -47,9 +47,7 @@ Examples
         - the machine
         - **by the machine**
 
-
-   **Example Result:**
-   | "The **rapid centrifugation of blood by the machine**..."
+   **Example Nominalisation:** *The rapid centrifugation of blood by the machine*
 
 ----
 
