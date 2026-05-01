@@ -245,9 +245,9 @@ Metamorphic rocks
                     * - Everyday (process)
                       - Scientific (participant)
                     * - Heat **melts** rock
-                      - The **melting** of rock
+                      - The **melting** of rock by heat
                     * - Pressure **compresses** rock
-                      - The **compression** of rock
+                      - The **compression** of rock by pressure
                     * - Minerals **recrystallise**
                       - The **recrystallisation** of minerals
                     * - Rocks **deform**
