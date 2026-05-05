@@ -16,17 +16,6 @@ PC-Science-and-language
     introduction/introduction.rst
 
 
-.. toctree::
-    :maxdepth: 2
-    :caption: 🧪 States of Matter and Mixtures
-    :numbered:
-
-    states_mixtures/states_mixtures_nominalisations.rst
-    states_mixtures/states_mixtures_nominalisations2.rst
-    states_mixtures/states_mixtures_nominalisations3.rst
-
-    .. states_mixtures/states_mixtures_active_passive.rst
-
 
 
 .. toctree::
@@ -58,6 +47,19 @@ PC-Science-and-language
 
     earth/earth_adding_circumstances.rst
     earth/earth_match_circumstances.rst
+
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪 States of Matter and Mixtures
+    :numbered:
+
+    states_mixtures/states_mixtures_nominalisations.rst
+    states_mixtures/states_mixtures_nominalisations2.rst
+    states_mixtures/states_mixtures_nominalisations3.rst
+
+    .. states_mixtures/states_mixtures_active_passive.rst
 
 
 
