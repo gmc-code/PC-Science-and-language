@@ -31,16 +31,23 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🌋 Earth
+    :caption: 🌋 Rocks
     :numbered:
 
 
-    earth/rocks_nominalisations.rst
-    earth/rocks_nominalisations2.rst
-    earth/rocks_action_processes.rst
+    rocks/rocks_nominalisations.rst
+    rocks/rocks_nominalisations2.rst
+    rocks/rocks_action_processes.rst
 
-    earth/rocks_prepositional_phrases.rst
-    earth/rocks_adding_circumstances.rst
+    rocks/rocks_prepositional_phrases.rst
+    rocks/rocks_adding_circumstances.rst
+
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🌋 Earth
+    :numbered:
 
 
     earth/earth_nominalisations.rst
@@ -51,6 +58,7 @@ PC-Science-and-language
 
     earth/earth_adding_circumstances.rst
     earth/earth_match_circumstances.rst
+
 
 
 .. toctree::
