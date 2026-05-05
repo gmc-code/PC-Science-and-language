@@ -20,7 +20,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🌋 Rocks
+    :caption: 💎 Rocks
     :numbered:
 
 
