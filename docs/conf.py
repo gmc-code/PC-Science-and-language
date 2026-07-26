@@ -1,11 +1,15 @@
 # Configuration file for the Sphinx documentation builder.
 # see https://www.sphinx-doc.org/en/master/usage/configuration.html
 
+
+import os
+import sys
+import sphinx_rtd_theme
+
+# Ensure custom extension path is available
+sys.path.append(os.path.abspath("./_ext"))
+
 # -- Project information -----------------------------------------------------
-# import os
-# import sys
-
-
 
 project = 'PC-Science-and-language'
 copyright = '2026, GMC'
@@ -55,6 +59,12 @@ extensions = [
     'sphinx_design',
     "sphinx_new_tab_link",
     'sphinx.ext.mathjax',
+    "classifying.classifying",  # custom directive
+    "ordering.ordering",  # custom directive
+    "gapfill.gapfill",  # custom directive
+    "cloze.cloze",  # custom directive
+    "multichoice.multichoice",  # custom directive
+    "labels.labels",  # custom directive
 ]
 
 
