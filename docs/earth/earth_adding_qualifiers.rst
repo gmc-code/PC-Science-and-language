@@ -191,7 +191,7 @@ Igneous rock circumstances
 
 ----
 
-Sedemetary Rock circumstances
+Sedimetary Rock circumstances
 ------------------------------
 
 .. admonition:: Short Answer Questions
