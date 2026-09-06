@@ -23,7 +23,8 @@ PC-Science-and-language
 
 
     energy/energy_nominalisations.rst
-
+    energy/energy_nominalisations2.rst
+    energy/energy_nominalisation_sentences.rst
 
 
 .. toctree::

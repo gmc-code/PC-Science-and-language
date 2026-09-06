@@ -2,11 +2,11 @@
 Energy: Verbs → Nouns
 ===================================
 
-| In science writing, **actions** (verbs) are often turned into **things** (nouns)[cite: 5].
-| These nouns are called **nominalisations**[cite: 5].
-| They help make explanations sound more formal and scientific[cite: 5].
+| In science writing, **actions** (verbs) are often turned into **things** (nouns).
+| These nouns are called **nominalisations**.
+| They help make explanations sound more formal and scientific.
 
-Your task is to **nominalize each verb**[cite: 5].
+Your task is to **nominalize each verb**.
 
 Example
 ---------

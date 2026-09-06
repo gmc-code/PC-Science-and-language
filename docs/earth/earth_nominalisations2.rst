@@ -1,5 +1,5 @@
 ===================================
-Earth: Verbs → Nouns 2
+Earth: Clauses → Noun groups
 ===================================
 
 | Science explanations often turn actions (**verbs**) into things (**nouns**).
