@@ -16,6 +16,14 @@ PC-Science-and-language
     introduction/introduction.rst
 
 
+.. toctree::
+    :maxdepth: 2
+    :caption: 🌋 Earth
+    :numbered:
+
+
+    energy/energy_nominalisations.rst
+
 
 
 .. toctree::
