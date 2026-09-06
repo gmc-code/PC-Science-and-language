@@ -26,6 +26,11 @@ PC-Science-and-language
     energy/energy_nominalisations2.rst
     energy/energy_nominalisation_sentences.rst
 
+    energy/energy_adding_circumstances.rst
+    energy/energy_adding_circumstances2.rst
+    energy/energy_match_circumstances.rst
+
+
 
 .. toctree::
     :maxdepth: 2
@@ -52,9 +57,9 @@ PC-Science-and-language
     earth/earth_nominalisations2.rst
     earth/earth_nominalisation_sentences.rst
 
-    earth/earth_adding_qualifiers.rst
-
     earth/earth_adding_circumstances.rst
+    earth/earth_adding_circumstances2.rst
+
     earth/earth_match_circumstances.rst
 
 
