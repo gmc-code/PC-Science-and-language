@@ -18,9 +18,11 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🌋 Earth
+    :caption: 🌋 Energy
     :numbered:
 
+
+    physics/energy_quiz.rst
 
     energy/energy_nominalisations.rst
     energy/energy_nominalisations2.rst
