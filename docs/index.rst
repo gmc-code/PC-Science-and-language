@@ -22,6 +22,8 @@ PC-Science-and-language
     :numbered:
 
     physics/energy_quick_questions.rst
+    physics/energy_quick_cloze.rst
+    physics/energy_cloze.rst
     physics/energy_quiz.rst
 
     energy/energy_nominalisations.rst
