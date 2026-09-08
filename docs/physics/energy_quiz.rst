@@ -2,11 +2,6 @@
 Energy Quiz
 ====================================================
 
-Energy exists in different forms, including thermal, chemical, gravitational and elastic, and may be classified as kinetic or potential.
-
-Energy transfers (conduction, convection and radiation) and transformations occur in simple systems and can be analysed in terms of energy efficiency.
-
-
 
 Question 1
 ---------------------------------------------
@@ -18,6 +13,16 @@ Question 1
     [x] The capacity to move or make changes to an object | Correct! Energy is defined as the ability to do work, move, or cause changes.
     [ ] The force that holds an atom together | Incorrect. While nuclear forces hold atoms together, energy itself is the capacity to do work or make changes.
 
+Question 1
+---------------------------------------------
+
+.. multichoice::
+
+    Which of the following is a form of potential energy?
+    [ ] sound | Incorrect. Sound energy is a form of kinetic energy caused by the vibration of particles.
+    [ ] kinetic | Incorrect. Kinetic energy is the energy of motion, whereas potential energy is stored energy.
+    [ ] thermal | Incorrect. Thermal energy is the total kinetic energy of moving or vibrating particles.
+    [x] gravitational | Correct! Gravitational energy is stored potential energy due to an object's position in a gravitational field.
 
 
 Question 2

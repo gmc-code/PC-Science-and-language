@@ -50,7 +50,7 @@ def setup(app):
 #
 
 extensions = [
-    'sphinx.ext.autosectionlabel',
+    # 'sphinx.ext.autosectionlabel',
     'sphinx_rtd_theme',
     'sphinx_copybutton',
     'sphinx.ext.todo',

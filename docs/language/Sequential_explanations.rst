@@ -32,12 +32,15 @@ Stages and Phases in Systemic Functional Linguistics (SFL)
 
 | Stages are the major, compulsory sections of a genre.
 | They function as the large building blocks of the text.
+
 | Characteristics:
+
 - Each stage serves a distinct purpose.
 - The genre will not work properly if a compulsory stage is missing.
 - Stages structure the whole text.
 
 | Examples of stages in school science genres:
+
 - **Sequential Explanation:** Title → General Statement → Explanation Sequence
 - **Procedure:** Goal → Materials → Steps
 - **Information Report:** General classification → Description
@@ -48,6 +51,7 @@ Stages and Phases in Systemic Functional Linguistics (SFL)
 | They organise how meaning unfolds *inside* a stage.
 
 | Characteristics:
+
 - Phases are sub-moves that contribute to the purpose of the stage.
 - They help guide the reader step-by-step through the meaning.
 

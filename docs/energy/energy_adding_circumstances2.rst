@@ -3,7 +3,7 @@ Energy: Adding circumstances: Prepositional phrases
 ==========================================================
 
 | A **circumstance** is an adverbial (adverb, adverbial group, prepositional phrase, noun group) that adds context to a clause —
-| often expressing *when* or *where* or *how* or *why* something happens[cite: 9].
+| often expressing *when* or *where* or *how* or *why* something happens.
 
 - **Time** (when?) — *during energy transfers*, *over high demand periods*
 - **Place** (where?) — *in electrical circuits*, *across closed systems*
@@ -17,8 +17,8 @@ Prepositional phrases as circumstances
 
 | Unlike qualifiers (which are embedded inside a noun group and cannot move),
 | circumstances are **mobile**: the same phrase can sit at the end of a clause
-| *or* be shifted to the front — and the grammar still works[cite: 9].
-| This is the key test that separates circumstances from qualifiers[cite: 9].
+| *or* be shifted to the front — and the grammar still works.
+| This is the key test that separates circumstances from qualifiers.
 
 ----
 

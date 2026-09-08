@@ -8,11 +8,13 @@ Stages
 | Stages are the major, compulsory sections of a genre.
 | They function as the large building blocks of the text.
 | Characteristics:
+
 - Each stage serves a distinct purpose.
 - The genre will not work properly if a compulsory stage is missing.
 - Stages structure the whole text.
 
 | Examples of stages in school science genres:
+
 - **Sequential Explanation:** Title → General Statement → Explanation Sequence
 - **Procedure:** Goal → Materials → Steps
 - **Information Report:** General classification → Description

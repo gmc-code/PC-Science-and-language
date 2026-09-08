@@ -2,11 +2,11 @@
 Energy: Adding Circumstances
 ===================================
 
-| Your task is to add a **circumstance** to each short clause[cite: 8].
+| Your task is to add a **circumstance** to each short clause.
 | A circumstance is a group of words (often a prepositional phrase) that tells us
-| **where**, **when**, or **how** the process happens[cite: 8].
+| **where**, **when**, or **how** the process happens.
 
-Write a prepositional phrase for the type of circumstance shown in brackets for each clause[cite: 8].
+Write a prepositional phrase for the type of circumstance shown in brackets for each clause.
 
 Example
 -------
@@ -19,7 +19,7 @@ Example
 .. admonition:: 6A: Forms of Energy
     :class: shortanswer
 
-    | Rewrite each short clause by adding a circumstance[cite: 8].
+    | Rewrite each short clause by adding a circumstance.
 
     .. list-table:: process + circumstance
         :header-rows: 1
@@ -64,7 +64,7 @@ Example
 .. admonition:: 6B: Energy Transfers and Transformations
     :class: shortanswer
 
-    | Rewrite each short clause by adding a circumstance[cite: 8].
+    | Rewrite each short clause by adding a circumstance.
 
     .. list-table:: process + circumstance
         :header-rows: 1
@@ -109,7 +109,7 @@ Example
 .. admonition:: 6C: Waste Energy
     :class: shortanswer
 
-    | Rewrite each short clause by adding a circumstance[cite: 8].
+    | Rewrite each short clause by adding a circumstance.
 
     .. list-table:: process + circumstance
         :header-rows: 1
@@ -154,7 +154,7 @@ Example
 .. admonition:: 6D: Everyday Efficiency
     :class: shortanswer
 
-    | Rewrite each short clause by adding a circumstance[cite: 8].
+    | Rewrite each short clause by adding a circumstance.
 
     .. list-table:: process + circumstance
         :header-rows: 1

@@ -2,14 +2,14 @@
 Energy: Matching Circumstances
 ===========================================
 
-Match the **Circumstance (Prepositional Phrase)** in Column B to the correct **Process** in Column A to describe energy transfer and transformation accurately[cite: 10].
+Match the **Circumstance (Prepositional Phrase)** in Column B to the correct **Process** in Column A to describe energy transfer and transformation accurately.
 
 ----
 
 .. admonition:: 6A: Forms of Energy
     :class: match
 
-    Match the **Energy Process** from Column A with the correct **Circumstance** from Column B[cite: 10].
+    Match the **Energy Process** from Column A with the correct **Circumstance** from Column B.
 
     .. list-table::
         :header-rows: 1
@@ -38,7 +38,7 @@ Match the **Circumstance (Prepositional Phrase)** in Column B to the correct **P
 
             .. tab-item:: Model Answer
 
-                The sentences below follow the pattern: **Process (A-D) + Circumstance (1-4)**[cite: 10].
+                The sentences below follow the pattern: **Process (A-D) + Circumstance (1-4)**.
 
                 .. list-table::
                     :header-rows: 1
@@ -64,7 +64,7 @@ Match the **Circumstance (Prepositional Phrase)** in Column B to the correct **P
 .. admonition:: 6B: Energy Transfers and Transformations
     :class: match
 
-    Match the **Energy Process** from Column A with the correct **Circumstance** from Column B[cite: 10].
+    Match the **Energy Process** from Column A with the correct **Circumstance** from Column B.
 
     .. list-table::
         :header-rows: 1
@@ -93,7 +93,7 @@ Match the **Circumstance (Prepositional Phrase)** in Column B to the correct **P
 
             .. tab-item:: Model Answer
 
-                The sentences below follow the pattern: **Process (A-D) + Circumstance (1-4)**[cite: 10].
+                The sentences below follow the pattern: **Process (A-D) + Circumstance (1-4)**.
 
                 .. list-table::
                     :header-rows: 1
@@ -119,7 +119,7 @@ Match the **Circumstance (Prepositional Phrase)** in Column B to the correct **P
 .. admonition:: 6C: Waste Energy
     :class: match
 
-    Match the **Energy Process** from Column A with the correct **Circumstance** from Column B[cite: 10].
+    Match the **Energy Process** from Column A with the correct **Circumstance** from Column B.
 
     .. list-table::
         :header-rows: 1
@@ -148,7 +148,7 @@ Match the **Circumstance (Prepositional Phrase)** in Column B to the correct **P
 
             .. tab-item:: Model Answer
 
-                The sentences below follow the pattern: **Process (A-D) + Circumstance (1-4)**[cite: 10].
+                The sentences below follow the pattern: **Process (A-D) + Circumstance (1-4)**.
 
                 .. list-table::
                     :header-rows: 1
@@ -174,7 +174,7 @@ Match the **Circumstance (Prepositional Phrase)** in Column B to the correct **P
 .. admonition:: 6D: Everyday Efficiency
     :class: match
 
-    Match the **Energy Process** from Column A with the correct **Circumstance** from Column B[cite: 10].
+    Match the **Energy Process** from Column A with the correct **Circumstance** from Column B.
 
     .. list-table::
         :header-rows: 1
@@ -203,7 +203,7 @@ Match the **Circumstance (Prepositional Phrase)** in Column B to the correct **P
 
             .. tab-item:: Model Answer
 
-                The sentences below follow the pattern: **Process (A-D) + Circumstance (1-4)**[cite: 10].
+                The sentences below follow the pattern: **Process (A-D) + Circumstance (1-4)**.
 
                 .. list-table::
                     :header-rows: 1

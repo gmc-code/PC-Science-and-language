@@ -9,13 +9,13 @@
   --cf-transition: all 0.2s ease;
 
   /* Light Theme Palette (Matches Premium Slate Style Rules) */
-  --cf-light-bg: #f8fafc;         /* Slate 50 Base Canvas[cite: 5] */
-  --cf-light-border: #e2e8f0;     /* Slate 200 Outer Rim[cite: 5] */
-  --cf-light-text: #475569;       /* Slate 600 Instructions Text[cite: 5] */
-  --cf-light-runway: #f1f5f9;     /* Slate 100 Inner Container[cite: 5] */
-  --cf-light-row-bg: #ffffff;     /* Pure White Active Items[cite: 5] */
-  --cf-light-row-border: #cbd5e1; /* Slate 300 Item Border[cite: 5] */
-  --cf-light-code: #0f172a;       /* Slate 900 Ultra-Dark Text Clarity[cite: 5] */
+  --cf-light-bg: #f8fafc;         /* Slate 50 Base Canvas */
+  --cf-light-border: #e2e8f0;     /* Slate 200 Outer Rim */
+  --cf-light-text: #475569;       /* Slate 600 Instructions Text */
+  --cf-light-runway: #f1f5f9;     /* Slate 100 Inner Container */
+  --cf-light-row-bg: #ffffff;     /* Pure White Active Items */
+  --cf-light-row-border: #cbd5e1; /* Slate 300 Item Border */
+  --cf-light-code: #0f172a;       /* Slate 900 Ultra-Dark Text Clarity */
 
   /* Dark Theme Structural Palette (Synchronized with Pastel Blue Ordering Layout) */
   --cf-dark-bg: #d8f1ff;          /* Soft Calming Pastel Sky/Ice Blue */
@@ -23,17 +23,17 @@
   --cf-dark-runway: #e0f2fe;      /* Softer Pastel Sky Runway Background */
 
   /* Validation Feedback System Tokens */
-  --cf-correct-bg: #dcfce7;       /* Green 100[cite: 5] */
-  --cf-correct-border: #22c55e;   /* Green 500[cite: 5] */
-  --cf-correct-text: #14532d;     /* Green 900[cite: 5] */
+  --cf-correct-bg: #dcfce7;       /* Green 100 */
+  --cf-correct-border: #22c55e;   /* Green 500 */
+  --cf-correct-text: #14532d;     /* Green 900 */
 
-  --cf-incorrect-bg: #fee2e2;     /* Red 100[cite: 5] */
-  --cf-incorrect-border: #ef4444; /* Red 500[cite: 5] */
-  --cf-incorrect-text: #7f1d1d;   /* Red 900[cite: 5] */
+  --cf-incorrect-bg: #fee2e2;     /* Red 100 */
+  --cf-incorrect-border: #ef4444; /* Red 500 */
+  --cf-incorrect-text: #7f1d1d;   /* Red 900 */
 
-  --cf-tier-mid-bg: #fef08a;      /* Yellow 100[cite: 5] */
-  --cf-tier-mid-border: #eab308;  /* Yellow 500[cite: 5] */
-  --cf-tier-mid-text: #713f12;    /* Yellow 900[cite: 5] */
+  --cf-tier-mid-bg: #fef08a;      /* Yellow 100 */
+  --cf-tier-mid-border: #eab308;  /* Yellow 500 */
+  --cf-tier-mid-text: #713f12;    /* Yellow 900 */
 }
 
 /* ==========================================================================
@@ -84,7 +84,7 @@
   font-family: "Consolas", "Courier New", Courier, monospace;
   font-size: 0.95rem;
   font-weight: 500;
-  color: var(--cf-light-code) !important; /* Forces override of hardcoded inline style sheets[cite: 5] */
+  color: var(--cf-light-code) !important; /* Forces override of hardcoded inline style sheets */
 }
 
 .classifying-indent-controls {
@@ -93,7 +93,7 @@
   align-items: center;
 }
 
-/* Select Dropdown styling[cite: 5] */
+/* Select Dropdown styling */
 .sorting-select {
   padding: 0.35rem 0.5rem;
   border-radius: var(--cf-radius-sm);
@@ -151,7 +151,7 @@
   transition: var(--cf-transition);
 }
 
-/* Primary Action: Check Button[cite: 5] */
+/* Primary Action: Check Button */
 .classifying-btn-score {
   background-color: #2563eb;
   color: #ffffff;
@@ -163,7 +163,7 @@
   border-color: #1d4ed8;
 }
 
-/* Secondary Action: Reset Button Layout Rules[cite: 5] */
+/* Secondary Action: Reset Button Layout Rules */
 .classifying-btn-reset {
   background-color: transparent;
   color: #475569;
@@ -188,7 +188,7 @@
   border-color: var(--cf-incorrect-border) !important;
 }
 
-/* Inline Checkmark and Cross Feedback Indicators[cite: 5] */
+/* Inline Checkmark and Cross Feedback Indicators */
 .classifying-line .classifying-code::after {
   font-weight: bold;
   margin-left: 0.75rem;

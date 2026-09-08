@@ -64,6 +64,7 @@ Relating verbs
 | The verb "has" is also used to express possession or attributes.
 
 | They are used for a variety of purposes including:
+
 - definition (is / is defined as)
 - naming (is called / is known as)
 - classification (is a type of / belongs to)
