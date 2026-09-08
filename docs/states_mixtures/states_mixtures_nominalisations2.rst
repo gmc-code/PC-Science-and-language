@@ -31,14 +31,14 @@ Examples
         :widths: 40 25 35
 
         * - Probe Question
-            - Identified Part
-            - Nominalised Form
+          - Identified Part
+          - Nominalised Form
         * - **What is happening?** (Process)
-            - melt
-            - **melting** (Noun)
+          - melt
+          - **melting** (Noun)
         * - **What?** (Participant)
-            - solids
-            - **of solids**
+          - solids
+          - **of solids**
 
     **Example Clause:** *Solids melt*
 

@@ -67,17 +67,17 @@ Summary Table
     :widths: 20 50 30
 
     * - Sentence Type
-        - Structure
-        - Science Example
+      - Structure
+      - Science Example
     * - **Simple**
-        - 1 Independent Clause
-        - The Earth rotates on its axis.
+      - 1 Independent Clause
+      - The Earth rotates on its axis.
     * - **Compound**
-        - Indep. + Indep.
-        - The sun rises **and** the plants grow.
+      - Indep. + Indep.
+      - The sun rises **and** the plants grow.
     * - **Complex**
-        - Indep. + Dep.
-        - The ice melted **because the heat increased.**
+      - Indep. + Dep.
+      - The ice melted **because the heat increased.**
     * - **Comp-Complex**
-        - 2+ Indep. + 1+ Dep.
-        - The plate sank **and** it melted **as it entered the mantle.**
+      - 2+ Indep. + 1+ Dep.
+      - The plate sank **and** it melted **as it entered the mantle.**

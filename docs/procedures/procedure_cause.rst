@@ -3,7 +3,7 @@ Procedures: Cause
 ======================================================
 
 Subordinate Conjunctions of Cause
--------------------------------
+------------------------------------
 
 *Used to highlight hazards or prevent equipment damage.*
 
@@ -328,6 +328,7 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
             .. grid:: 4
                 :gutter: 2
+
                 .. grid-item::
                     (A) Reason
                 .. grid-item::
@@ -340,6 +341,7 @@ the right one depends on whether you are writing a formal laboratory protocol, o
 
             .. grid:: 4
                 :gutter: 2
+
                 .. grid-item::
                     (A) Reason
                 .. grid-item::

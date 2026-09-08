@@ -51,7 +51,7 @@ Nominal Group
 
 .. list-table:: Nominal Group Functional Analysis
     :header-rows: 1
-    :widths: 10 15 15 15 15 15 15
+    :widths: 10 15 15 15
 
     * - Element
       - Word(s)
@@ -203,7 +203,7 @@ Identifying parts of a nominal group
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-                :class-container: dropdown-shortanswer
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 
@@ -237,7 +237,7 @@ Making nominal groups
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
-                :class-container: dropdown-shortanswer
+        :class-container: dropdown-shortanswer
 
         .. tab-set::
 

@@ -32,20 +32,20 @@ Examples
         :widths: 40 25 35
 
         * - Probe Question
-            - Identified Part
-            - Nominalised Form
+          - Identified Part
+          - Nominalised Form
         * - **What is happening?** (Process)
-            - centrifuges
-            - **centrifugation** (Noun)
+          - centrifuges
+          - **centrifugation** (Noun)
         * - **How?** (Manner)
-            - rapidly
-            - **rapid** (Adjective)
+          - rapidly
+          - **rapid** (Adjective)
         * - **To what?** (Participant)
-            - the blood
-            - **of blood**
+          - the blood
+          - **of blood**
         * - **By what?** (Actor)
-            - the machine
-            - **by the machine**
+          - the machine
+          - **by the machine**
 
     **Example Clause:** *The machine centrifuges the blood rapidly.*
 
