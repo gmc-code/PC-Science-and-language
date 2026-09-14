@@ -1,5 +1,5 @@
 ====================================
-7B: ELECTRIC CIRCUITS
+7B: Series and Parallel Circuits
 ====================================
 
 Summary of Key Concepts
