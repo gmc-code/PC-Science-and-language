@@ -15,10 +15,24 @@ PC-Science-and-language
 
     introduction/introduction.rst
 
+.. toctree::
+    :maxdepth: 2
+    :caption: 🤔 Summaries
+    :numbered:
+
+    summaries/Y8_ch6/6A.rst
+    summaries/Y8_ch6/6B.rst
+    summaries/Y8_ch6/6C.rst
+    summaries/Y8_ch6/6D.rst
+
+    summaries/Y8_ch7/7A.rst
+    summaries/Y8_ch7/7B.rst
+    summaries/Y8_ch7/7C.rst
+
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🌋 Energy
+    :caption: ⚡ Energy
     :numbered:
 
     physics/energy_quick_questions.rst
@@ -77,9 +91,6 @@ PC-Science-and-language
     states_mixtures/states_mixtures_nominalisations2.rst
     states_mixtures/states_mixtures_nominalisations3.rst
 
-    .. states_mixtures/states_mixtures_active_passive.rst
-
-
 
 .. toctree::
     :maxdepth: 2
@@ -134,9 +145,6 @@ PC-Science-and-language
     cause_and_effect/cause_and_effect_patterns.rst
     cause_and_effect/cause_and_effect_examples.rst
     cause_and_effect/cause_and_effect_questions.rst
-
-    .. language/complex_sentences.rst
-
 
 
 .. toctree::
@@ -254,10 +262,6 @@ PC-Science-and-language
 
     chemistry/PRO_Chemical_Changes.rst
     chemistry/PRO_Chemical_Changes_B.rst
-
-
-    .. chemistry/chemistry_PEEL.rst
-    .. chemistry/chemistry_themes.rst
 
 
 

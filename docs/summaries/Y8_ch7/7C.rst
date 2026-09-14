@@ -1,0 +1,46 @@
+====================================================
+7C APPLICATIONS OF ELECTRIC CIRCUITS
+====================================================
+
+Summary of Key Concepts
+----------------------------------------
+
+* A sensor is a device that detects changes in the environment and converts them into an electrical signal.
+* Proximity sensors can detect the presence, absence, or distance of an object without touching it.
+* Ultrasonic sensors emit high-frequency sound waves to measure the distance to obstacles in self-driving cars.
+* Infrared sensors emit a beam of light to detect nearby objects in security systems and automatic taps.
+* A thermistor is a temperature-sensitive resistor whose resistance changes when the temperature changes.
+* Central heating systems use thermistors to detect temperature changes and control heating or cooling.
+* A photoresistor is a light-sensitive resistor whose resistance changes based on the amount of light.
+* Street lights use photoresistors to turn the light on automatically when the environment gets dark.
+
+----
+
+Fill in the Blanks
+----------------------------------------
+
+.. cloze::
+
+   1. A @@sensor@@ is a device that detects changes in the environment and converts them into an @@electrical signal@@.
+   2. @@Proximity sensors@@ can detect the presence, absence, or @@distance@@ of an object without touching it.
+   3. @@Ultrasonic@@ sensors emit sound waves to measure distance, while @@infrared@@ sensors emit a light beam.
+   4. A @@thermistor@@ is a temperature-sensitive resistor whose @@resistance@@ changes when temperature changes.
+   5. A @@photoresistor@@ changes its resistance to turn street lights on automatically when it gets @@dark@@.
+
+----
+
+Matching Exercise
+----------------------------------------
+
+.. cloze::
+
+   1. @@Sensor@@ : A device that detects environment changes and sends an electrical signal.
+   2. @@Proximity Sensor@@ : Detects objects or distance without needing physical contact.
+   3. @@Ultrasonic Sensor@@ : Emits sound waves to measure obstacle distances in self-driving cars.
+   4. @@Infrared Sensor@@ : Emits light beams to detect objects in security systems and automatic taps.
+   5. @@Thermistor@@ : A temperature-sensitive resistor used in central heating systems.
+   6. @@Photoresistor@@ : A light-sensitive resistor used in automatic street lights.
+   7. @@Electric Circuit@@ : A complete pathway through which electric current can flow.
+
+
+

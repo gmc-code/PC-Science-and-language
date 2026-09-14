@@ -1,0 +1,48 @@
+================================================
+6C Waste Energy Worksheet
+================================================
+
+Summary of Key Concepts
+----------------------------------------
+
+* Energy by-products are secondary forms of energy produced during energy transfers or transformations.
+* Useful energy is output energy that is needed and used by us for a specific purpose.
+* Waste energy is output energy that is not useful to us, usually released as heat, sound, or light.
+* Input energy is the total amount of energy going into an energy transfer or transformation system.
+* Output energy is the total energy coming out of an energy transfer or transformation system.
+* Efficient means maximising useful output energy while creating the smallest possible amount of waste energy.
+* Conduction transfers thermal energy through direct contact between particles in a solid, liquid, or gas.
+* Convection transfers heat through the movement of liquids or gases, while radiation transfers heat via electromagnetic waves.
+
+----
+
+Section 2: Fill-in-the-Blanks
+----------------------------------------
+
+.. cloze::
+
+    1. Energy @@by-products@@ are secondary forms of energy produced during energy transfers or transformations.
+    2. @@Useful@@ energy is output energy that is needed and used by us for a specific purpose.
+    3. @@Waste energy@@ is output energy that is not useful to us, usually released as heat, sound, or light.
+    4. @@Input@@ energy is the total amount of energy going in, while @@output@@ energy is the total coming out.
+    5. @@Efficient@@ means maximising useful output energy while creating the smallest possible amount of @@waste@@.
+    6. @@Conduction@@ transfers thermal energy through direct contact between particles in a solid, liquid, or gas.
+    7. @@Convection@@ transfers heat through the movement of liquids or gases, while @@radiation@@ transfers heat via electromagnetic waves.
+
+----
+
+Section 3: Matching Exercise
+----------------------------------------
+
+.. cloze::
+
+    1. @@Input Energy@@: The total energy going into an energy transfer or transformation.
+    2. @@Waste Energy@@: Energy by-products or output energy that is NOT useful to us.
+    3. @@Conduction@@: Thermal energy transfer through direct contact between particles.
+    4. @@Convection@@: Heat transfer through the movement of liquids or gases.
+    5. @@Efficient@@: Maximising output energy with a minimum of waste energy.
+    6. @@Useful Energy@@: Output energy or by-products that ARE useful to us.
+    7. @@Radiation@@: Heat transfer through electromagnetic waves without direct contact.
+
+
+

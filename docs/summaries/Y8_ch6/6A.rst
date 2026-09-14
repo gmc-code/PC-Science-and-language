@@ -1,0 +1,56 @@
+================================================
+6A Forms of Energy
+================================================
+
+Summary of Key Concepts
+----------------------------------------
+
+* Energy is the ability to make changes, move objects, or do work.
+* Potential energy is stored energy that an object has due to its position or state.
+* Kinetic energy is the energy of a moving object.
+* Thermal energy is the energy of moving particles inside a hot object.
+* Chemical energy is stored in the bonds of food, fuel, and batteries.
+* Gravitational potential energy is stored when an object is raised high above the ground.
+* Elastic energy is stored when materials like springs or rubber bands are stretched or squeezed.
+* Sound energy moves through vibrating particles of air to reach our ears.
+
+----
+
+Section 2: Fill-in-the-Blanks
+----------------------------------------
+
+.. cloze::
+
+    1. Potential energy is @@stored@@ energy that an object has due to its @@position@@ or state.
+    2. @@Kinetic@@ energy is the energy of a @@moving@@ object.
+    3. @@Chemical@@ energy is stored in the bonds of @@food@@, fuel, and batteries.
+    4. Gravitational potential energy is stored when an object is @@raised@@ high above the @@ground@@.
+    5. @@Sound@@ energy moves through @@vibrating@@ particles of air to reach our ears.
+
+----
+
+Section 3: Matching Exercise
+----------------------------------------
+
+.. cloze::
+
+    1. @@Elastic@@ Energy: Energy stored in stretched rubber bands or compressed springs.
+    2. @@Gravitational@@ Energy: Stored energy an object has when raised high off the ground.
+    3. @@Chemical@@ Energy: Energy stored in the bonds of food, fuel, and batteries.
+    4. @@Nuclear@@ Energy: Energy released when atoms are combined or split apart.
+    5. @@Potential@@ Energy: Stored energy an object has due to its position or state.
+
+.. cloze::
+
+    1. @@Thermal@@ Energy: Energy of moving particles inside a hot object (heat).
+    2. @@Electrical@@ Energy: Energy carried by moving charged particles powering devices.
+    3. @@Light@@ Energy: Form of energy that can travel at high speed through space without particles.
+    4. @@Sound@@ Energy: Energy that moves through vibrating particles of air to reach our ears.
+    5. @@Kinetic@@ Energy: Energy of a moving object.
+    6. @@Mechanical@@ Energy: Energy of moving parts in machines or objects.
+    7. @@Radiant@@ Energy: Energy that travels in waves, such as light or heat.
+
+
+
+
+

@@ -1,0 +1,44 @@
+====================================
+7A: ELECTRIC CIRCUITS
+====================================
+
+Summary of Key Concepts
+----------------------------------------
+
+* A series circuit has a single pathway for electric current to flow through all components.
+* A parallel circuit branches into multiple pathways so each component has its own separate loop.
+* Turning off a switch in a series circuit stops current flowing to all light bulbs.
+* In a parallel circuit turning off one branch allows electricity to keep flowing through the other branches.
+* The current is the same everywhere in a series circuit but the total voltage is shared between components.
+* In a parallel circuit the voltage drop across each branch is equal to the voltage supplied by the battery.
+* Modern houses use parallel circuits so that household appliances can operate independently of each other.
+* Circuit breakers automatically shut off electrical power during a short circuit to prevent fires and electric shock.
+
+----
+
+Fill in the Blanks
+----------------------------------------
+
+.. cloze::
+
+    1. A @@series@@ circuit has a single @@pathway@@ for electric current to flow through all components.
+    2. A @@parallel@@ circuit branches into multiple @@pathways@@ so each component has its own separate loop.
+    3. Turning off a @@switch@@ in a series circuit stops @@current@@ flowing to all light bulbs.
+    4. Modern houses use parallel circuits so that household appliances can operate @@independently@@ of each other.
+    5. @@Circuit breakers@@ automatically shut off electrical power during a @@short circuit@@ to prevent fires and electric shock.
+
+
+----
+
+Matching Exercise
+----------------------------------------
+
+.. cloze::
+
+    1. @@Series Circuit@@ : An electrical circuit with a single continuous pathway for electricity.
+    2. @@Parallel Circuit@@ : An electrical circuit that branches into multiple separate pathways.
+    3. @@Current@@ : The flow of electric charge through an electric circuit.
+    4. @@Voltage@@ : The electrical push or potential energy per charge provided by a battery.
+    5. @@Circuit Breaker@@ : A safety device that turns off power during a short circuit.
+    6. @@Short Circuit@@ : An unintended low-resistance path that causes excessive electrical current.
+    Would you like me to adjust any of the target keywords or add specific options for the RST directive rendering?

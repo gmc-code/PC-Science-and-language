@@ -1,0 +1,44 @@
+================================================
+6B Energy Transfers & Transformations
+================================================
+
+Summary of Key Concepts
+----------------------------------------
+
+* The law of conservation of energy states that energy cannot be created or destroyed.
+* During an energy transfer, energy moves from one object to another in the same form.
+* During an energy transformation, energy changes from one form to another inside an object.
+* Flow diagrams use arrows to show input energy changing into output energy.
+* In a hairdryer, electrical energy is transformed into heat, kinetic, and sound energy.
+* In a mobile phone, chemical energy from the battery is transformed into electrical energy.
+* Sankey diagrams visually show the amount of useful energy and wasted energy in a system.
+* Total input energy entering a system is always equal to the total output energy coming out.
+
+----
+
+Section 2: Fill-in-the-Blanks
+----------------------------------------
+
+.. cloze::
+
+    1. The law of conservation of energy states that energy cannot be @@created@@ or @@destroyed@@.
+    2. During an energy @@transfer@@, energy @@moves@@ from one object to another in the same form.
+    3. During an energy @@transformation@@, energy @@changes@@ from one form to another inside an object.
+    4. Flow diagrams use @@arrows@@ to show input energy changing into @@output@@ energy.
+    5. @@Sankey@@ diagrams visually show the amount of useful energy and @@wasted@@ energy in a system.
+
+----
+
+Section 3: Matching Exercise
+----------------------------------------
+
+.. cloze::
+
+    1. @@Energy Transfer@@: Movement of energy from one object to another in the same form.
+    2. @@Energy Transformation@@: Change of energy from one form to a different form.
+    3. @@Input Energy@@: The starting energy put into a system or object.
+    4. @@Output Energy@@: The energy coming out of a transfer or transformation process.
+    5. @@Waste Energy@@: Energy that is changed into unwanted forms like excess heat or sound.
+    6. @@Sankey Diagram@@: Diagram that shows input, useful output, and wasted energy flows.
+
+

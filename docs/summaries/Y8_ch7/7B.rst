@@ -1,0 +1,44 @@
+====================================
+7B: ELECTRIC CIRCUITS
+====================================
+
+Summary of Key Concepts
+----------------------------------------
+
+* Electricity needs a closed circuit with an unbroken path to flow.
+* A conductor is a material that allows electric current to flow through it easily.
+* The simplest electric circuit contains a power supply, connecting wires, and a load.
+* A power supply like a battery provides the voltage and current for a circuit.
+* Voltage is the electrical push that moves energy, and it is measured in volts using a voltmeter.
+* Current is the flow of electric charge, and it is measured in amps using an ammeter.
+* Resistance opposes or slows down the flow of electric current in a circuit.
+* Opening a switch breaks the circuit loop and causes all electrical current to stop.
+
+----
+
+Fill in the Blanks
+----------------------------------------
+
+.. cloze::
+
+   1. Electricity needs a @@closed@@ circuit with an unbroken @@path@@ to flow.
+   2. A @@conductor@@ is a material that allows electric @@current@@ to flow through it easily.
+   3. A power supply like a @@battery@@ provides the voltage and current for a circuit.
+   4. Voltage is measured in @@volts@@ using a device called a @@voltmeter@@.
+   5. @@Resistance@@ is a measure that @@opposes@@ or slows down electric current.
+
+----
+
+Matching Activity
+----------------------------------------
+
+.. cloze::
+
+   1. @@Voltmeter@@ : A device connected in parallel to measure voltage in Volts.
+   2. @@Ammeter@@ : A device connected in series to measure current in Amps.
+   3. @@Resistor@@ : A safety device or component used to reduce current flow.
+   4. @@Load@@ : A component that transforms electrical energy into light or heat.
+   5. @@Open Switch@@ : Breaks the circuit loop and causes electricity to stop flowing.
+   6. @@Multimeter@@ : A tool that can measure voltage, current, and resistance.
+
+

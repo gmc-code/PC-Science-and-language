@@ -1,0 +1,46 @@
+============================================
+6D: Everyday Energy Efficiency
+============================================
+
+Summary of Key Concepts
+----------------------------------------
+
+* Energy star rating labels show how energy efficient an appliance is compared to other models.
+* Yearly energy consumption is measured in kilowatt-hours and shows total electricity used per year.
+* Household power is the rate of energy transformed by an electrical device and is measured in watts.
+* Running costs of appliances can be calculated by multiplying energy used by the electricity unit cost.
+* Modern appliances use newer technologies and better insulation to reduce wasted energy.
+* Passive solar building design uses sunlight and natural air movement to warm and cool homes.
+* Thermal mass materials like concrete and mudbrick absorb heat during the day and release it slowly.
+* Conducting a household energy audit helps identify areas where energy waste can be reduced.
+
+----
+
+Section B: Fill-in-the-Blanks
+----------------------------------------
+
+.. cloze::
+
+   1. Energy star rating labels show how @@energy efficient@@ an appliance is, while consumption is measured in @@kilowatt-hours@@.
+   2. Household @@power@@ is the rate of energy transformed by an electrical device and is measured in @@watts@@.
+   3. @@running costs@@ of appliances can be calculated by multiplying energy used by the electricity @@unit cost@@.
+   4. Modern appliances use @@insulation@@ to trap heat, while @@passive solar@@ design uses natural sunlight for temperature control.
+   5. @@thermal mass@@ materials absorb heat slowly, and conducting an @@energy audit@@ helps reduce household energy waste.
+
+----
+
+Section C: Matching Exercise
+----------------------------------------
+
+.. cloze::
+
+   * @@Energy Audit@@ -> An official inspection of a home to check energy usage and reduce waste.
+   * @@Thermal Mass@@ -> Materials like concrete or brick that absorb, store, and release heat energy slowly.
+   * @@Passive Solar Design@@ -> Building design using natural climate and sunlight to heat/cool without power.
+   * @@Insulation@@ -> Material used to trap air and prevent unwanted heat loss or gain.
+   * @@Running Cost@@ -> The total amount of money spent to operate an electrical appliance over time.
+   * @@Power@@ -> The rate at which energy is transformed or used by a device, measured in watts.
+   * @@Kilowatt-hour (kWh)@@ -> The unit of energy used to measure home electricity consumption over time.
+   * @@Energy Star Rating@@ -> Label showing how efficient an appliance is compared to similar models.
+
+
