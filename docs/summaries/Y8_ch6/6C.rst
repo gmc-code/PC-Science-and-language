@@ -40,7 +40,7 @@ Fill-in-the-Blanks 2
 
 .. cloze::
 
-    1. @@Convection transfers heat through the @@movement@@ of liquids or gases, while radiation transfers heat via electromagnetic waves.
+    1. @@Convection@@ transfers heat through the @@movement@@ of liquids or gases.
     2. @@Efficient@@ means maximising useful output energy while creating the smallest possible amount of @@waste@@ energy.
     3. @@Conduction@@ transfers thermal energy through direct @@contact@@ between particles in a solid, liquid, or gas.
 
