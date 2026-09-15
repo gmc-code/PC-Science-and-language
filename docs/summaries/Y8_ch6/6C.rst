@@ -2,7 +2,7 @@
 6C Waste Energy Worksheet
 ================================================
 
-Summary of Key Concepts
+Summary of Key Concepts 1
 ----------------------------------------
 
 * Energy by-products are secondary forms of energy produced during energy transfers or transformations.
@@ -10,28 +10,44 @@ Summary of Key Concepts
 * Waste energy is output energy that is not useful to us, usually released as heat, sound, or light.
 * Input energy is the total amount of energy going into an energy transfer or transformation system.
 * Output energy is the total energy coming out of an energy transfer or transformation system.
-* Efficient means maximising useful output energy while creating the smallest possible amount of waste energy.
-* Conduction transfers thermal energy through direct contact between particles in a solid, liquid, or gas.
-* Convection transfers heat through the movement of liquids or gases, while radiation transfers heat via electromagnetic waves.
+
 
 ----
 
-Section 2: Fill-in-the-Blanks
+Fill-in-the-Blanks 1
 ----------------------------------------
 
 .. cloze::
 
     1. Energy @@by-products@@ are secondary forms of energy produced during energy transfers or transformations.
     2. @@Useful@@ energy is output energy that is needed and used by us for a specific purpose.
-    3. @@Waste energy@@ is output energy that is not useful to us, usually released as heat, sound, or light.
-    4. @@Input@@ energy is the total amount of energy going in, while @@output@@ energy is the total coming out.
-    5. @@Efficient@@ means maximising useful output energy while creating the smallest possible amount of @@waste@@.
-    6. @@Conduction@@ transfers thermal energy through direct contact between particles in a solid, liquid, or gas.
-    7. @@Convection@@ transfers heat through the movement of liquids or gases, while @@radiation@@ transfers heat via electromagnetic waves.
+    3. @@Input@@ energy is the total amount of energy going in, while @@output@@ energy is the total coming out.
+    4. @@Waste energy@@ is output energy that is not useful to us, usually released as heat, sound, or light.
 
 ----
 
-Section 3: Matching Exercise
+Summary of Key Concepts 2
+----------------------------------------
+
+* Efficient means maximising useful output energy while creating the smallest possible amount of waste energy.
+* Conduction transfers thermal energy through direct contact between particles in a solid, liquid, or gas.
+* Convection transfers heat through the movement of liquids or gases, while radiation transfers heat via electromagnetic waves.
+
+----
+
+Fill-in-the-Blanks 2
+----------------------------------------
+
+.. cloze::
+
+    1. @@Convection transfers heat through the @@movement@@ of liquids or gases, while radiation transfers heat via electromagnetic waves.
+    2. @@Efficient@@ means maximising useful output energy while creating the smallest possible amount of @@waste@@ energy.
+    3. @@Conduction@@ transfers thermal energy through direct @@contact@@ between particles in a solid, liquid, or gas.
+
+
+----
+
+Matching Exercise 3
 ----------------------------------------
 
 .. cloze::
