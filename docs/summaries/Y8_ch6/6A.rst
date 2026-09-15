@@ -2,12 +2,30 @@
 6A Forms of Energy
 ================================================
 
-Summary of Key Concepts
+Summary of Key Concepts 1
 ----------------------------------------
 
 * Energy is the ability to make changes, move objects, or do work.
 * Potential energy is stored energy that an object has due to its position or state.
 * Kinetic energy is the energy of a moving object.
+
+----
+
+Fill-in-the-Blanks 1
+----------------------------------------
+
+.. cloze::
+
+    1. @@Kinetic@@ energy is the energy of a moving object.
+    2. Energy is the ability to make changes, move objects, or @@do work@@.
+    3. @@Potential@@ energy is stored energy that an object has due to its position or state.
+
+----
+
+
+Summary of Key Concepts 2
+----------------------------------------
+
 * Thermal energy is the energy of moving particles inside a hot object.
 * Chemical energy is stored in the bonds of food, fuel, and batteries.
 * Gravitational potential energy is stored when an object is raised high above the ground.
@@ -16,20 +34,20 @@ Summary of Key Concepts
 
 ----
 
-Section 2: Fill-in-the-Blanks
+Fill-in-the-Blanks 2
 ----------------------------------------
 
 .. cloze::
 
-    1. Potential energy is @@stored@@ energy that an object has due to its @@position@@ or state.
-    2. @@Kinetic@@ energy is the energy of a @@moving@@ object.
-    3. @@Chemical@@ energy is stored in the bonds of @@food@@, fuel, and batteries.
+    1. @@Thermal@@ energy is the energy of moving particles inside a @@hot@@ object.
+    2. @@Elastic@@ energy is stored when materials like springs or rubber bands are @@stretched@@ or squeezed.
+    3. @@Chemical@@ energy is stored in the @@bonds@@ of food, fuel, and batteries.
     4. Gravitational potential energy is stored when an object is @@raised@@ high above the @@ground@@.
     5. @@Sound@@ energy moves through @@vibrating@@ particles of air to reach our ears.
 
 ----
 
-Section 3: Matching Exercise
+Matching Exercise
 ----------------------------------------
 
 .. cloze::

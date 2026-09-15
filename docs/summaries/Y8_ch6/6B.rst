@@ -2,12 +2,29 @@
 6B Energy Transfers & Transformations
 ================================================
 
-Summary of Key Concepts
+Summary of Key Concepts 1
 ----------------------------------------
 
-* The law of conservation of energy states that energy cannot be created or destroyed.
+* The law of conservation of energy states that energy cannot be created nor destroyed.
 * During an energy transfer, energy moves from one object to another in the same form.
 * During an energy transformation, energy changes from one form to another inside an object.
+
+----
+
+Fill-in-the-Blanks 1
+----------------------------------------
+
+.. cloze::
+
+    1. During an energy @@transformation@@, energy @@changes@@ from one form to another inside an object.
+    2. The law of @@conservation@@ of energy states that energy cannot be @@created@@ nor destroyed.
+    3. During an energy @@transfer@@, energy @@moves@@ from one object to another in the same form.
+
+----
+
+Summary of Key Concepts 2
+----------------------------------------
+
 * Flow diagrams use arrows to show input energy changing into output energy.
 * In a hairdryer, electrical energy is transformed into heat, kinetic, and sound energy.
 * In a mobile phone, chemical energy from the battery is transformed into electrical energy.
@@ -16,20 +33,21 @@ Summary of Key Concepts
 
 ----
 
-Section 2: Fill-in-the-Blanks
+Fill-in-the-Blanks 2
 ----------------------------------------
 
 .. cloze::
 
-    1. The law of conservation of energy states that energy cannot be @@created@@ or @@destroyed@@.
-    2. During an energy @@transfer@@, energy @@moves@@ from one object to another in the same form.
-    3. During an energy @@transformation@@, energy @@changes@@ from one form to another inside an object.
-    4. Flow diagrams use @@arrows@@ to show input energy changing into @@output@@ energy.
+    1. Total @@input@@ energy entering a system is always equal to the @@total@@ output energy coming out.
+    2. @@Flow@@ diagrams use @@arrows@@ to show input energy changing into output energy.
+    3. In a hairdryer, electrical energy is @@transformed@@ into heat, kinetic, and sound energy.
+    4. In a mobile phone, chemical energy from the battery is @@transformed@@ into electrical energy.
     5. @@Sankey@@ diagrams visually show the amount of useful energy and @@wasted@@ energy in a system.
+
 
 ----
 
-Section 3: Matching Exercise
+Matching Exercise
 ----------------------------------------
 
 .. cloze::
