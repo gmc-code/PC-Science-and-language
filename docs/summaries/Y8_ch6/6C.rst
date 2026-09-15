@@ -6,10 +6,10 @@ Summary of Key Concepts 1
 ----------------------------------------
 
 * Energy by-products are secondary forms of energy produced during energy transfers or transformations.
-* Useful energy is output energy that is needed and used by us for a specific purpose.
-* Waste energy is output energy that is not useful to us, usually released as heat, sound, or light.
 * Input energy is the total amount of energy going into an energy transfer or transformation system.
 * Output energy is the total energy coming out of an energy transfer or transformation system.
+* Useful energy is output energy that is needed and used by us for a specific purpose.
+* Waste energy is output energy that is not useful to us, usually released as heat, sound, or light.
 
 
 ----
