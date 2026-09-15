@@ -19,10 +19,10 @@ Fill-in-the-Blanks 1
 
 .. cloze::
 
-    1. Energy @@by-products@@ are secondary forms of energy produced during energy transfers or transformations.
+    1. Energy @@by-products@@ are secondary forms of energy produced during energy @@transfers@@ or transformations.
     2. @@Useful@@ energy is output energy that is needed and used by us for a specific purpose.
     3. @@Input@@ energy is the total amount of energy going in, while @@output@@ energy is the total coming out.
-    4. @@Waste energy@@ is output energy that is not useful to us, usually released as heat, sound, or light.
+    4. @@Waste energy@@ is output energy that is not useful to us, usually released as @@heat@@, sound, or light.
 
 ----
 
