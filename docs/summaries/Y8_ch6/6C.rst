@@ -47,7 +47,7 @@ Fill-in-the-Blanks 2
 
 ----
 
-Matching Exercise 3
+Matching Exercise
 ----------------------------------------
 
 .. cloze::
