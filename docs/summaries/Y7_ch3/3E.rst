@@ -11,11 +11,11 @@ Ecological Concepts and Definitions
 
 * **Key Terms:**
 
-    * **Species**: A group of closely related organisms capable of interbreeding.
-    * **Native Species**: Organisms that occur naturally in a specific ecological region.
-    * **Introduced Species**: Organisms transported beyond their natural geographical boundary by human activity.
-    * **Invasive Species**: An introduced species that spreads rapidly and causes harm to native species or ecosystems.
-    * **Eradication**: The complete removal or destruction of a target species from an area.
+  * **Species**: A group of closely related organisms capable of interbreeding.
+  * **Native Species**: Organisms that occur naturally in a specific ecological region.
+  * **Introduced Species**: Organisms transported beyond their natural geographical boundary by human activity.
+  * **Invasive Species**: An introduced species that spreads rapidly and causes harm to native species or ecosystems.
+  * **Eradication**: The complete removal or destruction of a target species from an area.
 
 .. cloze::
 
@@ -34,9 +34,9 @@ Mechanisms of Introduction and Ecological Impact
 
 * **Key Terms:**
 
-    * **Biological Control**: The intentional release of a natural enemy or pathogen to manage a pest population.
-    * **Trophic Level**: The position an organism occupies in a food chain or food web.
-    * **Resource Competition**: The struggle between organisms for shared, limited resources such as food, shelter, or territory.
+  * **Biological Control**: The intentional release of a natural enemy or pathogen to manage a pest population.
+  * **Trophic Level**: The position an organism occupies in a food chain or food web.
+  * **Resource Competition**: The struggle between organisms for shared, limited resources such as food, shelter, or territory.
 
 .. cloze::
 

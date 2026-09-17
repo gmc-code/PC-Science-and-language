@@ -5,16 +5,16 @@
 How Classification Changed Over Time
 ====================================================================
 
-* Early scientists grouped living things based only on what they could see with their eyes[cite: 4].
-* The invention of the microscope allowed scientists to see tiny organisms and micro-structures for the first time[cite: 4].
-* Aristotle was one of the first people to group organisms using systematic observation[cite: 4].
-* Carl Linnaeus later created a formal system for naming and ordering species using binomial nomenclature[cite: 4].
+* Early scientists grouped living things based only on what they could see with their eyes.
+* The invention of the microscope allowed scientists to see tiny organisms and micro-structures for the first time.
+* Aristotle was one of the first people to group organisms using systematic observation.
+* Carl Linnaeus later created a formal system for naming and ordering species using binomial nomenclature.
 
 * **Key Terms:**
 
-    * **Taxonomy**: The scientific study of how living things are classified.
-    * **Microscope**: A tool used to make small objects look larger.
-    * **Binomial Nomenclature**: A two-word naming system for organisms.
+  * **Taxonomy**: The scientific study of how living things are classified.
+  * **Microscope**: A tool used to make small objects look larger.
+  * **Binomial Nomenclature**: A two-word naming system for organisms.
 
 .. cloze::
 
@@ -26,16 +26,16 @@ How Classification Changed Over Time
 The Five Kingdoms of Life
 ==================================
 
-* Scientists expanded the classification system into five distinct kingdoms as technology improved[cite: 4].
-* Kingdom Animalia includes multicellular organisms that eat other living things for energy[cite: 4].
-* Kingdom Plantae consists of green plants that make their own food through photosynthesis[cite: 4].
-* Fungi absorb nutrients from decaying organic matter, while Monera includes tiny single-celled organisms like bacteria[cite: 4].
+* Scientists expanded the classification system into five distinct kingdoms as technology improved.
+* Kingdom Animalia includes multicellular organisms that eat other living things for energy.
+* Kingdom Plantae consists of green plants that make their own food through photosynthesis.
+* Fungi absorb nutrients from decaying organic matter, while Monera includes tiny single-celled organisms like bacteria.
 
 * **Key Terms:**
 
-    * **Autotroph**: An organism that makes its own food.
-    * **Heterotroph**: An organism that consumes other living things for energy.
-    * **Prokaryote**: A microscopic single-celled organism without a nucleus.
+  * **Autotroph**: An organism that makes its own food.
+  * **Heterotroph**: An organism that consumes other living things for energy.
+  * **Prokaryote**: A microscopic single-celled organism without a nucleus.
 
 .. cloze::
 
@@ -47,14 +47,14 @@ The Five Kingdoms of Life
 Modern Domains and Grammar Skills
 ==================================
 
-* Scientists added three higher categories called domains after studying cell genetics[cite: 4].
+* Scientists added three higher categories called domains after studying cell genetics.
 * Nominalisation turns everyday action verbs into scientific nouns to make writing clearer.
 * Transforming words like "classify" into "classification" builds formal scientific language.
 
 * **Key Terms:**
 
-    * **Domain**: The highest rank of biological classification above kingdom.
-    * **Nominalisation**: The process of changing verbs or adjectives into nouns.
+  * **Domain**: The highest rank of biological classification above kingdom.
+  * **Nominalisation**: The process of changing verbs or adjectives into nouns.
 
 .. cloze::
 

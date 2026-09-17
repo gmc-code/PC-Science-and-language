@@ -30,7 +30,7 @@ Energy Transfer and Trophic Pyramids
 * Approximately 10% of the energy from one organism is passed on to the consumer in the next trophic level.
 * Trophic pyramids visually represent this energy reduction, showing why ecosystems support fewer individuals at higher trophic levels.
 
-* **Key Terms:*
+* **Key Terms:**
 
   * **Trophic Pyramid**: A diagram showing the decrease in available energy at each progressive trophic level.
   * **Primary Consumer**: An organism that feeds directly on producers (herbivore).

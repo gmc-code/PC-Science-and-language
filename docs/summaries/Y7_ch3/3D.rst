@@ -22,7 +22,7 @@ The Importance of Plants in Ecosystems
 ----
 
 Seasonal Patterns and Population Fluctuations
-============================================
+=================================================
 
 * Seasonal shifts in abiotic factors (such as temperature and water availability) trigger distinct survival behaviors in organisms, causing regular fluctuations in population sizes.
 * Organisms adapt to seasonal variations through migration, reproductive timing, and metabolic dormancy.
