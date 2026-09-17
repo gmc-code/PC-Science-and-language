@@ -11,6 +11,7 @@ Ecosystems and Environmental Factors
 * Abiotic factors are the non-living physical components, such as sunlight, temperature, water, oxygen, and shelter.
 
 * **Key Terms:**
+
   * **Organism**: An individual living thing.
   * **Ecosystem**: An environment where living organisms interact with each other and non-living elements.
   * **Biotic Factor**: Any living organism or biological feature within an ecosystem.

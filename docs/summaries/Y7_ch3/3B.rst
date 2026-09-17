@@ -10,6 +10,7 @@ Understanding Food Chains
 * Each sequential step in a food chain represents a trophic level, moving from producers to primary, secondary, and tertiary consumers up to the apex predator.
 
 * **Key Terms:**
+
   * **Food Chain**: A single sequence showing how energy passes from one organism to another through feeding.
   * **Producer**: An autotroph that converts sunlight into chemical energy/food.
   * **Apex Predator**: An animal at the top of a food chain with no natural predators.
@@ -52,6 +53,7 @@ Food Webs and Ecosystem Dynamics
 * Disruptions to keystone species can trigger a trophic cascade, shifting the balance of predators, prey, and producers.
 
 * **Key Terms:**
+
   * **Food Web**: A complex network of interconnected food chains showing multiple energy pathways.
   * **Biodiverse**: Containing a wide variety of different living organisms within an ecosystem.
   * **Keystone Species**: A species that has an unusually large effect on the balance and health of its ecosystem.
@@ -78,3 +80,5 @@ Matching Exercise
     6. @@Keystone Species@@: An essential species required to keep an ecosystem balanced
     7. @@Trophic Cascade@@: Ecological disruptions triggered across levels when key species change
     8. @@Biodiverse@@: Having a wide variety of biological organisms in an ecosystem
+
+
