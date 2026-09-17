@@ -1,0 +1,80 @@
+===============================
+3B Food Chains and Food Webs
+===============================
+
+Understanding Food Chains
+=========================
+
+* A food chain is a model that shows a sequence of who-eats-who, representing a single pathway of energy flow in an ecosystem.
+* Every food chain begins with a producer (autotroph) that captures light energy from the Sun to make sugar.
+* Each sequential step in a food chain represents a trophic level, moving from producers to primary, secondary, and tertiary consumers up to the apex predator.
+
+* **Key Terms:**
+  * **Food Chain**: A single sequence showing how energy passes from one organism to another through feeding.
+  * **Producer**: An autotroph that converts sunlight into chemical energy/food.
+  * **Apex Predator**: An animal at the top of a food chain with no natural predators.
+  * **Trophic Level**: The specific step or position an organism occupies in a food sequence.
+
+.. cloze::
+
+    1. Energy enters a food chain when a @@producer@@ uses sunlight to produce sugar.
+    2. The arrows in a food chain point in the direction of energy @@flow@@.
+    3. An animal at the very end of a food chain that has no natural predators is an @@apex predator@@.
+
+----
+
+Energy Transfer and Trophic Pyramids
+====================================
+
+* As energy moves up through trophic levels, significant energy is used for biological processes or lost as heat and waste.
+* Approximately 10% of the energy from one organism is passed on to the consumer in the next trophic level.
+* Trophic pyramids visually represent this energy reduction, showing why ecosystems support fewer individuals at higher trophic levels.
+
+* **Key Terms:*
+
+  * **Trophic Pyramid**: A diagram showing the decrease in available energy at each progressive trophic level.
+  * **Primary Consumer**: An organism that feeds directly on producers (herbivore).
+  * **Secondary Consumer**: An organism that feeds on primary consumers.
+
+.. cloze::
+
+    1. Only about @@10%@@ of energy is transferred from one trophic level to the next.
+    2. Organisms lose energy through life processes such as growth, movement, and @@waste@@.
+    3. Higher trophic levels support a smaller @@population@@ of animals due to energy loss.
+
+----
+
+Food Webs and Ecosystem Dynamics
+================================
+
+* Food webs combine multiple interconnected food chains to model the complex feeding relationships within a biodiverse ecosystem.
+* A keystone species plays a critical role in maintaining ecosystem stability; altering its population causes widespread impacts across trophic levels.
+* Disruptions to keystone species can trigger a trophic cascade, shifting the balance of predators, prey, and producers.
+
+* **Key Terms:**
+  * **Food Web**: A complex network of interconnected food chains showing multiple energy pathways.
+  * **Biodiverse**: Containing a wide variety of different living organisms within an ecosystem.
+  * **Keystone Species**: A species that has an unusually large effect on the balance and health of its ecosystem.
+  * **Trophic Cascade**: Side-effect events that ripple through all trophic levels when a top organism is added or removed.
+
+.. cloze::
+
+    1. A complex diagram showing interconnected feeding pathways is a @@food web@@.
+    2. Changing the population of a @@keystone species@@ can dramatically alter the entire ecosystem.
+    3. The side-effects that ripple through all trophic levels when top predators change is called a @@trophic cascade@@.
+
+----
+
+Matching Exercise
+=================
+
+.. cloze::
+
+    1. @@Food Chain@@: A single, linear pathway showing energy transfer between organisms
+    2. @@Producer@@: An autotrophic organism that creates food from solar energy
+    3. @@Trophic Level@@: The step or position an organism occupies in a feeding pathway
+    4. @@Apex Predator@@: Top carnivore with no natural predators in its environment
+    5. @@Food Web@@: A network of overlapping food chains showing ecosystem complexity
+    6. @@Keystone Species@@: An essential species required to keep an ecosystem balanced
+    7. @@Trophic Cascade@@: Ecological disruptions triggered across levels when key species change
+    8. @@Biodiverse@@: Having a wide variety of biological organisms in an ecosystem

@@ -1,0 +1,89 @@
+======================================
+2B How Biologists Classify Organisms
+======================================
+
+The Criteria for Life
+==================================
+
+* **Living** things must satisfy all seven life processes known as **MRS GREN**.
+* **Movement** means moving parts, **respiration** releases energy, and **sensitivity** detects changes.
+* **Growth** increases size, **reproduction** creates offspring, **excretion** removes waste, and **nutrients** come from food.
+* **Non-living** objects never meet all seven criteria, whereas **dead** organisms met them in the past.
+
+* **Key Terms:**
+
+  * **MRS GREN**: The seven essential life processes of living things.
+  * **Respiration**: The cellular process releasing usable energy.
+  * **Sensitivity**: The ability to detect and respond to changes.
+  * **Non-living**: Objects that have never met the criteria for life.
+  * **Dead**: Organisms that once met all life processes but do not anymore.
+
+
+.. cloze::
+
+   1. Organisms must meet seven life processes called @@MRS GREN@@ to be recognized as @@living@@.
+   2. @@Movement@@ shifts body parts, while @@respiration@@ releases usable energy within cells.
+   3. @@Growth@@ increases body size, while @@nutrients@@ provide essential food materials.
+   4. Objects that are @@non-living@@ never had life, unlike @@dead@@ organisms that lived previously.
+
+----
+
+Linnaean Classification and Naming
+===================================================
+
+* **Classification** organizes living things into seven levels, moving from a broad **kingdom** down to a specific **species**.
+* Every organism receives a two-part **binomial name** using its **genus** and **species** written in italics.
+* The **genus** is capitalized first, and the **species** follows in lowercase to form the unique scientific name.
+
+* **Key Terms:**
+
+  * **Classification**: Organizing living things into hierarchical categories.
+  * **Kingdom**: The broadest major level in biological classification.
+  * **Binomial Name**: A unique two-part scientific name for an organism.
+  * **Genus**: A rank grouping closely related species together.
+  * **Species**: The specific classification level for an individual organism.
+
+
+.. cloze::
+
+   1. Scientific names use a @@binomial name@@ format containing the @@genus@@ and species.
+   2. Broad ranks start at the @@kingdom@@ level and narrow down to a single @@species@@.
+   3. The @@genus@@ is capitalized first, while the @@species@@ is written in lowercase.
+   4. Biological @@classification@@ groups organisms based on shared traits across each @@kingdom@@.
+
+----
+
+Relatedness and Common Ancestors
+===================================================
+
+* Organisms sharing more classification levels are more closely related and share a recent **common ancestor**.
+* Shared physical traits, internal structures, and behaviors reveal evolutionary **relatedness** between different animals.
+* For example, humans share a closer **common ancestor** with bonobos than with kangaroos.
+
+* **Key Terms:**
+
+  * **Relatedness**: How closely connected two species are by evolution.
+  * **Common Ancestor**: An earlier organism from which distinct species evolved.
+  * **Traits**: Physical or behavioral characteristics used to group organisms.
+
+.. cloze::
+
+   1. Shared physical traits and behaviors reveal evolutionary @@relatedness@@ between different @@species@@.
+   2. Humans share a recent @@common ancestor@@ with bonobos rather than @@kangaroos@@.
+   3. Closely related organisms share a recent @@common ancestor@@ that shows their genetic @@relatedness@@.
+
+----
+
+Matching Exercise
+==================================
+
+.. cloze::
+
+   1. @@MRS GREN@@ = Mnemonic for the seven criteria of life: Movement, Respiration, Sensitivity, Growth, Reproduction, Excretion, Nutrients.
+   2. @@Respiration@@ = The cellular process that breaks down food to release usable energy.
+   3. @@Sensitivity@@ = The ability of an organism to detect and respond to environmental changes.
+   4. @@Binomial name@@ = A unique two-part scientific name consisting of an organism's genus and species.
+   5. @@Kingdom@@ = The broadest rank in the Linnaean classification system.
+   6. @@Species@@ = The most specific classification level identifying a single unique organism.
+   7. @@Genus@@ = A group of closely related species sharing similar structural traits.
+   8. @@Common ancestor@@ = An ancestral organism from which two or more species evolved.

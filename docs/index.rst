@@ -15,9 +15,27 @@ PC-Science-and-language
 
     introduction/introduction.rst
 
+
+
 .. toctree::
     :maxdepth: 2
-    :caption: 🤔 Summaries
+    :caption: 🤔 Year 7 Biology Summaries
+    :numbered:
+
+    summaries/Y7_ch2/2A.rst
+    summaries/Y7_ch2/2B.rst
+    summaries/Y7_ch2/2C.rst
+    summaries/Y7_ch2/2D.rst
+    summaries/Y7_ch3/3A.rst
+    summaries/Y7_ch3/3B.rst
+    summaries/Y7_ch3/3C.rst
+    summaries/Y7_ch3/3D.rst
+    summaries/Y7_ch3/3E.rst
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🤔 Year 8 Energy Summaries
     :numbered:
 
     summaries/Y8_ch6/6A.rst

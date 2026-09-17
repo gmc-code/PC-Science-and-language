@@ -1,0 +1,92 @@
+======================
+3A: Nature's Pantry
+======================
+
+Ecosystems and Environmental Factors
+==============================================
+
+* Every living organism lives within an ecosystem where living and non-living elements interact[cite: 5].
+* Ecosystems can be aquatic (freshwater, marine/coastal) or terrestrial (desert, jungle, tundra, grassland)[cite: 5].
+* Biotic factors are all the living components present in an ecosystem, such as animals, plants, and bacteria[cite: 5].
+* Abiotic factors are the non-living physical components, such as sunlight, temperature, water, oxygen, and shelter[cite: 5].
+
+* **Key Terms:**
+    * **Organism**: An individual living thing[cite: 5].
+    * **Ecosystem**: An environment where living organisms interact with each other and non-living elements[cite: 5].
+    * **Biotic Factor**: Any living organism or biological feature within an ecosystem[cite: 5].
+    * **Abiotic Factor**: Any non-living physical or chemical factor in an ecosystem[cite: 5].
+
+
+.. cloze::
+
+    1. A polar bear relies on abiotic factors like ice and @@temperature@@ to survive in the @@tundra@@.
+    2. Living components like plants are @@biotic@@ factors, while non-living items like sunlight are @@abiotic@@ factors.
+    3. An @@ecosystem@@ contains both living and non-living factors that interact with every @@organism@@.
+
+----
+
+Energy Flow and Trophic Roles
+==============================================
+
+* Autotrophs (producers) convert energy from sunlight to create their own food through photosynthesis[cite: 5].
+* Heterotrophs (consumers) must consume other organisms to gain energy and nutrients[cite: 5].
+* Consumers are classified by diet: herbivores eat plants, carnivores eat meat, and omnivores eat both plants and meat[cite: 5].
+* Earth's cleanup crew includes scavengers, detritivores, and decomposers, which break down dead matter and waste[cite: 5].
+
+* **Key Terms:**
+
+    * **Autotroph**: An organism that makes its own food using light energy from the Sun (producer)[cite: 5].
+    * **Heterotroph**: An organism that obtains energy by consuming other living or dead organisms (consumer)[cite: 5].
+    * **Herbivore**: An organism that eats only plants[cite: 5].
+    * **Carnivore**: An organism that eats only meat[cite: 5].
+    * **Omnivore**: An organism that eats both plants and animals[cite: 5].
+    * **Decomposer**: An organism that breaks down dead organic material using external chemical digestion[cite: 5].
+
+
+.. cloze::
+
+    1. Plants are @@autotroph@@ organisms that use @@sunlight@@ to make energy.
+    2. A lion is a @@carnivore@@ because it only eats meat, while a goat is an @@herbivore@@.
+    3. Fungi act as a @@decomposer@@ by using external digestion to break down @@dead@@ matter.
+
+----
+
+Ecosystem Interactions
+=======================
+
+* Organisms compete with each other when vital resources such as food, water, light, space, or mates are limited[cite: 5].
+* Competition negatively affects both competing individuals because both must expend extra energy[cite: 5].
+* Predator-prey interactions keep population sizes balanced within an ecosystem over time[cite: 5].
+* Changes in abiotic conditions or predator numbers directly impact the survival rates of prey species[cite: 5].
+
+
+* **Key Terms:**
+
+    * **Resource**: Anything in the environment required by an organism for survival[cite: 5].
+    * **Competition**: An interaction where organisms fight for the same limited resources[cite: 5].
+    * **Predator**: An organism that hunts, kills, and eats other organisms for food[cite: 5].
+    * **Prey**: An organism that is hunted and eaten by a predator[cite: 5].
+
+
+.. cloze::
+
+    1. When resources are limited, @@competition@@ increases and affects an organism's ability to @@survive@@.
+    2. A @@predator@@ hunts and eats another organism, which is known as the @@prey@@.
+    3. An increase in prey population leads to more food for predators to @@reproduce@@ and @@grow@@.
+
+----
+
+Matching Section
+================
+
+.. cloze::
+
+    1. @@Autotroph@@ : Organism that makes its own food using sunlight.
+    2. @@Heterotroph@@ : Organism that consumes other living or dead matter.
+    3. @@Biotic Factor@@ : Any living part of an ecosystem.
+    4. @@Abiotic Factor@@ : Any non-living part of an ecosystem.
+    5. @@Herbivore@@ : Consumer that eats only plants.
+    6. @@Decomposer@@ : Organism that breaks down dead matter externally.
+    7. @@Competition@@ : Struggle between organisms for limited resources.
+    8. @@Predator@@ : Animal that hunts and kills other animals for food.
+

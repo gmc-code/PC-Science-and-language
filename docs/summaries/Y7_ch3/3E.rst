@@ -1,0 +1,62 @@
+===================================================
+3E The Impact of Invasive Species
+===================================================
+
+Ecological Concepts and Definitions
+===================================================
+
+* Introduced species are organisms taken outside their natural geographical area, while invasive species spread quickly and cause significant environmental or economic harm.
+* Ecosystems experience population declines or localized extinctions when invasive species outcompete native species for limited resources like food, water, and shelter.
+* Introduced species enter new environments through deliberate pathways (such as agriculture, pest control, and transport) or accidental pathways (such as cargo shipping and ballast water).
+
+* **Key Terms:**
+
+    * **Species**: A group of closely related organisms capable of interbreeding.
+    * **Native Species**: Organisms that occur naturally in a specific ecological region.
+    * **Introduced Species**: Organisms transported beyond their natural geographical boundary by human activity.
+    * **Invasive Species**: An introduced species that spreads rapidly and causes harm to native species or ecosystems.
+    * **Eradication**: The complete removal or destruction of a target species from an area.
+
+.. cloze::
+
+    1. Organisms that occur naturally in a region are described as @@native@@ species.
+    2. An introduced organism that spreads rapidly and causes environmental harm is an @@invasive@@ species.
+    3. The complete removal of a species from a targeted geographic area is called @@eradication@@.
+
+----
+
+Mechanisms of Introduction and Ecological Impact
+===================================================
+
+* Deliberate introductions occur for farming, pest control, hunting, or transport, whereas accidental introductions occur via shipping containers and vessel ballast water.
+* Broad generalist predators alter food webs across multiple trophic levels by consuming native prey and competing directly with endemic predators.
+* Invasive species like the cane toad disrupt multiple trophic levels simultaneously, impacting algae as tadpoles, consuming native insects as adults, and poisoning native predators via skin toxins.
+
+* **Key Terms:**
+
+    * **Biological Control**: The intentional release of a natural enemy or pathogen to manage a pest population.
+    * **Trophic Level**: The position an organism occupies in a food chain or food web.
+    * **Resource Competition**: The struggle between organisms for shared, limited resources such as food, shelter, or territory.
+
+.. cloze::
+
+    1. Organisms brought into new habitats via cargo ships or ballast water are examples of @@accidental@@ introductions.
+    2. Invasive species disrupt ecosystems by engaging in direct @@competition@@ with native organisms for limited resources.
+    3. Using a pathogen or natural predator to control a pest population is known as @@biological@@ control.
+
+----
+
+Matching Exercise
+===================================================
+
+.. cloze::
+
+    1. @@Species@@: A group of organisms closely related to one another.
+    2. @@Native Species@@: Organisms that occur naturally in a given region.
+    3. @@Introduced Species@@: Organisms taken outside of their natural geographical area.
+    4. @@Invasive Species@@: An introduced species that spreads quickly and causes significant harm.
+    5. @@Extinct@@: No longer existing anywhere or locally within a specific region.
+    6. @@Eradication@@: The complete removal of a species from an area.
+    7. @@Biological Control@@: Managing a pest population using natural enemies or viruses.
+
+

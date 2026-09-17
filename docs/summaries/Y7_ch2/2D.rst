@@ -1,0 +1,76 @@
+=======================================
+2D: Discovering the Kingdoms
+=======================================
+
+How Classification Changed Over Time
+====================================================================
+
+* Early scientists grouped living things based only on what they could see with their eyes[cite: 4].
+* The invention of the microscope allowed scientists to see tiny organisms and micro-structures for the first time[cite: 4].
+* Aristotle was one of the first people to group organisms using systematic observation[cite: 4].
+* Carl Linnaeus later created a formal system for naming and ordering species using binomial nomenclature[cite: 4].
+
+* **Key Terms:**
+
+    * **Taxonomy**: The scientific study of how living things are classified.
+    * **Microscope**: A tool used to make small objects look larger.
+    * **Binomial Nomenclature**: A two-word naming system for organisms.
+
+.. cloze::
+
+    1. Early scientists grouped organisms using @@visible@@ traits, but the @@microscope@@ revealed hidden cellular structures.
+    2. Aristotle used direct @@observation@@ to classify nature, while Carl Linnaeus developed modern @@binomial@@ nomenclature.
+
+----
+
+The Five Kingdoms of Life
+==================================
+
+* Scientists expanded the classification system into five distinct kingdoms as technology improved[cite: 4].
+* Kingdom Animalia includes multicellular organisms that eat other living things for energy[cite: 4].
+* Kingdom Plantae consists of green plants that make their own food through photosynthesis[cite: 4].
+* Fungi absorb nutrients from decaying organic matter, while Monera includes tiny single-celled organisms like bacteria[cite: 4].
+
+* **Key Terms:**
+
+    * **Autotroph**: An organism that makes its own food.
+    * **Heterotroph**: An organism that consumes other living things for energy.
+    * **Prokaryote**: A microscopic single-celled organism without a nucleus.
+
+.. cloze::
+
+    1. Organisms in Kingdom Plantae are @@autotrophic@@, whereas members of Kingdom Animalia are @@heterotrophic@@.
+    2. Bacteria belong to Kingdom @@Monera@@ and lack a membrane-bound @@nucleus@@.
+
+----
+
+Modern Domains and Grammar Skills
+==================================
+
+* Scientists added three higher categories called domains after studying cell genetics[cite: 4].
+* Nominalisation turns everyday action verbs into scientific nouns to make writing clearer.
+* Transforming words like "classify" into "classification" builds formal scientific language.
+
+* **Key Terms:**
+
+    * **Domain**: The highest rank of biological classification above kingdom.
+    * **Nominalisation**: The process of changing verbs or adjectives into nouns.
+
+.. cloze::
+
+    1. The highest taxonomic rank is the @@domain@@, which divides life based on @@genetic@@ evidence.
+    2. Changing process verbs into scientific nouns is called @@nominalisation@@, which improves text @@cohesion@@.
+
+----
+
+Matching Section
+==================================
+
+.. cloze::
+
+    1. @@Kingdom Animalia@@ : Multicellular heterotrophs that ingest food
+    2. @@Kingdom Plantae@@ : Autotrophs that perform photosynthesis
+    3. @@Kingdom Fungi@@ : Organisms that absorb nutrients from decaying matter
+    4. @@Kingdom Monera@@ : Single-celled prokaryotes lacking a nucleus
+    5. @@Kingdom Protista@@ : Single-celled or simple organisms like *Amoeba*
+

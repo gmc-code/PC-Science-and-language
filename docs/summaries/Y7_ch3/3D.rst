@@ -1,0 +1,103 @@
+============================================
+3D Changes to Ecosystems and Populations
+============================================
+
+The Importance of Plants in Ecosystems
+=======================================
+
+* Plants take in carbon dioxide, produce oxygen, and support biodiversity by serving as the foundational food source for primary consumers.
+* Trees provide added structural stability to terrestrial environments by offering shelter, reducing soil erosion via root networks, and replenishing soil nutrients through decomposition.
+
+* **Key Terms:**
+
+  * **Biodiversity**: The variety of living organisms within a given ecosystem.
+  * **Erosion**: The physical removal and transport of topsoil by natural forces such as wind or water.
+
+.. cloze::
+
+    1. Plants maintain ecosystem balance by absorbing carbon dioxide and releasing @@oxygen@@.
+    2. Tree root systems help stabilize soil, preventing the loss of topsoil through @@erosion@@.
+    3. The variety of different living species present within an ecosystem is known as @@biodiversity@@.
+
+----
+
+Seasonal Patterns and Population Fluctuations
+============================================
+
+* Seasonal shifts in abiotic factors (such as temperature and water availability) trigger distinct survival behaviors in organisms, causing regular fluctuations in population sizes.
+* Organisms adapt to seasonal variations through migration, reproductive timing, and metabolic dormancy.
+
+* **Key Terms:**
+
+  * **Hibernation**: Metabolic dormancy triggered by extreme cold and reduced food availability.
+  * **Aestivation**: Metabolic dormancy triggered by extreme heat and arid conditions.
+  * **Migration**: The seasonal movement of animal populations from one region to another.
+
+.. cloze::
+
+    1. Extreme heat and lack of water cause desert organisms to enter a period of dormancy called @@aestivation@@.
+    2. Humpback whales exhibit @@migration@@ by traveling to warmer northern waters to raise their young.
+    3. Population size fluctuations caused by seasonal changes follow regular cycles rather than sudden @@ecosystem collapse@@.
+
+----
+
+Ecosystem Regulation by Predators and Pollinators
+=================================================
+
+* Keystone functional groups, including pollinators and top predators, maintain stability across food webs.
+* Removal of pollinators prevents plant reproduction, causing food shortages that ripple upward through primary and secondary consumers.
+* Removal of top predators causes prey populations to increase rapidly, resulting in overgrazing and severe vegetation depletion.
+
+* **Key Terms:**
+
+  * **Pollinator**: An organism that transfers pollen between plants to enable fertilization and reproduction.
+  * **Predator**: An organism that hunts and feeds on other living organisms, regulating prey numbers.
+  * **Overgrazing**: Excessive consumption of vegetation by herbivores without sufficient recovery time.
+
+.. cloze::
+
+    1. Disappearance of @@pollinators@@ directly prevents plant reproduction and collapses primary food sources.
+    2. The removal of predators causes prey numbers to grow excessively, leading to @@overgrazing@@.
+    3. Both pollinators and predators serve critical roles in regulating population sizes and maintaining ecological @@balance@@.
+
+----
+
+Human Impacts: Deforestation and Agriculture
+============================================
+
+* Habitat destruction, such as deforestation for agriculture, causes rapid and long-term population declines across multiple trophic levels.
+* Agricultural monocultures reduce soil quality by repeatedly depleting identical nutrient profiles without proper replenishment cycles.
+* Heavy livestock compacts soil, limiting root expansion and restricting water infiltration, which increases surface runoff and soil erosion.
+* Excess agricultural fertilizers washed into bodies of water cause eutrophication, triggering algal blooms that block sunlight and deplete dissolved oxygen.
+
+* **Key Terms:**
+
+  * **Deforestation**: The large-scale removal or clearing of forests from a land area.
+  * **Monoculture**: The agricultural practice of growing a single crop species repeatedly over a given area.
+  * **Eutrophication**: Nutrient enrichment of aquatic environments leading to excessive microbial and algal growth.
+  * **Algal Bloom**: The rapid proliferation of algae on the surface of a body of water.
+
+.. cloze::
+
+    1. Growing a single crop continuously on the same land is an agricultural practice called @@monoculture@@.
+    2. Hard-hoofed livestock cause soil @@compaction@@, preventing water from seeping into the ground.
+    3. Runoff containing agricultural fertilizers leads to @@eutrophication@@, which starves aquatic ecosystems of oxygen.
+
+----
+
+Matching Exercise
+=================
+
+.. cloze::
+
+    1. @@Eutrophication@@: Marine or freshwater nutrient overloading that causes dense algal growth and oxygen depletion
+    2. @@Aestivation@@: Dormancy induced by conditions of extreme heat and prolonged drought
+    3. @@Monoculture@@: Cultivating a single species across an agricultural area, causing soil nutrient depletion
+    4. @@Deforestation@@: The clearance of forested land, leading to elevated atmospheric carbon dioxide and severe soil erosion
+    5. @@Erosion@@: The removal of root-stabilized topsoil caused by wind and surface water flow
+    6. @@Pollinator@@: An animal vector that transfers pollen to facilitate plant fertilization
+    7. @@Compaction@@: The squashing of soil particles by heavy livestock, restricting root growth and water absorption
+    8. @@Biodiversity@@: The structural variety of plant and animal species sustaining an ecosystem
+
+
+

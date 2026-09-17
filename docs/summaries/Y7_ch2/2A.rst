@@ -1,0 +1,66 @@
+===================================
+2A Introduction to Classification
+===================================
+
+What is Classification?
+===================================================
+
+* Classification is the process of sorting living things or organisms into groups based on their shared features and differences.
+* The science of studying, grouping, and naming organisms is called taxonomy, which is performed by scientists known as taxonomists.
+* When scientists discover a new species, they look at its unique traits to see if it fits into an existing group or needs a new group.
+
+* **Key Terms:**
+
+  * **Classification**: The process of grouping things together.
+  * **Taxonomy**: The science of classifying and naming organisms.
+  * **Taxonomist**: A scientist who organizes living things into categories.
+  * **Organism**: An individual living thing.
+  * **Species**: A group of closely related organisms.
+
+
+.. cloze::
+
+    1. When scientists discover a new @@species@@, they look at its unique traits to see if it fits into an existing @@group@@ or needs a new group.
+    2. @@Taxonomists@@ are scientists who study and organize every living @@organism@@ into categories.
+    3. The study of naming and grouping living things is called @@taxonomy@@, which relies on the process of @@classification@@.
+
+----
+
+Steps and Importance of Classification
+===================================================
+
+* To classify an organism, scientists first find its similarities and differences, look at potential categories, and then choose the best group.
+* Grouping species helps scientists understand their survival needs and see how closely related different living things are to each other.
+* Classification allows scientists to identify endangered species and take action to protect them from complete extinction.
+
+* **Key Terms:**
+
+  * **Similarities**: Characteristics or traits that are the same.
+  * **Endangered**: At risk of dying out or becoming extinct.
+  * **Extinction**: The complete dying out of a species.
+  * **Conservation**: Protecting organisms and natural resources for the future.
+
+
+.. cloze::
+
+    1. Grouping species helps scientists understand their survival needs and see how closely @@related@@ different living things are to each other.
+    2. To classify an organism, scientists look for physical @@similarities@@ and differences to @@identify@@ the right category.
+    3. Classification allows scientists to find @@endangered@@ species so we can @@protect@@ them from complete @@extinction@@.
+
+----
+
+Matching Exercise
+=================
+
+.. cloze::
+
+    1. @@Taxonomy@@: The science of classifying and naming living organisms
+    2. @@Taxonomist@@: A scientist who organizes living things into groups
+    3. @@Organism@@: An individual living life form
+    4. @@Species@@: A group of closely related living things
+    5. @@Classification@@: The process of sorting or grouping things based on similarities
+    6. @@Endangered@@: A species that is at risk of dying out completely
+    7. @@Extinction@@: The permanent disappearance or dying out of a species
+    8. @@Conservation@@: The practice of protecting species and nature for the future
+
+

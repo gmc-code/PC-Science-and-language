@@ -1,0 +1,84 @@
+==================================
+3C The Role of Microorganisms
+==================================
+
+Understanding Microorganisms
+=============================
+
+* Microorganisms (microbes) are organisms too small to be seen without a microscope.
+* Microbes originate from three main kingdoms of life: Monera, Fungi, and Protista.
+* Microorganisms fulfill three critical ecological roles across ecosystems: producers, consumers, and decomposers.
+
+* **Key Terms:**
+
+  * **Microorganism**: An organism that requires a microscope to be seen.
+  * **Microscopic**: Too small to be seen without the aid of a microscope.
+  * **Monera**: A kingdom of unicellular prokaryotic organisms, such as bacteria.
+  * **Protista**: A diverse kingdom of eukaryotic microorganisms that do not fit into other kingdoms.
+
+.. cloze::
+
+    1. Organisms that require a microscope to be seen are known as @@microorganisms@@.
+    2. Disease-causing bacteria like *Salmonella* belong to the kingdom @@Monera@@.
+    3. Microorganisms act as producers, consumers, or @@decomposers@@ in ecosystems.
+
+----
+
+Microbial Producers and Consumers
+=================================
+
+* Photosynthetic microorganisms such as phytoplankton and green algae act as primary producers, forming the foundation of aquatic trophic pyramids.
+* Microbial consumers (heterotrophs) obtain energy by consuming other microorganisms.
+* While microbes can occupy lower trophic levels like producers or primary consumers, many also live inside larger animals to aid digestion.
+
+* **Key Terms:**
+
+  * **Producer**: An organism that creates its own energy via processes like photosynthesis.
+  * **Heterotroph**: An organism that obtains energy by consuming other living or dead organisms.
+  * **Phytoplankton**: Microscopic marine photosynthetic organisms that form the base of aquatic food webs.
+
+.. cloze::
+
+    1. Green algae act as primary @@producers@@ in marine food webs by capturing solar energy.
+    2. Microorganisms that eat other microbes for energy are classified as @@heterotrophs@@.
+    3. Microscopic organisms generally occupy the first few @@trophic levels@@ of a food chain.
+    4.
+
+----
+
+Microbial Decomposers and Nutrient Cycling
+==========================================
+
+* Microbial decomposers, primarily fungi and bacteria, break down detritus (dead matter and waste) externally and absorb necessary nutrients.
+* Decomposers process organic matter from every trophic level, recycling essential minerals back into the soil or aquatic environment as natural fertilizer.
+* Without decomposers, organic waste would accumulate, blocking sunlight and air from reaching soil, ultimately stopping plant growth and causing ecosystem collapse.
+
+* **Key Terms:**
+
+  * **Detritus**: Waste matter in an ecosystem, including dead organisms and feces.
+  * **Decomposer**: An organism that breaks down dead organic material externally to recycle nutrients.
+  * **Nutrient Cycling**: The movement and exchange of organic and inorganic matter back into the production of matter.
+
+.. cloze::
+
+    1. Matter composed of dead organisms and feces is referred to as @@detritus@@.
+    2. Decomposers breakdown organic matter and return nutrients to the @@soil@@ for producers to use.
+    3. Energy flows to decomposers from @@all@@ trophic levels when organisms die or excrete waste.
+
+----
+
+Matching Exercise
+=================
+
+.. cloze::
+
+    1. @@Microorganism@@: An organism requiring microscopic vision to observe, such as bacteria or protozoa
+    2. @@Detritus@@: Non-living particulate organic material including dead matter and biological waste
+    3. @@Decomposer@@: An organism that breaks down complex organic substances into simple environmental nutrients
+    4. @@Monera@@: The kingdom consisting of prokaryotic unicellular organisms such as bacteria
+    5. @@Phytoplankton@@: Photosynthetic microscopic protists and bacteria living in aquatic environments
+    6. @@Heterotroph@@: An organism that must ingest or absorb organic matter for energy
+    7. @@Protista@@: A heterogeneous group of eukaryotic microbes including algae and protozoa
+    8. @@Trophic Cascade@@: Ecological collapse occurring across multiple feeding levels when microbial systems fail
+
+
