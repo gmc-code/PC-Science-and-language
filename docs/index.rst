@@ -121,6 +121,7 @@ PC-Science-and-language
     language/complex_sentences.rst
     language/active_passive.rst
     language/Sequential_explanations.rst
+    language/theme_and_rheme.rst
     language/marked_themes.rst
 
     language/Stages_and_Phases.rst
