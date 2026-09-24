@@ -6,7 +6,7 @@ Energy Quiz
 Question 1
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     What is the scientific definition of energy?
     [ ] The total mass of an object | Incorrect. Mass is the amount of matter in an object, not its energy.
@@ -17,7 +17,7 @@ Question 1
 Question 2
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     Which of the following is a form of potential energy?
     [ ] sound | Incorrect. Sound energy is a form of kinetic energy caused by the vibration of particles.
@@ -28,7 +28,7 @@ Question 2
 Question 3
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     Which category of energy is defined as stored energy due to an object's position or state?
     [ ] Kinetic energy | Incorrect. Kinetic energy is the energy of motion.
@@ -39,7 +39,7 @@ Question 3
 Question 4
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     What do bananas, batteries, and fuels have in common?
     [x] They all store chemical potential energy | Correct! Bananas, batteries, and fuels all hold energy stored within chemical bonds.
@@ -50,7 +50,7 @@ Question 4
 Question 5
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     How does heat energy transfer between two objects of different temperatures?
     [ ] From the cooler object to the warmer object | Incorrect. Thermal energy naturally moves from higher temperatures to lower temperatures.
@@ -61,7 +61,7 @@ Question 5
 Question 6
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     Which energy transfer method does not require a medium (particles) to transfer energy?
     [ ] conduction | Incorrect. Conduction requires direct contact between particles to transfer thermal energy.
@@ -72,7 +72,7 @@ Question 6
 Question 7
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     Which of these best describes conduction?
     [ ] heat rising in fluids | Incorrect. Heat rising in fluids is an example of convection.
@@ -83,7 +83,7 @@ Question 7
 Question 8
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     What happens to an apple's Gravitational Potential Energy (GPE) as it falls from a tree branch to the ground?
     [ ] It increases as the apple falls | Incorrect. As height decreases, gravitational potential energy decreases.
@@ -94,7 +94,7 @@ Question 8
 Question 9
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     Which type of energy is stored in materials when they are stretched or compressed?
     [ ] Sound energy | Incorrect. Sound energy is created by vibrating particles, not static stretching or compressing.
@@ -105,7 +105,7 @@ Question 9
 Question 10
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     What is the main form of energy stored in a stretched rubber band?
     [ ] kinetic | Incorrect. Kinetic energy is the energy of movement, whereas a stretched rubber band stores energy while stationary.
@@ -116,7 +116,7 @@ Question 10
 Question 11
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     What is an example of heat being produced as a by-product?
     [ ] storing energy in a battery | Incorrect. Chemical energy storage itself aims to store energy, but battery usage/charging releases heat as the actual waste by-product.
@@ -127,7 +127,7 @@ Question 11
 Question 12
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     During exercise, energy transformations mostly include:
     [ ] electrical to light | Incorrect. This transformation is typical of light bulbs or display screens, not biological muscle movement.
@@ -138,7 +138,7 @@ Question 12
 Question 13
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     How is sound energy carried from a source (like a drum) to a listener's ear?
     [x] By vibrating particles in a back-and-forth motion | Correct! Sound travels as longitudinal waves through vibrating particles in air or other mediums.
@@ -149,7 +149,7 @@ Question 13
 Question 14
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     Which of the following forms of energy is classified as a type of kinetic energy?
     [ ] Gravitational energy | Incorrect. Gravitational energy is a form of potential (stored) energy.
@@ -160,7 +160,7 @@ Question 14
 Question 15
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     In what way do nuclear power stations release energy?
     [ ] By stretching elastic bands | Incorrect. That involves elastic potential energy.
@@ -171,7 +171,7 @@ Question 15
 Question 16
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     In the roller coaster simulation, what happens to potential energy as kinetic energy increases?
     [x] Potential energy decreases | Correct! As the coaster accelerates downhill, stored potential energy converts into kinetic energy.
@@ -182,7 +182,7 @@ Question 16
 Question 17
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     Two balls of the same mass are at different heights above ground. Which has more gravitational potential energy?
     [ ] the lower one | Incorrect. An object at a lower height has less stored gravitational potential energy.
@@ -193,7 +193,7 @@ Question 17
 Question 18
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     A Sankey diagram shows the efficiency of a system which has a total energy of 100 J, and useful energy of 60 J. What does a red arrow for 40 J represent?
     [ ] total energy | Incorrect. Total energy is represented by the main input arrow entering the system.
@@ -204,7 +204,7 @@ Question 18
 Question 19
 ---------------------------------------------
 
-.. multichoice::
+.. multichoicepage::
 
     In a Rube Goldberg machine, which of the following is a transformation of energy?
     [ ] a fan blowing air | Incorrect. A fan converts electrical energy into mechanical kinetic energy, but blowing air itself describes energy transfer.

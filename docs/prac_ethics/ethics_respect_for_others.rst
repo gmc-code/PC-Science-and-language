@@ -17,132 +17,64 @@ Examples
 
 ----
 
-.. admonition:: Fill in the Gaps — Respect for Others
-    :class: cloze
+Fill in the gaps quiz
+----------------------
 
-    Complete the following by filling in the missing verbs.
+.. cloze::
+    :instructions: Complete the following by filling in the missing verbs.
 
-    **Word list (A → Z):**
-    acknowledge • cite • respect • seek • treat
-
-    1. Researchers must ______________ participants' decisions, including their right to withdraw at any time.
-
-    2. Scientists should ______________ permission before entering cultural sites or working with sensitive artefacts.
-
-    3. All individuals and communities should be ______________ with dignity throughout the research process.
-
-    4. Funding bodies and data providers must be ______________ properly in all reports and publications.
-
-    5. Researchers must ______________ animals according to their species-specific behavioural and social needs.
-
-
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-cloze
-
-        .. tab-set::
-
-            .. tab-item:: Answers
-
-                1. respect
-                2. seek
-                3. treated
-                4. acknowledged
-                5. treat
+    1. Researchers must @@respect@@ participants' decisions, including their right to withdraw at any time.
+    2. All individuals and communities should be @@treated@@ with dignity throughout the research process.
+    3. Researchers must @@care for@@ animals according to their species-specific behavioural and social needs.
+    4. Scientists should @@acknowledge@@ funding bodies and data providers in all reports and publications.
+    5.  Scientists should @@seek@@ permission before entering cultural sites or working with sensitive artefacts.
 
 ----
 
+Multiple choice quiz
+----------------------
 
-.. admonition:: Multiple-Choice Questions
-    :class: mcq
+.. multichoicepage::
 
-    Choose the best answer for each question.
+    Which action best demonstrates respect for research participants?
 
-    .. tab-set::
-        :sync-group: set1
+    [ ] Using personal information without asking to save time
+    [x] Allowing participants to withdraw from the study at any point
+    [ ] Encouraging participants to stay even if they feel uncomfortable
+    [ ] Sharing participant data with other groups for convenience
 
-        .. tab-item:: Q1
-            :sync: q1
+.. multichoicepage::
 
-            1. Which action best demonstrates respect for research participants?
+    Which action shows respect when working with biological material?
 
-                | a. Using personal information without asking to save time
-                | b. Allowing participants to withdraw from the study at any point
-                | c. Encouraging participants to stay even if they feel uncomfortable
-                | d. Sharing participant data with other groups for convenience
+    [ ] Handling samples carelessly to save time
+    [x] Behaving respectfully and following proper procedures
+    [ ] Allowing untrained individuals to assist
+    [ ] Ignoring safety guidelines if the risk seems low
 
-        .. tab-item:: Q2
-            :sync: q2
+.. multichoicepage::
 
-            2. Why is it important to seek permission before entering cultural sites?
+    Why should researchers cite funding bodies and data providers?
 
-                | a. It ensures respectful behaviour toward communities connected to the site
-                | b. It reduces the amount of paperwork required
-                | c. It guarantees more accurate scientific results
-                | d. It allows researchers to avoid safety training
+    [ ] To make the report appear longer
+    [ ] To follow formatting rules only
+    [x] To acknowledge the contributions of those who supported the work
+    [ ] To reduce the number of references needed
 
-        .. tab-item:: Q3
-            :sync: q3
+.. multichoicepage::
 
-            3. Which action shows respect when working with biological material?
+    Which example best demonstrates respect for laboratory animals?
 
-                | a. Handling samples carelessly to save time
-                | b. Behaving respectfully and following proper procedures
-                | c. Allowing untrained individuals to assist
-                | d. Ignoring safety guidelines if the risk seems low
+    [ ] Housing animals alone regardless of species needs
+    [x] Providing enrichment and social housing appropriate to the species
+    [ ] Using animals whenever it is convenient
+    [ ] Minimising time spent checking on their welfare to save money
 
-        .. tab-item:: Q4
-            :sync: q4
+.. multichoicepage::
 
-            4. Why should researchers cite funding bodies and data providers?
+    Why is it important to seek permission before entering cultural sites?
 
-                | a. To make the report appear longer
-                | b. To follow formatting rules only
-                | c. To acknowledge the contributions of those who supported the work
-                | d. To reduce the number of references needed
-
-        .. tab-item:: Q5
-            :sync: q5
-
-            5. Which example best demonstrates respect for laboratory animals?
-
-                | a. Housing animals alone regardless of species needs
-                | b. Providing enrichment and social housing appropriate to the species
-                | c. Using animals whenever it is convenient
-                | d. Minimising time spent checking on their welfare
-
-
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-mcq
-
-        .. tab-set::
-            :sync-group: set1
-
-            .. tab-item:: Q1
-                :sync: q1
-
-                1. b — Allowing participants to withdraw from the study at any point
-
-            .. tab-item:: Q2
-                :sync: q2
-
-                2. a — It ensures respectful behaviour toward communities connected to the site
-
-            .. tab-item:: Q3
-                :sync: q3
-
-                3. b — Behaving respectfully and following proper procedures
-
-            .. tab-item:: Q4
-                :sync: q4
-
-                4. c — To acknowledge the contributions of those who supported the work
-
-            .. tab-item:: Q5
-                :sync: q5
-
-                5. b — Providing enrichment and social housing appropriate to the species
-
-
-
+    [x] It ensures respectful behaviour toward communities connected to the site
+    [ ] It reduces the amount of paperwork required
+    [ ] It guarantees more accurate scientific results
+    [ ] It allows researchers to avoid safety training

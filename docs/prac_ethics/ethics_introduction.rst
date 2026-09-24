@@ -31,126 +31,65 @@ General Ethical Principles
 
 ----
 
-.. admonition:: Fill in the Gaps — General Ethical Principles
-    :class: cloze
+Fill in the gaps quiz
+----------------------
 
-    Complete the following by filling in the missing verbs.
+.. cloze::
+    :instructions: Complete the following by filling in the missing verbs.
 
-    **Word list (A → Z):**
-    minimise • obtain • report • respect • select
-
-    1. Researchers must ______________ consent before collecting personal information.
-    2. Scientists should ______________ risks to people, animals, and the environment.
-    3. All findings must be ______________ truthfully and accurately.
-    4. Data should be ______________ and interpreted without bias.
-    5. Researchers must ______________ the dignity and rights of all participants.
-
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-cloze
-
-        .. tab-set::
-
-            .. tab-item:: Answers
-
-                1. obtain
-                2. minimise
-                3. reported
-                4. selected
-                5. respect
+    1. Researchers must @@obtain@@ consent before collecting personal information.
+    2. Scientists should @@minimise@@ risks to people, animals, and the environment.
+    3. All findings must be @@reported@@ truthfully and accurately.
+    4. Data should be @@collected@@ and interpreted without bias.
+    5. Researchers must @@respect@@ the dignity and rights of all participants.
 
 ----
 
-.. admonition:: Multiple-Choice Questions
-    :class: mcq
+Multiple choice quiz
+----------------------
 
-    Choose the best answer for each question.
+.. multichoicepage::
 
-    .. tab-set::
-        :sync-group: set1
+    Which action best demonstrates ethical behaviour in scientific research?
 
-        .. tab-item:: Q1
-            :sync: q1
+    [x] Reporting findings truthfully
+    [ ] Ignoring unexpected results
+    [ ] Selecting only data that supports the hypothesis
+    [ ] Sharing personal information without consent
 
-            1. Which action best demonstrates ethical behaviour in scientific research?
+.. multichoicepage::
 
-                | a. Reporting findings truthfully
-                | b. Ignoring unexpected results
-                | c. Selecting only data that supports the hypothesis
-                | d. Sharing personal information without consent
+    Why is it important to minimise risks during an investigation?
 
-        .. tab-item:: Q2
-            :sync: q2
+    [ ] It reduces the time needed for data collection
+    [x] It ensures the safety of people, animals, and the environment
+    [ ] It guarantees more accurate results
+    [ ] It avoids the need for safety equipment
 
-            2. Why is it important to minimise risks during an investigation?
+.. multichoicepage::
 
-                | a. It reduces the time needed for data collection
-                | b. It ensures the safety of people, animals, and the environment
-                | c. It guarantees more accurate results
-                | d. It avoids the need for safety equipment
+    Which action shows fairness in data interpretation?
 
-        .. tab-item:: Q3
-            :sync: q3
+    [ ] Selecting data that supports a preferred outcome
+    [ ] Ignoring data that contradicts expectations
+    [x] Interpreting all data without bias
+    [ ] Changing results to match predictions
 
-            3. Which action shows fairness in data interpretation?
+.. multichoicepage::
 
-                | a. Selecting data that supports a preferred outcome
-                | b. Ignoring data that contradicts expectations
-                | c. Interpreting all data without bias
-                | d. Changing results to match predictions
+    Why must researchers obtain consent before collecting personal information?
 
-        .. tab-item:: Q4
-            :sync: q4
+    [ ] It makes the study easier to organise
+    [x] It protects participants' rights and dignity
+    [ ] It increases the number of responses
+    [ ] It reduces the need for follow-up questions
 
-            4. Why must researchers obtain consent before collecting personal information?
+.. multichoicepage::
 
-                | a. It makes the study easier to organise
-                | b. It protects participants' rights and dignity
-                | c. It increases the number of responses
-                | d. It reduces the need for follow-up questions
+    Which example best demonstrates commitment to doing good?
 
-        .. tab-item:: Q5
-            :sync: q5
-
-            5. Which example best demonstrates commitment to doing good?
-
-                | a. Avoiding collaboration with others
-                | b. Keeping results within a single institution
-                | c. Using animals whenever convenient
-                | d. Applying findings to improve people's lives
-
-
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-mcq
-
-        .. tab-set::
-            :sync-group: set1
-
-            .. tab-item:: Q1
-                :sync: q1
-
-                1. a — Reporting findings truthfully
-
-            .. tab-item:: Q2
-                :sync: q2
-
-                2. b — It ensures the safety of people, animals, and the environment
-
-            .. tab-item:: Q3
-                :sync: q3
-
-                3. c — Interpreting all data without bias
-
-            .. tab-item:: Q4
-                :sync: q4
-
-                4. b — It protects participants' rights and dignity
-
-            .. tab-item:: Q5
-                :sync: q5
-
-                5. d — Applying findings to improve people's lives
-
-
+    [ ] Avoiding collaboration with others
+    [ ] Keeping results within a single institution
+    [ ] Using animals whenever convenient
+    [x] Applying findings to improve people's lives
 

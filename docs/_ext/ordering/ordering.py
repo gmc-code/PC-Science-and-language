@@ -39,9 +39,9 @@ class OrderingDirective(SphinxDirective):
             return []
 
         language = self.arguments[0] if self.arguments else "python"
-        chosen_theme = self.options.get('theme', 'light').strip().lower()
-        if chosen_theme not in ['light', 'dark']:
-            chosen_theme = 'light'
+        chosen_theme = self.options.get('theme', 'white').strip().lower()
+        if chosen_theme not in ['white', 'light']:
+            chosen_theme = 'white'
 
         hide_solution = 'no-solution' in self.options
         use_no_padding = 'no-padding' in self.options
@@ -116,7 +116,7 @@ class OrderingDirective(SphinxDirective):
 
         html_output += f'''
         <div class="ordering-controls">
-            <button type="button" class="ordering-btn-score">Check Code</button>
+            <button type="button" class="ordering-btn-score">Check Order</button>
             <button type="button" class="ordering-btn-continue" style="display: none;">Continue</button>
             <button type="button" class="ordering-btn-solution" {solution_btn_style}>Show Solution</button>
             <button type="button" class="ordering-btn-reset">Reset</button>

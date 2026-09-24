@@ -24,17 +24,50 @@ def simple_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
     node = nodes.inline(rawtext, text, classes=[name])
     return [node], []
 
-
 def setup(app):
     roles_to_register = [
+        # Experimental / Variables
         "p", "r", "o", "pb", "rb", "ob", "iv", "dv", "cv", "ivb", "dvb", "cvb",
-        "theme", "rheme", "themeb", "rhemeb", "process", "participant", "circ",
-        "conj", "part","processb", "participantb", "circb", "conjb", "partb", "processp",
-        "participantp", "circp", "conjp", "rubricsmall"
+
+        # Theme / Rheme
+        "theme", "rheme", "themep", "rhemep", "themeb", "rhemeb",
+
+        # SFL Functional Roles (Bordered)
+        "process", "participant", "circ", "conj", "part",
+
+        # SFL Functional Roles (Filled Chips)
+        "processb", "participantb", "circb", "conjb", "partb",
+
+        # SFL Functional Roles (Plain Text)
+        "processp", "participantp", "circp", "conjp", "partp",
+
+        # Clause Structure Roles (Bordered)
+        "depclause", "embedded", "relative", "projected",
+
+        # Clause Structure Roles (Filled Chips)
+        "depclauseb", "embeddedb", "relativeb", "projectedb",
+
+        # Clause Structure Roles (Plain Text)
+        "depclausep", "embeddedp", "relativep", "projectedp",
+
+        # Formatting / Utility
+        "rubricsmall"
     ]
 
     for rolename in roles_to_register:
         app.add_role(rolename, simple_role)
+
+
+# def setup(app):
+#     roles_to_register = [
+#         "p", "r", "o", "pb", "rb", "ob", "iv", "dv", "cv", "ivb", "dvb", "cvb",
+#         "theme", "rheme", "themeb", "rhemeb", "process", "participant", "circ",
+#         "conj", "part","processb", "participantb", "circb", "conjb", "partb", "processp",
+#         "participantp", "circp", "conjp", "rubricsmall"
+#     ]
+
+#     for rolename in roles_to_register:
+#         app.add_role(rolename, simple_role)
 
 # ------------------------------------------------------------
 
@@ -59,11 +92,16 @@ extensions = [
     'sphinx_design',
     "sphinx_new_tab_link",
     'sphinx.ext.mathjax',
-    "classifying.classifying",  # custom directive
-    "ordering.ordering",  # custom directive
-    "gapfill.gapfill",  # custom directive
-    "cloze.cloze",  # custom directive
+    "multichoicepage.multichoicepage",  # custom directive
     "multichoice.multichoice",  # custom directive
+    "trueorfalse.trueorfalse",  # custom directive
+    "cloze.cloze",  # custom directive
+    "gapfill.gapfill",  # custom directive
+    "classifying.classifying",  # custom directive
+    "fillin.fillin",  # custom directive
+    "ordering.ordering",  # custom directive
+    "textselect.textselect",  # custom directive
+    "wordjumble.wordjumble",  # custom directive
     "labels.labels",  # custom directive
 ]
 

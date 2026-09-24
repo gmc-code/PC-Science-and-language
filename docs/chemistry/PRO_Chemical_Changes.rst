@@ -23,9 +23,9 @@ For each question, write a complete PRO explanation using the structure below.
 
 Ensure:
 
-- The :P:`Premise (P):` states a general scientific principle or condition.
-- The :R:`Reasoning (R):` explains the mechanism linking cause to effect.
-- The :O:`Outcome (O):` states the observable result.
+- The :p:`Premise (P):` states a general scientific principle or condition.
+- The :r:`Reasoning (R):` explains the mechanism linking cause to effect.
+- The :o:`Outcome (O):` states the observable result.
 
 Choose from the PRO starters below to structure the explanations.
 

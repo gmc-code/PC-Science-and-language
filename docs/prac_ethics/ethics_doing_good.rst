@@ -18,130 +18,65 @@ Examples
 
 ----
 
-.. admonition:: Fill in the Gaps — Doing Good
-    :class: cloze
+Fill in the gaps quiz
+----------------------
 
-    Complete the following by filling in the missing verbs.
+.. cloze::
+    :instructions: Complete the following by filling in the missing verbs.
 
-    **Word list (A → Z):**
-    address • benefit • justify • maximise • share
-
-    1. Scientists should ______________ the positive impact of their work on people, animals, and the environment.
-
-    2. Every investigation should ______________ a real educational or social purpose.
-
-    3. Researchers must ______________ experiments only when there is a meaningful reason to involve animals.
-
-    4. A study should ______________ genuine needs or gaps in the community.
-
-    5. Scientists should ______________ their findings so the wider community can use and build on them.
-
-
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-cloze
-
-        .. tab-set::
-
-            .. tab-item:: Answers
-
-                1. maximise
-                2. benefit
-                3. justify
-                4. address
-                5. share
+    1. Scientists should @@maximise@@ the positive impact of their work on people, animals, and the environment.
+    2. Every investigation should @@serve@@ a real educational or social purpose.
+    3. Researchers must @@justify@@ involving animals in experiments by showing a meaningful benefit.
+    4. A study should @@address@@ genuine needs or gaps in the community.
+    5. Scientists should @@share@@ their findings so the wider community can use and build on them.
 
 ----
 
+Multiple choice quiz
+----------------------
 
-.. admonition:: Multiple-Choice Questions
-    :class: mcq
+.. multichoicepage::
 
-    Choose the best answer for each question.
+    Which action best reflects the principle of doing good in scientific research?
 
-    .. tab-set::
-        :sync-group: set1
+    [x] Choosing research questions that benefit the community
+    [ ] Avoiding collaboration with other researchers
+    [ ] Repeating studies for practice without sharing results
+    [ ] Designing experiments that have no clear purpose
 
-        .. tab-item:: Q1
-            :sync: q1
+.. multichoicepage::
 
-            1. Which action best reflects the principle of doing good in scientific research?
+    Why should scientists ensure their investigations have a clear educational or social purpose?
 
-                | a. Choosing research questions that benefit the community
-                | b. Avoiding collaboration with other researchers
-                | c. Repeating studies for practice without sharing results
-                | d. Designing experiments that have no clear purpose
+    [ ] It shortens the data-collection process
+    [ ] It makes the report easier to write
+    [ ] It reduces the number of variables
+    [x] It helps maximise the positive impact of the research
 
-        .. tab-item:: Q2
-            :sync: q2
+.. multichoicepage::
 
-            2. Why should scientists ensure their investigations have a clear educational or social purpose?
+    When is it appropriate to involve animals in scientific research?
 
-                | a. It shortens the data-collection process
-                | b. It makes the report easier to write
-                | c. It reduces the number of variables
-                | d. It helps maximise the positive impact of the research
+    [ ] When the use of animals saves money
+    [ ] When it is convenient for the researcher
+    [ ] When the sample size needs to be increased
+    [x] When there is a clear and meaningful benefit
 
-        .. tab-item:: Q3
-            :sync: q3
+.. multichoicepage::
 
-            3. When is it appropriate to involve animals in scientific research?
+    Why should scientists share their findings openly?
 
-                | a. When the use of animals saves money
-                | b. When it is convenient for the researcher
-                | c. When the sample size needs to be increased
-                | d. When there is a clear and meaningful benefit
+    [x] To allow the wider community to benefit from the results
+    [ ] To reduce the number of follow-up questions
+    [ ] To make the study appear more impressive
+    [ ] To increase competition between research groups
 
-        .. tab-item:: Q4
-            :sync: q4
+.. multichoicepage::
 
-            4. Why should scientists share their findings openly?
+    Which example best demonstrates applying findings for the good of society?
 
-                | a. To allow the wider community to benefit from the results
-                | b. To reduce the number of follow-up questions
-                | c. To make the study appear more impressive
-                | d. To increase competition between research groups
-
-        .. tab-item:: Q5
-            :sync: q5
-
-            5. Which example best demonstrates applying findings for the good of society?
-
-                | a. Using findings only for commercial gain
-                | b. Keeping results within a single institution
-                | c. Applying results to improve people's lives
-                | d. Limiting access to the research
-
-
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-mcq
-
-        .. tab-set::
-            :sync-group: set1
-
-            .. tab-item:: Q1
-                :sync: q1
-
-                1. a — Choosing research questions that benefit the community
-
-            .. tab-item:: Q2
-                :sync: q2
-
-                2. d — It helps maximise the positive impact of the research
-
-            .. tab-item:: Q3
-                :sync: q3
-
-                3. d — When there is a clear and meaningful benefit
-
-            .. tab-item:: Q4
-                :sync: q4
-
-                4. a — To allow the wider community to benefit from the results
-
-            .. tab-item:: Q5
-                :sync: q5
-
-                5. c — Applying results to improve people's lives
+    [ ] Using findings only for commercial gain
+    [ ] Keeping results within a single institution
+    [x] Applying results to improve people's lives
+    [ ] Limiting access to the research
 

@@ -14,31 +14,7 @@ class cloze_node(nodes.General, nodes.Element):
 
 
 def visit_cloze_html(self, node):
-    theme_class = node.get("theme", "theme-light")
-    self.body.append(f'<div class="cloze-block {theme_class}">')
-
-
-def depart_cloze_html(self, node):
-    self.body.append('</div>')
-
-
-import html
-import random
-import re
-from pathlib import Path
-
-from docutils import nodes
-from docutils.parsers.rst import directives
-from sphinx.directives.code import CodeBlock
-from sphinx.util.docutils import SphinxDirective
-
-
-class cloze_node(nodes.General, nodes.Element):
-    pass
-
-
-def visit_cloze_html(self, node):
-    theme_class = node.get("theme", "theme-light")
+    theme_class = node.get("theme", "theme-white")
     self.body.append(f'<div class="cloze-block {theme_class}">')
 
 
@@ -52,9 +28,9 @@ class ClozeDirective(SphinxDirective):
 
     option_spec = {
         'auto-distract': directives.flag,
-        'theme': lambda argument: directives.choice(argument,
-                                                    ('light', 'dark')),
+        'theme': lambda argument: directives.choice(argument, ('white', 'light')),
         'show-code': directives.flag,
+        'instructions': directives.unchanged,  # New instructions option added
     }
 
     def run(self):
@@ -70,18 +46,16 @@ class ClozeDirective(SphinxDirective):
             line_counter += 1
             return formatted
 
-        # Replaces '#.' at the beginning of any line (including indented lines) with sequential numbers
         full_text = re.sub(
             r'^(\s*)#\.', replace_auto_number, full_text, flags=re.MULTILINE
         )
-        # -----------------------------------
 
         language = self.arguments[0] if self.arguments else "python"
-        theme_val = self.options.get('theme', 'light')
+        theme_val = self.options.get('theme', 'white')
         auto_distract = 'auto-distract' in self.options
         show_code = 'show-code' in self.options
+        instructions = self.options.get('instructions', '').strip()
 
-        # Track global gap counter on the Sphinx build environment across all directive calls
         if not hasattr(self.env, 'cloze_gap_counter'):
             self.env.cloze_gap_counter = 0
 
@@ -153,16 +127,17 @@ class ClozeDirective(SphinxDirective):
 
         word_bank_items.sort()
 
-        bank_html = (
-            '<div class="cloze-wordbank-title">Word Bank (Drag items'
-            ' below):</div>'
-        )
+        # Render custom instructions if provided, otherwise default bank header
+        instructions_html = ""
+        if instructions:
+            instructions_html = f'<div class="cloze-instructions">{html.escape(instructions)}</div>'
 
         if show_code:
-            bank_html = (
-                '<div class="cloze-wordbank-title">Word Bank (Drag items below).'
-                ' Get 100% to reveal the code for copying:</div>'
-            )
+            bank_title_text = "Word Bank (Drag items below). Get 100% to reveal the code for copying:"
+        else:
+            bank_title_text = "Word Bank (Drag items below):"
+
+        bank_html = f'{instructions_html}<div class="cloze-wordbank-title">{bank_title_text}</div>'
 
         bank_html += '<div class="cloze-wordbank-tray">'
         for word in word_bank_items:
@@ -213,6 +188,7 @@ class ClozeDirective(SphinxDirective):
             wrapper_node += completed_container
 
         return [wrapper_node]
+
 
 def setup(app):
     app.add_node(cloze_node, html=(visit_cloze_html, depart_cloze_html))

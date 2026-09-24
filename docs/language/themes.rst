@@ -14,15 +14,15 @@ functions as the Unmarked Topical Theme, directly identifying the main entity,
 subject, or participant of the clause.
 
 .. admonition:: Examples
-   :class: pro
+    :class: pro
 
-   | **The enzyme** catalyzes the reaction under optimal conditions.
-   | **A sudden drop in pressure** causes rapid vapor expansion.
-   | **Most organic compounds** dissolve readily in non-polar solvents.
+   | :participant:`The enzyme` catalyzes the reaction under optimal conditions.
+   | :participant:`A sudden drop in pressure` causes rapid vapor expansion.
+   | :participant:`Most organic compounds` dissolve readily in non-polar solvents.
 
 ----
 
-2. Textual Themes (Conjunctions and Connectives)
+1. Textual Themes (Conjunctions and Connectives)
 ------------------------------------------------
 
 Conjunctions, linking adverbs, and discourse markers can appear at the start of
@@ -30,15 +30,15 @@ a clause. These function as Textual Themes, explicitly signalling the logical
 relationship (e.g., cause, contrast, sequence) between sentences.
 
 .. admonition:: Examples
-   :class: pro
+    :class: pro
 
-   | **However,** the reaction halts if the temperature exceeds 60°C.
-   | **Furthermore,** the synthesized compound exhibits higher stability.
-   | **Because** the pressure increased, the gas volume decreased rapidly.
+   | :conj:`However,` the reaction halts if the temperature exceeds 60°C.
+   | :conj:`Furthermore,` the synthesized compound exhibits higher stability.
+   | :conj:`Because` the pressure increased, the gas volume decreased rapidly.
 
 ----
 
-3. Verbs and Predicates (Imperative & Interrogative Themes)
+1. Verbs and Predicates (Imperative & Interrogative Themes)
 -----------------------------------------------------------
 
 In imperative sentences (commands or procedural steps) and certain question
@@ -48,9 +48,9 @@ reader immediately on the required action.
 .. admonition:: Examples
    :class: pro
 
-   | **Measure** 50 mL of distilled water into the beaker.
-   | **Mix** the solution thoroughly until all solids dissolve.
-   | **Does** the magnetic field influence particle velocity?
+   | :process:`Measure` 50 mL of distilled water into the beaker.
+   | :process:`Mix` the solution thoroughly until all solids dissolve.
+   | :process:`Does` the magnetic field influence particle velocity?
 
 ----
 
@@ -64,9 +64,9 @@ such as time, place, manner, or extent.
 .. admonition:: Examples
    :class: pro
 
-   | **Throughout the experiment,** temperature was monitored continuously.
-   | **In the outer membrane,** specific transport proteins regulate intake.
-   | **By applying constant current,** electroplating occurs evenly.
+   | :circ:`Throughout the experiment,` temperature was monitored continuously.
+   | :circ:`In the outer membrane,` specific transport proteins regulate intake.
+   | :circ:`By applying constant current,` electroplating occurs evenly.
 
 ----
 
@@ -80,8 +80,8 @@ stating the main clause result.
 .. admonition:: Examples
    :class: pro
 
-   | **Although the yield was low,** the purity remained exceptionally high.
-   | **While the sample warms,** gas bubbles begin to form along the glass.
-   | **If a disturbance occurs,** the system shifts to restore equilibrium.
+   | :depclause:`Although the yield was low,` the purity remained exceptionally high.
+   | :depclause:`While the sample warms,` gas bubbles begin to form along the glass.
+   | :depclause:`If a disturbance occurs,` the system shifts to restore equilibrium.
 
 

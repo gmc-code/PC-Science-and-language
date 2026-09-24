@@ -19,126 +19,64 @@ Examples
 
 ----
 
-.. admonition:: Fill in the Gaps — Avoidance of Harm
-    :class: cloze
+Fill in the gaps quiz
+----------------------
 
-    Complete the following by filling in the missing verbs.
+.. cloze::
+    :instructions: Complete the following by filling in the missing verbs.
 
-    **Word list (A → Z):**
-    avoid • protect • respect • stop • use
-
-    1. Researchers must ______________ personal or medical data beyond what participants have consented to.
-    2. Scientists should ______________ all required safety procedures to prevent harm during investigations.
-    3. When valid alternatives exist, researchers should ______________ simulations or models instead of live animals.
-    4. An experiment must ______________ immediately if it causes unexpected suffering.
-    5. Field researchers must ______________ wildlife by observing animals without disturbing them.
-
-
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-cloze
-
-        .. tab-set::
-
-            .. tab-item:: Answers
-
-                1. avoid
-                2. respect
-                3. use
-                4. stop
-                5. protect
+    1. Researchers must @@avoid@@ personal or medical data beyond what participants have consented to.
+    2. Scientists should @@respect@@ all required safety procedures to prevent harm during investigations.
+    3. When valid alternatives exist, researchers should @@use@@ simulations or models instead of live animals.
+    4. An experiment must @@stop@@ immediately if it causes unexpected suffering.
+    5. Field researchers must @@protect@@ wildlife by observing animals without disturbing them.
 
 ----
 
-.. admonition:: Multiple-Choice Questions
-    :class: mcq
+Multiple choice quiz
+----------------------
 
-    Choose the best answer for each question.
+.. multichoicepage::
 
-    .. tab-set::
-        :sync-group: set1
+    Which action best demonstrates avoidance of harm in field research?
 
-        .. tab-item:: Q1
-            :sync: q1
+    [ ] Feeding wildlife to encourage interaction
+    [ ] Collecting specimens from endangered populations
+    [ ] Approaching animals closely to get better photographs
+    [x] Observing animals without disturbing their natural behaviour
 
-            1. Which action best demonstrates avoidance of harm in field research?
+.. multichoicepage::
 
-                | a. Feeding wildlife to encourage interaction
-                | b. Collecting specimens from endangered populations
-                | c. Approaching animals closely to get better photographs
-                | d. Observing animals without disturbing their natural behaviour
+    Why should researchers use simulations or models when possible?
 
-        .. tab-item:: Q2
-            :sync: q2
+    [x] They reduce the need to involve live animals
+    [ ] They eliminate the need for safety equipment
+    [ ] They guarantee more accurate results
+    [ ] They are always faster to run
 
-            2. Why should researchers use simulations or models when possible?
+.. multichoicepage::
 
-                | a. They reduce the need to involve live animals
-                | b. They eliminate the need for safety equipment
-                | c. They guarantee more accurate results
-                | d. They are always faster to run
+    When should an experiment be ended early?
 
-        .. tab-item:: Q3
-            :sync: q3
+    [ ] When the equipment is difficult to operate
+    [ ] When the sample size becomes too large
+    [x] When it causes unexpected suffering to participants
+    [ ] When the results are not what the researcher expected
 
-            3. When should an experiment be ended early?
+.. multichoicepage::
 
-                | a. When the equipment is difficult to operate
-                | b. When the sample size becomes too large
-                | c. When it causes unexpected suffering to participants
-                | d. When the results are not what the researcher expected
+    Why is it important to keep survey responses private?
 
-        .. tab-item:: Q4
-            :sync: q4
+    [x] It protects individuals from potential harm or misuse of information
+    [ ] It prevents participants from changing their answers
+    [ ] It increases the number of responses collected
+    [ ] It makes data analysis easier
 
-            4. Why is it important to keep survey responses private?
+.. multichoicepage::
 
-                | a. It protects individuals from potential harm or misuse of information
-                | b. It prevents participants from changing their answers
-                | c. It increases the number of responses collected
-                | d. It makes data analysis easier
+    Which action shows responsible handling of protected environments?
 
-        .. tab-item:: Q5
-            :sync: q5
-
-            5. Which action shows responsible handling of protected environments?
-
-                | a. Removing plants or rocks for personal study
-                | b. Entering national parks without permits to save time
-                | c. Collecting samples from restricted areas
-                | d. Staying on approved paths and obtaining required permits
-
-
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-mcq
-
-        .. tab-set::
-            :sync-group: set1
-
-            .. tab-item:: Q1
-                :sync: q1
-
-                1. d. Observing animals without disturbing their natural behaviour
-
-            .. tab-item:: Q2
-                :sync: q2
-
-                2. a. They reduce the need to involve live animals
-
-            .. tab-item:: Q3
-                :sync: q3
-
-                3. c. When it causes unexpected suffering to participants
-
-            .. tab-item:: Q4
-                :sync: q4
-
-                4. a. It protects individuals from potential harm or misuse of information
-
-            .. tab-item:: Q5
-                :sync: q5
-
-                5. d. Staying on approved paths and obtaining required permits
-
-
+    [ ] Removing plants or rocks for personal study
+    [ ] Entering national parks without permits to save time
+    [ ] Collecting samples from restricted areas
+    [x] Staying on approved paths and obtaining required permits

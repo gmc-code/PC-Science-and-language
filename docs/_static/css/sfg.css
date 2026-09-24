@@ -7,29 +7,42 @@
 /* ========================================== */
 /* plain -- just colour */
 /* ========================================== */
+/* ========================================== */
+/* 1. Plain Text Roles (*p) */
+/* ========================================== */
 
-span.participantp    { color: #d62728; }
-span.processp        { color: #2ca02c; }
-span.circp           { color: #4a3dff; }
-span.conjp           { color: #6b7280; }
-span.partp         { color: #6b7280; }
-span.themep          { color: #1f77b4; }
-span.rhemep          { color: #111827; }
+/* Existing Palette Reference */
+span.participantp   { color: #d62728; } /* Red */
+span.processp       { color: #2ca02c; } /* Green */
+span.circp          { color: #4a3dff; } /* Bright Blue/Violet */
+span.conjp          { color: #6b7280; } /* Gray */
+span.partp          { color: #6b7280; } /* Gray */
+span.themep         { color: #1f77b4; } /* Muted Blue */
+span.rhemep         { color: #111827; } /* Dark Charcoal/Black */
+
+/* Clause Structure Extensions */
+span.depclausep     { color: #9467bd; } /* Purple: Dependent / Subordinate Clauses (β-clauses) */
+span.embeddedp      { color: #e377c2; } /* Pink: Embedded / Rank-Shifted Clauses [[...]] */
+span.relativep      { color: #ff7f0e; } /* Orange: Relative / Adjectival Clauses */
+span.projectedp     { color: #8c564b; } /* Brown: Projection / Quoted / Reported Clauses */
 
 /* ========================================== */
-/* with border */
+/* 2. Bordered Roles */
 /* ========================================== */
 
 span.participant,
 span.process,
 span.circ,
 span.conj,
-span.partp,
+span.part,
 span.theme,
-span.rheme {
-
-  padding: 0.18em .65em;
-  border-radius: .25em;
+span.rheme,
+span.depclause,
+span.embedded,
+span.relative,
+span.projected {
+  padding: 0.18em 0.65em;
+  border-radius: 0.25em;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
   line-height: 1.6;
@@ -40,13 +53,19 @@ span.rheme {
 span.participant { color: #d62728; border-color: #d62728; }
 span.process     { color: #2ca02c; border-color: #2ca02c; }
 span.circ        { color: #4a3dff; border-color: #4a3dff; }
-span.conj        { color: #6b7280; font-style: italic; }
-span.part        { color: #6b7280; font-style: italic; }
+span.conj        { color: #6b7280; border-color: #6b7280; font-style: italic; }
+span.part        { color: #6b7280; border-color: #6b7280; font-style: italic; }
 span.theme       { color: #1f77b4; border-color: #1f77b4; }
 span.rheme       { color: #111827; border-color: #111827; }
 
+/* Clause Structure Additions */
+span.depclause   { color: #9467bd; border-color: #9467bd; }
+span.embedded    { color: #e377c2; border-color: #e377c2; }
+span.relative    { color: #ff7f0e; border-color: #ff7f0e; }
+span.projected   { color: #8c564b; border-color: #8c564b; }
+
 /* ========================================== */
-/* filled in colour */
+/* 3. Filled Background Chip Roles (*b) */
 /* ========================================== */
 
 /* Shared chip-like styling for all *b roles */
@@ -56,39 +75,53 @@ span.circb,
 span.conjb,
 span.partb,
 span.themeb,
-span.rhemeb {
+span.rhemeb,
+span.depclauseb,
+span.embeddedb,
+span.relativeb,
+span.projectedb {
   /* text color: off-white */
   color: #f8fafc;
 
   /* inline chip look */
-  padding: 0.2em .65em;
-  border-radius: .25em;
+  padding: 0.2em 0.65em;
+  border-radius: 0.25em;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
   line-height: 1.6;
 }
 
-/* Individual backgrounds (using your current color palette) */
-span.participantb { background-color: #d62728; } /* red */
-span.processb     { background-color: #2ca02c; } /* green */
-span.circb        { background-color: #4a3dff; } /* indigo */
-span.conjb        { background-color: #6b7280; font-style: italic; } /* gray, italic */
-span.partb        { background-color: #6b7280; font-style: italic; } /* gray, italic */
-span.themeb       { background-color: #1f77b4; font-weight: 600; } /* blue, bold */
-span.rhemeb       { background-color: #111827; } /* near-black */
+/* Individual backgrounds */
+span.participantb { background-color: #d62728; } /* Red */
+span.processb     { background-color: #2ca02c; } /* Green */
+span.circb        { background-color: #4a3dff; } /* Indigo/Violet */
+span.conjb        { background-color: #6b7280; font-style: italic; } /* Gray, italic */
+span.partb        { background-color: #6b7280; font-style: italic; } /* Gray, italic */
+span.themeb       { background-color: #1f77b4; font-weight: 600; } /* Blue, bold */
+span.rhemeb       { background-color: #111827; } /* Near-black */
 
-/* Optional subtle inner highlight for contrast on some screens */
+/* Clause Structure Background Additions */
+span.depclauseb   { background-color: #9467bd; } /* Purple */
+span.embeddedb    { background-color: #e377c2; } /* Pink */
+span.relativeb    { background-color: #ff7f0e; } /* Orange */
+span.projectedb   { background-color: #8c564b; } /* Brown */
+
+/* Optional subtle inner highlight for contrast */
 span.participantb,
 span.processb,
 span.circb,
 span.partb,
 span.conjb,
 span.themeb,
-span.rhemeb {
+span.rhemeb,
+span.depclauseb,
+span.embeddedb,
+span.relativeb,
+span.projectedb {
   box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.15);
 }
 
-/* Print fallback: if printers drop background colors, keep a visual cue */
+/* Print fallback */
 @media print {
   span.participantb,
   span.processb,
@@ -96,11 +129,14 @@ span.rhemeb {
   span.partb,
   span.conjb,
   span.themeb,
-  span.rhemeb {
+  span.rhemeb,
+  span.depclauseb,
+  span.embeddedb,
+  span.relativeb,
+  span.projectedb {
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
 
-    /* If backgrounds are stripped, ensure visibility */
     background-color: transparent !important;
     color: #000 !important;
     border: 1px solid currentColor;

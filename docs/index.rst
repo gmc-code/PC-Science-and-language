@@ -16,21 +16,48 @@ PC-Science-and-language
     introduction/introduction.rst
 
 
-
 .. toctree::
     :maxdepth: 2
-    :caption: 🤔 Year 7 Biology Summaries
+    :caption: 🤔 Y7 ch 2 Biology Summaries
     :numbered:
 
     summaries/Y7_ch2/2A.rst
     summaries/Y7_ch2/2B.rst
     summaries/Y7_ch2/2C.rst
     summaries/Y7_ch2/2D.rst
+
+    vocab/Y7_ch2/2A_jumblewords.rst
+    vocab/Y7_ch2/2A_keyterms.rst
+    vocab/Y7_ch2/2B_jumblewords.rst
+    vocab/Y7_ch2/2B_keyterms.rst
+    vocab/Y7_ch2/2C_jumblewords.rst
+    vocab/Y7_ch2/2C_keyterms.rst
+    vocab/Y7_ch2/2D_jumblewords.rst
+    vocab/Y7_ch2/2D_keyterms.rst
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🤔 Y7 ch 3 Biology Summaries
+    :numbered:
+
     summaries/Y7_ch3/3A.rst
     summaries/Y7_ch3/3B.rst
     summaries/Y7_ch3/3C.rst
     summaries/Y7_ch3/3D.rst
     summaries/Y7_ch3/3E.rst
+
+    vocab/Y7_ch3/3A_jumblewords.rst
+    vocab/Y7_ch3/3A_keyterms.rst
+    vocab/Y7_ch3/3B_jumblewords.rst
+    vocab/Y7_ch3/3B_keyterms.rst
+    vocab/Y7_ch3/3C_jumblewords.rst
+    vocab/Y7_ch3/3C_keyterms.rst
+    vocab/Y7_ch3/3D_jumblewords.rst
+    vocab/Y7_ch3/3D_keyterms.rst
+    vocab/Y7_ch3/3E_jumblewords.rst
+    vocab/Y7_ch3/3E_keyterms.rst
+
 
 
 .. toctree::
@@ -221,13 +248,13 @@ PC-Science-and-language
     prac_ethics/ethics_fairness.rst
     prac_ethics/ethics_respect_for_others.rst
     prac_ethics/ethics_avoidance_of_harm.rst
+    prac_ethics/ethics_avoidance_of_harm copy.rst
     prac_ethics/ethics_doing_good.rst
-
 
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🧪⛔ Prac Errors
+    :caption: 🧪⛔ Prac Errors in science
     :numbered:
 
     prac_errors/errors_in_science.rst

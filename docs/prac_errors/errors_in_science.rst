@@ -8,7 +8,7 @@ validity of experimental results.*
 This resource uses a **two-level model**:
 
 * **Primary classification (assessment level):**
-  :P:`Systematic errors`, :R:`Random errors`, and :O:`Personal errors`
+  :p:`Systematic errors`, :r:`Random errors`, and :o:`Personal errors`
 * **Secondary classification (explanation level):**
   Instrumental, observational/procedural, method, or environmental sources
 
@@ -27,49 +27,49 @@ sources of error.
     :widths: 22 26 26 26
 
     * - Source
-      - :P:`Systematic`
-      - :R:`Random`
-      - :O:`Personal`
+      - :p:`Systematic`
+      - :r:`Random`
+      - :o:`Personal`
     * - **Instrumental**
-      - :P:`zero error`, :P:`calibration error`
-      - :R:`resolution limitation`
+      - :p:`zero error`, :p:`calibration error`
+      - :r:`resolution limitation`
       -
     * - **Observational / Procedural**
-      - :P:`parallax error`
-      - :R:`minor technique variation`
-      - :O:`operator error`, :O:`recording error`
+      - :p:`parallax error`
+      - :r:`minor technique variation`
+      - :o:`operator error`, :o:`recording error`
     * - **Method**
-      - :P:`method limitation`
+      - :p:`method limitation`
       -
       -
     * - **Environmental (variation)**
       -
-      - :R:`temperature fluctuation`, :R:`vibration`, :R:`lighting variation`
+      - :r:`temperature fluctuation`, :r:`vibration`, :r:`lighting variation`
       -
     * - **Environmental (bias)**
-      - :P:`consistently elevated temperature`, :P:`persistent interference`,
-        :P:`constant lighting offset`
+      - :p:`consistently elevated temperature`, :p:`persistent interference`,
+        :p:`constant lighting offset`
       -
       -
 
 
 **Step 2 — Classify the behaviour** *(how does it affect the data?)*
 
-* Consistent, one-direction shift → :P:`Systematic error` → affects accuracy
-* Unpredictable spread → :R:`Random error` → affects precision
-* One-off mistake → :O:`Personal error` → discard and repeat
+* Consistent, one-direction shift → :p:`Systematic error` → affects accuracy
+* Unpredictable spread → :r:`Random error` → affects precision
+* One-off mistake → :o:`Personal error` → discard and repeat
 
 **Step 3 — Explain the impact**
 
-* :P:`Systematic:` all results shifted consistently too high or too low
-* :R:`Random:` results scattered around the true value
-* :O:`Personal:` isolated invalid result; not representative
+* :p:`Systematic:` all results shifted consistently too high or too low
+* :r:`Random:` results scattered around the true value
+* :o:`Personal:` isolated invalid result; not representative
 
 **Step 4 — Suggest an improvement**
 
-* :P:`Systematic` → eliminate the source (recalibrate, redesign, correct setup)
-* :R:`Random` → repeat and average; increase sample size
-* :O:`Personal` → repeat the measurement or re-read the data correctly
+* :p:`Systematic` → eliminate the source (recalibrate, redesign, correct setup)
+* :r:`Random` → repeat and average; increase sample size
+* :o:`Personal` → repeat the measurement or re-read the data correctly
 
 ----
 
@@ -84,46 +84,46 @@ Quick Reference: Error Source to Classification to Fix
       - Source Category
       - Classification
       - Fix / Reduce by…
-    * - :P:`Zero error`
+    * - :p:`Zero error`
       - Instrumental
-      - :P:`Systematic`
-      - :P:`Zero instrument before use`
-    * - :P:`Calibration error`
+      - :p:`Systematic`
+      - :p:`Zero instrument before use`
+    * - :p:`Calibration error`
       - Instrumental
-      - :P:`Systematic`
-      - :P:`Verify or recalibrate equipment`
-    * - :P:`Parallax error`
+      - :p:`Systematic`
+      - :p:`Verify or recalibrate equipment`
+    * - :p:`Parallax error`
       - Observational
-      - :P:`Systematic`
-      - :P:`Read scale at eye level`
-    * - :P:`Method limitation`
+      - :p:`Systematic`
+      - :p:`Read scale at eye level`
+    * - :p:`Method limitation`
       - Method
-      - :P:`Systematic`
-      - :P:`Redesign experiment`
-    * - :P:`Environmental bias`
+      - :p:`Systematic`
+      - :p:`Redesign experiment`
+    * - :p:`Environmental bias`
       - Environmental
-      - :P:`Systematic`
-      - :P:`Identify and correct the condition before data collection`
-    * - :R:`Resolution limitation`
+      - :p:`Systematic`
+      - :p:`Identify and correct the condition before data collection`
+    * - :r:`Resolution limitation`
       - Instrumental
-      - :R:`Random`
-      - :R:`Higher-resolution instrument`
-    * - :R:`Minor technique variation`
+      - :r:`Random`
+      - :r:`Higher-resolution instrument`
+    * - :r:`Minor technique variation`
       - Observational
-      - :R:`Random`
-      - :R:`Standardise procedure; repeat and average`
-    * - :R:`Environmental variation`
+      - :r:`Random`
+      - :r:`Standardise procedure; repeat and average`
+    * - :r:`Environmental variation`
       - Environmental
-      - :R:`Random`
-      - :R:`Monitor conditions; repeat and average`
-    * - :O:`Operator / technique error`
+      - :r:`Random`
+      - :r:`Monitor conditions; repeat and average`
+    * - :o:`Operator / technique error`
       - Observational
-      - :O:`Personal`
-      - :O:`Follow procedure; repeat trial`
-    * - :O:`Recording error`
+      - :o:`Personal`
+      - :o:`Follow procedure; repeat trial`
+    * - :o:`Recording error`
       - Observational
-      - :O:`Personal`
-      - :O:`Check and re-read data`
+      - :o:`Personal`
+      - :o:`Check and re-read data`
 
 .. image:: images/errors_infographic.png
    :alt: Errors Infographic

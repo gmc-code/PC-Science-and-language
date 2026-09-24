@@ -14,132 +14,67 @@ Examples
 - Share research benefits broadly, not only with well-resourced institutions.
 - Publish findings in open-access formats so all researchers can access and build on them.
 
+----
+
+Fill in the gaps quiz
+----------------------
+
+.. cloze::
+    :instructions: Complete the following by filling in the missing words.
+
+    1. Participants must be allowed to @@choose@@ whether they want to take part in a study.
+    2. Survey questions should @@convey@@ clear meaning so everyone can understand them.
+    3. Researchers must @@interpret@@ data without favouring any group.
+    4. A study sample should @@include@@ a wide range of people to ensure fairness.
+    5. Scientists should @@share@@ their findings in ways that allow others to access and build on them.
 
 ----
 
-.. admonition:: Fill in the Gaps — Fairness
-    :class: cloze
+Multiple choice quiz
+----------------------
 
-    Complete the following by filling in the missing words.
+.. multichoicepage::
 
-    **Word list (A → Z):**
-    convey • decide • include • interpret • share
+    Why is it important to let people choose whether to participate in a study?
 
-    1. Participants must be allowed to ______________ whether they want to take part in a study.
+    [x] It ensures participation is voluntary
+    [ ] It increases the number of responses
+    [ ] It avoids writing consent forms
+    [ ] It makes the study faster
 
-    2. Survey questions should ______________ clear meaning so everyone can understand them.
+.. multichoicepage::
 
-    3. Researchers must ______________ data without favouring any group.
+    What makes a survey question fair?
 
-    4. A study sample should ______________ a wide range of people to ensure fairness.
+    [ ] Asking only yes/no questions
+    [x] Writing it in plain, understandable language
+    [ ] Making it sound impressive
+    [ ] Using complex scientific terms
 
-    5. Scientists should ______________ their findings in ways that allow others to access and build on them.
+.. multichoicepage::
 
+    What is an example of unbiased data interpretation?
 
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-cloze
+    [x] Applying the same criteria to all data
+    [ ] Selecting only the smallest data sets
+    [ ] Favouring one group's responses
+    [ ] Ignoring results that don't fit expectations
 
-        .. tab-set::
+.. multichoicepage::
 
-            .. tab-item:: Answers
+    Why should a study include a diverse sample?
 
-                1. decide
-                2. convey
-                3. interpret
-                4. include
-                5. share
+    [ ] To reduce the number of variables
+    [ ] To avoid collecting too much data
+    [ ] To make the report longer
+    [x] To ensure conclusions apply fairly to different groups
 
-----
+.. multichoicepage::
 
-.. admonition:: Multiple-Choice Questions
-    :class: mcq
+    Why is open access important for fairness in science?
 
-    Choose the best answer for each question.
-
-    .. tab-set::
-        :sync-group: set1
-
-        .. tab-item:: Q1
-            :sync: q1
-
-            1. Why is it important to let people choose whether to participate in a study?
-
-                | a. It ensures participation is voluntary
-                | b. It increases the number of responses
-                | c. It avoids writing consent forms
-                | d. It makes the study faster
-
-        .. tab-item:: Q2
-            :sync: q2
-
-            2. What makes a survey question fair?
-
-                | a. Asking only yes/no questions
-                | b. Writing it in plain, understandable language
-                | c. Making it sound impressive
-                | d. Using complex scientific terms
-
-        .. tab-item:: Q3
-            :sync: q3
-
-            3. What is an example of unbiased data interpretation?
-
-                | a. Applying the same criteria to all data
-                | b. Selecting only the smallest data sets
-                | c. Favouring one group's responses
-                | d. Ignoring results that don't fit expectations
-
-        .. tab-item:: Q4
-            :sync: q4
-
-            4. Why should a study include a diverse sample?
-
-                | a. To reduce the number of variables
-                | b. To avoid collecting too much data
-                | c. To make the report longer
-                | d. To ensure conclusions apply fairly to different groups
-
-        .. tab-item:: Q5
-            :sync: q5
-
-            5. Why is open access important for fairness in science?
-
-                | a. It increases printing costs
-                | b. It limits who can read the research
-                | c. It allows all researchers to use and build on the findings
-                | d. It makes the study more secretive
-
-
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-mcq
-
-        .. tab-set::
-            :sync-group: set1
-
-            .. tab-item:: Q1
-                :sync: q1
-
-                1. a — It ensures participation is voluntary
-
-            .. tab-item:: Q2
-                :sync: q2
-
-                2. b — Writing it in plain, understandable language
-
-            .. tab-item:: Q3
-                :sync: q3
-
-                3. a — Applying the same criteria to all data
-
-            .. tab-item:: Q4
-                :sync: q4
-
-                4. d — To ensure conclusions apply fairly to different groups
-
-            .. tab-item:: Q5
-                :sync: q5
-
-                5. c — It allows all researchers to use and build on the findings
+    [ ] It increases printing costs
+    [ ] It limits who can read the research
+    [x] It allows all researchers to use and build on the findings
+    [ ] It makes the study more secretive
 
