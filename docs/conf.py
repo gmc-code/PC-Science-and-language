@@ -28,28 +28,20 @@ def setup(app):
     roles_to_register = [
         # Experimental / Variables
         "p", "r", "o", "pb", "rb", "ob", "iv", "dv", "cv", "ivb", "dvb", "cvb",
-
         # Theme / Rheme
         "theme", "rheme", "themep", "rhemep", "themeb", "rhemeb",
-
         # SFL Functional Roles (Bordered)
         "process", "participant", "circ", "conj", "part",
-
         # SFL Functional Roles (Filled Chips)
         "processb", "participantb", "circb", "conjb", "partb",
-
         # SFL Functional Roles (Plain Text)
         "processp", "participantp", "circp", "conjp", "partp",
-
         # Clause Structure Roles (Bordered)
         "depclause", "embedded", "relative", "projected",
-
         # Clause Structure Roles (Filled Chips)
         "depclauseb", "embeddedb", "relativeb", "projectedb",
-
         # Clause Structure Roles (Plain Text)
         "depclausep", "embeddedp", "relativep", "projectedp",
-
         # Formatting / Utility
         "rubricsmall"
     ]
@@ -102,6 +94,7 @@ extensions = [
     "ordering.ordering",  # custom directive
     "textselect.textselect",  # custom directive
     "wordjumble.wordjumble",  # custom directive
+    "structuredquestion.structuredquestion",  # custom directive
     "labels.labels",  # custom directive
 ]
 

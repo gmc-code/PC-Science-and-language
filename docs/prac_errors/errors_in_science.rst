@@ -125,12 +125,6 @@ Quick Reference: Error Source to Classification to Fix
       - :o:`Personal`
       - :o:`Check and re-read data`
 
-.. image:: images/errors_infographic.png
-   :alt: Errors Infographic
-   :align: center
-   :scale: 60%
-
-
 ----
 
 .. admonition:: Multiple-Choice Questions
@@ -139,87 +133,67 @@ Quick Reference: Error Source to Classification to Fix
     Choose the best answer for each question.
 
     .. tab-set::
-        :sync-group: set1
 
         .. tab-item:: Q1
-            :sync: q1
 
-            A student consistently measures a length that is 2 mm too high due to a misaligned ruler zero point. What type of error is this?
+            .. multichoice::
 
-            | a. Random error
-            | b. Personal error
-            | c. Systematic error
-            | d. Environmental variation
+                A student consistently measures a length that is 2 mm too high due to a misaligned ruler zero point. What type of error is this?
+
+                [ ] Random error
+                [ ] Personal error
+                [x] Systematic error
+                [ ] Environmental variation
 
         .. tab-item:: Q2
-            :sync: q2
 
-            A thermometer gives slightly different readings each time the same temperature is measured due to small fluctuations in reading position. What is the main error type?
+            .. multichoice::
 
-            | a. Systematic error
-            | b. Random error
-            | c. Method error
-            | d. Calibration error
+                A thermometer gives slightly different readings each time the same temperature is measured due to small fluctuations in reading position. What is the main error type?
+
+                [ ] Systematic error
+                [x] Random error
+                [ ] Method error
+                [ ] Calibration error
+
 
         .. tab-item:: Q3
-            :sync: q3
 
-            A student misreads the meniscus of a liquid in a measuring cylinder and records the wrong value once. How should this error be classified?
+            .. multichoice::
 
-            | a. Systematic error
-            | b. Random error
-            | c. Personal error
-            | d. Environmental bias
+                A student misreads the meniscus of a liquid in a measuring cylinder and records the wrong value once. How should this error be classified?
+
+                [ ] Systematic error
+                [ ] Random error
+                [x] Personal error
+                [ ] Environmental bias
 
         .. tab-item:: Q4
-            :sync: q4
 
-            Which of the following is an example of a **systematic instrumental error**?
+            .. multichoice::
 
-            | a. Random vibration affecting measurements
-            | b. Consistent zero error in a balance
-            | c. A one-off recording mistake
-            | d. Variation in lighting conditions
+                Which of the following is an example of a **systematic instrumental error**?
+
+                [ ] Random vibration affecting measurements
+                [x] Consistent zero error in a balance
+                [ ] A one-off recording mistake
+                [ ] Variation in lighting conditions
 
         .. tab-item:: Q5
-            :sync: q5
 
-            A scientist improves an experiment by increasing the number of repeated trials and averaging results. Which type of error is this mainly addressing?
+            .. multichoice::
 
-            | a. Systematic error
-            | b. Random error
-            | c. Personal error
-            | d. Method limitation
+                A scientist improves an experiment by increasing the number of repeated trials and averaging results. Which type of error is this mainly addressing?
+
+                [ ] Systematic error
+                [x] Random error
+                [ ] Personal error
+                [ ] Method limitation
 
 
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-mcq
+----
 
-        .. tab-set::
-            :sync-group: set1
-
-            .. tab-item:: Q1
-                :sync: q1
-
-                c — Systematic error
-
-            .. tab-item:: Q2
-                :sync: q2
-
-                b — Random error
-
-            .. tab-item:: Q3
-                :sync: q3
-
-                c — Personal error
-
-            .. tab-item:: Q4
-                :sync: q4
-
-                b — Consistent zero error in a balance
-
-            .. tab-item:: Q5
-                :sync: q5
-
-                b — Random error
+.. image:: images/errors_infographic.png
+   :alt: Errors Infographic
+   :align: center
+   :scale: 60%
