@@ -1,8 +1,68 @@
 ========================================
-2D: Discovering the Kingdoms Jumblewords
+2D Discovering the Kingdoms Jumblewords
 ========================================
 
-How Classification Changed Over Time
+History of Classification and Microscopy
+========================================
+
+.. wordjumble::
+    :keep-first:
+    :keep-last:
+    :letters: 2
+
+    microscope microorganisms
+
+----
+
+The Animal Kingdom
+==================
+
+.. wordjumble::
+    :keep-first:
+    :keep-last:
+    :letters: 2
+
+    phylum invertebrates vertebrates
+
+----
+
+The Plant Kingdom
+=================
+
+.. wordjumble::
+    :keep-first:
+    :keep-last:
+    :letters: 2
+
+    angiosperms gymnosperms spores pollination
+
+----
+
+The Protist Kingdom
+===================
+
+.. wordjumble::
+    :keep-first:
+    :keep-last:
+    :letters: 2
+
+    protista protozoa
+
+----
+
+The Fungi Kingdom
+=================
+
+.. wordjumble::
+    :keep-first:
+    :keep-last:
+    :letters: 2
+
+    fungi yeasts
+
+----
+
+The Monera Kingdom and Three Domains
 ====================================
 
 .. wordjumble::
@@ -10,28 +70,4 @@ How Classification Changed Over Time
     :keep-last:
     :letters: 2
 
-    binomial microscope nomenclature taxonomy
-
-----
-
-The Five Kingdoms of Life
-=========================
-
-.. wordjumble::
-    :keep-first:
-    :keep-last:
-    :letters: 2
-
-    autotroph heterotroph prokaryote
-
-----
-
-Modern Domains and Grammar Skills
-=================================
-
-.. wordjumble::
-    :keep-first:
-    :keep-last:
-    :letters: 2
-
-    domain nominalisation
+    monera bacteria archaea

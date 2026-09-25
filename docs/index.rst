@@ -19,19 +19,20 @@ PC-Science-and-language
 .. toctree::
     :maxdepth: 2
     :caption: 🤔 Y7 ch 2 Biology Summaries
-    :numbered:
 
     summaries/Y7_ch2/2A.rst
-    summaries/Y7_ch2/2B.rst
-    summaries/Y7_ch2/2C.rst
-    summaries/Y7_ch2/2D.rst
-
     vocab/Y7_ch2/2A_jumblewords.rst
     vocab/Y7_ch2/2A_keyterms.rst
+
+    summaries/Y7_ch2/2B.rst
     vocab/Y7_ch2/2B_jumblewords.rst
     vocab/Y7_ch2/2B_keyterms.rst
+
+    summaries/Y7_ch2/2C.rst
     vocab/Y7_ch2/2C_jumblewords.rst
     vocab/Y7_ch2/2C_keyterms.rst
+
+    summaries/Y7_ch2/2D.rst
     vocab/Y7_ch2/2D_jumblewords.rst
     vocab/Y7_ch2/2D_keyterms.rst
 
@@ -39,22 +40,24 @@ PC-Science-and-language
 .. toctree::
     :maxdepth: 2
     :caption: 🤔 Y7 ch 3 Biology Summaries
-    :numbered:
 
     summaries/Y7_ch3/3A.rst
-    summaries/Y7_ch3/3B.rst
-    summaries/Y7_ch3/3C.rst
-    summaries/Y7_ch3/3D.rst
-    summaries/Y7_ch3/3E.rst
-
     vocab/Y7_ch3/3A_jumblewords.rst
     vocab/Y7_ch3/3A_keyterms.rst
+
+    summaries/Y7_ch3/3B.rst
     vocab/Y7_ch3/3B_jumblewords.rst
     vocab/Y7_ch3/3B_keyterms.rst
+
+    summaries/Y7_ch3/3C.rst
     vocab/Y7_ch3/3C_jumblewords.rst
     vocab/Y7_ch3/3C_keyterms.rst
+
+    summaries/Y7_ch3/3D.rst
     vocab/Y7_ch3/3D_jumblewords.rst
     vocab/Y7_ch3/3D_keyterms.rst
+
+    summaries/Y7_ch3/3E.rst
     vocab/Y7_ch3/3E_jumblewords.rst
     vocab/Y7_ch3/3E_keyterms.rst
 
@@ -63,7 +66,6 @@ PC-Science-and-language
 .. toctree::
     :maxdepth: 2
     :caption: 🤔 Year 8 Energy Summaries
-    :numbered:
 
     summaries/Y8_ch6/6A.rst
     summaries/Y8_ch6/6B.rst
@@ -99,7 +101,6 @@ PC-Science-and-language
     :maxdepth: 2
     :caption: 💎 Rocks
     :numbered:
-
 
     rocks/rocks_nominalisations.rst
     rocks/rocks_nominalisations2.rst
@@ -248,7 +249,6 @@ PC-Science-and-language
     prac_ethics/ethics_fairness.rst
     prac_ethics/ethics_respect_for_others.rst
     prac_ethics/ethics_avoidance_of_harm.rst
-    prac_ethics/ethics_avoidance_of_harm copy.rst
     prac_ethics/ethics_doing_good.rst
 
 

@@ -95,6 +95,175 @@ the experimental method before data collection begins.
 * Pilot the method before full data collection to identify and correct
   design flaws early.
 
+----
+
+Method Limitation Quiz
+------------------------------------
+
+
+.. admonition:: Fill in the Gaps — Method Limitation
+    :class: cloze
+
+    .. cloze::
+        :instructions: Complete the following by filling in the missing words.
+
+        1. A method limitation occurs when a flaw in the experimental @@design@@ causes a consistent offset in the data.
+        2. Because a method limitation introduces a consistent bias across all trials, it is classified as a @@systematic@@ error.
+        3. According to the secondary error classification, this type of error belongs to the @@method@@ source category.
+        4. Method limitations reduce the @@accuracy@@ of the results, whereas precision remains unaffected.
+        5. To eliminate a method limitation, the experiment must be @@redesigned@@ to establish a proper reference point.
+
+----
+
+.. admonition:: Multiple-Choice Questions
+    :class: mcq
+
+    Choose the best answer for each question.
+
+    .. tab-set::
+
+        .. tab-item:: Q1
+
+            .. multichoicepage::
+
+                Measuring plant height to the tip of the tallest leaf instead of the top of the main stem causes a consistent overestimate. How is this error primary classified?
+
+                [ ] Random error
+                [x] Systematic error
+                [ ] Personal error
+                [ ] Environmental variation
+
+        .. tab-item:: Q2
+
+            .. multichoicepage::
+
+                Which of the following best describes the source category of an error caused by a flawed experimental design or measurement point?
+
+                [ ] Instrumental
+                [ ] Observational / Procedural
+                [x] Method
+                [ ] Environmental
+
+        .. tab-item:: Q3
+
+            .. multichoicepage::
+
+                A group uses a method that consistently overestimates plant height due to leaf curvature. What effect does this method limitation have on the data?
+
+                [ ] It decreases precision while keeping accuracy high.
+                [x] It decreases accuracy while precision remains unaffected.
+                [ ] It decreases both accuracy and precision equally.
+                [ ] It increases accuracy because leaves contribute to height.
+
+        .. tab-item:: Q4
+
+            .. multichoicepage::
+
+                A student measures to the tip of a curved leaf, repeating the trial three times on the same day and calculating a mean. How does averaging affect this method limitation?
+
+                [ ] It completely cancels out the overestimate.
+                [ ] It reduces the systematic error by one-third.
+                [x] It has no effect, as every repeat uses the same flawed method.
+                [ ] It converts the method limitation into a random error.
+
+        .. tab-item:: Q5
+
+            .. multichoicepage::
+
+                What is the most effective way to eliminate a method limitation in an experiment?
+
+                [ ] Repeat the trials a greater number of times.
+                [ ] Use a higher-resolution ruler or measuring tape.
+                [x] Redesign the method to define a clear, consistent reference point.
+                [ ] Ask a different person to take all the measurements.
+
+----
+
+.. admonition:: Structured Question: Method Limitation
+    :class: shortanswer
+
+    .. structuredquestion:: Method Limitation Investigation
+        :total-marks: 8
+        :category: Systematic Errors
+
+        .. stimulus::
+            A Year 8 class is investigating whether plants grow taller when given
+            more water. Each group plants five bean seeds in identical pots of soil
+            and waters them with different volumes of water each day for two weeks.
+            At the end of the investigation, students measure the height of each
+            plant by placing a ruler next to the stem and reading the value at the
+            tip of the tallest leaf.
+
+            One student notices that measuring to the tip of the tallest leaf gives
+            different results depending on which leaf happens to be growing fastest
+            that day. Another student points out that the tallest leaf is not always
+            growing in a straight line upward — some leaves curve outward, making
+            the plant appear taller than it actually is.
+
+        .. tab-set::
+
+            .. tab-item:: Part (a)
+
+                .. subquestion:: Identify the error
+                    :marks: 2
+
+                    Identify the type of error introduced by measuring to the tip
+                    of the tallest leaf rather than the top of the main stem, and classify
+                    it as random, systematic, or personal.
+
+                    .. model-answer::
+                        The error is a **method limitation** *(1 mark)*, classified as a **systematic error** *(1 mark)*.
+
+                    .. marking-guidance::
+                        Accept "method limitation" or "flaw in the experimental design." Do not accept "parallax error" — the issue is not the viewing angle but the reference point defined in the method. Do not accept "operator error" — the same incorrect result would occur regardless of which student took the measurement, as the flaw is in the method itself.
+
+            .. tab-item:: Part (b)
+
+                .. subquestion:: Effect on measurements
+                    :marks: 3
+
+                    Explain how this error would affect the group's height
+                    measurements. In your answer, refer to its effect on the accuracy and
+                    precision of the results.
+
+                    .. model-answer::
+                        - Measuring to the tip of the tallest leaf consistently **overestimates** the true height of the plant. *(1 mark)*
+                        - **Accuracy** is reduced because all recorded heights are consistently higher than the true stem height. *(1 mark)*
+                        - **Precision** is unaffected (or appears unaffected) if the same leaf is measured each time, as repeated readings will agree with each other. *(1 mark)*
+
+                    .. marking-guidance::
+                        - **Direction:** Award the mark only if the student identifies overestimation and links it to the leaf extending beyond the stem.
+                        - **Precision:** Award for a response that correctly notes results may appear precise while still being displaced from the true value — this is the key insight that distinguishes method limitations from random errors.
+
+            .. tab-item:: Part (c)
+
+                .. subquestion:: Repeating measurements
+                    :marks: 2
+
+                    The group repeats each height measurement three times on the
+                    same day and calculates a mean. Evaluate whether this would reduce the
+                    effect of the error identified in part (a).
+
+                    .. model-answer::
+                        - Repeating measurements would **not** reduce the effect of this error. *(1 mark)*
+                        - Averaging does not cancel a consistent offset caused by a design flaw — every repeat uses the same flawed reference point and produces the same overestimate. *(1 mark)*
+
+                    .. marking-guidance::
+                        A response that states "repeating reduces error" without explaining why the flaw persists across every repeat should not receive full marks. The key reasoning is that the same flawed reference point is used in every trial.
+
+            .. tab-item:: Part (d)
+
+                .. subquestion:: Improvement
+                    :marks: 1
+
+                    Describe one improvement to the method that would reduce or
+                    eliminate this error.
+
+                    .. model-answer::
+                        Redefine the measurement point in the method by measuring from the soil surface to the top of the main stem only, excluding leaves. *(1 mark)*
+
+                    .. marking-guidance::
+                        Accept any response that redefines the measurement point to the top of the main stem, marks a consistent reference point, or uses a method that avoids the ambiguity of leaf position (e.g., measuring stem height at a fixed node). Do not accept "repeat measurements" as this has already been evaluated as ineffective in part (c).
 
 ----
 

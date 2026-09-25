@@ -84,96 +84,163 @@ instruments designed to minimise the effect.
 
 ----
 
+Parallax Error Quiz
+------------------------------------
+
+.. admonition:: Fill in the Gaps — Parallax Error
+    :class: cloze
+
+    .. cloze::
+        :instructions: Complete the following by filling in the missing words.
+
+        1. A parallax error occurs when a scale or meniscus is viewed from an @@angle@@ rather than straight on.
+        2. If an observer consistently reads a scale from the same wrong position, the error is classified as @@systematic@@.
+        3. A parallax error belongs to the @@observational@@ source category.
+        4. Parallax error reduces the @@accuracy@@ of recorded data, whereas precision remains unaffected.
+        5. To eliminate parallax error, ensure your line of sight is @@level@@ with the scale being read.
+
+----
+
+.. admonition:: Multiple-Choice Questions
+    :class: mcq
+
+    Choose the best answer for each question.
+
+    .. tab-set::
+
+        .. tab-item:: Q1
+
+            .. multichoice::
+
+                A student consistently reads a burette from below eye level, causing all volume measurements to appear higher than they actually are. How is this error classified?
+
+                [ ] Random error
+                [x] Systematic error
+                [ ] Personal error
+                [ ] Environmental variation
+
+        .. tab-item:: Q2
+
+            .. multichoice::
+
+                Which source category does a parallax error belong to when caused by an improper viewing angle during reading?
+
+                [ ] Instrumental
+                [x] Observational / Procedural
+                [ ] Method
+                [ ] Environmental
+
+        .. tab-item:: Q3
+
+            .. multichoice::
+
+                How does a consistent parallax error affect the measurements recorded during an experiment?
+
+                [ ] It decreases precision while accuracy remains high.
+                [x] It decreases accuracy while precision remains unaffected.
+                [ ] It decreases both accuracy and precision equally.
+                [ ] It increases accuracy by removing random fluctuations.
+
+        .. tab-item:: Q4
+
+            .. multichoice::
+
+                A student measures the liquid level in a cylinder from the same incorrect high angle three times and calculates the average. What effect does averaging have on this parallax error?
+
+                [ ] It completely eliminates the error.
+                [ ] It reduces the error proportionally with each repeat.
+                [x] It does not reduce the effect of the error.
+                [ ] It converts the systematic error into a random error.
+
+        .. tab-item:: Q5
+
+            .. multichoice::
+
+                Which of the following is the most effective technique to eliminate parallax error when reading an analogue scale?
+
+                [ ] Take multiple readings quickly and calculate the mean.
+                [ ] Use a higher-resolution ruler or scale.
+                [x] Position your line of sight directly level with the meniscus or scale marking.
+                [ ] Subtract a random value from every trial to adjust the measurement.
+
+----
 
 .. admonition:: Structured Question: Parallax Error
     :class: shortanswer
 
-    A student is investigating the relationship between the volume of sodium
-    hydroxide solution and the temperature change produced when it is added
-    to a fixed volume of hydrochloric acid. The student uses a burette to
-    measure the volume of sodium hydroxide delivered in each trial.
-    Throughout the experiment, the student reads the burette from slightly
-    below eye level.
+    .. structuredquestion:: Parallax Error Investigation
+        :total-marks: 8
+        :category: Systematic Errors
 
-    **(a)** Identify the type of error introduced by the student's reading
-    technique and classify it as random, systematic, or personal. *(2 marks)*
-
-    **(b)** Explain how this error would affect the student's volume
-    measurements. In your answer, refer to the direction of the error and
-    its effect on the accuracy and precision of the results. *(3 marks)*
-
-    **(c)** The student repeats each volume measurement three times and
-    calculates a mean. Evaluate whether this would reduce the effect of the
-    error identified in part (a). *(2 marks)*
-
-    **(d)** Describe one improvement the student could make to eliminate
-    this error. *(1 mark)*
-
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-shortanswer
+        .. stimulus::
+            A student is investigating the relationship between the volume of sodium
+            hydroxide solution and the temperature change produced when it is added
+            to a fixed volume of hydrochloric acid. The student uses a burette to
+            measure the volume of sodium hydroxide delivered in each trial.
+            Throughout the experiment, the student reads the burette from slightly
+            below eye level.
 
         .. tab-set::
 
-            .. tab-item:: Model Answer
+            .. tab-item:: Part (a)
 
-                **(a)**
+                .. subquestion:: Identify the error
+                    :marks: 2
 
-                The error is a **parallax error**, classified as a **systematic
-                error**.
+                    Identify the type of error introduced by the student's reading
+                    technique and classify it as random, systematic, or personal.
 
-                *(1 mark for naming parallax error; 1 mark for systematic)*
+                    .. model-answer::
+                        The error is a **parallax error** *(1 mark)*, classified as a **systematic error** *(1 mark)*.
 
-                **(b)**
+                    .. marking-guidance::
+                        Award 1 mark for naming parallax error and 1 mark for classifying as systematic error.
 
-                Because the student's eye is consistently positioned below the
-                level of the meniscus, the meniscus appears higher on the burette
-                scale than its true position. This means the volume reading will
-                be consistently **overestimated** — every reading is displaced in
-                the same direction by a similar amount. *(1 mark)*
+            .. tab-item:: Part (b)
 
-                The **accuracy** of the results is reduced, as all recorded
-                volumes are higher than the true volume delivered. *(1 mark)*
+                .. subquestion:: Effect on measurements
+                    :marks: 3
 
-                The **precision** is unaffected — because the eye is in the same
-                wrong position for every reading, the repeated measurements will
-                agree closely with each other. *(1 mark)*
+                    Explain how this error would affect the student's volume
+                    measurements. In your answer, refer to the direction of the error and
+                    its effect on the accuracy and precision of the results.
 
-                **(c)**
+                    .. model-answer::
+                        - Every measurement is consistently **overestimated** because the meniscus appears higher than its true position. *(1 mark)*
+                        - **Accuracy** is reduced because recorded volumes are higher than the true volume delivered. *(1 mark)*
+                        - **Precision** is unaffected because the eye is in the same incorrect position for every reading. *(1 mark)*
 
-                Repeating measurements and calculating a mean would **not** reduce
-                the effect of this error. *(1 mark)*
+                    .. marking-guidance::
+                        - **Direction:** Award only if overestimation (or reading higher) is specified, as the eye is positioned below the meniscus.
+                        - **Precision:** Award only if stated as unaffected with valid reasoning. A response that states precision is reduced should not receive the mark.
 
-                Because the eye is in the same incorrect position for every
-                reading, each repeat is displaced by the same amount in the same
-                direction. Averaging does not cancel a consistent offset — it only
-                reduces the effect of random errors, which vary unpredictably
-                between trials. *(1 mark)*
+            .. tab-item:: Part (c)
 
-                **(d)**
+                .. subquestion:: Repeating measurements
+                    :marks: 2
 
-                The student should position their eye directly level with the
-                meniscus before taking each reading, ensuring the line of sight
-                is horizontal and perpendicular to the burette scale. *(1 mark)*
+                    The student repeats each volume measurement three times and
+                    calculates a mean. Evaluate whether this would reduce the effect of the
+                    error identified in part (a).
 
-            .. tab-item:: Marking Guidance
+                    .. model-answer::
+                        - Repeating measurements would **not** reduce the effect of this error. *(1 mark)*
+                        - Averaging does not cancel a consistent offset — it only reduces random errors that vary unpredictably between trials. *(1 mark)*
 
-                **Part (b):** award marks only if the student correctly
-                identifies the direction (overestimate, since the eye is below
-                the meniscus) and correctly distinguishes between accuracy
-                (reduced) and precision (unaffected). A response that states
-                precision is also reduced should not receive the precision mark.
+                    .. marking-guidance::
+                        A response that simply states "repeating reduces error" without explaining why it does not apply to systematic error should not receive full marks.
 
-                **Part (c):** a response that simply states "repeating reduces
-                error" without explaining *why* it does not apply to systematic
-                error should not receive full marks.
+            .. tab-item:: Part (d)
 
-                **Part (d):** accept "use a digital burette" or "use a burette
-                with a mirror scale and align the pointer with its reflection"
-                as alternative valid responses.
+                .. subquestion:: Improvement
+                    :marks: 1
 
+                    Describe one improvement the student could make to eliminate
+                    this error.
 
+                    .. model-answer::
+                        Position the eye directly level with the meniscus before taking each reading so the line of sight is horizontal to the burette scale. *(1 mark)*
 
-
-
+                    .. marking-guidance::
+                        Accept "use a digital burette" or "use a burette with a mirror scale and align the pointer with its reflection" as alternative valid responses.
 

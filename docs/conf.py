@@ -84,6 +84,7 @@ extensions = [
     'sphinx_design',
     "sphinx_new_tab_link",
     'sphinx.ext.mathjax',
+    "sphinx.ext.imgconverter",   # for pdf build of converted svgs
     "multichoicepage.multichoicepage",  # custom directive
     "multichoice.multichoice",  # custom directive
     "trueorfalse.trueorfalse",  # custom directive

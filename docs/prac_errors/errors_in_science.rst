@@ -73,6 +73,13 @@ sources of error.
 
 ----
 
+.. image:: images/errors_infographic.png
+   :alt: Errors Infographic
+   :align: center
+   :scale: 60%
+
+----
+
 Quick Reference: Error Source to Classification to Fix
 ----------------------------------------------------------
 
@@ -127,6 +134,41 @@ Quick Reference: Error Source to Classification to Fix
 
 ----
 
+Errors Quiz
+-------------------
+
+.. admonition:: Classification Task — Error Categories
+    :class: match
+
+    Classify each error scenario into its primary classification category (Systematic, Random, or Personal).
+
+    .. classifying::
+        :bins: Systematic, Random, Personal
+
+        Zero error on a digital balance | 0
+        Resolution limitation of a measuring cylinder | 1
+        Parallax error from reading a scale consistently from above | 0
+        Recording error from miswriting a data point | 2
+        Environmental variation caused by air currents | 1
+        Operator error from skipping a required procedural step | 2
+
+
+----
+
+.. admonition:: Fill in the Gaps — Types of Errors in Scientific Experiments
+    :class: cloze
+
+    .. cloze::
+        :instructions: Complete the following by filling in the missing words using the error analysis framework.
+
+        1. A consistent, one-direction shift in data affects the accuracy of a measurement and is classified as a @@systematic@@ error.
+        2. Unpredictable environmental fluctuations cause data points to scatter randomly, which impacts the @@precision@@ of the results.
+        3. A zero error caused by an uncalibrated instrument falls under the @@instrumental@@ source category.
+        4. Unlike systematic errors, random errors can best be reduced by increasing sample size and taking an @@average@@ of the results.
+        5. A one-off mistake caused by an operator misreading or incorrectly recording a value is categorized as a @@personal@@ error.
+
+----
+
 .. admonition:: Multiple-Choice Questions
     :class: mcq
 
@@ -136,7 +178,7 @@ Quick Reference: Error Source to Classification to Fix
 
         .. tab-item:: Q1
 
-            .. multichoice::
+            .. multichoicepage::
 
                 A student consistently measures a length that is 2 mm too high due to a misaligned ruler zero point. What type of error is this?
 
@@ -147,7 +189,7 @@ Quick Reference: Error Source to Classification to Fix
 
         .. tab-item:: Q2
 
-            .. multichoice::
+            .. multichoicepage::
 
                 A thermometer gives slightly different readings each time the same temperature is measured due to small fluctuations in reading position. What is the main error type?
 
@@ -159,7 +201,7 @@ Quick Reference: Error Source to Classification to Fix
 
         .. tab-item:: Q3
 
-            .. multichoice::
+            .. multichoicepage::
 
                 A student misreads the meniscus of a liquid in a measuring cylinder and records the wrong value once. How should this error be classified?
 
@@ -170,7 +212,7 @@ Quick Reference: Error Source to Classification to Fix
 
         .. tab-item:: Q4
 
-            .. multichoice::
+            .. multichoicepage::
 
                 Which of the following is an example of a **systematic instrumental error**?
 
@@ -181,7 +223,7 @@ Quick Reference: Error Source to Classification to Fix
 
         .. tab-item:: Q5
 
-            .. multichoice::
+            .. multichoicepage::
 
                 A scientist improves an experiment by increasing the number of repeated trials and averaging results. Which type of error is this mainly addressing?
 
@@ -191,9 +233,4 @@ Quick Reference: Error Source to Classification to Fix
                 [ ] Method limitation
 
 
-----
 
-.. image:: images/errors_infographic.png
-   :alt: Errors Infographic
-   :align: center
-   :scale: 60%

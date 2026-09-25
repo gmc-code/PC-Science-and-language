@@ -82,7 +82,7 @@
 /* --- Subquestions --- */
 .sq-subquestion {
   border-top: 1px solid #e1e4e8;
-  padding: 16px 20px;
+  padding: 10px;
   background-color: #ffffff;
   transition: background-color 0.2s ease;
 }
@@ -272,7 +272,7 @@
 .sq-answer-drawer ol {
   line-height: 1.2em !important;
   margin: 2px 0 !important;
-  padding-left: 18px !important;
+  padding-left: 0px !important;
 }
 
 .sq-answer-drawer li {
@@ -291,66 +291,112 @@
   to { opacity: 1; transform: translateY(0); }
 }
 
-
 /* ============================================================
    PRINT STYLESHEET
+   Prints every .sq-container in normal document flow.
+
+   Strategy: rather than hiding the page with `visibility: hidden`
+   (which still reserves space -> blank trailing pages) and pulling one
+   container to the top with `position: absolute` (which makes multiple
+   containers overlap), we remove everything that is not part of a
+   structured question from layout with `display: none`, and flatten the
+   ancestors of the questions so they flow like a plain document.
+   Requires :has() (Chrome/Edge 105+, Safari 15.4+, Firefox 121+).
    ============================================================ */
 @media print {
-  /* 1. Specifically target and hide the Sphinx ReadTheDocs navigation, breadcrumbs, and page headers */
-  div[role="navigation"],
-  .wy-breadcrumbs,
-  .wy-breadcrumbs-aside,
-  .rst-breadcrumbs-buttons,
-  .rst-content > div[role="navigation"],
-  .rst-content hr,
-  h1,
-  header,
-  nav,
-  .bd-header,
-  .bd-sidebar {
+  @page {
+    margin: 1cm;
+  }
+
+  html, body {
+    height: auto !important;
+    min-height: 0 !important;
+    overflow: visible !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: #ffffff !important;
+  }
+
+  /* 1. Remove from layout anything that neither contains nor is inside
+        a structured question (sidebars, nav, headings, other prose,
+        code blocks, footers...). */
+  body *:not(.sq-container):not(.sq-container *):not(:has(.sq-container)) {
     display: none !important;
   }
 
-  /* 2. Remove margin/padding gaps left behind by hidden header elements */
-  body,
-  .wy-nav-content,
-  .rst-content {
-    padding-top: 0 !important;
-    margin-top: 0 !important;
+  /* 2. Flatten the wrappers around the questions so theme layout
+        (sidebar margins, flex/grid columns, fixed widths) can't push
+        content sideways or leave gaps. */
+  body *:has(.sq-container) {
+    display: block !important;
+    position: static !important;
+    float: none !important;
+    width: auto !important;
+    max-width: none !important;
+    height: auto !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+    box-shadow: none !important;
+    overflow: visible !important;
+    background: transparent !important;
   }
 
-  /* 3. Prevent page breaks above or inside content */
-  h1, h2, h3, h4, h5, h6,
-  .sq-container,
-  .sq-subquestion,
-  .sq-stimulus {
-    page-break-before: avoid !important;
-    break-before: avoid !important;
-    page-break-after: avoid !important;
+  /* 3. The questions themselves: normal flow, allowed to span pages */
+  .sq-container {
+    display: block !important;
+    position: static !important;
+    width: 100% !important;
+    margin: 0 0 16px 0 !important;
+    box-shadow: none !important;
+    overflow: visible !important;
+    break-inside: auto !important;
+    page-break-inside: auto !important;
+  }
+
+  /* Start each question on a fresh page. Applied to every container (not
+     `~ .sq-container`) because Sphinx wraps each heading's content in its
+     own <section>, so containers usually aren't siblings. A forced break
+     before the first container doesn't create a blank page.
+     Delete this rule to let questions run on continuously. */
+  .sq-container {
+    break-before: page !important;
+    page-break-before: always !important;
+  }
+
+  .sq-header {
     break-after: avoid !important;
-    page-break-inside: avoid !important;
-    break-inside: avoid !important;
+    page-break-after: avoid !important;
   }
 
-  /* 4. Expand all sphinx-design tabs so every subquestion prints sequentially */
+  /* 4. Expand all sphinx-design tabs so every subquestion prints.
+        sphinx-design draws the tab panel's top/bottom lines with both
+        `border` and `box-shadow`, so both are cleared here. */
+  .sd-tab-set,
+  .sd-tab-set .sd-tab-content {
+    border: 0 !important;
+    box-shadow: none !important;
+    outline: 0 !important;
+  }
+
   .sd-tab-set .sd-tab-content {
     display: block !important;
     opacity: 1 !important;
     visibility: visible !important;
-    border-top: 1px solid #d8dee4 !important;
     margin-top: 12px !important;
-    padding-top: 12px !important;
-    page-break-inside: avoid !important;
-    break-inside: avoid !important;
+    padding-top: 0 !important;
   }
 
-  /* Hide tab headers/navigation in print */
   .sd-tab-set > label.sd-tab-label,
   .sd-tab-set > input[type="radio"] {
     display: none !important;
   }
 
-  /* 5. Omit model answers, marking guidance, buttons, & self-grade controls */
+  /* 5. Hide interactive UI components
+  ,
+  .sq-score-tracker
+  */
   .sq-answer-drawer,
   .sq-actions,
   .sq-btn,
@@ -358,12 +404,19 @@
     display: none !important;
   }
 
-  /* 6. Print user answers cleanly inside the text area */
+  /* 6. Printable text areas */
   .sq-textarea {
     border: 1px solid #aaa !important;
     box-shadow: none !important;
     background: #ffffff !important;
     color: #000000 !important;
     resize: none !important;
+  }
+
+  /* 7. Keep each subquestion / stimulus together on a page */
+  .sq-subquestion,
+  .sq-stimulus {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
   }
 }

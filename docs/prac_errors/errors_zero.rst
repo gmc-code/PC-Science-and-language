@@ -5,6 +5,15 @@ Zero Error
 | **Zero error** occurs when an instrument does not read zero when it should before any quantity is applied or measured.
 | It is classified as a **systematic error** — it shifts every reading by the same amount in the same direction.
 
+----
+
+.. image:: images/zero_error_collage.png
+   :alt: zero_error_collage
+   :align: center
+   :scale: 60%
+
+----
+
 Examples
 ------------
 
@@ -79,98 +88,84 @@ verify it is within calibration.
 
 ----
 
-.. admonition:: Structured Question: Zero Error
-    :class: shortanswer
+Zero Error Quiz
+------------------------------------
 
-    A Year 8 class is investigating how the mass of a paper cup changes
-    when different volumes of water are added to it. Before beginning,
-    the teacher instructs students to place the empty cup on the balance
-    and record the starting mass. One group notices their balance displays
-    **0.4 g** before they place anything on it. They do not adjust the
-    balance and proceed to record all their measurements.
+.. admonition:: Fill in the Gaps — Zero Error
+    :class: cloze
 
-    **(a)** Identify the type of error present in this investigation and
-    classify it as random, systematic, or personal. *(2 marks)*
+    .. cloze::
+        :instructions: Complete the following by filling in the missing words.
 
-    **(b)** Explain how this error would affect the group's mass
-    measurements. In your answer, refer to the direction of the error and
-    its effect on the accuracy and precision of the results. *(3 marks)*
+        1. A zero error occurs when an instrument does not read zero before any quantity is @@measured@@.
+        2. Because every reading is shifted by the same amount in the same direction, it is classified as a @@systematic@@ error.
+        3. Zero error originates from an @@instrumental@@ source category.
+        4. Zero errors reduce the @@accuracy@@ of the results, while precision remains unaffected.
+        5. To eliminate zero error, an instrument should be @@zeroed@@ (or tared) before taking any measurements.
 
-    **(c)** The group repeats each measurement three times and calculates
-    a mean. Evaluate whether this would reduce the effect of the error
-    identified in part (a). *(2 marks)*
+----
 
-    **(d)** Describe one improvement the group could make to eliminate
-    this error before collecting data. *(1 mark)*
+.. admonition:: Multiple-Choice Questions
+    :class: mcq
 
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-shortanswer
+    Choose the best answer for each question.
 
-        .. tab-set::
+    .. tab-set::
 
-            .. tab-item:: Model Answer
+        .. tab-item:: Q1
 
-                **(a)**
+            .. multichoice::
 
-                The error is a **zero error**, classified as a **systematic
-                error**.
+                A digital balance reads **0.3 g** before any object is placed on it. How is this type of error primary classified?
 
-                *(1 mark for naming zero error; 1 mark for systematic)*
+                [ ] Random error
+                [x] Systematic error
+                [ ] Personal error
+                [ ] Environmental variation
 
-                **(b)**
+        .. tab-item:: Q2
 
-                Because the balance displays 0.4 g before anything is placed on
-                it, every mass reading includes an extra 0.4 g that is not part
-                of the cup or water. This means all measurements will be
-                consistently **overestimated** by 0.4 g — every reading is
-                displaced in the same direction by the same amount. *(1 mark)*
+            .. multichoice::
 
-                The **accuracy** of the results is reduced, as all recorded
-                masses are 0.4 g higher than the true mass. *(1 mark)*
+                A spring balance has a zero error that causes all force measurements to be 1.5 N higher than the true value. What effect does this have on the data collected?
 
-                The **precision** is unaffected — because the same offset is
-                present in every reading, the repeated measurements will agree
-                closely with each other. *(1 mark)*
+                [ ] It reduces the precision of the measurements.
+                [x] It reduces the accuracy of the measurements.
+                [ ] It increases both the precision and the accuracy.
+                [ ] It makes the repeated measurements disagree with each other.
 
-                **(c)**
+        .. tab-item:: Q3
 
-                Repeating measurements and calculating a mean would **not** reduce
-                the effect of this error. *(1 mark)*
+            .. multichoice::
 
-                Because the balance displays 0.4 g before every reading, each
-                repeat includes the same offset in the same direction. Averaging
-                does not cancel a consistent offset — it only reduces the effect
-                of random errors, which vary unpredictably between trials. *(1 mark)*
+                A group of students notices their thermometer reads 1.5 °C in an ice-water bath (which should read 0.0 °C). They decide to repeat their experiment five times and average the results. What effect will averaging have on this zero error?
 
-                **(d)**
+                [ ] It will completely eliminate the zero error.
+                [ ] It will reduce the zero error by a factor of five.
+                [x] It will not reduce the effect of the zero error.
+                [ ] It will convert the zero error into a random error.
 
-                The group should use the tare or zero function on the balance to
-                set the display to 0.0 g before placing the cup on it, or select
-                a different balance that reads zero when empty. *(1 mark)*
+        .. tab-item:: Q4
 
-            .. tab-item:: Marking Guidance
+            .. multichoice::
 
-                **Part (a):** accept "zero error" or "the balance has not been
-                zeroed." Do not accept "human error" or "mistake" — the balance
-                itself has a fault, so this is an instrumental error, not a
-                personal error.
+                Which source category from the four-step error framework does a zero error belong to?
 
-                **Part (b):** award the direction mark only if the student
-                identifies overestimation specifically, not just "the results
-                are wrong." Award the precision mark only if the student
-                correctly states precision is unaffected and provides a reason.
-                A response that states precision is also reduced should not
-                receive the precision mark.
+                [x] Instrumental
+                [ ] Observational / Procedural
+                [ ] Method
+                [ ] Environmental
 
-                **Part (c):** a response that simply states "repeating reduces
-                error" without explaining why it does not apply here should not
-                receive full marks. The key reasoning is that the offset is
-                identical in every trial.
+        .. tab-item:: Q5
 
-                **Part (d):** accept "subtract 0.4 g from all readings as a
-                correction factor" as an alternative valid response, since the
-                offset is known and constant.
+            .. multichoice::
+
+                A balance displays a consistent offset of +0.4 g before weighing any sample. Which of the following is an effective way to correct for this zero error?
+
+                [ ] Increase the sample size and take the average.
+                [ ] Read the digital display from eye level to eliminate parallax.
+                [x] Press the tare button or mathematically subtract 0.4 g from all readings.
+                [ ] Re-read the display multiple times to ensure no transcription mistakes were made.
 
 ----
 
@@ -179,7 +174,7 @@ verify it is within calibration.
 
     .. structuredquestion:: Zero Error Investigation
         :total-marks: 8
-        :category: Experimental Errors
+        :category: Systematic Errors
 
         .. stimulus::
             A Year 8 class is investigating how the mass of a paper cup changes

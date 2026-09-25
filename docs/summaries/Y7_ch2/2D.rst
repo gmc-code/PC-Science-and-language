@@ -1,65 +1,140 @@
-=======================================
-2D: Discovering the Kingdoms
-=======================================
+==============================
+2D Discovering the Kingdoms
+==============================
 
-How Classification Changed Over Time
+History of Classification and Microscopy
 ====================================================================
 
-* Early scientists grouped living things based only on what they could see with their eyes.
-* The invention of the microscope allowed scientists to see tiny organisms and micro-structures for the first time.
-* Aristotle was one of the first people to group organisms using systematic observation.
-* Carl Linnaeus later created a formal system for naming and ordering species using binomial nomenclature.
+* Biological classification has continuously evolved throughout history as new scientific tools and observations emerged.
+* Early taxonomy began with philosophers like Aristotle and expanded with naturalists like Linnaeus, but was initially limited to visible organisms.
+* The invention and advancement of microscopes in the 1600s allowed scientists to observe microscopic life and cellular structures.
+* Learning how microscopy contributed to taxonomy helps us understand the true complexity of living organisms and their evolutionary relationships.
 
 * **Key Terms:**
 
-  * **Taxonomy**: The scientific study of how living things are classified.
-  * **Microscope**: A tool used to make small objects look larger.
-  * **Binomial Nomenclature**: A two-word naming system for organisms.
+  * **Microscope**: An instrument used to view very small objects that cannot be seen with the naked eye.
+  * **Microorganisms**: Organisms that require a microscope to see, also known as microbes.
+
 
 .. cloze::
 
-    1. Early scientists grouped organisms using @@visible@@ traits, but the @@microscope@@ revealed hidden cellular structures.
-    2. Aristotle used direct @@observation@@ to classify nature, while Carl Linnaeus developed modern @@binomial@@ nomenclature.
+   1. Scientific understanding grows over time as new @@technology@@ develops.
+   2. The invention of the microscope in the 1600s introduced classification to @@microscopic@@ life.
+   3. It took over 300 years after discovering microorganisms for scientists to agree on their @@classification@@.
 
 ----
 
-The Five Kingdoms of Life
+The Animal Kingdom
 ==================================
 
-* Scientists expanded the classification system into five distinct kingdoms as technology improved.
-* Kingdom Animalia includes multicellular organisms that eat other living things for energy.
-* Kingdom Plantae consists of green plants that make their own food through photosynthesis.
-* Fungi absorb nutrients from decaying organic matter, while Monera includes tiny single-celled organisms like bacteria.
+* Animals obtain nutrition by consuming other organisms and can be broadly categorized as invertebrates or vertebrates.
+* Vertebrates belong to the phylum Chordata and are further divided into five distinct classes: mammals, reptiles, fish, amphibians, and birds.
+* Unique traits define each class, though some animals like the egg-laying platypus possess combinations of features that make them tricky to categorize.
+* Observing microscopic genetic material allows scientists to identify deeper cellular similarities that visible physical traits might obscure.
 
 * **Key Terms:**
 
-  * **Autotroph**: An organism that makes its own food.
-  * **Heterotroph**: An organism that consumes other living things for energy.
-  * **Prokaryote**: A microscopic single-celled organism without a nucleus.
+  * **Phylum**: A rank in biological classification situated directly below kingdom.
+  * **Invertebrates**: Animals that lack a backbone.
+  * **Vertebrates**: Animals that possess a backbone.
+
 
 .. cloze::
 
-    1. Organisms in Kingdom Plantae are @@autotrophic@@, whereas members of Kingdom Animalia are @@heterotrophic@@.
-    2. Bacteria belong to Kingdom @@Monera@@ and lack a membrane-bound @@nucleus@@.
+   1. All vertebrates belong to the phylum @@Chordata@@.
+   2. Animals without a backbone are classified as @@invertebrates@@.
+   3. Observing microscopic @@genetic@@ material helps classify organisms with unusual traits.
 
 ----
 
-Modern Domains and Grammar Skills
+The Plant Kingdom
 ==================================
 
-* Scientists added three higher categories called domains after studying cell genetics.
-* Nominalisation turns everyday action verbs into scientific nouns to make writing clearer.
-* Transforming words like "classify" into "classification" builds formal scientific language.
+* Plants make up a diverse kingdom of organisms that generate their own nutrition by converting sunlight into energy.
+* Angiosperms are flowering plants that produce seeds enclosed within protective fruit, whereas gymnosperms produce seeds on structures like cones.
+* Non-flowering plants like ferns and mosses reproduce using tiny units called spores.
+* The development of microscopes enabled scientists to discover and detailedly study these microscopic spore-forming structures.
 
 * **Key Terms:**
 
-  * **Domain**: The highest rank of biological classification above kingdom.
-  * **Nominalisation**: The process of changing verbs or adjectives into nouns.
+  * **Angiosperms**: Plants that produce flowers and seeds surrounded by a protective fruit.
+  * **Gymnosperms**: Non-flowering plants that produce seeds on structures such as cones.
+  * **Spores**: Tiny reproductive units capable of developing into a new individual independently.
+  * **Pollination**: The transfer of pollen between plants to enable fertilization.
+
 
 .. cloze::
 
-    1. The highest taxonomic rank is the @@domain@@, which divides life based on @@genetic@@ evidence.
-    2. Changing process verbs into scientific nouns is called @@nominalisation@@, which improves text @@cohesion@@.
+   1. Plants generate their own nutrients using energy from @@sunlight@@.
+   2. Angiosperms produce seeds surrounded by fruit, while @@gymnosperms@@ produce seeds inside cones.
+   3. Microscopes helped scientists discover and study plants that reproduce using @@spores@@.
+
+----
+
+The Protist Kingdom
+==================================
+
+* As microscopes improved, scientists discovered organisms displaying a puzzling mix of both plant and animal features.
+* The kingdom Protista was created as a third kingdom to house these organisms that did not fit neatly elsewhere.
+* Protists are highly diverse and include plant-like algae, animal-like protozoa such as amoebas, and fungus-like slime moulds.
+* Organisms like *Euglena* can create energy from sunlight like a plant, yet move and eat like an animal.
+
+* **Key Terms:**
+
+  * **Protista**: A kingdom containing organisms that do not fit into the animal, plant, or fungi kingdoms.
+  * **Protozoa**: Animal-like protists, such as amoebas, that can alter their shape and move to capture food.
+
+
+.. cloze::
+
+   1. The kingdom Protista was created because some microscopic species blurred the line between @@plants@@ and animals.
+   2. Algae produce food using sunlight, while @@protozoa@@ can move and ingest nutrients.
+   3. Organisms like *Euglena* are classified as @@protists@@ because they possess features of multiple kingdoms.
+
+----
+
+The Fungi Kingdom
+==================================
+
+* Fungi were originally classified as plants because they grow out of the ground.
+* Scientists later redefined the plant kingdom after discovering that fungi do not use sunlight for energy, but absorb nutrients from decaying matter.
+* The fungi kingdom includes multicellular filamentous structures like mushrooms and moulds, as well as single-celled yeasts.
+* Precise genus-level identification is critical for fungi because edible mushrooms can closely resemble deadly poisonous species.
+
+* **Key Terms:**
+
+  * **Fungi**: A kingdom of organisms that gain nutrition by absorbing organic matter rather than through photosynthesis.
+  * **Yeasts**: Single-celled microscopic fungi found on plants, in soil, and used in food production.
+
+
+.. cloze::
+
+   1. Fungi do not make food from sunlight, but instead absorb energy from @@decaying@@ matter.
+   2. Moulds and mushrooms grow as filaments, whereas @@yeasts@@ are single-celled fungi.
+   3. Detailed identification down to the @@genus@@ level is necessary because some mushrooms are toxic.
+
+----
+
+The Monera Kingdom and Three Domains
+==================================
+
+* High-powered microscopes revealed that bacteria lack a cell nucleus, leading to the creation of the kingdom Monera.
+* Modern DNA analysis demonstrated that the Monera group actually consists of two vastly different evolutionary branches: Bacteria and Archaea.
+* True bacteria inhabit everyday environments like soil and water, whereas ancient archaea thrive in extreme environments like hot springs.
+* Modern biological taxonomy now organizes life into three top-level domains: Bacteria, Archaea, and Eukarya.
+
+* **Key Terms:**
+
+  * **Monera**: A historical kingdom comprising microscopic organisms that lack a cell nucleus.
+  * **Bacteria**: Single-celled microorganisms found in widespread everyday environments.
+  * **Archaea**: Microscopic single-celled organisms often living in extreme conditions like acid lakes.
+
+
+.. cloze::
+
+   1. Bacteria were categorized into kingdom Monera because their cells lack a @@nucleus@@.
+   2. Single-celled organisms that live in extreme environments belong to the group @@Archaea@@.
+   3. Modern taxonomy organizes all living things into three top-level @@domains@@ based on DNA evidence.
 
 ----
 
@@ -68,9 +143,11 @@ Matching Section
 
 .. cloze::
 
-    1. @@Kingdom Animalia@@ : Multicellular heterotrophs that ingest food
-    2. @@Kingdom Plantae@@ : Autotrophs that perform photosynthesis
-    3. @@Kingdom Fungi@@ : Organisms that absorb nutrients from decaying matter
-    4. @@Kingdom Monera@@ : Single-celled prokaryotes lacking a nucleus
-    5. @@Kingdom Protista@@ : Single-celled or simple organisms like *Amoeba*
-
+   1. @@Microscope@@ : An instrument used to view very small objects.
+   2. @@Invertebrates@@ : Animals that do not possess a backbone.
+   3. @@Angiosperms@@ : Plants that produce flowers and seeds surrounded by protective fruit.
+   4. @@Spores@@ : Tiny reproductive units capable of developing into a new organism on their own.
+   5. @@Gymnosperms@@ : Non-flowering plants that form seeds on cones.
+   6. @@Archaea@@ : Single-celled microorganisms often residing in extreme environments like hot springs.
+   7. @@Fungi@@ : Organisms that gain nutrition by absorbing decaying organic matter.
+   8. @@Vertebrates@@ : Animals that possess a backbone.

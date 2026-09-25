@@ -5,6 +5,15 @@ Calibration Error
 | **Calibration error** occurs when an instrument gives readings that are consistently offset from the true value across its entire range, due to incorrect calibration or a fault in the instrument itself.
 | It is classified as a **systematic error** — every reading is shifted in the same direction by a consistent or proportional amount.
 
+----
+
+.. image:: images/calibration_error_collage.png
+   :alt: zero_errors_collage
+   :align: center
+   :scale: 60%
+
+----
+
 Examples
 ------------
 
@@ -87,107 +96,167 @@ to be faulty.
 
 ----
 
+
+Calibration Error Quiz
+------------------------------------
+
+
+.. admonition:: Fill in the Gaps — Calibration Error
+    :class: cloze
+
+    .. cloze::
+        :instructions: Complete the following by filling in the missing words.
+
+        1. Calibration error is classified as a @@systematic@@ error because it shifts every reading in the same direction.
+        2. A calibration error reduces the @@accuracy@@ of experimental data while leaving precision unaffected.
+        3. Calibration errors cannot be reduced by @@repeating@@ measurements because the offset affects every trial equally.
+        4. Calibration error originates from an @@instrumental@@ source.
+        5. To eliminate calibration error, an instrument must be verified against a known @@standard@@ before collecting data.
+
+
+----
+
+.. admonition:: Multiple-Choice Questions
+    :class: mcq
+
+    Choose the best answer for each question.
+
+    .. tab-set::
+
+        .. tab-item:: Q1
+
+            .. multichoice::
+
+                A thermometer reads 2 °C too high across its entire range due to incorrect factory calibration. How is this error classified?
+
+                [ ] Random error
+                [x] Systematic error
+                [ ] Personal error
+                [ ] Environmental variation
+
+        .. tab-item:: Q2
+
+            .. multichoice::
+
+                A force sensor has drifted over time, causing every measurement to be consistently lower than the true value. What effect does this have on the experimental data?
+
+                [ ] It decreases the precision of the measurements.
+                [x] It decreases the accuracy of the measurements.
+                [ ] It makes repeat readings disagree with each other.
+                [ ] It introduces unpredictable random fluctuations.
+
+        .. tab-item:: Q3
+
+            .. multichoice::
+
+                A student uses a pH meter that was not calibrated against a buffer solution, resulting in offset readings. They repeat the experiment three times and calculate a mean. What effect does averaging have on this calibration error?
+
+                [ ] It completely eliminates the error.
+                [ ] It reduces the error proportionally with each repeat.
+                [x] It does not reduce the effect of the error.
+                [ ] It converts the systematic error into a random error.
+
+        .. tab-item:: Q4
+
+            .. multichoice::
+
+                What is the source category of a calibration error?
+
+                [x] Instrumental
+                [ ] Observational / Procedural
+                [ ] Method
+                [ ] Environmental
+
+        .. tab-item:: Q5
+
+            .. multichoice::
+
+                Which of the following is the most appropriate procedure to address a potential calibration error before collecting data?
+
+                [ ] Repeat the measurements multiple times and average the results.
+                [ ] Take readings from eye level to prevent parallax offset.
+                [x] Verify the instrument against a known standard and recalibrate if necessary.
+                [ ] Increase the total sample size used in the investigation.
+
+
+----
+
 .. admonition:: Structured Question: Calibration Error
     :class: shortanswer
 
-    A Year 8 class is investigating how the weight of different objects
-    compares when measured on two different spring balances. One group uses
-    a spring balance that was dropped earlier in the year, bending the
-    internal spring slightly. When the group hangs a 100 g standard mass
-    from the spring balance, it reads **112 g**. The group does not report
-    this and proceeds to use the spring balance to measure the weight of
-    five different objects.
+    .. structuredquestion:: Calibration Error Investigation
+        :total-marks: 8
+        :category: Systematic Errors
 
-    **(a)** Identify the type of error present in this investigation and
-    classify it as random, systematic, or personal. *(2 marks)*
-
-    **(b)** Explain how this error would affect the group's weight
-    measurements. In your answer, refer to the direction of the error and
-    its effect on the accuracy and precision of the results. *(3 marks)*
-
-    **(c)** The group repeats each measurement three times and calculates
-    a mean. Evaluate whether this would reduce the effect of the error
-    identified in part (a). *(2 marks)*
-
-    **(d)** Describe one improvement the group could make to identify and
-    address this error before collecting data. *(1 mark)*
-
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-shortanswer
+        .. stimulus::
+            A Year 8 class is investigating how the weight of different objects
+            compares when measured on two different spring balances. One group uses
+            a spring balance that was dropped earlier in the year, bending the
+            internal spring slightly. When the group hangs a 100 g standard mass
+            from the spring balance, it reads **112 g**. The group does not report
+            this and proceeds to use the spring balance to measure the weight of
+            five different objects.
 
         .. tab-set::
 
-            .. tab-item:: Model Answer
+            .. tab-item:: Part (a)
 
-                **(a)**
+                .. subquestion:: Identify the error
+                    :marks: 2
 
-                The error is a **calibration error**, classified as a **systematic
-                error**.
+                    Identify the type of error present in this investigation and
+                    classify it as random, systematic, or personal.
 
-                *(1 mark for naming calibration error; 1 mark for systematic)*
+                    .. model-answer::
+                        The error is a **calibration error** *(1 mark)*, classified as a **systematic error** *(1 mark)*.
 
-                **(b)**
+                    .. marking-guidance::
+                        Accept "calibration error" or "the spring balance is incorrectly calibrated." Do not accept "zero error" — the instrument was not giving a false zero reading, it was giving a consistently incorrect reading across its range due to physical damage. Do not accept "human error" or "mistake" — the fault is in the instrument itself.
 
-                Because the spring balance consistently reads higher than the true
-                value — reading 112 g when the true mass is 100 g — every
-                measurement made with it will be consistently **overestimated**.
-                Every reading is displaced in the same direction by a similar
-                proportion across the range of the instrument. *(1 mark)*
+            .. tab-item:: Part (b)
 
-                The **accuracy** of the results is reduced, as all recorded values
-                are higher than the true weight of each object. *(1 mark)*
+                .. subquestion:: Effect on measurements
+                    :marks: 3
 
-                The **precision** is unaffected — because the same faulty spring
-                produces a consistent offset for every reading, the repeated
-                measurements will agree closely with each other. *(1 mark)*
+                    Explain how this error would affect the group's weight
+                    measurements. In your answer, refer to the direction of the error and
+                    its effect on the accuracy and precision of the results.
 
-                **(c)**
+                    .. model-answer::
+                        - Every measurement is consistently **overestimated** (reads higher than the true value). *(1 mark)*
+                        - **Accuracy** is reduced because all recorded values are higher than the true weight. *(1 mark)*
+                        - **Precision** is unaffected because the same faulty spring produces a consistent offset across repeated readings. *(1 mark)*
 
-                Repeating measurements and calculating a mean would **not** reduce
-                the effect of this error. *(1 mark)*
+                    .. marking-guidance::
+                        - **Direction:** Award only if overestimation is specified directly, not just "the results are wrong."
+                        - **Precision:** Award only if stated as unaffected with valid reasoning. A response that states precision is reduced should not receive the mark.
 
-                Because the spring balance is faulty, every repeat produces the
-                same consistent overestimate. Averaging does not cancel a
-                consistent offset — it only reduces the effect of random errors,
-                which vary unpredictably between trials. *(1 mark)*
+            .. tab-item:: Part (c)
 
-                **(d)**
+                .. subquestion:: Repeating measurements
+                    :marks: 2
 
-                Before collecting data, the group should verify the spring balance
-                against a known standard mass — for example, hang a 100 g mass
-                and check whether the reading matches. If it does not, the
-                instrument should be replaced with one that reads correctly.
-                *(1 mark)*
+                    The group repeats each measurement three times and calculates
+                    a mean. Evaluate whether this would reduce the effect of the error
+                    identified in part (a).
 
-            .. tab-item:: Marking Guidance
+                    .. model-answer::
+                        - Repeating measurements would **not** reduce the effect of this error. *(1 mark)*
+                        - Averaging does not cancel a consistent offset — it only reduces random errors that vary unpredictably between trials. *(1 mark)*
 
-                **Part (a):** accept "calibration error" or "the spring balance
-                is incorrectly calibrated." Do not accept "zero error" — the
-                instrument was not giving a false zero reading, it was giving
-                a consistently incorrect reading across its range due to
-                physical damage. Do not accept "human error" or "mistake" —
-                the fault is in the instrument itself.
+                    .. marking-guidance::
+                        A response that simply states "repeating reduces error" without explaining why it does not apply here should not receive full marks. The key reasoning is that the faulty spring produces the same offset in every trial.
 
-                **Part (b):** award the direction mark only if the student
-                identifies overestimation specifically, not just "the results
-                are wrong." The question states the balance reads 112 g for a
-                100 g mass, so the direction can be reasoned directly from the
-                stem. Award the precision mark only if the student correctly
-                states precision is unaffected and provides a reason. A response
-                that states precision is also reduced should not receive the
-                precision mark.
+            .. tab-item:: Part (d)
 
-                **Part (c):** a response that simply states "repeating reduces
-                error" without explaining why it does not apply here should not
-                receive full marks. The key reasoning is that the faulty spring
-                produces the same offset in every trial.
+                .. subquestion:: Improvement
+                    :marks: 1
 
-                **Part (d):** accept "apply a correction factor based on the
-                known offset" as an alternative valid response. Do not accept
-                "repeat measurements" as this has already been evaluated in
-                part (c) as ineffective.
+                    Describe one improvement the group could make to identify and
+                    address this error before collecting data.
 
+                    .. model-answer::
+                        Verify the spring balance against a known standard mass before use, and replace the instrument if it does not read correctly. *(1 mark)*
 
-
-
+                    .. marking-guidance::
+                        Accept "apply a correction factor based on the known offset" as an alternative valid response. Do not accept "repeat measurements" as this has already been evaluated in part (c) as ineffective.
