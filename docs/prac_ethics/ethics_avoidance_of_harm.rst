@@ -36,47 +36,52 @@ Fill in the gaps quiz
 Multiple choice quiz
 ----------------------
 
-.. multichoicepage::
+.. admonition:: MCQ — Avoidance of Harm
+    :class: mcq
 
-    Which action best demonstrates avoidance of harm in field research?
+    .. mcqgroup::
 
-    [ ] Feeding wildlife to encourage interaction
-    [ ] Collecting specimens from endangered populations
-    [ ] Approaching animals closely to get better photographs
-    [x] Observing animals without disturbing their natural behaviour
+        .. multichoice::
 
-.. multichoicepage::
+            Which action best demonstrates avoidance of harm in field research?
 
-    Why should researchers use simulations or models when possible?
+            [ ] Feeding wildlife to encourage interaction
+            [ ] Collecting specimens from endangered populations
+            [ ] Approaching animals closely to get better photographs
+            [x] Observing animals without disturbing their natural behaviour
 
-    [x] They reduce the need to involve live animals
-    [ ] They eliminate the need for safety equipment
-    [ ] They guarantee more accurate results
-    [ ] They are always faster to run
+        .. multichoice::
 
-.. multichoicepage::
+            Why should researchers use simulations or models when possible?
 
-    When should an experiment be ended early?
+            [x] They reduce the need to involve live animals
+            [ ] They eliminate the need for safety equipment
+            [ ] They guarantee more accurate results
+            [ ] They are always faster to run
 
-    [ ] When the equipment is difficult to operate
-    [ ] When the sample size becomes too large
-    [x] When it causes unexpected suffering to participants
-    [ ] When the results are not what the researcher expected
+        .. multichoice::
 
-.. multichoicepage::
+            When should an experiment be ended early?
 
-    Why is it important to keep survey responses private?
+            [ ] When the equipment is difficult to operate
+            [ ] When the sample size becomes too large
+            [x] When it causes unexpected suffering to participants
+            [ ] When the results are not what the researcher expected
 
-    [x] It protects individuals from potential harm or misuse of information
-    [ ] It prevents participants from changing their answers
-    [ ] It increases the number of responses collected
-    [ ] It makes data analysis easier
+        .. multichoice::
 
-.. multichoicepage::
+            Why is it important to keep survey responses private?
 
-    Which action shows responsible handling of protected environments?
+            [x] It protects individuals from potential harm or misuse of information
+            [ ] It prevents participants from changing their answers
+            [ ] It increases the number of responses collected
+            [ ] It makes data analysis easier
 
-    [ ] Removing plants or rocks for personal study
-    [ ] Entering national parks without permits to save time
-    [ ] Collecting samples from restricted areas
-    [x] Staying on approved paths and obtaining required permits
+        .. multichoice::
+
+            Which action shows responsible handling of protected environments?
+
+            [ ] Removing plants or rocks for personal study
+            [ ] Entering national parks without permits to save time
+            [ ] Collecting samples from restricted areas
+            [x] Staying on approved paths and obtaining required permits

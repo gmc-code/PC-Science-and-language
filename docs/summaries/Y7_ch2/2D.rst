@@ -116,7 +116,7 @@ The Fungi Kingdom
 ----
 
 The Monera Kingdom and Three Domains
-==================================
+=====================================
 
 * High-powered microscopes revealed that bacteria lack a cell nucleus, leading to the creation of the kingdom Monera.
 * Modern DNA analysis demonstrated that the Monera group actually consists of two vastly different evolutionary branches: Bacteria and Archaea.

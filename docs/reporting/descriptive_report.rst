@@ -2,8 +2,9 @@
 Descriptive Report
 ======================================================
 
-Information Reports are texts that describe things.
-
+| Descriptive Reports are texts that describe.
+| The general structure is shown below.
+| Some examples of Descriptive Reports are shown below.
 
 .. list-table::
     :header-rows: 1

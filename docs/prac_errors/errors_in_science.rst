@@ -73,13 +73,6 @@ sources of error.
 
 ----
 
-.. image:: images/errors_infographic.png
-   :alt: Errors Infographic
-   :align: center
-   :scale: 60%
-
-----
-
 Quick Reference: Error Source to Classification to Fix
 ----------------------------------------------------------
 
@@ -144,13 +137,14 @@ Errors Quiz
 
     .. classifying::
         :bins: Systematic, Random, Personal
+        :solution:
 
-        Zero error on a digital balance | 0
-        Resolution limitation of a measuring cylinder | 1
-        Parallax error from reading a scale consistently from above | 0
-        Recording error from miswriting a data point | 2
-        Environmental variation caused by air currents | 1
-        Operator error from skipping a required procedural step | 2
+        Zero error on a digital balance : Systematic
+        Resolution limitation of a measuring cylinder : Random
+        Parallax error from reading a scale consistently from above : Systematic
+        Recording error from miswriting a data point : Personal
+        Environmental variation caused by air currents : Random
+        Operator error from skipping a required procedural step : Personal
 
 
 ----
@@ -169,68 +163,67 @@ Errors Quiz
 
 ----
 
-.. admonition:: Multiple-Choice Questions
+.. admonition:: MCQ — Types of Errors in Scientific Experiments
     :class: mcq
 
-    Choose the best answer for each question.
+    .. mcqgroup::
 
-    .. tab-set::
+        .. multichoice::
 
-        .. tab-item:: Q1
+            A student consistently measures a length that is 2 mm too high due to a misaligned ruler zero point. What type of error is this?
 
-            .. multichoicepage::
-
-                A student consistently measures a length that is 2 mm too high due to a misaligned ruler zero point. What type of error is this?
-
-                [ ] Random error
-                [ ] Personal error
-                [x] Systematic error
-                [ ] Environmental variation
-
-        .. tab-item:: Q2
-
-            .. multichoicepage::
-
-                A thermometer gives slightly different readings each time the same temperature is measured due to small fluctuations in reading position. What is the main error type?
-
-                [ ] Systematic error
-                [x] Random error
-                [ ] Method error
-                [ ] Calibration error
+            [ ] Random error
+            [ ] Personal error
+            [x] Systematic error
+            [ ] Environmental variation
 
 
-        .. tab-item:: Q3
+        .. multichoice::
 
-            .. multichoicepage::
+            A thermometer gives slightly different readings each time the same temperature is measured due to small fluctuations in reading position. What is the main error type?
 
-                A student misreads the meniscus of a liquid in a measuring cylinder and records the wrong value once. How should this error be classified?
+            [ ] Systematic error
+            [x] Random error
+            [ ] Method error
+            [ ] Calibration error
 
-                [ ] Systematic error
-                [ ] Random error
-                [x] Personal error
-                [ ] Environmental bias
 
-        .. tab-item:: Q4
+        .. multichoice::
 
-            .. multichoicepage::
+            A student misreads the meniscus of a liquid in a measuring cylinder and records the wrong value once. How should this error be classified?
 
-                Which of the following is an example of a **systematic instrumental error**?
+            [ ] Systematic error
+            [ ] Random error
+            [x] Personal error
+            [ ] Environmental bias
 
-                [ ] Random vibration affecting measurements
-                [x] Consistent zero error in a balance
-                [ ] A one-off recording mistake
-                [ ] Variation in lighting conditions
 
-        .. tab-item:: Q5
+        .. multichoice::
 
-            .. multichoicepage::
+            Which of the following is an example of a **systematic instrumental error**?
 
-                A scientist improves an experiment by increasing the number of repeated trials and averaging results. Which type of error is this mainly addressing?
+            [ ] Random vibration affecting measurements
+            [x] Consistent zero error in a balance
+            [ ] A one-off recording mistake
+            [ ] Variation in lighting conditions
 
-                [ ] Systematic error
-                [x] Random error
-                [ ] Personal error
-                [ ] Method limitation
 
+        .. multichoice::
+
+            A scientist improves an experiment by increasing the number of repeated trials and averaging results. Which type of error is this mainly addressing?
+
+            [ ] Systematic error
+            [x] Random error
+            [ ] Personal error
+            [ ] Method limitation
+
+
+
+----
+
+.. image:: images/errors_infographic.png
+    :alt: Errors Infographic
+    :align: center
+    :scale: 60%
 
 

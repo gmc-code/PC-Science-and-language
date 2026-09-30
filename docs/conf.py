@@ -31,35 +31,32 @@ def setup(app):
         # Theme / Rheme
         "theme", "rheme", "themep", "rhemep", "themeb", "rhemeb",
         # SFL Functional Roles (Bordered)
-        "process", "participant", "circ", "conj", "part",
+        "process", "participant", "circumstance", "conjunction", "text_connective", "part",
         # SFL Functional Roles (Filled Chips)
-        "processb", "participantb", "circb", "conjb", "partb",
+        "processb", "participantb", "circumstanceb", "conjunctionb", "text_connectiveb", "partb",
         # SFL Functional Roles (Plain Text)
-        "processp", "participantp", "circp", "conjp", "partp",
+        "processp", "participantp", "circumstancep", "conjunctionp", "text_connectivep", "partp",
+
+        # SFL Nominal Group Roles (Outlined)
+        "premodifier", "pointer", "numerative", "describer", "classifier", "thing", "qualifier","postmodifier",
+        # SFL Nominal Group Roles (Filled Chips)
+        "premodifierb", "pointerb", "numerativeb", "describerb", "classifierb", "thingb", "qualifierb","postmodifierb",
+        # SFL Nominal Group Roles (Plain Text)
+        "premodifierp", "pointerp", "numerativep", "describerp", "classifierp", "thingp", "qualifierp","postmodifierp",
+
+
         # Clause Structure Roles (Bordered)
-        "depclause", "embedded", "relative", "projected",
+        "independent", "dependent", "embedded", "relative", "projected",
         # Clause Structure Roles (Filled Chips)
-        "depclauseb", "embeddedb", "relativeb", "projectedb",
+        "independentb", "dependentb", "embeddedb", "relativeb", "projectedb",
         # Clause Structure Roles (Plain Text)
-        "depclausep", "embeddedp", "relativep", "projectedp",
+        "independentp", "dependentp", "embeddedp", "relativep", "projectedp",
         # Formatting / Utility
         "rubricsmall"
     ]
 
     for rolename in roles_to_register:
         app.add_role(rolename, simple_role)
-
-
-# def setup(app):
-#     roles_to_register = [
-#         "p", "r", "o", "pb", "rb", "ob", "iv", "dv", "cv", "ivb", "dvb", "cvb",
-#         "theme", "rheme", "themeb", "rhemeb", "process", "participant", "circ",
-#         "conj", "part","processb", "participantb", "circb", "conjb", "partb", "processp",
-#         "participantp", "circp", "conjp", "rubricsmall"
-#     ]
-
-#     for rolename in roles_to_register:
-#         app.add_role(rolename, simple_role)
 
 # ------------------------------------------------------------
 
@@ -85,18 +82,18 @@ extensions = [
     "sphinx_new_tab_link",
     'sphinx.ext.mathjax',
     "sphinx.ext.imgconverter",   # for pdf build of converted svgs
-    "multichoicepage.multichoicepage",  # custom directive
+    "mcqgroup.mcqgroup",  # custom directive
     "multichoice.multichoice",  # custom directive
-    "trueorfalse.trueorfalse",  # custom directive
     "cloze.cloze",  # custom directive
     "gapfill.gapfill",  # custom directive
     "classifying.classifying",  # custom directive
     "fillin.fillin",  # custom directive
     "ordering.ordering",  # custom directive
+    "wordordering.wordordering",  # custom directive
     "textselect.textselect",  # custom directive
     "wordjumble.wordjumble",  # custom directive
-    "structuredquestion.structuredquestion",  # custom directive
     "labels.labels",  # custom directive
+    "structuredquestion.structuredquestion",  # custom directive
 ]
 
 

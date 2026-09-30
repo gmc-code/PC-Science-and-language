@@ -19,19 +19,19 @@ Consider the following example of a Report and its corresponding Procedure:
 
     * - Report
       - Procedure
-    * - :participant:`The acid` :processb:`was added` :circ:`carefully`.
-      - :circ:`Carefully`, :processb:`add` :participant:`the acid`.
+    * - :participant:`The acid` :processb:`was added` :circumstance:`carefully`.
+      - :circumstance:`Carefully`, :processb:`add` :participant:`the acid`.
 
 
 In a **Passive Voice Report**:
 
 * The **Participant** (:participantp:`The acid`) is at the start of the clause.
 * The **Process** (:processp:`was added`) uses a "to be" verb + past participle.
-* The **Circumstance** (:circp:`carefully`) is often after the process, giving more information about how, when, or where the action occurred.
+* The **Circumstance** (:circumstancep:`carefully`) is often after the process, giving more information about how, when, or where the action occurred.
 
 In an **Active Voice Procedure**:
 
-* The **Circumstance** (:circp:`carefully`) is sometimes foregrounded at the start of the clause to set the context for the action.
+* The **Circumstance** (:circumstancep:`carefully`) is sometimes foregrounded at the start of the clause to set the context for the action.
 * The **Process** (:processp:`add`) moves to the start of the clause, as a command, immediately following any initial circumstance.
 * The **Participant** (:participantp:`the acid`) follows the process as the direct object of the command.
 
@@ -40,7 +40,7 @@ To convert a Report into a Procedure, make the following changes:
 1. **Remove the Auxiliary Verb:** Delete words like *was* or *were* that sit before the action.
 2. **Shift Verb Tense:** Change the past participle ending (*-ed*) back to the present base form. Change *"was replaced"* to *"replace"*.
 3. **Reorder the Clause:** Swap the position of the Participant and the Process so the action leads the way. Change *"the bung was replaced"* to *"replace the bung"*.
-4. **Reposition the Circumstances (Adverbs)**: Move adverbs of manner or timing (like *carefully*, *briefly*, or *immediately*) from the end of the sentence to the front. In a procedure, these provide important context before the reader performs the step. For example, change ":participantp:`The bung` :processp:`was removed` :circp:`briefly`" is changed to ":circp:`Briefly`, :processp:`remove` :participantp:`the bung`."
+4. **Reposition the Circumstances (Adverbs)**: Move adverbs of manner or timing (like *carefully*, *briefly*, or *immediately*) from the end of the sentence to the front. In a procedure, these provide important context before the reader performs the step. For example, change ":participantp:`The bung` :processp:`was removed` :circumstancep:`briefly`" is changed to ":circumstancep:`Briefly`, :processp:`remove` :participantp:`the bung`."
 
 
 ----
@@ -51,10 +51,10 @@ To convert a Report into a Procedure, make the following changes:
 
     * - Passive Report
       - Active Procedure
-    * - :circ:`Then`, :participant:`the bung` :process:`was replaced`.
-      - :circ:`Then`, :process:`replace` :participant:`the bung`.
-    * - :circ:`Next`, :participant:`the acid` :process:`was added`.
-      - :circ:`Next`, :process:`add` :participant:`the acid`.
+    * - :circumstance:`Then`, :participant:`the bung` :process:`was replaced`.
+      - :circumstance:`Then`, :process:`replace` :participant:`the bung`.
+    * - :circumstance:`Next`, :participant:`the acid` :process:`was added`.
+      - :circumstance:`Next`, :process:`add` :participant:`the acid`.
 
 
 .. list-table:: Adverb Positioning: Report vs. Procedure
@@ -65,14 +65,14 @@ To convert a Report into a Procedure, make the following changes:
     * - Passive Report (Adverb at end)
       - Active Procedure (Adverb at front)
       - Reason
-    * - :participant:`The acid` :process:`was added` :circ:`carefully`.
-      - :circ:`Carefully`, :process:`add` :participant:`the acid`.
+    * - :participant:`The acid` :process:`was added` :circumstance:`carefully`.
+      - :circumstance:`Carefully`, :process:`add` :participant:`the acid`.
       - Highlights the safety requirement *before* the action.
-    * - :participant:`The bung` :process:`was removed` :circ:`briefly`.
-      - :circ:`Briefly`, :process:`remove` :participant:`the bung`.
+    * - :participant:`The bung` :process:`was removed` :circumstance:`briefly`.
+      - :circumstance:`Briefly`, :process:`remove` :participant:`the bung`.
       - Sets the timing expectation *before* the action.
-    * - :participant:`The water` :process:`was monitored` :circ:`simultaneously`.
-      - :circ:`Simultaneously`, :process:`monitor` :participant:`the water`.
+    * - :participant:`The water` :process:`was monitored` :circumstance:`simultaneously`.
+      - :circumstance:`Simultaneously`, :process:`monitor` :participant:`the water`.
       - Directs the reader to multi-task.
 
 ----
@@ -94,52 +94,52 @@ Report to a Procedure
         .. tab-item:: Q1
             :sync: q1
 
-            :circ:`First`, :participant:`several marble chips` :process:`were placed` :circ:`into a clean conical flask`.
+            :circumstance:`First`, :participant:`several marble chips` :process:`were placed` :circumstance:`into a clean conical flask`.
 
         .. tab-item:: Q2
             :sync: q2
 
-            :circ:`Then`, :participant:`a rubber bung with a delivery tube` :process:`was fitted` :circ:`into the mouth of the flask`.
+            :circumstance:`Then`, :participant:`a rubber bung with a delivery tube` :process:`was fitted` :circumstance:`into the mouth of the flask`.
 
         .. tab-item:: Q3
             :sync: q3
 
-            :circ:`Next`, :participant:`the other end of the delivery tube` :process:`was submerged` :circ:`in a beaker of limewater`.
+            :circumstance:`Next`, :participant:`the other end of the delivery tube` :process:`was submerged` :circumstance:`in a beaker of limewater`.
 
         .. tab-item:: Q4
             :sync: q4
 
-            :circ:`After the setup was ready`, :participant:`the bung` :process:`was removed` :circ:`briefly`.
+            :circumstance:`After the setup was ready`, :participant:`the bung` :process:`was removed` :circumstance:`briefly`.
 
         .. tab-item:: Q5
             :sync: q5
 
-            :participant:`20 mL of dilute hydrochloric acid` :process:`was added` :circ:`carefully` :circ:`to the flask`.
+            :participant:`20 mL of dilute hydrochloric acid` :process:`was added` :circumstance:`carefully` :circumstance:`to the flask`.
 
         .. tab-item:: Q6
             :sync: q6
 
-            :circ:`Immediately`, :participant:`the bung` :process:`was replaced` :circ:`to ensure no gas escaped`.
+            :circumstance:`Immediately`, :participant:`the bung` :process:`was replaced` :circumstance:`to ensure no gas escaped`.
 
         .. tab-item:: Q7
             :sync: q7
 
-            :circ:`During the reaction`, :participant:`effervescence` :process:`was observed` :circ:`inside the conical flask`.
+            :circumstance:`During the reaction`, :participant:`effervescence` :process:`was observed` :circumstance:`inside the conical flask`.
 
         .. tab-item:: Q8
             :sync: q8
 
-            :participant:`The limewater` :process:`was monitored` :circ:`simultaneously` :circ:`as gas bubbled through it`.
+            :participant:`The limewater` :process:`was monitored` :circumstance:`simultaneously` :circumstance:`as gas bubbled through it`.
 
         .. tab-item:: Q9
             :sync: q9
 
-            :circ:`After a short period`, :participant:`a milky white color` :process:`was observed` :circ:`in the limewater`.
+            :circumstance:`After a short period`, :participant:`a milky white color` :process:`was observed` :circumstance:`in the limewater`.
 
         .. tab-item:: Q10
             :sync: q10
 
-            :circ:`Finally`, :participant:`the delivery tube` :process:`was removed` :circ:`from the limewater` :circ:`before the reaction was stopped`.
+            :circumstance:`Finally`, :participant:`the delivery tube` :process:`was removed` :circumstance:`from the limewater` :circumstance:`before the reaction was stopped`.
 
 
     .. dropdown:: Reveal Answer Key
@@ -152,52 +152,52 @@ Report to a Procedure
             .. tab-item:: Q1
                 :sync: q1
 
-                :circ:`First`, :process:`place` :participant:`several marble chips` :circ:`into a clean conical flask`.
+                :circumstance:`First`, :process:`place` :participant:`several marble chips` :circumstance:`into a clean conical flask`.
 
             .. tab-item:: Q2
                 :sync: q2
 
-                :circ:`Then`, :process:`fit` :participant:`a rubber bung with a delivery tube` :circ:`into the mouth of the flask`.
+                :circumstance:`Then`, :process:`fit` :participant:`a rubber bung with a delivery tube` :circumstance:`into the mouth of the flask`.
 
             .. tab-item:: Q3
                 :sync: q3
 
-                :circ:`Next`, :process:`submerge` :participant:`the other end of the delivery tube` :circ:`in a beaker of limewater`.
+                :circumstance:`Next`, :process:`submerge` :participant:`the other end of the delivery tube` :circumstance:`in a beaker of limewater`.
 
             .. tab-item:: Q4
                 :sync: q4
 
-                :circ:`Briefly`, :process:`remove` :participant:`the bung`.
+                :circumstance:`Briefly`, :process:`remove` :participant:`the bung`.
 
             .. tab-item:: Q5
                 :sync: q5
 
-                :circ:`Carefully`, :process:`add` :participant:`20 mL of dilute hydrochloric acid` :circ:`to the flask`.
+                :circumstance:`Carefully`, :process:`add` :participant:`20 mL of dilute hydrochloric acid` :circumstance:`to the flask`.
 
             .. tab-item:: Q6
                 :sync: q6
 
-                :circ:`Immediately`, :process:`replace` :participant:`the bung` :circ:`to ensure no gas escapes`.
+                :circumstance:`Immediately`, :process:`replace` :participant:`the bung` :circumstance:`to ensure no gas escapes`.
 
             .. tab-item:: Q7
                 :sync: q7
 
-                :circ:`During the reaction`, :process:`observe` :participant:`the effervescence` :circ:`inside the conical flask`.
+                :circumstance:`During the reaction`, :process:`observe` :participant:`the effervescence` :circumstance:`inside the conical flask`.
 
             .. tab-item:: Q8
                 :sync: q8
 
-                :circ:`Simultaneously`, :process:`monitor` :participant:`the limewater` :circ:`as gas bubbles through it`.
+                :circumstance:`Simultaneously`, :process:`monitor` :participant:`the limewater` :circumstance:`as gas bubbles through it`.
 
             .. tab-item:: Q9
                 :sync: q9
 
-                :circ:`After a short period`, :process:`observe` :participant:`the milky white color` :circ:`in the limewater`.
+                :circumstance:`After a short period`, :process:`observe` :participant:`the milky white color` :circumstance:`in the limewater`.
 
             .. tab-item:: Q10
                 :sync: q10
 
-                :circ:`Finally`, :process:`remove` :participant:`the delivery tube` :circ:`from the limewater` :circ:`before the reaction is stopped`.
+                :circumstance:`Finally`, :process:`remove` :participant:`the delivery tube` :circumstance:`from the limewater` :circumstance:`before the reaction is stopped`.
 
 
 | Now do it for the full report.
@@ -207,16 +207,16 @@ Report to a Procedure
 
     | Rewrite the following report steps into clear instructions by applying the grammar shifts described above starting with the verb.
 
-    #. :circ:`First`, :participant:`several marble chips` :process:`were placed` :circ:`into a clean conical flask`.
-    #. :circ:`Then`, :participant:`a rubber bung with a delivery tube` :process:`was fitted` :circ:`into the mouth of the flask`.
-    #. :circ:`Next`, :participant:`the other end of the delivery tube` :process:`was submerged` :circ:`in a beaker of limewater`.
-    #. :circ:`After the setup was ready`, :participant:`the bung` :process:`was removed` :circ:`briefly`.
-    #. :participant:`20 mL of dilute hydrochloric acid` :process:`was added` :circ:`carefully` :circ:`to the flask`.
-    #. :circ:`Immediately`, :participant:`the bung` :process:`was replaced` :circ:`to ensure no gas escaped`.
-    #. :circ:`During the reaction`, :participant:`effervescence` :process:`was observed` :circ:`inside the conical flask`.
-    #. :participant:`The limewater` :process:`was monitored` :circ:`simultaneously` :circ:`as gas bubbled through it`.
-    #. :circ:`After a short period`, :participant:`a milky white color` :process:`was observed` :circ:`in the limewater`.
-    #. :circ:`Finally`, :participant:`the delivery tube` :process:`was removed` :circ:`from the limewater` :circ:`before the reaction was stopped`.
+    #. :circumstance:`First`, :participant:`several marble chips` :process:`were placed` :circumstance:`into a clean conical flask`.
+    #. :circumstance:`Then`, :participant:`a rubber bung with a delivery tube` :process:`was fitted` :circumstance:`into the mouth of the flask`.
+    #. :circumstance:`Next`, :participant:`the other end of the delivery tube` :process:`was submerged` :circumstance:`in a beaker of limewater`.
+    #. :circumstance:`After the setup was ready`, :participant:`the bung` :process:`was removed` :circumstance:`briefly`.
+    #. :participant:`20 mL of dilute hydrochloric acid` :process:`was added` :circumstance:`carefully` :circumstance:`to the flask`.
+    #. :circumstance:`Immediately`, :participant:`the bung` :process:`was replaced` :circumstance:`to ensure no gas escaped`.
+    #. :circumstance:`During the reaction`, :participant:`effervescence` :process:`was observed` :circumstance:`inside the conical flask`.
+    #. :participant:`The limewater` :process:`was monitored` :circumstance:`simultaneously` :circumstance:`as gas bubbled through it`.
+    #. :circumstance:`After a short period`, :participant:`a milky white color` :process:`was observed` :circumstance:`in the limewater`.
+    #. :circumstance:`Finally`, :participant:`the delivery tube` :process:`was removed` :circumstance:`from the limewater` :circumstance:`before the reaction was stopped`.
 
     .. dropdown:: Reveal Answer Key
         :icon: check-circle
@@ -226,13 +226,13 @@ Report to a Procedure
 
             .. tab-item:: Model Answer
 
-                #. :circ:`First`, :process:`place` :participant:`several marble chips` :circ:`into a clean conical flask`.
-                #. :circ:`Then`, :process:`fit` :participant:`a rubber bung with a delivery tube` :circ:`into the mouth of the flask`.
-                #. :circ:`Next`, :process:`submerge` :participant:`the other end of the delivery tube` :circ:`in a beaker of limewater`.
-                #. :circ:`Briefly`, :process:`remove` :participant:`the bung`.
-                #. :circ:`Carefully`, :process:`add` :participant:`20 mL of dilute hydrochloric acid` :circ:`to the flask`.
-                #. :circ:`Immediately`, :process:`replace` :participant:`the bung` :circ:`to ensure no gas escapes`.
-                #. :circ:`During the reaction`, :process:`observe` :participant:`the effervescence` :circ:`inside the conical flask`.
-                #. :circ:`Simultaneously`, :process:`monitor` :participant:`the limewater` :circ:`as gas bubbles through it`.
-                #. :circ:`After a short period`, :process:`observe` :participant:`the milky white color` :circ:`in the limewater`.
-                #. :circ:`Finally`, :process:`remove` :participant:`the delivery tube` :circ:`from the limewater` :circ:`before the reaction is stopped`.
+                #. :circumstance:`First`, :process:`place` :participant:`several marble chips` :circumstance:`into a clean conical flask`.
+                #. :circumstance:`Then`, :process:`fit` :participant:`a rubber bung with a delivery tube` :circumstance:`into the mouth of the flask`.
+                #. :circumstance:`Next`, :process:`submerge` :participant:`the other end of the delivery tube` :circumstance:`in a beaker of limewater`.
+                #. :circumstance:`Briefly`, :process:`remove` :participant:`the bung`.
+                #. :circumstance:`Carefully`, :process:`add` :participant:`20 mL of dilute hydrochloric acid` :circumstance:`to the flask`.
+                #. :circumstance:`Immediately`, :process:`replace` :participant:`the bung` :circumstance:`to ensure no gas escapes`.
+                #. :circumstance:`During the reaction`, :process:`observe` :participant:`the effervescence` :circumstance:`inside the conical flask`.
+                #. :circumstance:`Simultaneously`, :process:`monitor` :participant:`the limewater` :circumstance:`as gas bubbles through it`.
+                #. :circumstance:`After a short period`, :process:`observe` :participant:`the milky white color` :circumstance:`in the limewater`.
+                #. :circumstance:`Finally`, :process:`remove` :participant:`the delivery tube` :circumstance:`from the limewater` :circumstance:`before the reaction is stopped`.

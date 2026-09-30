@@ -2,86 +2,107 @@
 Types of Theme
 =======================
 
-In Systemic Functional Linguistics, different grammatical structures can serve
-as the Theme (the clause-initial element). Varying these structures allows
-writers to signpost logical connections, highlight conditions, or alter focus.
+In Systemic Functional Linguistics (SFG), the Theme is the starting point
+of a clause. It provides the starting point for the message and helps the
+reader understand how the information is organised.
 
-1. Noun Groups (Topical Themes)
--------------------------------
+Different grammatical structures can function as Themes. These include
+participants, circumstances, conjunctions, and elements used to form
+questions or commands.
 
-The most common structural type is a noun group placed before the verb. It
-functions as the Unmarked Topical Theme, directly identifying the main entity,
-subject, or participant of the clause.
-
-.. admonition:: Examples
-    :class: pro
-
-   | :participant:`The enzyme` catalyzes the reaction under optimal conditions.
-   | :participant:`A sudden drop in pressure` causes rapid vapor expansion.
-   | :participant:`Most organic compounds` dissolve readily in non-polar solvents.
-
-----
-
-1. Textual Themes (Conjunctions and Connectives)
+------------------------------------------------
+1. Noun Groups (Unmarked Topical Themes)
 ------------------------------------------------
 
-Conjunctions, linking adverbs, and discourse markers can appear at the start of
-a clause. These function as Textual Themes, explicitly signalling the logical
-relationship (e.g., cause, contrast, sequence) between sentences.
+A noun group often functions as the Topical Theme of a clause. When the
+Subject is also the Theme, it is called an Unmarked Topical Theme. It
+identifies the main participant or entity that the clause is about.
 
 .. admonition:: Examples
+
     :class: pro
 
-   | :conj:`However,` the reaction halts if the temperature exceeds 60°C.
-   | :conj:`Furthermore,` the synthesized compound exhibits higher stability.
-   | :conj:`Because` the pressure increased, the gas volume decreased rapidly.
+    | :participant:`Salt` dissolves quickly in warm water.
+    | :participant:`A drop in temperature` causes water vapour to freeze.
+    | :participant:`Plant leaves` absorb sunlight during photosynthesis.
 
 ----
 
-1. Verbs and Predicates (Imperative & Interrogative Themes)
------------------------------------------------------------
+2. Textual Themes (Conjunctions and Connectives)
+------------------------------------------------
 
-In imperative sentences (commands or procedural steps) and certain question
-structures, a finite verb or process word serves as the Theme to focus the
-reader immediately on the required action.
+Conjunctions, linking adverbs, and some discourse markers can act as
+text connectives. They help connect ideas and show relationships between
+clauses or sentences, such as cause, contrast, addition, and sequence.
 
 .. admonition:: Examples
-   :class: pro
 
-   | :process:`Measure` 50 mL of distilled water into the beaker.
-   | :process:`Mix` the solution thoroughly until all solids dissolve.
-   | :process:`Does` the magnetic field influence particle velocity?
+    :class: pro
+
+    | :conjunction:`However,` the reaction stops if the water gets too hot.
+    | :conjunction:`Furthermore,` the mixture becomes clearer when stirred.
+    | :conjunction:`Therefore,` the sugar dissolved faster in the hot water.
 
 ----
 
-4. Circumstantial Adverbials & Prepositional Phrases (Marked Themes)
---------------------------------------------------------------------
+3. Imperative and Interrogative Themes
+------------------------------------------------
 
-When a prepositional phrase or adverbial group is placed before the main verb
-and subject, it serves as a Marked Theme. This highlights background details
-such as time, place, manner, or extent.
+In imperative clauses (commands or procedural steps), the verb usually
+comes first and functions as the Topical Theme. This places the focus
+immediately on the required action.
+
+In questions, the Theme may be a question word (such as *what* or *why*)
+or a Finite operator (such as *does* or *is*). These elements help
+establish the question's purpose.
 
 .. admonition:: Examples
-   :class: pro
 
-   | :circ:`Throughout the experiment,` temperature was monitored continuously.
-   | :circ:`In the outer membrane,` specific transport proteins regulate intake.
-   | :circ:`By applying constant current,` electroplating occurs evenly.
+    :class: pro
+
+    | :process:`Measure` 50 mL of water using a measuring cylinder.
+    | :process:`Mix` the sugar into the warm water until it dissolves.
+    | :process:`Does` adding ice make the liquid cool down faster?
 
 ----
 
-5. Dependent Clauses (Structural Themes)
-----------------------------------------
+4. Circumstantial Adverbials and Prepositional Phrases (Marked Themes)
 
-An entire dependent (subordinate) clause can be placed in Theme position. This
-allows the writer to establish a condition, concession, or time frame prior to
-stating the main clause result.
+------------------------------------------------
+
+A circumstance, such as a phrase expressing time, place, manner, or
+condition, can be placed at the beginning of a clause. When it comes
+before the Subject instead of following the usual Subject-first order,
+it functions as a Marked Topical Theme.
+
+This helps the writer highlight background information before presenting
+the main participant and what happens.
 
 .. admonition:: Examples
-   :class: pro
 
-   | :depclause:`Although the yield was low,` the purity remained exceptionally high.
-   | :depclause:`While the sample warms,` gas bubbles begin to form along the glass.
-   | :depclause:`If a disturbance occurs,` the system shifts to restore equilibrium.
+    :class: pro
 
+    | :circumstance:`During the Bunsen burner test,` the flame turned bright orange.
+    | :circumstance:`Under the microscope,` plant cells look like tiny green bricks.
+    | :circumstance:`After five minutes,` the ice cube completely melted.
+
+----
+
+5. Dependent Clauses as Thematic Openings
+------------------------------------------------
+
+A dependent (subordinate) clause can be placed before the main clause.
+This allows the writer to establish a condition, time frame, or
+concession before presenting the main message.
+
+The dependent clause provides the opening context, while the main clause
+presents the central statement or result.
+
+.. admonition:: Examples
+
+    :class: pro
+
+    | :dependent:`Although the reaction was slow,` the liquid changed colour completely.
+    | :dependent:`While the ice melts,` small bubbles float to the top of the beaker.
+    | :dependent:`If the liquid is heated,` the particles move much faster.
 

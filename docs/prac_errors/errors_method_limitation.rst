@@ -115,67 +115,59 @@ Method Limitation Quiz
 
 ----
 
-.. admonition:: Multiple-Choice Questions
+.. admonition:: MCQ — Method Limitation
     :class: mcq
 
-    Choose the best answer for each question.
+    .. mcqgroup::
 
-    .. tab-set::
+        .. multichoice::
 
-        .. tab-item:: Q1
+            Measuring plant height to the tip of the tallest leaf instead of the top of the main stem causes a consistent overestimate. How is this error primary classified?
 
-            .. multichoicepage::
+            [ ] Random error
+            [x] Systematic error
+            [ ] Personal error
+            [ ] Environmental variation
 
-                Measuring plant height to the tip of the tallest leaf instead of the top of the main stem causes a consistent overestimate. How is this error primary classified?
 
-                [ ] Random error
-                [x] Systematic error
-                [ ] Personal error
-                [ ] Environmental variation
+        .. multichoice::
 
-        .. tab-item:: Q2
+            Which of the following best describes the source category of an error caused by a flawed experimental design or measurement point?
 
-            .. multichoicepage::
+            [ ] Instrumental
+            [ ] Observational / Procedural
+            [x] Method
+            [ ] Environmental
 
-                Which of the following best describes the source category of an error caused by a flawed experimental design or measurement point?
 
-                [ ] Instrumental
-                [ ] Observational / Procedural
-                [x] Method
-                [ ] Environmental
+        .. multichoice::
 
-        .. tab-item:: Q3
+            A group uses a method that consistently overestimates plant height due to leaf curvature. What effect does this method limitation have on the data?
 
-            .. multichoicepage::
+            [ ] It decreases precision while keeping accuracy high.
+            [x] It decreases accuracy while precision remains unaffected.
+            [ ] It decreases both accuracy and precision equally.
+            [ ] It increases accuracy because leaves contribute to height.
 
-                A group uses a method that consistently overestimates plant height due to leaf curvature. What effect does this method limitation have on the data?
 
-                [ ] It decreases precision while keeping accuracy high.
-                [x] It decreases accuracy while precision remains unaffected.
-                [ ] It decreases both accuracy and precision equally.
-                [ ] It increases accuracy because leaves contribute to height.
+        .. multichoice::
 
-        .. tab-item:: Q4
+            A student measures to the tip of a curved leaf, repeating the trial three times on the same day and calculating a mean. How does averaging affect this method limitation?
 
-            .. multichoicepage::
+            [ ] It completely cancels out the overestimate.
+            [ ] It reduces the systematic error by one-third.
+            [x] It has no effect, as every repeat uses the same flawed method.
+            [ ] It converts the method limitation into a random error.
 
-                A student measures to the tip of a curved leaf, repeating the trial three times on the same day and calculating a mean. How does averaging affect this method limitation?
 
-                [ ] It completely cancels out the overestimate.
-                [ ] It reduces the systematic error by one-third.
-                [x] It has no effect, as every repeat uses the same flawed method.
-                [ ] It converts the method limitation into a random error.
+        .. multichoice::
 
-        .. tab-item:: Q5
+            What is the most effective way to eliminate a method limitation in an experiment?
 
-            .. multichoicepage::
-
-                What is the most effective way to eliminate a method limitation in an experiment?
-
-                [ ] Repeat the trials a greater number of times.
-                [ ] Use a higher-resolution ruler or measuring tape.
-                [x] Redesign the method to define a clear, consistent reference point.
-                [ ] Ask a different person to take all the measurements.
+            [ ] Repeat the trials a greater number of times.
+            [ ] Use a higher-resolution ruler or measuring tape.
+            [x] Redesign the method to define a clear, consistent reference point.
+            [ ] Ask a different person to take all the measurements.
 
 ----
 

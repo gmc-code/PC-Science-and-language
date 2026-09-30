@@ -48,48 +48,53 @@ Fill in the gaps quiz
 Multiple choice quiz
 ----------------------
 
-.. multichoicepage::
+.. admonition:: MCQ — Systematic Errors
+    :class: mcq
 
-    Which action best demonstrates ethical behaviour in scientific research?
+    .. mcqgroup::
 
-    [x] Reporting findings truthfully
-    [ ] Ignoring unexpected results
-    [ ] Selecting only data that supports the hypothesis
-    [ ] Sharing personal information without consent
+        .. multichoice::
 
-.. multichoicepage::
+            Which action best demonstrates ethical behaviour in scientific research?
 
-    Why is it important to minimise risks during an investigation?
+            [x] Reporting findings truthfully
+            [ ] Ignoring unexpected results
+            [ ] Selecting only data that supports the hypothesis
+            [ ] Sharing personal information without consent
 
-    [ ] It reduces the time needed for data collection
-    [x] It ensures the safety of people, animals, and the environment
-    [ ] It guarantees more accurate results
-    [ ] It avoids the need for safety equipment
+        .. multichoice::
 
-.. multichoicepage::
+            Why is it important to minimise risks during an investigation?
 
-    Which action shows fairness in data interpretation?
+            [ ] It reduces the time needed for data collection
+            [x] It ensures the safety of people, animals, and the environment
+            [ ] It guarantees more accurate results
+            [ ] It avoids the need for safety equipment
 
-    [ ] Selecting data that supports a preferred outcome
-    [ ] Ignoring data that contradicts expectations
-    [x] Interpreting all data without bias
-    [ ] Changing results to match predictions
+        .. multichoice::
 
-.. multichoicepage::
+            Which action shows fairness in data interpretation?
 
-    Why must researchers obtain consent before collecting personal information?
+            [ ] Selecting data that supports a preferred outcome
+            [ ] Ignoring data that contradicts expectations
+            [x] Interpreting all data without bias
+            [ ] Changing results to match predictions
 
-    [ ] It makes the study easier to organise
-    [x] It protects participants' rights and dignity
-    [ ] It increases the number of responses
-    [ ] It reduces the need for follow-up questions
+        .. multichoice::
 
-.. multichoicepage::
+            Why must researchers obtain consent before collecting personal information?
 
-    Which example best demonstrates commitment to doing good?
+            [ ] It makes the study easier to organise
+            [x] It protects participants' rights and dignity
+            [ ] It increases the number of responses
+            [ ] It reduces the need for follow-up questions
 
-    [ ] Avoiding collaboration with others
-    [ ] Keeping results within a single institution
-    [ ] Using animals whenever convenient
-    [x] Applying findings to improve people's lives
+        .. multichoice::
+
+            Which example best demonstrates commitment to doing good?
+
+            [ ] Avoiding collaboration with others
+            [ ] Keeping results within a single institution
+            [ ] Using animals whenever convenient
+            [x] Applying findings to improve people's lives
 

@@ -144,11 +144,14 @@
   margin-top: 1.25rem;
 }
 
+/* Shared control panel button layout */
 .classifying-btn-score,
+.classifying-btn-solution,
 .classifying-btn-reset {
-  padding: 0.4rem 0.8rem;
+  font-family: inherit;
   font-size: 1.0rem;
   font-weight: 500;
+  padding: 0.4rem 0.85rem;
   border-radius: var(--cf-radius-md);
   cursor: pointer;
   transition: var(--cf-transition);
@@ -166,14 +169,30 @@
   border-color: #1d4ed8;
 }
 
-/* Disabled state matching textselect_3.css */
 .classifying-btn-score:disabled {
   opacity: 0.5;
   cursor: not-allowed;
   filter: grayscale(100%);
 }
 
-/* Secondary Action: Reset Button Layout Rules */
+/* Solution Button: Teal Palette */
+.classifying-btn-solution {
+  background-color: #0d9488;
+  color: #ffffff !important;
+  border: 1px solid #0d9488;
+}
+
+.classifying-btn-solution:hover {
+  background-color: #0f766e;
+  border-color: #0f766e;
+}
+
+.classifying-btn-solution:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* Secondary Action: Reset Button */
 .classifying-btn-reset {
   background-color: #ffffff;
   color: #475569;
@@ -183,6 +202,7 @@
 .classifying-btn-reset:hover {
   background-color: #f8fafc;
   color: #0f172a;
+  border-color: #cbd5e1;
 }
 
 /* ==========================================================================
@@ -257,4 +277,35 @@
   background-color: var(--cf-incorrect-bg);
   border-color: var(--cf-incorrect-border);
   color: var(--cf-incorrect-text);
+}
+
+/* ==========================================================================
+   7. * Custom rST Role Styling in Classifying Directive *
+   ========================================================================== */
+
+.classifying-code .rst-role {
+    display: inline; /* Keep inline flow with surrounding text */
+    border-radius: 3px;
+    padding: 1px 4px;
+    margin: 0 1px;
+    background-color: #e6f4ea;
+    border: 1px solid #a8dab5;
+}
+
+/* Hide the literal ":process:" text prefix */
+.classifying-code .rst-role-name {
+    display: none;
+}
+
+/* Ensure font properties strictly inherit from parent .classifying-code */
+.classifying-code .rst-role-content {
+    font-family: inherit !important;
+    font-size: 1em !important;          /* Inherit parent text size */
+    line-height: inherit !important;      /* Match line spacing */
+    font-weight: 600;                     /* Keep bold highlight */
+    color: #137333;
+    background: transparent;
+    padding: 0;
+    margin: 0;
+    border: none;
 }

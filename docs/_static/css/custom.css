@@ -331,3 +331,27 @@ table.tight-table td,
 table.tight-table th {
     padding: 2px 6px;
 }
+
+/* ========================================== */
+/* Override theme zebra striping for tables with class "plain" */
+/* ========================================== */
+
+
+/* Keeps backgrounds transparent */
+.rst-content table.docutils.plain tbody tr,
+table.docutils.plain tbody tr,
+table.docutils.plain tbody tr:nth-child(even),
+table.docutils.plain tbody tr:nth-child(odd),
+table.docutils.plain td {
+    background-color: transparent !important;
+    background: none !important;
+}
+
+/* Target paragraph text and custom spans specifically inside large-table */
+.rst-content table.large-table td p,
+.rst-content table.large-table th p,
+.rst-content table.large-table td span,
+.rst-content table.large-table th span {
+    font-size: 1.15em !important;
+    line-height: 1.5 !important;
+}

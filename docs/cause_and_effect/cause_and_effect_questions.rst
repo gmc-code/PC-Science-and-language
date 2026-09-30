@@ -49,7 +49,7 @@ Cause and effect questions
             .. tab-item:: Model Answer
 
                 The air inside the container expands.
-                :conjb:`As a result`, the pressure inside the container increases.
+                :conjunctionb:`As a result`, the pressure inside the container increases.
 
 
 .. admonition:: Pattern 3: Conjunction (hence)
@@ -73,7 +73,7 @@ Cause and effect questions
             .. tab-item:: Model Answer
 
                 Calcium ions combine with carbonate ions to form an
-                insoluble solid, :conjb:`hence` a cloudy white precipitate appears
+                insoluble solid, :conjunctionb:`hence` a cloudy white precipitate appears
                 in the solution.
 
 
@@ -100,7 +100,7 @@ Cause and effect questions
 
                 | **nomR:** The rapid cooling of warm water vapour on contact with a cold surface.
 
-                :conjb:`Due to` the rapid cooling of warm water vapour on contact with a cold surface, tiny droplets of liquid water form.
+                :conjunctionb:`Due to` the rapid cooling of warm water vapour on contact with a cold surface, tiny droplets of liquid water form.
 
 
 
@@ -127,7 +127,7 @@ Cause and effect questions
                 | **nomR:** The rapid combustion of methane gas in oxygen.
                 | **nomO:** The production of a bright flame.
 
-                The rapid combustion of methane gas in oxygen :conjb:`causes` the
+                The rapid combustion of methane gas in oxygen :conjunctionb:`causes` the
                 production of a bright flame.
 
 
@@ -154,8 +154,8 @@ Cause and effect questions
                 | **nomR:** The even spreading of food colouring through the water.
                 | **nomO:** The lightening of colour throughout the water.
 
-                :conjb:`The result of` the even spreading of food colouring through
-                the water :conjb:`is` the lightening of colour throughout the water.
+                :conjunctionb:`The result of` the even spreading of food colouring through
+                the water :conjunctionb:`is` the lightening of colour throughout the water.
 
 
 .. admonition:: Pattern 7: Conjunction (O because R)
@@ -178,7 +178,7 @@ Cause and effect questions
 
             .. tab-item:: Model Answer
 
-                Hydrogen gas is released :conjb:`because` the acid dissolves part
+                Hydrogen gas is released :conjunctionb:`because` the acid dissolves part
                 of the magnesium.
 
 
@@ -205,7 +205,7 @@ Cause and effect questions
                 | **nomR:** The softening and melting of the solid wax.
                 | **nomO:** The formation of a pool of liquid wax.
 
-                The formation of a pool of liquid wax :conjb:`results from` the
+                The formation of a pool of liquid wax :conjunctionb:`results from` the
                 softening and melting of the solid wax.
 
 
@@ -232,8 +232,8 @@ Cause and effect questions
                 | **nomR:** The oxidation of iron in the presence of oxygen and moisture.
                 | **nomO:** The formation of a reddish brown rust layer.
 
-                :conjb:`The reason for` the formation of a reddish brown rust layer
-                :conjb:`is` the oxidation of iron in the presence of oxygen and
+                :conjunctionb:`The reason for` the formation of a reddish brown rust layer
+                :conjunctionb:`is` the oxidation of iron in the presence of oxygen and
                 moisture.
 
 

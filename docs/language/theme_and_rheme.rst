@@ -16,9 +16,9 @@ context for the information that follows.
 .. admonition:: Examples
    :class: pro
 
-   | **Photosynthesis** occurs in the chloroplasts of plant cells.
-   | **The heart** pumps oxygenated blood throughout the body.
-   | **Gravity** pulls objects toward the center of the Earth.
+   | :theme:`Photosynthesis`  occurs in the chloroplasts of plant cells.
+   | :theme:`The heart` pumps oxygenated blood throughout the body.
+   | :theme:`Gravity` pulls objects toward the center of the Earth.
 
 ----
 
@@ -32,9 +32,9 @@ build upon the foundation set by the Theme.
 .. admonition:: Examples
    :class: pro
 
-   | Photosynthesis **occurs in the chloroplasts of plant cells.**
-   | The heart **pumps oxygenated blood throughout the body.**
-   | Gravity **pulls objects toward the center of the Earth.**
+   | Photosynthesis :rheme:`occurs in the chloroplasts of plant cells.`
+   | The heart :rheme:`pumps oxygenated blood throughout the body.`
+   | Gravity :rheme:`pulls objects toward the center of the Earth.`
 
 ----
 

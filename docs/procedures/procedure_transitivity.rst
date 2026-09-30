@@ -148,7 +148,7 @@ To identify each Circumstance, ask "Where, when, why, how is it happening?".
 
 | Place the Bunsen burner on the heatproof mat.
 | "on the heatproof mat" is the circumstance.
-| :processb:`Place` :participantb:`the Bunsen burner` :circ:`on the heatproof mat`.
+| :processb:`Place` :participantb:`the Bunsen burner` :circumstance:`on the heatproof mat`.
 
 .. admonition:: Circumstances
     :class: shortanswer
@@ -173,11 +173,11 @@ To identify each Circumstance, ask "Where, when, why, how is it happening?".
 
             .. tab-item:: Model Answer
 
-                #. :processb:`Place` :participantb:`the Bunsen burner` :circ:`on the heatproof mat`.
-                #. :processb:`Connect` :participantb:`the rubber tubing` :circ:`to the gas tap`.
+                #. :processb:`Place` :participantb:`the Bunsen burner` :circumstance:`on the heatproof mat`.
+                #. :processb:`Connect` :participantb:`the rubber tubing` :circumstance:`to the gas tap`.
                 #. :processb:`Close` :participantb:`the collar`.
                 #. :processb:`Light` :participantb:`the match`.
-                #. :processb:`Hold` :participantb:`the lit match` :circ:`above the barrel of the Bunsen burner`.
+                #. :processb:`Hold` :participantb:`the lit match` :circumstance:`above the barrel of the Bunsen burner`.
                 #. :processb:`Turn on` :participantb:`the gas`.
                 #. :processb:`Shake out` :participantb:`the match`.
                 #. :processb:`Observe` :participantb:`the flame`.
@@ -199,11 +199,11 @@ To identify each Circumstance, ask "Where, when, why, how is it happening?".
 
         * - :process:`Place`
           - :participant:`the Bunsen burner`
-          - :circ:`on the heatproof mat`
+          - :circumstance:`on the heatproof mat`
 
         * - :process:`Connect`
           - :participant:`the rubber tubing`
-          - :circ:`to the gas tap`
+          - :circumstance:`to the gas tap`
 
         * - :process:`Close`
           - :participant:`the collar`
@@ -215,7 +215,7 @@ To identify each Circumstance, ask "Where, when, why, how is it happening?".
 
         * - :process:`Hold`
           - :participant:`the lit match`
-          - :circ:`above the barrel of the Bunsen burner`
+          - :circumstance:`above the barrel of the Bunsen burner`
 
         * - :process:`Turn on`
           - :participant:`the gas`
@@ -405,23 +405,23 @@ In these procedural steps, circumstances of Manner (how), Place (where), and Ext
 
             .. tab-item:: Model Answer
 
-                #. :processb:`Fill` :participantb:`a test tube` :circ:`with water` :circ:`to one third full`.
-                #. :processb:`Place` :participantb:`the test tube` :circ:`in a test tube rack` :circ:`until ready to heat it`.
-                #. :processb:`Place` :participantb:`the Bunsen burner` :circ:`on the heatproof mat`.
-                #. :processb:`Connect` :participantb:`the rubber tubing` :circ:`to the gas tap`.
+                #. :processb:`Fill` :participantb:`a test tube` :circumstance:`with water` :circumstance:`to one third full`.
+                #. :processb:`Place` :participantb:`the test tube` :circumstance:`in a test tube rack` :circumstance:`until ready to heat it`.
+                #. :processb:`Place` :participantb:`the Bunsen burner` :circumstance:`on the heatproof mat`.
+                #. :processb:`Connect` :participantb:`the rubber tubing` :circumstance:`to the gas tap`.
                 #. :processb:`Close` :participantb:`the collar`.
                 #. :processb:`Light` :participantb:`the match`.
-                #. :processb:`Hold` :participantb:`the lit match` :circ:`just above the barrel of the Bunsen burner`.
+                #. :processb:`Hold` :participantb:`the lit match` :circumstance:`just above the barrel of the Bunsen burner`.
                 #. :processb:`Turn on` :participantb:`the gas`.
                 #. :processb:`Shake out` :participantb:`the match`.
                 #. :processb:`Observe` :participantb:`the yellow safety flame`.
-                #. :processb:`Hold` :participantb:`the test tube` :circ:`with a wooden test tube holder`.
-                #. :processb:`Open` :participantb:`the collar` :circ:`to get a blue heating flame`.
-                #. :processb:`Place` :participantb:`the test tube` :circ:`in the blue flame` :circ:`at a 45-degree angle`, :circ:`pointing away from others`.
-                #. :processb:`Move` :participantb:`the test tube` :circ:`gently` :circ:`in and out of the flame` :circ:`to ensure even heating`.
-                #. :processb:`Close` :participantb:`the collar` :circ:`to return to the yellow safety flame` :circ:`once heating is finished`.
-                #. :processb:`Turn off` :participantb:`the gas` :circ:`at the tap`.
-                #. :processb:`Place` :participantb:`the hot test tube` :circ:`into a wooden test tube rack` :circ:`to cool`.
+                #. :processb:`Hold` :participantb:`the test tube` :circumstance:`with a wooden test tube holder`.
+                #. :processb:`Open` :participantb:`the collar` :circumstance:`to get a blue heating flame`.
+                #. :processb:`Place` :participantb:`the test tube` :circumstance:`in the blue flame` :circumstance:`at a 45-degree angle`, :circumstance:`pointing away from others`.
+                #. :processb:`Move` :participantb:`the test tube` :circumstance:`gently` :circumstance:`in and out of the flame` :circumstance:`to ensure even heating`.
+                #. :processb:`Close` :participantb:`the collar` :circumstance:`to return to the yellow safety flame` :circumstance:`once heating is finished`.
+                #. :processb:`Turn off` :participantb:`the gas` :circumstance:`at the tap`.
+                #. :processb:`Place` :participantb:`the hot test tube` :circumstance:`into a wooden test tube rack` :circumstance:`to cool`.
 
 
 This table breaks down each step into its functional grammatical parts.
@@ -436,16 +436,16 @@ This table breaks down each step into its functional grammatical parts.
       - Circumstance
     * - :process:`Fill`
       - :participant:`a test tube`
-      - :circ:`with water to one third full`
+      - :circumstance:`with water to one third full`
     * - :process:`Place`
       - :participant:`the test tube`
-      - :circ:`in a test tube rack until ready to heat it`
+      - :circumstance:`in a test tube rack until ready to heat it`
     * - :process:`Place`
       - :participant:`the Bunsen burner`
-      - :circ:`on the heatproof mat`
+      - :circumstance:`on the heatproof mat`
     * - :process:`Connect`
       - :participant:`the rubber tubing`
-      - :circ:`to the gas tap`
+      - :circumstance:`to the gas tap`
     * - :process:`Close`
       - :participant:`the collar`
       -
@@ -454,7 +454,7 @@ This table breaks down each step into its functional grammatical parts.
       -
     * - :process:`Hold`
       - :participant:`the lit match`
-      - :circ:`just above the barrel of the Bunsen burner`
+      - :circumstance:`just above the barrel of the Bunsen burner`
     * - :process:`Turn on`
       - :participant:`the gas`
       -
@@ -466,25 +466,25 @@ This table breaks down each step into its functional grammatical parts.
       -
     * - :process:`Hold`
       - :participant:`the test tube`
-      - :circ:`with a wooden test tube holder`
+      - :circumstance:`with a wooden test tube holder`
     * - :process:`Open`
       - :participant:`the collar`
-      - :circ:`to get a blue heating flame`
+      - :circumstance:`to get a blue heating flame`
     * - :process:`Place`
       - :participant:`the test tube`
-      - :circ:`in the blue flame at a 45-degree angle, pointing away from others`
+      - :circumstance:`in the blue flame at a 45-degree angle, pointing away from others`
     * - :process:`Move`
       - :participant:`the test tube`
-      - :circ:`gently in and out of the flame to ensure even heating`
+      - :circumstance:`gently in and out of the flame to ensure even heating`
     * - :process:`Close`
       - :participant:`the collar`
-      - :circ:`to return to the yellow safety flame once heating is finished`
+      - :circumstance:`to return to the yellow safety flame once heating is finished`
     * - :process:`Turn off`
       - :participant:`the gas`
-      - :circ:`at the tap`
+      - :circumstance:`at the tap`
     * - :process:`Place`
       - :participant:`the hot test tube`
-      - :circ:`into a wooden test tube rack to cool`
+      - :circumstance:`into a wooden test tube rack to cool`
 
 
 ----
@@ -529,23 +529,23 @@ Heating Zinc Oxide
 
             .. tab-item:: Model Answer
 
-                #. :circ:`First`, :process:`fill` :participant:`a test tube` :circ:`with zinc oxide powder` :circ:`to a height of about 1 cm`.
-                #. :circ:`Then`, :process:`place` :participant:`the test tube` :circ:`in a test tube rack` :circ:`until ready to heat it`.
-                #. :process:`Place` :participant:`the Bunsen burner` :circ:`centrally` :circ:`on the heatproof mat`.
-                #. :process:`Connect` :participant:`the rubber tubing` :circ:`firmly` :circ:`to the gas tap`.
-                #. :process:`Close` :participant:`the collar` :circ:`completely`.
-                #. :circ:`Next`, :process:`light` :participant:`the match` :circ:`at a safe distance from the body`.
-                #. :process:`Hold` :participant:`the lit match` :circ:`just above the barrel of the Bunsen burner`.
-                #. :circ:`Simultaneously`, :process:`turn on` :participant:`the gas` :circ:`at the wall tap`.
-                #. :process:`Shake out` :participant:`the match` :circ:`immediately once the flame is lit`.
-                #. :process:`Observe` :participant:`the yellow safety flame` :circ:`for a moment` :circ:`to ensure stability`.
-                #. :circ:`Before heating`, :process:`secure` :participant:`the test tube` :circ:`firmly` :circ:`with a wooden test tube holder`.
-                #. :circ:`Slowly` :process:`open` :participant:`the collar` :circ:`until a blue heating flame is achieved`.
-                #. :process:`Place` :participant:`the test tube` :circ:`in the blue flame` :circ:`at a 45-degree angle`, :circ:`pointing the mouth away from other people`.
-                #. :process:`Move` :participant:`the test tube` :circ:`constantly` :circ:`in and out of the flame` :circ:`until the powder changes color from white to yellow`.
-                #. :circ:`Once finished`, :process:`close` :participant:`the collar` :circ:`to return to the yellow safety flame`.
-                #. :process:`Place` :participant:`the hot test tube` :circ:`carefully` :circ:`into a wooden test tube rack` :circ:`to cool undisturbed`.
-                #. :circ:`Finally`, :process:`turn off` :participant:`the gas` :circ:`at the tap` :circ:`completely`.
+                #. :circumstance:`First`, :process:`fill` :participant:`a test tube` :circumstance:`with zinc oxide powder` :circumstance:`to a height of about 1 cm`.
+                #. :circumstance:`Then`, :process:`place` :participant:`the test tube` :circumstance:`in a test tube rack` :circumstance:`until ready to heat it`.
+                #. :process:`Place` :participant:`the Bunsen burner` :circumstance:`centrally` :circumstance:`on the heatproof mat`.
+                #. :process:`Connect` :participant:`the rubber tubing` :circumstance:`firmly` :circumstance:`to the gas tap`.
+                #. :process:`Close` :participant:`the collar` :circumstance:`completely`.
+                #. :circumstance:`Next`, :process:`light` :participant:`the match` :circumstance:`at a safe distance from the body`.
+                #. :process:`Hold` :participant:`the lit match` :circumstance:`just above the barrel of the Bunsen burner`.
+                #. :circumstance:`Simultaneously`, :process:`turn on` :participant:`the gas` :circumstance:`at the wall tap`.
+                #. :process:`Shake out` :participant:`the match` :circumstance:`immediately once the flame is lit`.
+                #. :process:`Observe` :participant:`the yellow safety flame` :circumstance:`for a moment` :circumstance:`to ensure stability`.
+                #. :circumstance:`Before heating`, :process:`secure` :participant:`the test tube` :circumstance:`firmly` :circumstance:`with a wooden test tube holder`.
+                #. :circumstance:`Slowly` :process:`open` :participant:`the collar` :circumstance:`until a blue heating flame is achieved`.
+                #. :process:`Place` :participant:`the test tube` :circumstance:`in the blue flame` :circumstance:`at a 45-degree angle`, :circumstance:`pointing the mouth away from other people`.
+                #. :process:`Move` :participant:`the test tube` :circumstance:`constantly` :circumstance:`in and out of the flame` :circumstance:`until the powder changes color from white to yellow`.
+                #. :circumstance:`Once finished`, :process:`close` :participant:`the collar` :circumstance:`to return to the yellow safety flame`.
+                #. :process:`Place` :participant:`the hot test tube` :circumstance:`carefully` :circumstance:`into a wooden test tube rack` :circumstance:`to cool undisturbed`.
+                #. :circumstance:`Finally`, :process:`turn off` :participant:`the gas` :circumstance:`at the tap` :circumstance:`completely`.
 
 
 ----
@@ -582,15 +582,15 @@ Reaction: hydrochloric acid with magnesium ribbon
 
             .. tab-item:: Model Answer
 
-                #. :circ:`First`, :process:`pour` :participant:`5 mL of dilute hydrochloric acid` :circ:`into a clean test tube`.
-                #. :circ:`Then`, :process:`place` :participant:`the test tube` :circ:`securely` :circ:`in a test tube rack`.
-                #. :process:`Cut` :participant:`a 2 cm strip of magnesium ribbon` :circ:`using scissors`.
-                #. :process:`Clean` :participant:`the surface of the magnesium ribbon` :circ:`with emery paper` :circ:`to remove any oxide layer`.
-                #. :process:`Coil` :participant:`the magnesium ribbon` :circ:`slightly` :circ:`so it fits easily into the test tube`.
-                #. :circ:`Next`, :process:`drop` :participant:`the magnesium ribbon` :circ:`into the acid`.
+                #. :circumstance:`First`, :process:`pour` :participant:`5 mL of dilute hydrochloric acid` :circumstance:`into a clean test tube`.
+                #. :circumstance:`Then`, :process:`place` :participant:`the test tube` :circumstance:`securely` :circumstance:`in a test tube rack`.
+                #. :process:`Cut` :participant:`a 2 cm strip of magnesium ribbon` :circumstance:`using scissors`.
+                #. :process:`Clean` :participant:`the surface of the magnesium ribbon` :circumstance:`with emery paper` :circumstance:`to remove any oxide layer`.
+                #. :process:`Coil` :participant:`the magnesium ribbon` :circumstance:`slightly` :circumstance:`so it fits easily into the test tube`.
+                #. :circumstance:`Next`, :process:`drop` :participant:`the magnesium ribbon` :circumstance:`into the acid`.
                 #. :process:`Observe` :participant:`the rapid effervescence and the heat produced by the reaction`.
-                #. :circ:`Once the reaction has ceased`, :process:`place` :participant:`the test tube` :circ:`back into the rack` :circ:`to cool`.
-                #. :circ:`Finally`, :process:`dispose of` :participant:`the remaining solution` :circ:`according to laboratory safety instructions` and :process:`rinse` :participant:`the equipment`.
+                #. :circumstance:`Once the reaction has ceased`, :process:`place` :participant:`the test tube` :circumstance:`back into the rack` :circumstance:`to cool`.
+                #. :circumstance:`Finally`, :process:`dispose of` :participant:`the remaining solution` :circumstance:`according to laboratory safety instructions` and :process:`rinse` :participant:`the equipment`.
 
 
 
@@ -626,15 +626,15 @@ Reaction: lead(II) nitrate with potassium iodide
 
             .. tab-item:: Model Answer
 
-                #. :circ:`First`, :process:`pour` :participant:`10 mL of lead(II) nitrate solution` :circ:`into a clean beaker`.
-                #. :circ:`Then`, :process:`measure` :participant:`10 mL of potassium iodide solution` :circ:`using a graduated cylinder`.
-                #. :circ:`Carefully`, :process:`add` :participant:`the potassium iodide` :circ:`to the beaker`.
+                #. :circumstance:`First`, :process:`pour` :participant:`10 mL of lead(II) nitrate solution` :circumstance:`into a clean beaker`.
+                #. :circumstance:`Then`, :process:`measure` :participant:`10 mL of potassium iodide solution` :circumstance:`using a graduated cylinder`.
+                #. :circumstance:`Carefully`, :process:`add` :participant:`the potassium iodide` :circumstance:`to the beaker`.
                 #. :process:`Observe` :participant:`the immediate formation of a bright yellow precipitate`.
-                #. :process:`Stir` :participant:`the mixture` :circ:`gently` :circ:`with a glass rod` :circ:`to ensure the reaction is complete`.
-                #. :circ:`Next`, :process:`place` :participant:`a funnel lined with filter paper` :circ:`into a conical flask`.
-                #. :circ:`Slowly`, :process:`pour` :participant:`the mixture` :circ:`through the filter paper` :circ:`to separate the solid`.
-                #. :circ:`Once the liquid has drained`, :process:`rinse` :participant:`the solid` :circ:`with a small amount of deionized water`.
-                #. :circ:`Finally`, :process:`dispose of` :participant:`the heavy metal waste` :circ:`in the designated container` and :process:`clean` :participant:`the glassware`.
+                #. :process:`Stir` :participant:`the mixture` :circumstance:`gently` :circumstance:`with a glass rod` :circumstance:`to ensure the reaction is complete`.
+                #. :circumstance:`Next`, :process:`place` :participant:`a funnel lined with filter paper` :circumstance:`into a conical flask`.
+                #. :circumstance:`Slowly`, :process:`pour` :participant:`the mixture` :circumstance:`through the filter paper` :circumstance:`to separate the solid`.
+                #. :circumstance:`Once the liquid has drained`, :process:`rinse` :participant:`the solid` :circumstance:`with a small amount of deionized water`.
+                #. :circumstance:`Finally`, :process:`dispose of` :participant:`the heavy metal waste` :circumstance:`in the designated container` and :process:`clean` :participant:`the glassware`.
 
 
 

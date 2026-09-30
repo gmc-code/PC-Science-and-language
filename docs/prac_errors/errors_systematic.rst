@@ -130,62 +130,54 @@ Systematic Errors Quiz
 
 ----
 
-.. admonition:: Multiple-Choice Questions
+.. admonition:: MCQ — Systematic Errors
     :class: mcq
 
-    Choose the best answer for each question.
+    .. mcqgroup::
 
-    .. tab-set::
+        .. multichoice::
 
-        .. tab-item:: Q1
+            Why does repeating trials fail to reduce or eliminate a systematic error?
 
-            .. multichoicepage::
+            [ ] Systematic errors only affect a single, isolated measurement.
+            [x] The error creates a consistent bias in the same direction every time.
+            [ ] Repeating trials only improves accuracy, not precision.
 
-                Why does repeating trials fail to reduce or eliminate a systematic error?
 
-                [ ] Systematic errors only affect a single, isolated measurement.
-                [x] The error creates a consistent bias in the same direction every time.
-                [ ] Repeating trials only improves accuracy, not precision.
+        .. multichoice::
 
-        .. tab-item:: Q2
+            An balance balance scale shows a reading of 0.25 g before any object is placed on it. What type of instrumental systematic error is this?
 
-            .. multichoicepage::
+            [x] Zero error
+            [ ] Calibration error
+            [ ] Method limitation
 
-                An balance balance scale shows a reading of 0.25 g before any object is placed on it. What type of instrumental systematic error is this?
 
-                [x] Zero error
-                [ ] Calibration error
-                [ ] Method limitation
+        .. multichoice::
 
-        .. tab-item:: Q3
+            Which experimental aspect is primarily reduced when systematic errors are present in a set of measurements?
 
-            .. multichoicepage::
+            [ ] Precision
+            [x] Accuracy
+            [ ] Sample size
 
-                Which experimental aspect is primarily reduced when systematic errors are present in a set of measurements?
 
-                [ ] Precision
-                [x] Accuracy
-                [ ] Sample size
+        .. multichoice::
 
-        .. tab-item:: Q4
+            An experiment consistently yields incorrect heat transfer values because heat loss to the surrounding air was not accounted for in the setup design. What type of error source is this?
 
-            .. multichoicepage::
+            [ ] Environmental variation
+            [ ] Instrumental error
+            [x] Method limitation
 
-                An experiment consistently yields incorrect heat transfer values because heat loss to the surrounding air was not accounted for in the setup design. What type of error source is this?
 
-                [ ] Environmental variation
-                [ ] Instrumental error
-                [x] Method limitation
+        .. multichoice::
 
-        .. tab-item:: Q5
+            What is the correct action to fix or compensate for a calibration error found in a sensor?
 
-            .. multichoicepage::
-
-                What is the correct action to fix or compensate for a calibration error found in a sensor?
-
-                [ ] Take multiple readings and calculate the average.
-                [x] Verify against a known standard and recalibrate the device.
-                [ ] Discard the entire data set and repeat the trial with a different operator.
+            [ ] Take multiple readings and calculate the average.
+            [x] Verify against a known standard and recalibrate the device.
+            [ ] Discard the entire data set and repeat the trial with a different operator.
 
 
 

@@ -35,48 +35,53 @@ Fill in the gaps quiz
 Multiple choice quiz
 ----------------------
 
-.. multichoicepage::
+.. admonition:: MCQ — Doing Good
+    :class: mcq
 
-    Which action best reflects the principle of doing good in scientific research?
+    .. mcqgroup::
 
-    [x] Choosing research questions that benefit the community
-    [ ] Avoiding collaboration with other researchers
-    [ ] Repeating studies for practice without sharing results
-    [ ] Designing experiments that have no clear purpose
+        .. multichoice::
 
-.. multichoicepage::
+            Which action best reflects the principle of doing good in scientific research?
 
-    Why should scientists ensure their investigations have a clear educational or social purpose?
+            [x] Choosing research questions that benefit the community
+            [ ] Avoiding collaboration with other researchers
+            [ ] Repeating studies for practice without sharing results
+            [ ] Designing experiments that have no clear purpose
 
-    [ ] It shortens the data-collection process
-    [ ] It makes the report easier to write
-    [ ] It reduces the number of variables
-    [x] It helps maximise the positive impact of the research
+        .. multichoice::
 
-.. multichoicepage::
+            Why should scientists ensure their investigations have a clear educational or social purpose?
 
-    When is it appropriate to involve animals in scientific research?
+            [ ] It shortens the data-collection process
+            [ ] It makes the report easier to write
+            [ ] It reduces the number of variables
+            [x] It helps maximise the positive impact of the research
 
-    [ ] When the use of animals saves money
-    [ ] When it is convenient for the researcher
-    [ ] When the sample size needs to be increased
-    [x] When there is a clear and meaningful benefit
+        .. multichoice::
 
-.. multichoicepage::
+            When is it appropriate to involve animals in scientific research?
 
-    Why should scientists share their findings openly?
+            [ ] When the use of animals saves money
+            [ ] When it is convenient for the researcher
+            [ ] When the sample size needs to be increased
+            [x] When there is a clear and meaningful benefit
 
-    [x] To allow the wider community to benefit from the results
-    [ ] To reduce the number of follow-up questions
-    [ ] To make the study appear more impressive
-    [ ] To increase competition between research groups
+        .. multichoice::
 
-.. multichoicepage::
+            Why should scientists share their findings openly?
 
-    Which example best demonstrates applying findings for the good of society?
+            [x] To allow the wider community to benefit from the results
+            [ ] To reduce the number of follow-up questions
+            [ ] To make the study appear more impressive
+            [ ] To increase competition between research groups
 
-    [ ] Using findings only for commercial gain
-    [ ] Keeping results within a single institution
-    [x] Applying results to improve people's lives
-    [ ] Limiting access to the research
+        .. multichoice::
+
+            Which example best demonstrates applying findings for the good of society?
+
+            [ ] Using findings only for commercial gain
+            [ ] Keeping results within a single institution
+            [x] Applying results to improve people's lives
+            [ ] Limiting access to the research
 

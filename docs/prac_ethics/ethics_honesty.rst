@@ -35,49 +35,54 @@ Fill in the gaps quiz
 Multiple choice quiz
 ----------------------
 
-.. multichoicepage::
+.. admonition:: MCQ — Systematic Errors
+    :class: mcq
 
-    Which action best demonstrates honesty in scientific work?
+    .. mcqgroup::
 
-    [ ] Adjusting results to match the hypothesis
-    [x] Reporting all data truthfully
-    [ ] Ignoring unusual data points
-    [ ] Writing results in a way that sounds more impressive
+        .. multichoice::
 
-.. multichoicepage::
+            Which action best demonstrates honesty in scientific work?
 
-    Why should observations be recorded immediately?
+            [ ] Adjusting results to match the hypothesis
+            [x] Reporting all data truthfully
+            [ ] Ignoring unusual data points
+            [ ] Writing results in a way that sounds more impressive
 
-    [x] Memory can distort details
-    [ ] It saves time later
-    [ ] It makes the report look longer
-    [ ] It avoids using instruments
+        .. multichoice::
 
-.. multichoicepage::
+            Why should observations be recorded immediately?
 
-    What should a scientist do if they discover a measurement error?
+            [x] Memory can distort details
+            [ ] It saves time later
+            [ ] It makes the report look longer
+            [ ] It avoids using instruments
 
-    [ ] Hide it to avoid delays
-    [ ] Repeat the experiment without noting it
-    [x] Admit the mistake and document it
-    [ ] Change the value to the expected one
+        .. multichoice::
 
-.. multichoicepage::
+            What should a scientist do if they discover a measurement error?
 
-    Which situation requires disclosure of a conflict of interest?
+            [ ] Hide it to avoid delays
+            [ ] Repeat the experiment without noting it
+            [x] Admit the mistake and document it
+            [ ] Change the value to the expected one
 
-    [ ] The study uses old equipment
-    [ ] The researcher dislikes the topic
-    [x] The research is funded by a group that may benefit
-    [ ] The sample size is small
+        .. multichoice::
 
-.. multichoicepage::
+            Which situation requires disclosure of a conflict of interest?
 
-    Why is it important to accurately describe the methods used?
+            [ ] The study uses old equipment
+            [ ] The researcher dislikes the topic
+            [x] The research is funded by a group that may benefit
+            [ ] The sample size is small
 
-    [x] So others can independently verify the study
-    [ ] To make the report sound more complex
-    [ ] To impress funding agencies
-    [ ] To reduce the length of the results section
+        .. multichoice::
+
+            Why is it important to accurately describe the methods used?
+
+            [x] So others can independently verify the study
+            [ ] To make the report sound more complex
+            [ ] To impress funding agencies
+            [ ] To reduce the length of the results section
 
 

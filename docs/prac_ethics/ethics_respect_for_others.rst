@@ -34,47 +34,52 @@ Fill in the gaps quiz
 Multiple choice quiz
 ----------------------
 
-.. multichoicepage::
+.. admonition:: MCQ — Respect for Others
+    :class: mcq
 
-    Which action best demonstrates respect for research participants?
+    .. mcqgroup::
 
-    [ ] Using personal information without asking to save time
-    [x] Allowing participants to withdraw from the study at any point
-    [ ] Encouraging participants to stay even if they feel uncomfortable
-    [ ] Sharing participant data with other groups for convenience
+        .. multichoice::
 
-.. multichoicepage::
+            Which action best demonstrates respect for research participants?
 
-    Which action shows respect when working with biological material?
+            [ ] Using personal information without asking to save time
+            [x] Allowing participants to withdraw from the study at any point
+            [ ] Encouraging participants to stay even if they feel uncomfortable
+            [ ] Sharing participant data with other groups for convenience
 
-    [ ] Handling samples carelessly to save time
-    [x] Behaving respectfully and following proper procedures
-    [ ] Allowing untrained individuals to assist
-    [ ] Ignoring safety guidelines if the risk seems low
+        .. multichoice::
 
-.. multichoicepage::
+            Which action shows respect when working with biological material?
 
-    Why should researchers cite funding bodies and data providers?
+            [ ] Handling samples carelessly to save time
+            [x] Behaving respectfully and following proper procedures
+            [ ] Allowing untrained individuals to assist
+            [ ] Ignoring safety guidelines if the risk seems low
 
-    [ ] To make the report appear longer
-    [ ] To follow formatting rules only
-    [x] To acknowledge the contributions of those who supported the work
-    [ ] To reduce the number of references needed
+        .. multichoice::
 
-.. multichoicepage::
+            Why should researchers cite funding bodies and data providers?
 
-    Which example best demonstrates respect for laboratory animals?
+            [ ] To make the report appear longer
+            [ ] To follow formatting rules only
+            [x] To acknowledge the contributions of those who supported the work
+            [ ] To reduce the number of references needed
 
-    [ ] Housing animals alone regardless of species needs
-    [x] Providing enrichment and social housing appropriate to the species
-    [ ] Using animals whenever it is convenient
-    [ ] Minimising time spent checking on their welfare to save money
+        .. multichoice::
 
-.. multichoicepage::
+            Which example best demonstrates respect for laboratory animals?
 
-    Why is it important to seek permission before entering cultural sites?
+            [ ] Housing animals alone regardless of species needs
+            [x] Providing enrichment and social housing appropriate to the species
+            [ ] Using animals whenever it is convenient
+            [ ] Minimising time spent checking on their welfare to save money
 
-    [x] It ensures respectful behaviour toward communities connected to the site
-    [ ] It reduces the amount of paperwork required
-    [ ] It guarantees more accurate scientific results
-    [ ] It allows researchers to avoid safety training
+        .. multichoice::
+
+            Why is it important to seek permission before entering cultural sites?
+
+            [x] It ensures respectful behaviour toward communities connected to the site
+            [ ] It reduces the amount of paperwork required
+            [ ] It guarantees more accurate scientific results
+            [ ] It allows researchers to avoid safety training

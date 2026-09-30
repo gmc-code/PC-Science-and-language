@@ -33,48 +33,53 @@ Fill in the gaps quiz
 Multiple choice quiz
 ----------------------
 
-.. multichoicepage::
+.. admonition:: MCQ — Fairness
+    :class: mcq
 
-    Why is it important to let people choose whether to participate in a study?
+    .. mcqgroup::
 
-    [x] It ensures participation is voluntary
-    [ ] It increases the number of responses
-    [ ] It avoids writing consent forms
-    [ ] It makes the study faster
+        .. multichoice::
 
-.. multichoicepage::
+            Why is it important to let people choose whether to participate in a study?
 
-    What makes a survey question fair?
+            [x] It ensures participation is voluntary
+            [ ] It increases the number of responses
+            [ ] It avoids writing consent forms
+            [ ] It makes the study faster
 
-    [ ] Asking only yes/no questions
-    [x] Writing it in plain, understandable language
-    [ ] Making it sound impressive
-    [ ] Using complex scientific terms
+        .. multichoice::
 
-.. multichoicepage::
+            What makes a survey question fair?
 
-    What is an example of unbiased data interpretation?
+            [ ] Asking only yes/no questions
+            [x] Writing it in plain, understandable language
+            [ ] Making it sound impressive
+            [ ] Using complex scientific terms
 
-    [x] Applying the same criteria to all data
-    [ ] Selecting only the smallest data sets
-    [ ] Favouring one group's responses
-    [ ] Ignoring results that don't fit expectations
+        .. multichoice::
 
-.. multichoicepage::
+            What is an example of unbiased data interpretation?
 
-    Why should a study include a diverse sample?
+            [x] Applying the same criteria to all data
+            [ ] Selecting only the smallest data sets
+            [ ] Favouring one group's responses
+            [ ] Ignoring results that don't fit expectations
 
-    [ ] To reduce the number of variables
-    [ ] To avoid collecting too much data
-    [ ] To make the report longer
-    [x] To ensure conclusions apply fairly to different groups
+        .. multichoice::
 
-.. multichoicepage::
+            Why should a study include a diverse sample?
 
-    Why is open access important for fairness in science?
+            [ ] To reduce the number of variables
+            [ ] To avoid collecting too much data
+            [ ] To make the report longer
+            [x] To ensure conclusions apply fairly to different groups
 
-    [ ] It increases printing costs
-    [ ] It limits who can read the research
-    [x] It allows all researchers to use and build on the findings
-    [ ] It makes the study more secretive
+        .. multichoice::
+
+            Why is open access important for fairness in science?
+
+            [ ] It increases printing costs
+            [ ] It limits who can read the research
+            [x] It allows all researchers to use and build on the findings
+            [ ] It makes the study more secretive
 

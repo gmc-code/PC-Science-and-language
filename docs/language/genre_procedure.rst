@@ -23,7 +23,7 @@ Genre: Procedure
 
             * **Material Processes:** Dominance of "doing" words (e.g., *stir, connect, heat*).
             * **Participants:** Focus on concrete, technical nouns—the specific tools or ingredients (e.g., *the crucible, the hydrochloric acid*).
-            * **Circumstances:** Heavy use of details answering *where*, *how*, or *how long* (e.g., ":circ:`slowly`," ":circ:`on the heatproof mat`").
+            * **Circumstances:** Heavy use of details answering *where*, *how*, or *how long* (e.g., ":circumstance:`slowly`," ":circumstance:`on the heatproof mat`").
 
         .. tab-item:: 3. Textual Logic
 

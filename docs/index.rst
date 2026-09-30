@@ -18,7 +18,32 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🤔 Y7 ch 2 Biology Summaries
+    :caption: 👈🔢🎨🗂️👑🔍 Noun groups
+    :numbered:
+
+    noun_groups/noun_group.rst
+    noun_groups/noun_describers_classifiers.rst
+    noun_groups/noun_group_qualifiers.rst
+    noun_groups/qualifiers_prepositional_phrases.rst
+    noun_groups/qualifiers_prepositional_phrases2.rst
+
+
+    noun_groups/qualifiers_prepositional_phrases_place.rst
+    noun_groups/qualifiers_prepositional_phrases_time.rst
+
+    noun_groups/qualifiers_prepositional_phrases_cause.rst
+    noun_groups/qualifiers_prepositional_phrases_contigency.rst
+    noun_groups/qualifiers_prepositional_phrases_manner.rst
+    noun_groups/qualifiers_prepositional_phrases_accompaniment.rst
+
+    noun_groups/qualifiers_prepositional_phrases_angle.rst
+    noun_groups/qualifiers_prepositional_phrases_matter.rst
+    noun_groups/qualifiers_prepositional_phrases_role.rst
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🤔🌱 Y7 ch 2 Biology Summaries
 
     summaries/Y7_ch2/2A.rst
     vocab/Y7_ch2/2A_jumblewords.rst
@@ -39,7 +64,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🤔 Y7 ch 3 Biology Summaries
+    :caption: 🤔🌱 Y7 ch 3 Biology Summaries
 
     summaries/Y7_ch3/3A.rst
     vocab/Y7_ch3/3A_jumblewords.rst
@@ -65,7 +90,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🤔 Year 8 Energy Summaries
+    :caption: 🤔⚡ Year 8 Energy Summaries
 
     summaries/Y8_ch6/6A.rst
     summaries/Y8_ch6/6B.rst
@@ -82,18 +107,18 @@ PC-Science-and-language
     :caption: ⚡ Energy
     :numbered:
 
-    physics/energy_quick_questions.rst
-    physics/energy_quick_cloze.rst
-    physics/energy_cloze.rst
-    physics/energy_quiz.rst
+    Y8/physics/energy_quick_questions.rst
+    Y8/physics/energy_quick_cloze.rst
+    Y8/physics/energy_cloze.rst
+    Y8/physics/energy_quiz.rst
 
-    energy/energy_nominalisations.rst
-    energy/energy_nominalisations2.rst
-    energy/energy_nominalisation_sentences.rst
+    Y8/energy/energy_nominalisations.rst
+    Y8/energy/energy_nominalisations2.rst
+    Y8/energy/energy_nominalisation_sentences.rst
 
-    energy/energy_adding_circumstances.rst
-    energy/energy_adding_circumstances2.rst
-    energy/energy_match_circumstances.rst
+    Y8/energy/energy_adding_circumstances.rst
+    Y8/energy/energy_adding_circumstances2.rst
+    Y8/energy/energy_match_circumstances.rst
 
 
 
@@ -102,12 +127,12 @@ PC-Science-and-language
     :caption: 💎 Rocks
     :numbered:
 
-    rocks/rocks_nominalisations.rst
-    rocks/rocks_nominalisations2.rst
-    rocks/rocks_action_processes.rst
+    Y8/rocks/rocks_nominalisations.rst
+    Y8/rocks/rocks_nominalisations2.rst
+    Y8/rocks/rocks_action_processes.rst
 
-    rocks/rocks_prepositional_phrases.rst
-    rocks/rocks_adding_circumstances.rst
+    Y8/rocks/rocks_prepositional_phrases.rst
+    Y8/rocks/rocks_adding_circumstances.rst
 
 
 
@@ -117,14 +142,14 @@ PC-Science-and-language
     :numbered:
 
 
-    earth/earth_nominalisations.rst
-    earth/earth_nominalisations2.rst
-    earth/earth_nominalisation_sentences.rst
+    Y8/earth/earth_nominalisations.rst
+    Y8/earth/earth_nominalisations2.rst
+    Y8/earth/earth_nominalisation_sentences.rst
 
-    earth/earth_adding_circumstances.rst
-    earth/earth_adding_circumstances2.rst
+    Y8/earth/earth_adding_circumstances.rst
+    Y8/earth/earth_adding_circumstances2.rst
 
-    earth/earth_match_circumstances.rst
+    Y8/earth/earth_match_circumstances.rst
 
 
 
@@ -133,9 +158,9 @@ PC-Science-and-language
     :caption: 🧪 States of Matter and Mixtures
     :numbered:
 
-    states_mixtures/states_mixtures_nominalisations.rst
-    states_mixtures/states_mixtures_nominalisations2.rst
-    states_mixtures/states_mixtures_nominalisations3.rst
+    Y7/states_mixtures/states_mixtures_nominalisations.rst
+    Y7/states_mixtures/states_mixtures_nominalisations2.rst
+    Y7/states_mixtures/states_mixtures_nominalisations3.rst
 
 
 .. toctree::
@@ -143,9 +168,18 @@ PC-Science-and-language
     :caption: ✏️ Language features
     :numbered:
 
-    language/nominal_groups.rst
-    language/clauses.rst
+    clauses/clauses.rst
+
+    clauses/clauses_independent.rst
+    clauses/clauses_dependent.rst
+    clauses/clauses_relative.rst
+    clauses/clauses_interrupting.rst
+    clauses/clauses_non_finite.rst
+    clauses/clauses_embedded.rst
+    clauses/clauses_minor.rst
+
     language/sentences.rst
+    language/finite_and_nonfinite_verbs.rst
     language/complex_sentences.rst
     language/active_passive.rst
     language/Sequential_explanations.rst
@@ -175,14 +209,6 @@ PC-Science-and-language
     language/circumstance_resources.rst
     language/circumstance_prepositional_phrases.rst
     language/circumstances_manner.rst
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🧷 Qualifiers
-    :numbered:
-
-    language/qualifiers_prepositional_phrases.rst
 
 
 .. toctree::
@@ -303,27 +329,12 @@ PC-Science-and-language
     :caption: 🧪 Chemistry
     :numbered:
 
-    chemistry/PRO_Physical_Changes_declarative.rst
-    chemistry/PRO_Physical_Changes_situational.rst
-    chemistry/PRO_Physical_Changes_scaffold.rst
+    Y8/chemistry/PRO_Physical_Changes_declarative.rst
+    Y8/chemistry/PRO_Physical_Changes_situational.rst
+    Y8/chemistry/PRO_Physical_Changes_scaffold.rst
 
-    chemistry/PRO_Chemical_Changes.rst
-    chemistry/PRO_Chemical_Changes_B.rst
-
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🌱 Biology
-    :numbered:
-
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🧲 Physics
-    :numbered:
-
+    Y8/chemistry/PRO_Chemical_Changes.rst
+    Y8/chemistry/PRO_Chemical_Changes_B.rst
 
 
 
@@ -333,4 +344,7 @@ PC-Science-and-language
     :numbered:
 
 
-
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧲 Physics
+    :numbered:
