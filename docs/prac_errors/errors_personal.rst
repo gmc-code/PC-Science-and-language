@@ -40,30 +40,10 @@ Personal Errors
 .. admonition:: Fill in the Gaps — Personal Errors
     :class: cloze
 
-    Complete the following by filling in the missing words.
+    .. cloze::
+        :instructions: Complete the following by filling in the missing words.
 
-    **Word list (A → Z):**
-    corrected • discarded • rechecked • reread
-
-    1. Invalid results should be ______________ if a mistake has occurred.
-    2. Data records should be ______________ to identify any recording errors.
-    3. If an error is found, the value should be ______________.
-    4. Instruments should be ______________ carefully to avoid one-off misreadings.
-
-
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-cloze
-
-        .. tab-set::
-
-            .. tab-item:: Answers
-
-                1. discarded
-                2. rechecked
-                3. corrected
-                4. reread
-
-
-
-
+        1. Invalid results should be @@discarded@@ if a mistake has occurred.
+        2. Data records should be @@rechecked@@ to identify any recording errors.
+        3. If an error is found, the value should be @@corrected@@.
+        4. Instruments should be @@reread@@ carefully to avoid one-off misreadings.

@@ -11,8 +11,8 @@ General Ethical Principles
    :header-rows: 0
    :widths: 25 75
 
-   * - Principle
-     - Everyday Meaning
+   * - **Principle**
+     - **Everyday Meaning**
 
    * - Respect for Others
      - Treat all people with dignity and obtain proper consent.

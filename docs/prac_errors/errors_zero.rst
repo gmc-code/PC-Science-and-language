@@ -7,13 +7,6 @@ Zero Error
 
 ----
 
-.. image:: images/zero_error_collage.png
-   :alt: zero_error_collage
-   :align: center
-   :scale: 60%
-
-----
-
 Examples
 ------------
 

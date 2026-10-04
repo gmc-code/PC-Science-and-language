@@ -16,29 +16,20 @@ PC-Science-and-language
     introduction/introduction.rst
 
 
+
 .. toctree::
     :maxdepth: 2
-    :caption: 👈🔢🎨🗂️👑🔍 Noun groups
-    :numbered:
+    :caption: 🤔⚡ Year 8 Energy Summaries
 
-    noun_groups/noun_group.rst
-    noun_groups/noun_describers_classifiers.rst
-    noun_groups/noun_group_qualifiers.rst
-    noun_groups/qualifiers_prepositional_phrases.rst
-    noun_groups/qualifiers_prepositional_phrases2.rst
+    summaries/Y8_ch6/6A.rst
+    summaries/Y8_ch6/6B.rst
+    summaries/Y8_ch6/6C.rst
+    summaries/Y8_ch6/6D.rst
 
+    summaries/Y8_ch7/7A.rst
+    summaries/Y8_ch7/7B.rst
+    summaries/Y8_ch7/7C.rst
 
-    noun_groups/qualifiers_prepositional_phrases_place.rst
-    noun_groups/qualifiers_prepositional_phrases_time.rst
-
-    noun_groups/qualifiers_prepositional_phrases_cause.rst
-    noun_groups/qualifiers_prepositional_phrases_contigency.rst
-    noun_groups/qualifiers_prepositional_phrases_manner.rst
-    noun_groups/qualifiers_prepositional_phrases_accompaniment.rst
-
-    noun_groups/qualifiers_prepositional_phrases_angle.rst
-    noun_groups/qualifiers_prepositional_phrases_matter.rst
-    noun_groups/qualifiers_prepositional_phrases_role.rst
 
 
 .. toctree::
@@ -63,7 +54,7 @@ PC-Science-and-language
 
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :caption: 🤔🌱 Y7 ch 3 Biology Summaries
 
     summaries/Y7_ch3/3A.rst
@@ -88,23 +79,96 @@ PC-Science-and-language
 
 
 
-.. toctree::
-    :maxdepth: 2
-    :caption: 🤔⚡ Year 8 Energy Summaries
-
-    summaries/Y8_ch6/6A.rst
-    summaries/Y8_ch6/6B.rst
-    summaries/Y8_ch6/6C.rst
-    summaries/Y8_ch6/6D.rst
-
-    summaries/Y8_ch7/7A.rst
-    summaries/Y8_ch7/7B.rst
-    summaries/Y8_ch7/7C.rst
 
 
 .. toctree::
     :maxdepth: 2
-    :caption: ⚡ Energy
+    :caption: 🧪⚖️ Prac Ethics
+    :numbered:
+
+    prac_ethics/ethics_introduction.rst
+    prac_ethics/ethics_honesty.rst
+    prac_ethics/ethics_fairness.rst
+    prac_ethics/ethics_respect_for_others.rst
+    prac_ethics/ethics_avoidance_of_harm.rst
+    prac_ethics/ethics_doing_good.rst
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪⛔ Prac Errors in science
+    :numbered:
+
+    prac_errors/errors_in_science.rst
+
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪⛔ Prac Systematic Errors
+    :numbered:
+
+    prac_errors/errors_systematic.rst
+    prac_errors/errors_zero.rst
+    prac_errors/errors_calibration.rst
+    prac_errors/errors_parallax.rst
+    prac_errors/errors_method_limitation.rst
+    prac_errors/errors_environmental_bias.rst
+    prac_errors/errors_systematic_quiz.rst
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪⛔ Prac Random Errors
+    :numbered:
+
+    prac_errors/errors_random.rst
+    prac_errors/errors_resolution_limitation.rst
+    prac_errors/errors_technique_variation.rst
+    prac_errors/errors_environmental_variation.rst
+    prac_errors/errors_random_quiz.rst
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪⛔ Prac Personal Errors
+    :numbered:
+
+    prac_errors/errors_personal.rst
+    prac_errors/errors_operator.rst
+    prac_errors/errors_recording.rst
+    prac_errors/errors_personal_quiz.rst
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪🎯 Prac Experiment Sections
+    :numbered:
+
+    pracs/accuracy_and_precision.rst
+    pracs/aims.rst
+    pracs/aims_nominalisations.rst
+
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪👉 Procedures
+    :numbered:
+
+    procedures/procedure_transitivity.rst
+    procedures/report_to_procedure.rst
+    procedures/procedure_dependent_clauses.rst
+    procedures/procedure_time.rst
+    procedures/procedure_manner.rst
+    procedures/procedure_cause.rst
+    procedures/procedure_condition.rst
+
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: ⚡ 8 Energy
     :numbered:
 
     Y8/physics/energy_quick_questions.rst
@@ -161,6 +225,32 @@ PC-Science-and-language
     Y7/states_mixtures/states_mixtures_nominalisations.rst
     Y7/states_mixtures/states_mixtures_nominalisations2.rst
     Y7/states_mixtures/states_mixtures_nominalisations3.rst
+
+
+
+
+.. toctree::
+    :maxdepth: 1
+    :caption: 👈🔢🎨🗂️👑🔍 Noun groups
+    :numbered:
+
+    noun_groups/noun_group.rst
+    noun_groups/noun_describers_classifiers.rst
+    noun_groups/noun_group_qualifiers.rst
+    noun_groups/qualifiers_prepositional_phrases.rst
+
+    noun_groups/qualifiers_prepositional_phrases_place.rst
+    noun_groups/qualifiers_prepositional_phrases_time.rst
+
+    noun_groups/qualifiers_prepositional_phrases_cause.rst
+    noun_groups/qualifiers_prepositional_phrases_contigency.rst
+    noun_groups/qualifiers_prepositional_phrases_manner.rst
+    noun_groups/qualifiers_prepositional_phrases_accompaniment.rst
+
+    noun_groups/qualifiers_prepositional_phrases_angle.rst
+    noun_groups/qualifiers_prepositional_phrases_matter.rst
+    noun_groups/qualifiers_prepositional_phrases_role.rst
+
 
 
 .. toctree::
@@ -240,87 +330,6 @@ PC-Science-and-language
     reporting/compositional_report.rst
     reporting/comparative_report.rst
 
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🧪👉 Procedures
-    :numbered:
-
-    procedures/procedure_transitivity.rst
-    procedures/report_to_procedure.rst
-    procedures/procedure_dependent_clauses.rst
-    procedures/procedure_time.rst
-    procedures/procedure_manner.rst
-    procedures/procedure_cause.rst
-    procedures/procedure_condition.rst
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🧪🎯 Prac Experiment Sections
-    :numbered:
-
-    pracs/accuracy_and_precision.rst
-    pracs/aims.rst
-    pracs/aims_nominalisations.rst
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🧪⚖️ Prac Ethics
-    :numbered:
-
-    prac_ethics/ethics_introduction.rst
-    prac_ethics/ethics_honesty.rst
-    prac_ethics/ethics_fairness.rst
-    prac_ethics/ethics_respect_for_others.rst
-    prac_ethics/ethics_avoidance_of_harm.rst
-    prac_ethics/ethics_doing_good.rst
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🧪⛔ Prac Errors in science
-    :numbered:
-
-    prac_errors/errors_in_science.rst
-
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🧪⛔ Prac Systematic Errors
-    :numbered:
-
-    prac_errors/errors_systematic.rst
-    prac_errors/errors_zero.rst
-    prac_errors/errors_calibration.rst
-    prac_errors/errors_parallax.rst
-    prac_errors/errors_method_limitation.rst
-    prac_errors/errors_environmental_bias.rst
-
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🧪⛔ Prac Random Errors
-    :numbered:
-
-    prac_errors/errors_random.rst
-    prac_errors/errors_resolution_limitation.rst
-    prac_errors/errors_technique_variation.rst
-    prac_errors/errors_environmental_variation.rst
-
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🧪⛔ Prac Personal Errors
-    :numbered:
-
-    prac_errors/errors_personal.rst
-    prac_errors/errors_operator.rst
-    prac_errors/errors_recording.rst
 
 
 

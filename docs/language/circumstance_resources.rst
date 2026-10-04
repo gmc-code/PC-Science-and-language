@@ -24,7 +24,7 @@ The examples below are based on Earth Science contexts.
         - Lava cooled **after the eruption**.
         - Plates collide **at the boundary**.
 
-    * - Prepositional phrase with embedded nominal group
+    * - Prepositional phrase
       - the noun has a classifier or describer
 
         - Magma rose **through the upper mantle**.
@@ -47,12 +47,6 @@ The examples below are based on Earth Science contexts.
 
         - The quake struck **last night**.
         - The eruption continued **all day**.
-
-    * - Prepositional phrase with embedded nominal group
-      - A PP whose object is a full NG giving detailed circumstantial meaning
-
-        - Magma rose **through the upper mantle**.
-        - Ash drifted **over the Pacific region**.
 
     * - Non-finite clause
       - -ing or -ed clause functioning as a circumstance (often manner or cause)

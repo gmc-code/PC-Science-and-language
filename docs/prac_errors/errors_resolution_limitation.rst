@@ -16,7 +16,7 @@ Examples
 * A thermometer graduated in 1 °C divisions cannot reliably record a
   temperature of 36.6 °C — the observer must estimate between 36 °C
   and 37 °C
-* A balance reading to 0.1 g cannot detect a mass difference of 0.04 g
+* A balance reading to 0.1 g cannot detect a mass difference of 0.02 g
   between two samples
 * A measuring cylinder graduated in 2 mL divisions requires estimation
   for any volume that falls between graduations, introducing uncertainty
@@ -96,6 +96,66 @@ or a higher-resolution sensor.
   is appropriate for the precision required — consider the magnitude
   of the quantity being measured and the differences expected between
   conditions.
+
+----
+
+.. cloze::
+    :instructions: Complete the following by filling in the missing words.
+
+    1. Resolution limitation occurs when the smallest scale division of an instrument is too @@coarse@@ to distinguish small differences.
+    2. Because estimation between graduations varies unpredictably, resolution limitation is classified as a @@random@@ error.
+    3. Resolution limitation affects the @@precision@@ of measurements, while accuracy is unaffected.
+    4. Each reading carries an inherent uncertainty of at least @@half@@ the smallest scale division.
+    5. Resolution limitation can be reduced by using an instrument with smaller scale divisions or a @@higher@@ resolution.
+
+
+.. mcqgroup::
+    :show_instant_feedback:
+
+    .. multichoice::
+
+        A student uses a ruler marked only in millimetres to measure a specimen that is 3.4 mm long. How is the uncertainty introduced by estimating between graduations classified?
+
+        [ ] Systematic error
+        [x] Random error
+        [ ] Personal error
+        [ ] Environmental variation
+
+    .. multichoice::
+
+        What is the main effect of a resolution limitation on collected data?
+
+        [ ] It causes a consistent shift in one direction, reducing accuracy.
+        [x] It causes unpredictable scatter around the true value, reducing precision.
+        [ ] It introduces a fixed bias that cannot be reduced by averaging.
+        [ ] It changes the true value of the physical quantity being measured.
+
+    .. multichoice::
+
+        An analogue thermometer has scale divisions of 1 °C. What is the minimum inherent uncertainty introduced when taking a single temperature reading?
+
+        [ ] ±0.1 °C
+        [x] ±0.5 °C
+        [ ] ±1.0 °C
+        [ ] ±2.0 °C
+
+    .. multichoice::
+
+        To which source category from the four-step error framework does a resolution limitation belong?
+
+        [x] Instrumental
+        [ ] Observational / Procedural
+        [ ] Method
+        [ ] Environmental
+
+    .. multichoice::
+
+        Which action is the most effective way to fundamentally resolve a resolution limitation in an experiment?
+
+        [ ] Take three repeat readings and calculate the mean.
+        [ ] Zero the instrument using the tare button before taking readings.
+        [x] Replace the instrument with one featuring finer scale divisions or a digital sensor.
+        [ ] Read the scale from directly above to eliminate parallax error.
 
 
 ----

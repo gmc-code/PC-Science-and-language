@@ -218,12 +218,3 @@ Errors Quiz
             [ ] Method limitation
 
 
-
-----
-
-.. image:: images/errors_infographic.png
-    :alt: Errors Infographic
-    :align: center
-    :scale: 60%
-
-

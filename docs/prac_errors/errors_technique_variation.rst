@@ -94,6 +94,66 @@ precisely as possible and increase the number of trials.
 
 ----
 
+.. cloze::
+    :instructions: Complete the following by filling in the missing words.
+
+    1. Minor technique variation occurs when small, unavoidable procedural differences introduce @@unpredictable@@ variation into measurements.
+    2. Because the direction and magnitude of the variation vary between trials, it is classified as a @@random@@ error.
+    3. Minor technique variation belongs to the @@Observation / procedure@@ source category in the four-step analysis framework.
+    4. Minor technique variation reduces the @@precision@@ of measurements, while accuracy remains unaffected.
+    5. The effect of technique variation can be reduced by standardising the procedure and calculating a @@mean@@ over multiple trials.
+
+
+.. mcqgroup::
+    :show_instant_feedback:
+
+    .. multichoice::
+
+        Inconsistent stirring speeds when dissolving a solute cause small variations in the final concentration reached across trials. How is this error classified?
+
+        [ ] Systematic error
+        [x] Random error
+        [ ] Personal error
+        [ ] Environmental error
+
+    .. multichoice::
+
+        According to the four-step error framework, which source category does minor technique variation belong to?
+
+        [ ] Instrumental
+        [x] Observation / procedure
+        [ ] Method
+        [ ] Environmental
+
+    .. multichoice::
+
+        What impact does minor technique variation have on experimental results?
+
+        [ ] It causes all readings to be consistently shifted in one direction, reducing accuracy.
+        [x] It causes results to scatter above and below the true value, reducing precision.
+        [ ] It introduces a constant bias that cannot be mitigated by averaging.
+        [ ] It permanently lowers both accuracy and precision equally.
+
+    .. multichoice::
+
+        Which of the following procedural steps helps to reduce the impact of minor technique variation without changing equipment?
+
+        [ ] Subtracting a fixed correction factor from all final results.
+        [ ] Zeroing the measuring apparatus before every single trial.
+        [x] Standardising the step-by-step method and averaging repeated measurements.
+        [ ] Changing the environmental conditions between experimental trials.
+
+    .. multichoice::
+
+        Replacing manual stirring with an automated magnetic stirrer is an example of which improvement strategy?
+
+        [ ] Correcting zero offset error
+        [x] Replacing manual steps with automated tools to reduce technique variation
+        [ ] Eliminating systematic environmental drift
+        [ ] Increasing scale division resolution
+
+----
+
 .. admonition:: Structured Question: Minor Technique Variation
     :class: shortanswer
 

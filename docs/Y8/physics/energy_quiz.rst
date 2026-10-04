@@ -3,9 +3,9 @@ Energy Quiz
 ====================================================
 
 .. mcqgroup::
-
-    Question 1
-    ---------------------------------------------
+    :show_instant_feedback:
+    :shuffle_questions:
+    :num_questions: 10
 
     .. multichoice::
 
@@ -15,9 +15,6 @@ Energy Quiz
         [ ] The force that holds an atom together | Incorrect. While nuclear forces hold atoms together, energy itself is the capacity to do work or make changes.
 
 
-    Question 2
-    ---------------------------------------------
-
     .. multichoice::
 
         Which of the following is a form of potential energy?
@@ -25,9 +22,6 @@ Energy Quiz
         [ ] thermal | Incorrect. Thermal energy is the total kinetic energy of moving or vibrating particles.
         [x] gravitational | Correct! Gravitational energy is stored potential energy due to an object's position in a gravitational field.
 
-
-    Question 3
-    ---------------------------------------------
 
     .. multichoice::
 
@@ -37,9 +31,6 @@ Energy Quiz
         [x] Potential energy | Correct! Potential energy refers to stored energy based on position, state, or chemical bonds.
 
 
-    Question 4
-    ---------------------------------------------
-
     .. multichoice::
 
         What do bananas, batteries, and fuels have in common?
@@ -47,9 +38,6 @@ Energy Quiz
         [ ] They all contain gravitational potential energy | Incorrect. Their main stored energy comes from chemical bonds, not height/gravity.
         [ ] They all generate static electricity | Incorrect. None of these primarily function by generating static electrical charges.
 
-
-    Question 5
-    ---------------------------------------------
 
     .. multichoice::
 
@@ -59,9 +47,6 @@ Energy Quiz
         [ ] Heat energy does not transfer between objects | Incorrect. Thermal energy naturally transfers between objects of different temperatures.
 
 
-    Question 6
-    ---------------------------------------------
-
     .. multichoice::
 
         Which energy transfer method does not require a medium (particles) to transfer energy?
@@ -69,9 +54,6 @@ Energy Quiz
         [ ] convection | Incorrect. Convection requires a fluid medium (liquid or gas) for density-driven particle movement.
         [x] radiation | Correct! Radiation transfers energy via electromagnetic waves and can travel through a vacuum.
 
-
-    Question 7
-    ---------------------------------------------
 
     .. multichoice::
 
@@ -81,9 +63,6 @@ Energy Quiz
         [ ] movement of heat through air currents | Incorrect. The bulk movement of heat through air or fluid currents describes convection.
 
 
-    Question 8
-    ---------------------------------------------
-
     .. multichoice::
 
         What happens to an apple's Gravitational Potential Energy (GPE) as it falls from a tree branch to the ground?
@@ -91,9 +70,6 @@ Energy Quiz
         [ ] It transforms into elastic energy | Incorrect. Falling through the air transforms height into motion, not elastic strain.
         [x] It transforms into kinetic energy as it moves | Correct! As the apple falls and gains speed, its GPE converts into kinetic energy.
 
-
-    Question 9
-    ---------------------------------------------
 
     .. multichoice::
 
@@ -103,9 +79,6 @@ Energy Quiz
         [ ] Nuclear energy | Incorrect. Nuclear energy is stored inside the nucleus of atoms.
 
 
-    Question 10
-    ---------------------------------------------
-
     .. multichoice::
 
         What is the main form of energy stored in a stretched rubber band?
@@ -113,9 +86,6 @@ Energy Quiz
         [ ] thermal | Incorrect. Thermal energy relates to heat and particle vibrations, not deformation.
         [x] elastic potential | Correct! Elastic potential energy is stored when an object is temporarily stretched or compressed.
 
-
-    Question 11
-    ---------------------------------------------
 
     .. multichoice::
 
@@ -125,9 +95,6 @@ Energy Quiz
         [ ] water freezing | Incorrect. Freezing is a phase change that releases latent heat, which is a fundamental thermodynamic process rather than a waste by-product of energy conversion.
 
 
-    Question 12
-    ---------------------------------------------
-
     .. multichoice::
 
         During exercise, energy transformations mostly include:
@@ -135,9 +102,6 @@ Energy Quiz
         [ ] kinetic to gravitational | Incorrect. While moving upward converts kinetic to potential energy, it is not the main cellular conversion process during exercise.
         [x] chemical to kinetic and thermal | Correct! Chemical energy (from food and ATP) is transformed into kinetic energy (muscle movement) and thermal energy (body heat).
 
-
-    Question 13
-    ---------------------------------------------
 
     .. multichoice::
 
@@ -147,9 +111,6 @@ Energy Quiz
         [ ] By stored energy inside chemical bonds | Incorrect. That describes chemical potential energy.
 
 
-    Question 14
-    ---------------------------------------------
-
     .. multichoice::
 
         Which of the following forms of energy is classified as a type of kinetic energy?
@@ -157,9 +118,6 @@ Energy Quiz
         [ ] Chemical energy | Incorrect. Chemical energy is potential energy stored in chemical bonds.
         [x] Electrical energy | Correct! Electrical energy involves the movement of charged particles (electrons), making it kinetic.
 
-
-    Question 15
-    ---------------------------------------------
 
     .. multichoice::
 
@@ -169,9 +127,6 @@ Energy Quiz
         [ ] By combining small atoms together | Incorrect. Combining small atoms is nuclear fusion, which happens in stars rather than nuclear power stations.
 
 
-    Question 16
-    ---------------------------------------------
-
     .. multichoice::
 
         In the roller coaster simulation, what happens to potential energy as kinetic energy increases?
@@ -179,9 +134,6 @@ Energy Quiz
         [ ] Potential energy increases | Incorrect. Energy is transferred from potential to kinetic, so potential energy drops as kinetic grows.
         [ ] Potential energy stays at 100% | Incorrect. Total energy remains constant, but the amount of potential energy decreases as it becomes kinetic energy.
 
-
-    Question 17
-    ---------------------------------------------
 
     .. multichoice::
 
@@ -191,9 +143,6 @@ Energy Quiz
         [x] the higher one | Correct! Gravitational potential energy increases with height, so the higher ball has more stored energy.
 
 
-    Question 18
-    ---------------------------------------------
-
     .. multichoice::
 
         A Sankey diagram shows the efficiency of a system which has a total energy of 100 J, and useful energy of 60 J. What does a red arrow for 40 J represent?
@@ -201,9 +150,6 @@ Energy Quiz
         [ ] useful energy | Incorrect. Useful energy is the output arrow that continues straight ahead to perform the intended function.
         [x] wasted energy | Correct! Branching arrows (commonly colored red) represent energy that is lost or wasted by the system (in this case, 40 J).
 
-
-    Question 19
-    ---------------------------------------------
 
     .. multichoice::
 

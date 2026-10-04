@@ -74,6 +74,66 @@ recorded rather than after the experiment is complete.
 
 ----
 
+.. cloze::
+    :instructions: Complete the following by filling in the missing words.
+
+    1. Recording errors occur when the researcher makes a mistake in writing down, reading, or @@transferring@@ data.
+    2. Because they are one-off mistakes rather than measurement errors, recording errors are classified as @@personal@@ errors.
+    3. According to the four-step analysis framework, a recording error produces an @@invalid@@ result.
+    4. Recording errors should @@not@@ be included when calculating a mean or assessing uncertainty.
+    5. Recording errors are eliminated by checking the record immediately and @@re-reading@@ or repeating the measurement.
+
+
+.. mcqgroup::
+    :show_instant_feedback:
+
+    .. multichoice::
+
+        A student misreads a burette level as 23.4 mL instead of 32.4 mL due to a digit transposition. How is this type of error classified?
+
+        [ ] Systematic error
+        [ ] Random error
+        [x] Personal error
+        [ ] Instrumental error
+
+    .. multichoice::
+
+        How should a recorded data point affected by a transcription error be handled in the final analysis?
+
+        [ ] Retained and averaged with other trials to reduce random variation.
+        [ ] Mathematically adjusted using a correction factor.
+        [x] Discarded and excluded from calculations, then re-read or repeated.
+        [ ] Recorded as an inherent limit of the instrument's resolution.
+
+    .. multichoice::
+
+        According to the four-step error framework, which source category does a recording error belong to?
+
+        [ ] Instrumental
+        [x] Observation / procedure
+        [ ] Method
+        [ ] Environment
+
+    .. multichoice::
+
+        What impact does a single recording error have on the valid trial data collected alongside it?
+
+        [ ] It lowers the precision of all valid measurements taken.
+        [ ] It introduces a systematic offset across subsequent trials.
+        [x] It does not affect the precision or accuracy of the remaining valid results.
+        [ ] It alters the scale division uncertainty of the apparatus.
+
+    .. multichoice::
+
+        Which strategy is most effective for catching and preventing recording errors during an experiment?
+
+        [ ] Using a higher-resolution digital sensor instead of an analogue scale.
+        [ ] Enclosing the apparatus in a draught shield.
+        [x] Checking each value immediately after recording and reading scale values aloud before writing them down.
+        [ ] Re-zeroing the equipment between experimental trials.
+
+----
+
 .. admonition:: Structured Question: Recording Error
     :class: shortanswer
 

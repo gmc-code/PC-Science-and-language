@@ -78,37 +78,24 @@ Igneous rocks
 .. admonition:: Fill in the Gaps — Nominalisation  (Igneous processes)
     :class: cloze
 
-    Complete each scientific sentence by filling in the missing nominalised form.
+    .. cloze::
+        :instructions: Complete each scientific sentence by filling in the missing nominalised form.
 
-    1. Lava :process:`cools` rapidly at the surface.
-          The ______________ of lava is rapid at the surface.
+        1. Lava :process:`cools` rapidly at the surface.
+        The @@cooling@@ of lava is rapid at the surface.
 
-    2. Magma :process:`crystallises` as it loses heat.
-         The ______________ of magma occurs as it loses heat.
+        2. Magma :process:`crystallises` as it loses heat.
+        The @@crystallisation@@ of magma occurs as it loses heat.
 
-    3. Volcanoes :process:`erupt` when pressure builds up.
-        The ______________ of volcanoes happens when pressure builds up.
+        3. Volcanoes :process:`erupt` when pressure builds up.
+        The @@eruption@@ of volcanoes happens when pressure builds up.
 
-    4. Rocks :process:`weather` when exposed to wind and rain.
-        The ______________ of rocks occurs when they are exposed to wind and rain.
+        4. Rocks :process:`weather` when exposed to wind and rain.
+        The @@weathering@@ of rocks occurs when they are exposed to wind and rain.
 
-    5. Magma :process:`solidifies` when cooling is slow.
-        The ______________ of magma occurs when cooling is slow.
+        5. Magma :process:`solidifies` when cooling is slow.
+        The @@solidification@@ of magma occurs when cooling is slow.
 
-
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-cloze
-
-        .. tab-set::
-
-            .. tab-item:: Answers
-
-                1. cooling
-                2. crystallisation
-                3. eruption
-                4. weathering
-                5. solidification
 
 
 ----
@@ -168,37 +155,23 @@ Sedimentary rocks
 .. admonition:: Fill in the Gaps — Nominalisation (Sedimentary processes)
     :class: cloze
 
-    Complete each scientific sentence by filling in the missing nominalised form.
+    .. cloze::
+        :instructions: Complete each scientific sentence by filling in the missing nominalised form.
 
-    1. Water :process:`deposits` sediments in rivers and oceans.
-        The ______________ of sediments by water occurs in rivers and oceans.
+        1. Water :process:`deposits` sediments in rivers and oceans.
+        The @@deposition@@ of sediments by water occurs in rivers and oceans.
 
-    2. Sediments :process:`compact` under great pressure.
-        The ______________ of sediments occurs under great pressure.
+        2. Sediments :process:`compact` under great pressure.
+        The @@compaction@@ of sediments occurs under great pressure.
 
-    3. Minerals :process:`cement` particles together during rock formation.
-        The ______________ of particles by minerals occurs during rock formation.
+        3. Minerals :process:`cement` particles together during rock formation.
+        The @@cementation@@ of particles by minerals occurs during rock formation.
 
-    4. Rocks :process:`erode` when exposed to wind and moving water.
-        The ______________ of rocks happens when they are exposed to wind and moving water.
+        4. Rocks :process:`erode` when exposed to wind and moving water.
+        The @@erosion@@ of rocks happens when they are exposed to wind and moving water.
 
-    5. Minerals :process:`precipitate` from solution in underground cavities.
-        The ______________ of minerals from solution occurs in underground cavities.
-
-
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-cloze
-
-        .. tab-set::
-
-            .. tab-item:: Answers
-
-                1. deposition
-                2. compaction
-                3. cementation
-                4. erosion
-                5. precipitation
+        5. Minerals :process:`precipitate` from solution in underground cavities.
+        The @@precipitation@@ of minerals from solution occurs in underground cavities.
 
 
 
@@ -260,35 +233,20 @@ Metamorphic rocks
 .. admonition:: Fill in the Gaps — Nominalisation (Metamorphic Processes)
     :class: cloze
 
-    Complete each scientific sentence by filling in the missing nominalised form.
+    .. cloze::
+        :instructions: Complete each scientific sentence by filling in the missing nominalised form.
 
-    1. Heat :process:`melts` rock deep underground.
-        The ______________ of rock occurs deep underground.
+        1. Heat :process:`melts` rock deep underground.
+        The @@melting@@ of rock occurs deep underground.
 
-    2. Pressure :process:`compresses` rock during mountain building.
-        The ______________ of rock happens during mountain building.
+        2. Pressure :process:`compresses` rock during mountain building.
+        The @@compression@@ of rock happens during mountain building.
 
-    3. Minerals :process:`recrystallise` when exposed to heat and pressure.
-        The ______________ of minerals occurs when they are exposed to heat and pressure.
+        3. Minerals :process:`recrystallise` when exposed to heat and pressure.
+        The @@recrystallisation@@ of minerals occurs when they are exposed to heat and pressure.
 
-    4. Rocks :process:`deform` under intense tectonic forces.
-        The ______________ of rock takes place under intense tectonic forces.
+        4. Rocks :process:`deform` under intense tectonic forces.
+        The @@deformation@@ of rock takes place under intense tectonic forces.
 
-    5. Rocks :process:`transform` when conditions change inside the Earth.
-        The ______________ of rock occurs when conditions change inside the Earth.
-
-
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-cloze
-
-        .. tab-set::
-
-            .. tab-item:: Answers
-
-                1. melting
-                2. compression
-                3. recrystallisation
-                4. deformation
-                5. transformation
-
+        5. Rocks :process:`transform` when conditions change inside the Earth.
+        The @@transformation@@ of rock occurs when conditions change inside the Earth.

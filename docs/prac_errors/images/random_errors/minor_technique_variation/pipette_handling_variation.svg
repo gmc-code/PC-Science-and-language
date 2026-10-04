@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 800 560"
+   width="800"
+   height="560"
+   font-family="Arial, Helvetica, sans-serif"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="37_pipette_handling_variation.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="37_pipette_handling_variation.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:c2pa="http://c2pa.org/manifest">
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.4410714"
+     inkscape:cx="399.35565"
+     inkscape:cy="280.00001"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34" />
+  <metadata
+     id="metadata1">
+    <c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTozZDRhMDE0Yi1mOTJiLTQ4NDktOTZlYS1iMDJiZWExZTg5ZTMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaPrQ9qZ8KjXQJTVP8hh46DkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowNDhiM2ZhZi1lNWYwLTQ1OWMtYWZjZS0yMGU2YmFjYWM4OWNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNorTgFaW1ZJZEuqoiVCwMEfQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg/wv1k25JBk1pZX9UZRw/4cGF29nk4a/dtYfNLIYduJmkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaCuSOgNedtry3y4AA0MeLN8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAz2agWf4cyoQGnWid0GoL7cEv7iLHpfl0v+6E+ExzxZ2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjoZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjNkNGEwMTRiLWY5MmItNDg0OS05NmVhLWIwMmJlYTFlODllMy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjY5MTM5ZWQzLWJmMTgtNDZmZS05ZTQ5LWRkMjIzOTZkNzAyY3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCD/C/WTbkkGTWllf1RlHD/hwYXb2eThr921h80shh24maJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggNTct6jgCHo3w8/H//tx3OHEx6C0YE/oUsuD5wUCgc9CiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggRJArn1xVQgIx/PpwQkoCRN/S1qHFyqnPh5MmpZpVLM90Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQPQIerxdwYLMFI18068pDbIPt8uj20nUawFbjYUNTT87SfrHMWNHHt4YXs5CLi/SKH1KuMV1IppBOH+ufMadKKY=</c2pa:manifest>
+  </metadata>
+  <title
+     id="title1">Random error: pipette handling varies</title>
+  <defs
+     id="defs3">
+    <marker
+       id="ag"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto-start-reverse">
+      <path
+         d="M0 0L10 5L0 10z"
+         fill="#1b7f3b"
+         id="path1" />
+    </marker>
+    <marker
+       id="ar"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto-start-reverse">
+      <path
+         d="M0 0L10 5L0 10z"
+         fill="#c62828"
+         id="path2" />
+    </marker>
+    <marker
+       id="ak"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5"
+       markerWidth="6"
+       markerHeight="6"
+       orient="auto-start-reverse">
+      <path
+         d="M0 0L10 5L0 10z"
+         fill="#666666"
+         id="path3" />
+    </marker>
+  </defs>
+  <rect
+     width="800"
+     height="560"
+     fill="#fff"
+     id="rect3" />
+  <text
+     x="400"
+     y="36"
+     text-anchor="middle"
+     font-size="22"
+     font-weight="bold"
+     fill="#222222"
+     id="text3">Random error: pipette handling varies</text>
+  <text
+     x="400"
+     y="58"
+     text-anchor="middle"
+     font-size="13.5"
+     fill="#666666"
+     id="text4">Holding and releasing the pipette slightly differently changes the volume delivered</text>
+  <rect
+     x="40"
+     y="80"
+     width="350"
+     height="372"
+     rx="8"
+     fill="#fafafa"
+     stroke="#bbb"
+     id="rect4" />
+  <rect
+     x="410"
+     y="80"
+     width="350"
+     height="372"
+     rx="8"
+     fill="#fafafa"
+     stroke="#bbb"
+     id="rect5" />
+  <text
+     x="215.0"
+     y="102.0"
+     text-anchor="middle"
+     font-size="14"
+     fill="#222222"
+     font-weight="bold"
+     font-style="normal"
+     id="text5">Handling varies slightly</text>
+  <text
+     x="585.0"
+     y="102.0"
+     text-anchor="middle"
+     font-size="14"
+     fill="#222222"
+     font-weight="bold"
+     font-style="normal"
+     id="text6">Volume delivered</text>
+  <g
+     transform="translate(100,215) rotate(0)"
+     id="g7">
+    <rect
+       x="-4"
+       y="-100"
+       width="8"
+       height="205"
+       fill="#fff"
+       stroke="#222222"
+       stroke-width="1.8"
+       id="rect6" />
+    <ellipse
+       cx="0"
+       cy="-5"
+       rx="14"
+       ry="30"
+       fill="#cfe8f7"
+       stroke="#222222"
+       stroke-width="2"
+       id="ellipse6" />
+    <rect
+       x="-2"
+       y="25"
+       width="4"
+       height="78"
+       fill="#cfe8f7"
+       id="rect7" />
+  </g>
+  <rect
+     x="65"
+     y="350"
+     width="70"
+     height="30"
+     fill="#cfe8f7"
+     id="rect8" />
+  <path
+     d="M65 330 L65 380 L135 380 L135 330"
+     fill="none"
+     stroke="#222222"
+     stroke-width="2.4"
+     id="path8" />
+  <text
+     x="100.0"
+     y="402.0"
+     text-anchor="middle"
+     font-size="12"
+     fill="#222222"
+     font-weight="bold"
+     font-style="normal"
+     id="text8">held upright</text>
+  <g
+     transform="rotate(18,-564.22829,830.42454)"
+     id="g10">
+    <rect
+       x="-4"
+       y="-100"
+       width="8"
+       height="205"
+       fill="#ffffff"
+       stroke="#222222"
+       stroke-width="1.8"
+       id="rect9" />
+    <ellipse
+       cx="0"
+       cy="-5"
+       rx="14"
+       ry="30"
+       fill="#cfe8f7"
+       stroke="#222222"
+       stroke-width="2"
+       id="ellipse9" />
+    <rect
+       x="-2"
+       y="25"
+       width="4"
+       height="78"
+       fill="#cfe8f7"
+       id="rect10" />
+    <circle
+       cx="0"
+       cy="112"
+       r="4"
+       fill="#cfe8f7"
+       stroke="#222222"
+       stroke-width="1.2"
+       id="circle10" />
+  </g>
+  <rect
+     x="180"
+     y="350"
+     width="70"
+     height="30"
+     fill="#cfe8f7"
+     id="rect11" />
+  <path
+     d="M180 330 L180 380 L250 380 L250 330"
+     fill="none"
+     stroke="#222222"
+     stroke-width="2.4"
+     id="path11" />
+  <text
+     x="215.0"
+     y="402.0"
+     text-anchor="middle"
+     font-size="12"
+     fill="#222222"
+     font-weight="bold"
+     font-style="normal"
+     id="text11">held at an angle</text>
+  <g
+     transform="translate(330,215) rotate(-12)"
+     id="g13">
+    <rect
+       x="-4"
+       y="-100"
+       width="8"
+       height="205"
+       fill="#fff"
+       stroke="#222222"
+       stroke-width="1.8"
+       id="rect12" />
+    <ellipse
+       cx="0"
+       cy="-5"
+       rx="14"
+       ry="30"
+       fill="#cfe8f7"
+       stroke="#222222"
+       stroke-width="2"
+       id="ellipse12" />
+    <rect
+       x="-2"
+       y="25"
+       width="4"
+       height="78"
+       fill="#cfe8f7"
+       id="rect13" />
+  </g>
+  <rect
+     x="295"
+     y="350"
+     width="70"
+     height="30"
+     fill="#cfe8f7"
+     id="rect14" />
+  <path
+     d="M295 330 L295 380 L365 380 L365 330"
+     fill="none"
+     stroke="#222222"
+     stroke-width="2.4"
+     id="path14" />
+  <text
+     x="330.0"
+     y="402.0"
+     text-anchor="middle"
+     font-size="12"
+     fill="#222222"
+     font-weight="bold"
+     font-style="normal"
+     id="text14">released quickly</text>
+  <line
+     x1="470.0"
+     y1="375.0"
+     x2="722.0"
+     y2="375.0"
+     stroke="#222222"
+     stroke-width="1.8"
+     id="line14" />
+  <line
+     x1="470.0"
+     y1="375.0"
+     x2="470.0"
+     y2="150.0"
+     stroke="#222222"
+     stroke-width="1.8"
+     id="line15" />
+  <line
+     x1="464.0"
+     y1="375.0"
+     x2="470.0"
+     y2="375.0"
+     stroke="#222222"
+     stroke-width="1.4"
+     id="line16" />
+  <text
+     x="460.0"
+     y="379.0"
+     text-anchor="end"
+     font-size="11.5"
+     fill="#222222"
+     font-weight="normal"
+     font-style="normal"
+     id="text16">24.9</text>
+  <line
+     x1="464.0"
+     y1="270.0"
+     x2="470.0"
+     y2="270.0"
+     stroke="#222222"
+     stroke-width="1.4"
+     id="line17" />
+  <text
+     x="460.0"
+     y="274.0"
+     text-anchor="end"
+     font-size="11.5"
+     fill="#222222"
+     font-weight="normal"
+     font-style="normal"
+     id="text17">25.0</text>
+  <line
+     x1="464.0"
+     y1="165.0"
+     x2="470.0"
+     y2="165.0"
+     stroke="#222222"
+     stroke-width="1.4"
+     id="line18" />
+  <text
+     x="460.0"
+     y="169.0"
+     text-anchor="end"
+     font-size="11.5"
+     fill="#222222"
+     font-weight="normal"
+     font-style="normal"
+     id="text18">25.1</text>
+  <text
+     x="495.0"
+     y="393.0"
+     text-anchor="middle"
+     font-size="12"
+     fill="#222222"
+     font-weight="normal"
+     font-style="normal"
+     id="text19">1</text>
+  <text
+     x="533.0"
+     y="393.0"
+     text-anchor="middle"
+     font-size="12"
+     fill="#222222"
+     font-weight="normal"
+     font-style="normal"
+     id="text20">2</text>
+  <text
+     x="571.0"
+     y="393.0"
+     text-anchor="middle"
+     font-size="12"
+     fill="#222222"
+     font-weight="normal"
+     font-style="normal"
+     id="text21">3</text>
+  <text
+     x="609.0"
+     y="393.0"
+     text-anchor="middle"
+     font-size="12"
+     fill="#222222"
+     font-weight="normal"
+     font-style="normal"
+     id="text22">4</text>
+  <text
+     x="647.0"
+     y="393.0"
+     text-anchor="middle"
+     font-size="12"
+     fill="#222222"
+     font-weight="normal"
+     font-style="normal"
+     id="text23">5</text>
+  <text
+     x="685.0"
+     y="393.0"
+     text-anchor="middle"
+     font-size="12"
+     fill="#222222"
+     font-weight="normal"
+     font-style="normal"
+     id="text24">6</text>
+  <text
+     x="595.0"
+     y="410.0"
+     text-anchor="middle"
+     font-size="12.5"
+     fill="#666666"
+     font-weight="normal"
+     font-style="normal"
+     id="text25">Trial</text>
+  <text
+     x="472.0"
+     y="140.0"
+     text-anchor="start"
+     font-size="12"
+     fill="#666666"
+     font-weight="normal"
+     font-style="normal"
+     id="text26">Volume (mL)</text>
+  <line
+     x1="470.0"
+     y1="271.7"
+     x2="722.0"
+     y2="271.7"
+     stroke="#1b7f3b"
+     stroke-width="2.2"
+     stroke-dasharray="6 4"
+     id="line26" />
+  <text
+     x="692.0"
+     y="265.7"
+     text-anchor="start"
+     font-size="12"
+     fill="#1b7f3b"
+     font-weight="bold"
+     font-style="normal"
+     id="text27">mean</text>
+  <circle
+     cx="495.0"
+     cy="333.0"
+     r="6.5"
+     fill="#1f5fbf"
+     id="circle27" />
+  <circle
+     cx="533.0"
+     cy="217.5"
+     r="6.5"
+     fill="#1f5fbf"
+     id="circle28" />
+  <circle
+     cx="571.0"
+     cy="301.5"
+     r="6.5"
+     fill="#1f5fbf"
+     id="circle29" />
+  <circle
+     cx="609.0"
+     cy="186.0"
+     r="6.5"
+     fill="#1f5fbf"
+     id="circle30" />
+  <circle
+     cx="647.0"
+     cy="343.5"
+     r="6.5"
+     fill="#1f5fbf"
+     id="circle31" />
+  <circle
+     cx="685.0"
+     cy="249.0"
+     r="6.5"
+     fill="#1f5fbf"
+     id="circle32" />
+  <line
+     x1="742.0"
+     y1="186.0"
+     x2="742.0"
+     y2="343.5"
+     stroke="#666666"
+     stroke-width="1.8"
+     marker-end="url(#ak)"
+     marker-start="url(#ak)"
+     id="line32" />
+  <rect
+     x="434.0"
+     y="422.0"
+     width="302.0"
+     height="20"
+     rx="10"
+     fill="#fff"
+     stroke="#1f5fbf"
+     stroke-width="1.8"
+     id="rect32" />
+  <text
+     x="585.0"
+     y="436.5"
+     text-anchor="middle"
+     font-size="13"
+     fill="#1f5fbf"
+     font-weight="bold"
+     font-style="normal"
+     id="text32">Results scatter above and below the mean</text>
+  <text
+     x="60.0"
+     y="526.0"
+     text-anchor="start"
+     font-size="12.5"
+     fill="#c62828"
+     font-weight="normal"
+     font-style="normal"
+     id="text33">Error: the pipette is handled a little differently each time, so the volume delivered varies by small random amounts.</text>
+  <text
+     x="60.0"
+     y="547.0"
+     text-anchor="start"
+     font-size="12.5"
+     fill="#1b7f3b"
+     font-weight="normal"
+     font-style="normal"
+     id="text34">Fix: use the same technique every time (upright, same release and drain time) and repeat.</text>
+</svg>

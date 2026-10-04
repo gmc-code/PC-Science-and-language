@@ -44,35 +44,14 @@ Accuracy and precision are independent. A result can be accurate but not precise
 .. admonition:: Fill in the Gaps — Accuracy and Precision
     :class: cloze
 
-    Complete the following by filling in the missing words.
+    .. cloze::
+        :instructions: Complete the following by filling in the missing words.
 
-    **Word list (A → Z):**
-    accuracy • high precision • low accuracy • low precision • precision
-
-    1. __________________ describes how close a measurement is to the true or accepted value.
-
-    2. __________________ refers to how close repeated measurements are to each other.
-
-    3. A set of results that are far from the true value shows __________________.
-
-    4. A set of results that are scattered and inconsistent shows __________________.
-
-    5. A measurement that is both correct and consistent demonstrates both high accuracy and __________________.
-
-
-    .. dropdown:: Reveal Answer Key
-        :icon: check-circle
-        :class-container: dropdown-cloze
-
-        .. tab-set::
-
-            .. tab-item:: Answers
-
-                1. accuracy
-                2. precision
-                3. low accuracy
-                4. low precision
-                5. high precision
+        1. @@accuracy@@ describes how close a measurement is to the true or accepted value.
+        2. @@precision@@ refers to how close repeated measurements are to each other.
+        3. A set of results that are far from the true value shows @@low accuracy@@.
+        4. A set of results that are scattered and inconsistent shows @@low precision@@.
+        5. A measurement that is both correct and consistent demonstrates both high accuracy and @@high precision@@.
 
 ----
 

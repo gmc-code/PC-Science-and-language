@@ -280,8 +280,9 @@
 }
 
 /* ==========================================================================
-   7. Generic Global rST Role Styling (Applies to ALL roles)
+   7. * Custom rST Role Styling in Classifying Directive *
    ========================================================================== */
+
 
 /* Outer role badge wrapper */
 .rst-role,

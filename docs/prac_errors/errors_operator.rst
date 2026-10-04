@@ -72,6 +72,67 @@ required techniques so each step is carried out correctly from the start.
 * Have a second person verify critical procedural steps at the time they
   are carried out.
 
+
+----
+
+.. cloze::
+    :instructions: Complete the following by filling in the missing words.
+
+    1. Operator errors occur when the researcher makes a @@mistake@@ in carrying out the experimental technique or procedure.
+    2. Operator errors are classified as @@personal@@ errors because they are one-off mistakes rather than measurement errors.
+    3. According to the four-step analysis framework, operator errors produce @@invalid@@ results.
+    4. Operator errors should @@not@@ be included when calculating a mean or assessing uncertainty.
+    5. Operator errors are eliminated rather than reduced by discarding the bad result and @@repeating@@ the measurement correctly.
+
+
+.. mcqgroup::
+    :show_instant_feedback:
+
+    .. multichoice::
+
+        A student forgets to start the timer and accidentally heats a sample for two minutes too long. How is this error classified?
+
+        [ ] Systematic error
+        [ ] Random error
+        [x] Personal error
+        [ ] Instrumental error
+
+    .. multichoice::
+
+        How should an invalid result caused by an operator error be handled when analyzing experimental data?
+
+        [ ] Averaged in with all other trial results to reduce its effect.
+        [ ] Corrected by applying a mathematical offset.
+        [x] Discarded and excluded from mean calculations, then repeated correctly.
+        [ ] Retained as an indicator of maximum random scatter.
+
+    .. multichoice::
+
+        According to the four-step error framework, which source category does an operator error during procedure execution belong to?
+
+        [ ] Instrumental
+        [x] Observation / procedure
+        [ ] Method
+        [ ] Environment
+
+    .. multichoice::
+
+        What impact do operator errors have on the remaining valid data collected during an experiment?
+
+        [ ] They reduce the accuracy of all valid measurements taken afterwards.
+        [ ] They increase the random scatter of valid trial repetitions.
+        [x] They do not affect the precision or accuracy of the remaining valid results.
+        [ ] They introduce a systematic bias across all future trials.
+
+    .. multichoice::
+
+        Which strategy is most effective for eliminating operator errors prior to formal data collection?
+
+        [ ] Enclosing apparatus in a draught shield to prevent environmental drift.
+        [ ] Using a higher-resolution digital measuring device.
+        [x] Practising unfamiliar techniques and having a partner verify critical procedural steps.
+        [ ] Subtracting a constant correction factor from the final data set.
+
 ----
 
 .. admonition:: Structured Question: Operator Error

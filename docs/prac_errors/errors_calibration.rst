@@ -7,13 +7,6 @@ Calibration Error
 
 ----
 
-.. image:: images/calibration_error_collage.png
-   :alt: zero_errors_collage
-   :align: center
-   :scale: 60%
-
-----
-
 Examples
 ------------
 

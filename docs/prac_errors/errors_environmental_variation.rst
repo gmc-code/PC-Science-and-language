@@ -103,6 +103,66 @@ of fluctuation and increase the number of trials.
 
 ----
 
+.. cloze::
+    :instructions: Complete the following by filling in the missing words.
+
+    1. Environmental variation occurs when uncontrolled conditions in the experimental setting @@fluctuate@@ unpredictably between trials.
+    2. Because environmental fluctuations vary unpredictably, environmental variation is classified as a @@random@@ error.
+    3. According to the four-step analysis framework, environmental variation belongs to the @@Environment@@ source category.
+    4. Environmental variation reduces the @@precision@@ of measurements, while accuracy remains unaffected.
+    5. Environmental variation can be reduced by @@shielding@@ or controlling the apparatus and repeating measurements to calculate a mean.
+
+
+.. mcqgroup::
+    :show_instant_feedback:
+
+    .. multichoice::
+
+        Air currents near an electronic balance cause the displayed mass to fluctuate unpredictably during an experiment. How is this type of error classified?
+
+        [ ] Systematic error
+        [x] Random error
+        [ ] Personal error
+        [ ] Instrumental offset
+
+    .. multichoice::
+
+        Which of the following describes the impact of environmental variation on experimental data?
+
+        [ ] It shifts all readings in one direction, reducing accuracy.
+        [x] It causes results to scatter above and below the true value, reducing precision.
+        [ ] It causes a permanent offset that cannot be reduced by averaging.
+        [ ] It changes the sensitivity and calibration of the instrument.
+
+    .. multichoice::
+
+        How does environmental variation differ from environmental bias?
+
+        [ ] Environmental variation affects accuracy, while environmental bias affects precision.
+        [x] Environmental variation fluctuates unpredictably, whereas environmental bias is consistently shifted across all trials.
+        [ ] Environmental variation is a systematic error, while environmental bias is a random error.
+        [ ] Environmental variation can be completely eliminated, while environmental bias cannot.
+
+    .. multichoice::
+
+        Which source category from the four-step error framework does electrical noise affecting a sensor belong to?
+
+        [ ] Instrumental
+        [ ] Observation / procedure
+        [ ] Method
+        [x] Environment
+
+    .. multichoice::
+
+        Which improvement strategy is specifically aimed at reducing environmental variation in balance readings?
+
+        [ ] Using a correction factor calculated from a known standard.
+        [x] Enclosing the balance in a draught shield and using a stable bench away from foot traffic.
+        [ ] Re-zeroing the balance only once at the beginning of the day.
+        [ ] Changing to an analogue balance with larger scale divisions.
+
+----
+
 .. admonition:: Structured Question: Environmental Variation
     :class: shortanswer
 
