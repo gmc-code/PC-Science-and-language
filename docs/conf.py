@@ -82,7 +82,10 @@ extensions = [
     "sphinx_new_tab_link",
     'sphinx.ext.mathjax',
     "sphinx.ext.imgconverter",   # for pdf build of converted svgs
+    "speak_role",
     "mcqgroup.mcqgroup",  # custom directive
+    "clozegroup.clozegroup",  # custom directive
+    "quizgroup",  # custom directive
     "multichoice.multichoice",  # custom directive
     "cloze.cloze",  # custom directive
     "gapfill.gapfill",  # custom directive
