@@ -14,17 +14,6 @@ Summary of Key Concepts 1
 
 ----
 
-Fill-in-the-Blanks 1
-====================
-
-.. wordjumble::
-    :keep-first:
-    :keep-last:
-    :letters: 2
-
-    kinetic energy do work potential energy
-
-----
 
 Summary of Key Concepts 2
 =========================
@@ -34,17 +23,17 @@ Summary of Key Concepts 2
     :keep-last:
     :letters: 2
 
-    thermal energy chemical energy gravitational potential energy elastic energy sound energy
+    thermal energy chemical gravitational potential sound
 
 ----
 
-Fill-in-the-Blanks 2
-====================
+Summary of Key Concepts 3
+==============================
 
 .. wordjumble::
     :keep-first:
     :keep-last:
     :letters: 2
 
-    thermal hot elastic stretched chemical bonds raised ground sound vibrating
+    elastic stretched bonds raised vibrating
 
