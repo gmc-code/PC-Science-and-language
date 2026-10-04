@@ -26,6 +26,15 @@ PC-Science-and-language
     summaries/Y8_ch6/6C.rst
     summaries/Y8_ch6/6D.rst
 
+    vocab/Y8_ch6/6A_jumblewords.rst
+    vocab/Y8_ch6/6A_keyterms.rst
+    vocab/Y8_ch6/6B_jumblewords.rst
+    vocab/Y8_ch6/6B_keyterms.rst
+    vocab/Y8_ch6/6C_jumblewords.rst
+    vocab/Y8_ch6/6C_keyterms.rst
+    vocab/Y8_ch6/6D_jumblewords.rst
+    vocab/Y8_ch6/6D_keyterms.rst
+
     summaries/Y8_ch7/7A.rst
     summaries/Y8_ch7/7B.rst
     summaries/Y8_ch7/7C.rst
