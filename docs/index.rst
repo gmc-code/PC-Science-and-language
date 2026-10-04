@@ -35,6 +35,11 @@ PC-Science-and-language
     vocab/Y8_ch6/6D_jumblewords.rst
     vocab/Y8_ch6/6D_keyterms.rst
 
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🤔⚡ Year 8 Electricity Summaries
+
     summaries/Y8_ch7/7A.rst
     summaries/Y8_ch7/7B.rst
     summaries/Y8_ch7/7C.rst
