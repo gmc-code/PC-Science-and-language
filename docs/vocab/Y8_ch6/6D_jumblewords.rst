@@ -10,7 +10,7 @@ Summary of Key Concepts 1
     :keep-last:
     :letters: 2
 
-    rating consumption household power energy efficient kilowatt-hours watts
+    rating consumption power efficient kilowatt-hours watts
 
 ----
 
@@ -22,5 +22,5 @@ Summary of Key Concepts 2
     :keep-last:
     :letters: 2
 
-    modern appliances passive solar building design thermal materials household insulation audit
+    appliances passive solar thermal materials insulation
 

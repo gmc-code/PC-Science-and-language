@@ -10,7 +10,7 @@ Summary of Key Concepts 1
     :keep-last:
     :letters: 2
 
-    energy potential energy kinetic energy
+    energy potential kinetic
 
 ----
 
@@ -23,7 +23,7 @@ Summary of Key Concepts 2
     :keep-last:
     :letters: 2
 
-    thermal energy chemical gravitational potential sound
+    thermal energy chemical gravitational potential
 
 ----
 

@@ -10,7 +10,7 @@ Summary of Key Concepts 1
     :keep-last:
     :letters: 2
 
-    conservation transfer energy transformation changes created moves
+    conservation transfer transformation changes moves
 
 ----
 
@@ -22,5 +22,5 @@ Summary of Key Concepts 2
     :keep-last:
     :letters: 2
 
-    flow diagrams sankey diagrams input energy arrows
+    flow diagrams sankey input arrows
 

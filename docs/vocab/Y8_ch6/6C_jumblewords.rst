@@ -10,7 +10,7 @@ Summary of Key Concepts 1
     :keep-last:
     :letters: 2
 
-    by-products input output useful waste energy
+    by-products input output useful waste
 
 ----
 
@@ -22,5 +22,5 @@ Summary of Key Concepts 2
     :keep-last:
     :letters: 2
 
-    efficient conduction convection radiation movement waste contact
+    efficient conduction convection radiation movement contact
 
