@@ -13,18 +13,6 @@ Summary of Key Concepts 1
 
 ----
 
-Fill-in-the-Blanks 1
-====================
-
-.. cloze::
-
-    1. During an energy @@transformation@@, energy @@changes@@ from one form to another inside an object.
-  l-in-the-Blanks 2
-===  2. The law of @@conservation@@ of energy states that energy cannot be @@created@@ nor destroyed.
-    3. During an energy @@transfer@@, energy @@moves@@ from one object to another in the same form.
-
-----
-
 Summary of Key Concepts 2
 =========================
 
@@ -38,7 +26,8 @@ Summary of Key Concepts 2
 
 ----
 
-Fil=================
+Summary of Key Concepts 2b
+==========================
 
 .. cloze::
 

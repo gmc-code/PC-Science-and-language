@@ -2,6 +2,10 @@
 6C Waste Energy Worksheet Key Terms
 ============================================================
 
+
+Summary of Key Concepts 1
+=========================
+
 .. cloze::
 
     1. @@Energy by-products@@: Secondary forms of energy produced during energy transfers or transformations.
@@ -12,9 +16,9 @@
 
 ----
 
-Fill-in-the-Blanks 1
-====================
 
+Summary of Key Concepts 1b
+===========================
 .. cloze::
 
     1. Energy @@by-products@@ are secondary forms of energy produced during energy @@transfers@@ or transformations.
@@ -35,8 +39,9 @@ Summary of Key Concepts 2
 
 ----
 
-Fill-in-the-Blanks 2
-====================
+
+Summary of Key Concepts 2b
+==========================
 
 .. cloze::
 

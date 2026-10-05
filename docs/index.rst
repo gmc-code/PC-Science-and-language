@@ -35,6 +35,10 @@ PC-Science-and-language
     vocab/Y8_ch6/6D_jumblewords.rst
     vocab/Y8_ch6/6D_keyterms.rst
 
+    vocab/Y8_ch6/6A_mcq.rst
+    vocab/Y8_ch6/6B_mcq.rst
+    vocab/Y8_ch6/6C_mcq.rst
+    vocab/Y8_ch6/6D_mcq.rst
 
 .. toctree::
     :maxdepth: 2

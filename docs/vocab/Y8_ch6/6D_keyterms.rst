@@ -14,8 +14,9 @@ Summary of Key Concepts 1
 
 ----
 
-Fill-in-the-Blanks 1
-====================
+
+Summary of Key Concepts 1b
+============================
 
 .. cloze::
 
@@ -37,8 +38,8 @@ Summary of Key Concepts 2
 
 ----
 
-Fill-in-the-Blanks 2
-====================
+Summary of Key Concepts 2b
+=============================
 
 .. cloze::
 

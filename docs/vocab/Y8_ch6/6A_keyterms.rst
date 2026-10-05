@@ -13,17 +13,6 @@ Summary of Key Concepts 1
 
 ----
 
-Summary of Key Concepts 1b
-=============================
-
-.. cloze::
-
-    1. @@Kinetic@@ energy is the energy of a moving object.
-    2. Energy is the ability to make changes, move objects, or @@do work@@.
-    3. @@Potential@@ energy is stored energy that an object has due to its position or state.
-
-----
-
 Summary of Key Concepts 2
 =========================
 
