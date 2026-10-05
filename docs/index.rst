@@ -26,19 +26,23 @@ PC-Science-and-language
     summaries/Y8_ch6/6C.rst
     summaries/Y8_ch6/6D.rst
 
+.. toctree::
+    :maxdepth: 2
+    :caption: 🤔⚡ Year 8 Energy Quizzes
+
     vocab/Y8_ch6/6A_jumblewords.rst
     vocab/Y8_ch6/6A_keyterms.rst
+    vocab/Y8_ch6/6A_mcq.rst
     vocab/Y8_ch6/6B_jumblewords.rst
     vocab/Y8_ch6/6B_keyterms.rst
+    vocab/Y8_ch6/6B_mcq.rst
     vocab/Y8_ch6/6C_jumblewords.rst
     vocab/Y8_ch6/6C_keyterms.rst
+    vocab/Y8_ch6/6C_mcq.rst
     vocab/Y8_ch6/6D_jumblewords.rst
     vocab/Y8_ch6/6D_keyterms.rst
-
-    vocab/Y8_ch6/6A_mcq.rst
-    vocab/Y8_ch6/6B_mcq.rst
-    vocab/Y8_ch6/6C_mcq.rst
     vocab/Y8_ch6/6D_mcq.rst
+
 
 .. toctree::
     :maxdepth: 2
@@ -48,6 +52,13 @@ PC-Science-and-language
     summaries/Y8_ch7/7B.rst
     summaries/Y8_ch7/7C.rst
 
+.. toctree::
+    :maxdepth: 2
+    :caption: 🤔⚡ Year 8 Electricity Quizzes
+
+    vocab/Y8_ch7/7A.rst
+    vocab/Y8_ch7/7B.rst
+    vocab/Y8_ch7/7C.rst
 
 
 .. toctree::
