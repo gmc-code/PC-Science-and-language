@@ -16,6 +16,13 @@ PC-Science-and-language
     introduction/introduction.rst
 
 
+.. toctree::
+    :maxdepth: 2
+    :caption: ⚡ 8 Electicity
+    :numbered:
+
+    Y8/physics/electricity_embedded_clauses.rst
+
 
 .. toctree::
     :maxdepth: 2
