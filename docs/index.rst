@@ -26,6 +26,7 @@ PC-Science-and-language
     summaries/Y8_ch6/6C.rst
     summaries/Y8_ch6/6D.rst
 
+
 .. toctree::
     :maxdepth: 2
     :caption: 🤔⚡ Year 8 Energy Quizzes
@@ -42,6 +43,7 @@ PC-Science-and-language
     vocab/Y8_ch6/6D_jumblewords.rst
     vocab/Y8_ch6/6D_keyterms.rst
     vocab/Y8_ch6/6D_mcq.rst
+
 
 
 .. toctree::
