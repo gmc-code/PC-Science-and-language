@@ -37,8 +37,6 @@ Noun Group = :premodifier:`any premodifiers` + :thing:`Thing` + :embedded:`Quali
     :mode: embedded
     :instructions: Highlight the embedded clause that qualifies the noun that is marked in red.
 
-    Voltage :processp:`represents` :premodifier:`the amount of electric potential` :thing:`energy` {{embedded:that charge carries}}.
-    Current :processp:`measures` :premodifier:`the` :thing:`quantity of charge` {{embedded:that flows through a conductor}}.
     They :processp:`measured` :premodifier:`the voltage` :thing:`drop` {{embedded:that occurs across the light globe}}.
     The technician :processp:`connected` :premodifier:`a` :thing:`device` {{embedded:that measures electrical potential difference in volts}}.
     An ammeter :processp:`is` :premodifier:`an` :thing:`instrument` {{embedded:that measures current flowing in amps}}.
