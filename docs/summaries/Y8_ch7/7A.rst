@@ -41,4 +41,3 @@ Matching Exercise
     4. @@Voltage@@ : The electrical push or potential energy per charge provided by a battery.
     5. @@Circuit Breaker@@ : A safety device that turns off power during a short circuit.
     6. @@Short Circuit@@ : An unintended low-resistance path that causes excessive electrical current.
-    Would you like me to adjust any of the target keywords or add specific options for the RST directive rendering?
