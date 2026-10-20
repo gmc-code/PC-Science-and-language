@@ -1,3 +1,7 @@
+
+/* Read the docs flyout menu
+If you’re hiding the floating flyout permanently, switching it off in the RTD dashboard (Settings → Addons → Flyout) is slightly cleaner. The element is never added, rather than added and then hidden. The CSS approach is fine too, and has the advantage of living in your repo. */
+
 /* remove read the docs fly out menu */
 
 readthedocs-flyout {
@@ -6,11 +10,11 @@ readthedocs-flyout {
     opacity: 0.2; */
 }
 
-/* remove read the docs drop down menu for versions */
-
+/* remove read the docs sidebar selectors */
 .switch-menus {
     display: none !important;
 }
+
 
 /* ========================================== */
 
@@ -152,23 +156,6 @@ details.sd-dropdown .sd-summary-up, details.sd-dropdown .sd-summary-down {
     z-index: 1;
 }
 
-/* ========================================== */
-/* Hide "Search" section from versions menu */
-div.rst-versions > div.rst-other-versions > div.injected > dl:nth-child(5) {
-    display: none;
-}
-/* Hide "On GitHub" section from versions menu */
-div.rst-versions > div.rst-other-versions > div.injected > dl:nth-child(4) {
-    display: none;
-}
-/* Hide "On Read the Docs" section from versions menu */
-div.rst-versions > div.rst-other-versions > div.injected > dl:nth-child(3) {
-    display: none;
-}
-/* Hide "versions" section from versions menu */
-div.rst-versions > div.rst-other-versions > div.injected > dl:nth-child(1) {
-    display: none;
-}
 
 /* ========================================== */
 /* kbd role for keyboard shortcuts */
