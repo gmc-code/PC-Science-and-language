@@ -171,7 +171,7 @@ html_theme_options = {
     # Toc options;
     'collapse_navigation': True,  # False so nav entries have the [+] icons
     'sticky_navigation': False,  # False so the nav does not scroll
-    'navigation_depth': 24,  # -1 for no limit
+    'navigation_depth': 2,  # -1 for no limit
     'includehidden': False,  # displays toctree that are hidden
     'titles_only': False  # True so only titles are shown in the nav.; False to show titles and section numbers
 }
