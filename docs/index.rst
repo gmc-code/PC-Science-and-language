@@ -17,6 +17,21 @@ PC-Science-and-language
     teacher.rst
 
 
+
+.. toctree::
+    :maxdepth: 2
+    :caption: ⚡ 8 Energy SIS
+
+    prac_physics/sis_introduction.rst
+    prac_physics/sis_01_investigation_and_energy.rst
+    prac_physics/sis_02_variables_aim_hypothesis.rst
+    prac_physics/sis_03_method_safety_ethics.rst
+    prac_physics/sis_04_results_graphs_trends.rst
+    prac_physics/sis_05_accuracy_errors_improvements.rst
+    prac_physics/sis_06_conclusion_command_words_quick_check.rst
+
+
+
 .. toctree::
     :maxdepth: 2
     :caption: ⚡ 8 Electicity
