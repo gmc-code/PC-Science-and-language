@@ -83,9 +83,18 @@ PC-Science-and-language
     :maxdepth: 2
     :caption: 🤔⚡ Year 8 Electricity Quizzes
 
-    vocab/Y8_ch7/7A.rst
-    vocab/Y8_ch7/7B.rst
-    vocab/Y8_ch7/7C.rst
+    vocab/Y8_ch7/7A_jumblewords.rst
+    vocab/Y8_ch7/7A_keyterms.rst
+    vocab/Y8_ch7/7A_mcq.rst
+    vocab/Y8_ch7/7B_jumblewords.rst
+    vocab/Y8_ch7/7B_keyterms.rst
+    vocab/Y8_ch7/7B_mcq.rst
+    vocab/Y8_ch7/7C_jumblewords.rst
+    vocab/Y8_ch7/7C_keyterms.rst
+    vocab/Y8_ch7/7C_mcq.rst
+    vocab/Y8_ch7/7D_jumblewords.rst
+    vocab/Y8_ch7/7D_keyterms.rst
+    vocab/Y8_ch7/7D_mcq.rst
 
 
 .. toctree::
