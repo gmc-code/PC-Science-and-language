@@ -14,7 +14,8 @@ PC-Science-and-language
     :numbered:
 
     introduction/introduction.rst
-    teacher.rst
+
+    .. teacher.rst
 
 
 
