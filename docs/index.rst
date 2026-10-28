@@ -55,18 +55,18 @@ PC-Science-and-language
     :maxdepth: 2
     :caption: 🤔⚡ Year 8 Energy Quizzes
 
-    vocab/Y8_ch6/6A_jumblewords.rst
-    vocab/Y8_ch6/6A_keyterms.rst
-    vocab/Y8_ch6/6A_mcq.rst
-    vocab/Y8_ch6/6B_jumblewords.rst
-    vocab/Y8_ch6/6B_keyterms.rst
-    vocab/Y8_ch6/6B_mcq.rst
-    vocab/Y8_ch6/6C_jumblewords.rst
-    vocab/Y8_ch6/6C_keyterms.rst
-    vocab/Y8_ch6/6C_mcq.rst
-    vocab/Y8_ch6/6D_jumblewords.rst
-    vocab/Y8_ch6/6D_keyterms.rst
-    vocab/Y8_ch6/6D_mcq.rst
+    quizzes/Y8_ch6/6A_jumblewords.rst
+    quizzes/Y8_ch6/6A_keyterms.rst
+    quizzes/Y8_ch6/6A_mcq.rst
+    quizzes/Y8_ch6/6B_jumblewords.rst
+    quizzes/Y8_ch6/6B_keyterms.rst
+    quizzes/Y8_ch6/6B_mcq.rst
+    quizzes/Y8_ch6/6C_jumblewords.rst
+    quizzes/Y8_ch6/6C_keyterms.rst
+    quizzes/Y8_ch6/6C_mcq.rst
+    quizzes/Y8_ch6/6D_jumblewords.rst
+    quizzes/Y8_ch6/6D_keyterms.rst
+    quizzes/Y8_ch6/6D_mcq.rst
 
 
 
@@ -83,18 +83,18 @@ PC-Science-and-language
     :maxdepth: 2
     :caption: 🤔⚡ Year 8 Electricity Quizzes
 
-    vocab/Y8_ch7/7A_jumblewords.rst
-    vocab/Y8_ch7/7A_keyterms.rst
-    vocab/Y8_ch7/7A_mcq.rst
-    vocab/Y8_ch7/7B_jumblewords.rst
-    vocab/Y8_ch7/7B_keyterms.rst
-    vocab/Y8_ch7/7B_mcq.rst
-    vocab/Y8_ch7/7C_jumblewords.rst
-    vocab/Y8_ch7/7C_keyterms.rst
-    vocab/Y8_ch7/7C_mcq.rst
-    vocab/Y8_ch7/7D_jumblewords.rst
-    vocab/Y8_ch7/7D_keyterms.rst
-    vocab/Y8_ch7/7D_mcq.rst
+    quizzes/Y8_ch7/7A_jumblewords.rst
+    quizzes/Y8_ch7/7A_keyterms.rst
+    quizzes/Y8_ch7/7A_mcq.rst
+    quizzes/Y8_ch7/7B_jumblewords.rst
+    quizzes/Y8_ch7/7B_keyterms.rst
+    quizzes/Y8_ch7/7B_mcq.rst
+    quizzes/Y8_ch7/7C_jumblewords.rst
+    quizzes/Y8_ch7/7C_keyterms.rst
+    quizzes/Y8_ch7/7C_mcq.rst
+    quizzes/Y8_ch7/7D_jumblewords.rst
+    quizzes/Y8_ch7/7D_keyterms.rst
+    quizzes/Y8_ch7/7D_mcq.rst
 
 
 .. toctree::
@@ -102,20 +102,24 @@ PC-Science-and-language
     :caption: 🤔🌱 Y7 ch 2 Biology Summaries
 
     summaries/Y7_ch2/2A.rst
-    vocab/Y7_ch2/2A_jumblewords.rst
-    vocab/Y7_ch2/2A_keyterms.rst
+    quizzes/Y7_ch2/2A_jumblewords.rst
+    quizzes/Y7_ch2/2A_keyterms.rst
+    quizzes/Y7_ch2/2A_mcq.rst
 
     summaries/Y7_ch2/2B.rst
-    vocab/Y7_ch2/2B_jumblewords.rst
-    vocab/Y7_ch2/2B_keyterms.rst
+    quizzes/Y7_ch2/2B_jumblewords.rst
+    quizzes/Y7_ch2/2B_keyterms.rst
+    quizzes/Y7_ch2/2B_mcq.rst
 
     summaries/Y7_ch2/2C.rst
-    vocab/Y7_ch2/2C_jumblewords.rst
-    vocab/Y7_ch2/2C_keyterms.rst
+    quizzes/Y7_ch2/2C_jumblewords.rst
+    quizzes/Y7_ch2/2C_keyterms.rst
+    quizzes/Y7_ch2/2C_mcq.rst
 
     summaries/Y7_ch2/2D.rst
-    vocab/Y7_ch2/2D_jumblewords.rst
-    vocab/Y7_ch2/2D_keyterms.rst
+    quizzes/Y7_ch2/2D_jumblewords.rst
+    quizzes/Y7_ch2/2D_keyterms.rst
+    quizzes/Y7_ch2/2D_mcq.rst
 
 
 .. toctree::
@@ -123,24 +127,29 @@ PC-Science-and-language
     :caption: 🤔🌱 Y7 ch 3 Biology Summaries
 
     summaries/Y7_ch3/3A.rst
-    vocab/Y7_ch3/3A_jumblewords.rst
-    vocab/Y7_ch3/3A_keyterms.rst
+    quizzes/Y7_ch3/3A_jumblewords.rst
+    quizzes/Y7_ch3/3A_keyterms.rst
+    quizzes/Y7_ch3/3A_mcq.rst
 
     summaries/Y7_ch3/3B.rst
-    vocab/Y7_ch3/3B_jumblewords.rst
-    vocab/Y7_ch3/3B_keyterms.rst
+    quizzes/Y7_ch3/3B_jumblewords.rst
+    quizzes/Y7_ch3/3B_keyterms.rst
+    quizzes/Y7_ch3/3B_mcq.rst
 
     summaries/Y7_ch3/3C.rst
-    vocab/Y7_ch3/3C_jumblewords.rst
-    vocab/Y7_ch3/3C_keyterms.rst
+    quizzes/Y7_ch3/3C_jumblewords.rst
+    quizzes/Y7_ch3/3C_keyterms.rst
+    quizzes/Y7_ch3/3C_mcq.rst
 
     summaries/Y7_ch3/3D.rst
-    vocab/Y7_ch3/3D_jumblewords.rst
-    vocab/Y7_ch3/3D_keyterms.rst
+    quizzes/Y7_ch3/3D_jumblewords.rst
+    quizzes/Y7_ch3/3D_keyterms.rst
+    quizzes/Y7_ch3/3D_mcq.rst
 
     summaries/Y7_ch3/3E.rst
-    vocab/Y7_ch3/3E_jumblewords.rst
-    vocab/Y7_ch3/3E_keyterms.rst
+    quizzes/Y7_ch3/3E_jumblewords.rst
+    quizzes/Y7_ch3/3E_keyterms.rst
+    quizzes/Y7_ch3/3E_mcq.rst
 
 
 
