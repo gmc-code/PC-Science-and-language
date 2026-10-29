@@ -6,18 +6,18 @@ Summary of Key Concepts
 ----------------------------------------
 
 * Sensors detect changes in the environment.
-* They convert changes into electrical signals.
+* Sensors convert changes into electrical signals.
 * Proximity sensors detect objects without touching them.
-* They detect presence, absence, or distance.
+* Proximity sensors detect presence, absence or distance.
 * Ultrasonic sensors emit high-frequency sound waves.
-* Self-driving cars use them to measure distance.
+* Self-driving cars use ultrasonic sensors for distance.
 * Infrared sensors emit a beam of light.
-* Security systems and automatic taps use them.
+* Security systems and automatic taps use infrared.
 * A thermistor is a temperature-sensitive resistor.
 * Central heating uses thermistors to control temperature.
 * A photoresistor is a light-sensitive resistor.
 * Street lights use photoresistors to turn on.
-* They switch on automatically when dark.
+* Street lights switch on automatically when dark.
 
 ----
 

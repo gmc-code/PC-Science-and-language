@@ -5,12 +5,12 @@
 Summary of Key Concepts 1
 ----------------------------------------
 
-* Energy cannot be created or destroyed.
-* This is the law of conservation of energy.
+* Conservation of energy means energy cannot be destroyed.
+* Energy also cannot be created from nothing.
 * Energy transfers move energy between objects.
 * The energy stays in the same form.
 * Energy transformations change energy into another form.
-* This happens inside an object.
+* Transformations happen inside an object.
 
 ----
 
@@ -21,7 +21,7 @@ Fill-in-the-Blanks 1
 
     1. An energy @@transformation@@ @@changes@@ energy into another form.
     2. Energy cannot be @@created@@ or destroyed.
-    3. This is the law of @@conservation@@ of energy.
+    3. Energy @@conservation@@ means energy is never lost.
     4. An energy @@transfer@@ @@moves@@ energy between objects.
 
 ----
@@ -31,7 +31,7 @@ Summary of Key Concepts 2
 
 * Flow diagrams use arrows to show energy changes.
 * Hairdryers transform electrical energy into heat.
-* They also produce kinetic and sound energy.
+* Hairdryers also produce kinetic and sound energy.
 * Phone batteries transform chemical energy into electrical energy.
 * Sankey diagrams show useful and wasted energy.
 * Total input energy always equals total output energy.

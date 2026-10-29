@@ -6,7 +6,7 @@ Understanding Food Chains
 =========================
 
 * A food chain shows who eats who.
-* It shows a single pathway of energy.
+* Food chains show a single energy pathway.
 * Every food chain begins with a producer.
 * Producers capture sunlight to make sugar.
 * Each step is called a trophic level.
@@ -32,7 +32,7 @@ Energy Transfer and Trophic Pyramids
 ====================================
 
 * Energy is lost at each trophic level.
-* It is used or lost as heat.
+* Energy is used up or lost as heat.
 * Waste also removes energy from the chain.
 * Only about 10% passes to the next level.
 * Trophic pyramids show this energy reduction.
@@ -56,10 +56,10 @@ Food Webs and Ecosystem Dynamics
 ================================
 
 * Food webs combine many interconnected food chains.
-* They model complex feeding relationships.
+* Food webs model complex feeding relationships.
 * Keystone species keep ecosystems stable.
 * Changing their populations affects all levels.
-* This can trigger a trophic cascade.
+* Keystone changes can trigger a trophic cascade.
 * Predators, prey, and producers become unbalanced.
 
 * **Key Terms:**

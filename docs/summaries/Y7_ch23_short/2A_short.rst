@@ -10,7 +10,7 @@ What is Classification?
 * Taxonomy is studying, grouping and naming organisms.
 * Scientists who classify organisms are taxonomists.
 * New species are checked for unique traits.
-* They join existing groups or new ones.
+* New species join existing or new groups.
 
 * **Key Terms:**
 
@@ -34,12 +34,12 @@ Steps and Importance of Classification
 ===================================================
 
 * Scientists first find similarities and differences.
-* Next, they look at potential categories.
-* Finally, they choose the best group.
+* Next, scientists look at potential categories.
+* Finally, scientists choose the best group.
 * Grouping helps us understand survival needs.
-* It shows how closely organisms are related.
+* Grouping shows how closely organisms are related.
 * Classification helps identify endangered species.
-* Scientists can then protect them from extinction.
+* Scientists can then protect endangered species.
 
 * **Key Terms:**
 
@@ -53,9 +53,9 @@ Steps and Importance of Classification
 
     1. Grouping shows how closely organisms are @@related@@.
     2. Scientists look for @@similarities@@ and differences.
-    3. These help @@identify@@ the right category.
+    3. Comparing features helps @@identify@@ the right category.
     4. Classification helps find @@endangered@@ species.
-    5. We @@protect@@ them from complete @@extinction@@.
+    5. We @@protect@@ endangered species from @@extinction@@.
 
 ----
 

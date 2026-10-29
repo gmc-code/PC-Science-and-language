@@ -9,9 +9,9 @@ Ecological Concepts and Definitions
 * Invasive species spread quickly and cause harm.
 * Invasive species outcompete native species for resources.
 * Resources include food, water, and shelter.
-* This can cause local population declines or extinctions.
+* Competition can cause local declines or extinctions.
 * Some species are introduced deliberately for farming.
-* Others arrive accidentally through cargo or ballast water.
+* Other species arrive accidentally through cargo or ballast.
 
 * **Key Terms:**
 
@@ -36,10 +36,10 @@ Mechanisms of Introduction and Ecological Impact
 * Accidental introductions occur via shipping containers.
 * Ballast water also carries species accidentally.
 * Generalist predators affect many trophic levels.
-* They eat native prey and compete with predators.
+* Generalist predators eat native prey and rival predators.
 * Cane toad tadpoles affect algae in water.
 * Adult cane toads eat native insects.
-* Their skin toxins poison native predators.
+* Cane toad skin toxins poison native predators.
 
 * **Key Terms:**
 

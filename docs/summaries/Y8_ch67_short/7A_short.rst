@@ -16,7 +16,7 @@ Summary of Key Concepts
 * Each parallel branch gets the full battery voltage.
 * Houses use parallel circuits for independent appliances.
 * Circuit breakers cut power during short circuits.
-* This prevents fires and electric shock.
+* Circuit breakers prevent fires and electric shock.
 
 ----
 

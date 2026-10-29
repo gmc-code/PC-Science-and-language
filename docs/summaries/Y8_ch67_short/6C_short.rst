@@ -6,12 +6,12 @@ Summary of Key Concepts 1
 ----------------------------------------
 
 * Energy by-products are secondary forms of energy.
-* They form during energy transfers or transformations.
+* By-products form during energy transfers or transformations.
 * Input energy is the energy going in.
 * Output energy is the energy coming out.
 * Useful energy is output energy we need.
 * Waste energy is output energy we don't use.
-* It is usually heat, sound or light.
+* Waste energy is usually heat, sound or light.
 
 
 ----
@@ -33,9 +33,9 @@ Summary of Key Concepts 2
 ----------------------------------------
 
 * Efficient devices maximise useful output energy.
-* They create as little waste as possible.
+* Efficient devices create very little waste.
 * Conduction transfers heat through direct particle contact.
-* It occurs in solids, liquids and gases.
+* Conduction occurs in solids, liquids and gases.
 * Convection transfers heat through moving liquids or gases.
 * Radiation transfers heat through electromagnetic waves.
 

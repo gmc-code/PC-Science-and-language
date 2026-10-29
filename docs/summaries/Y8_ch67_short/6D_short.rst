@@ -6,9 +6,9 @@ Summary of Key Concepts 1
 ----------------------------------------
 
 * Energy star labels show appliance efficiency.
-* They compare models with similar appliances.
+* Labels compare similar appliance models.
 * Yearly energy use is measured in kilowatt-hours.
-* This shows total electricity used each year.
+* Kilowatt-hours show total yearly electricity use.
 * Power is the rate devices transform energy.
 * Power is measured in watts.
 * Running cost equals energy used times unit cost.
@@ -31,11 +31,11 @@ Summary of Key Concepts 2
 ----------------------------------------
 
 * Modern appliances use newer technologies.
-* Better insulation reduces their wasted energy.
+* Better insulation reduces appliance energy waste.
 * Passive solar design uses sunlight and airflow.
-* This warms and cools homes naturally.
+* Passive solar design warms and cools homes.
 * Thermal mass materials include concrete and mudbrick.
-* They absorb heat by day, releasing it slowly.
+* Thermal mass absorbs heat, then releases it slowly.
 * Energy audits help identify wasted energy.
 
 ----

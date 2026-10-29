@@ -6,7 +6,7 @@ Introduction to Classification Keys
 ====================================================================
 
 * Scientists look closely at physical characteristics.
-* These include size, shape, color and patterns.
+* Characteristics include size, shape, color and patterns.
 * Shared features can make identification difficult.
 * Keys highlight subtle differences between species.
 * A key is a series of statements.
@@ -34,7 +34,7 @@ Types of Classification Keys
 * Dichotomous keys give exactly two options each step.
 * For example, is the leaf serrated or not?
 * Polytomous keys give more than two options.
-* They are used for complex identification tasks.
+* Polytomous keys suit complex identification tasks.
 * Branching keys use a tree-like design.
 * Circular keys start at the center, moving outwards.
 * Tabular keys present questions in a numbered table.

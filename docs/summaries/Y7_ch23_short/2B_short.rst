@@ -6,7 +6,7 @@ The Criteria for Life
 ==================================
 
 * **Living** things carry out seven life processes.
-* These processes are remembered as **MRS GREN**.
+* Life processes are remembered as **MRS GREN**.
 * **Movement** means moving parts of the body.
 * **Respiration** releases energy from food.
 * **Sensitivity** detects and responds to changes.

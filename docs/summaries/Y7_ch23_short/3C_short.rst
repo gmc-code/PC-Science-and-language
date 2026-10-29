@@ -6,9 +6,9 @@ Understanding Microorganisms
 =============================
 
 * Microorganisms are too small to see unaided.
-* They are also called microbes.
+* Microorganisms are also called microbes.
 * Microbes come from three main kingdoms.
-* These are Monera, Fungi, and Protista.
+* The kingdoms are Monera, Fungi, and Protista.
 * Microbes act as producers, consumers, or decomposers.
 
 * **Key Terms:**
@@ -30,7 +30,7 @@ Microbial Producers and Consumers
 =================================
 
 * Phytoplankton and green algae are primary producers.
-* They form the base of aquatic pyramids.
+* Phytoplankton form the base of aquatic pyramids.
 * Microbial consumers eat other microorganisms for energy.
 * Microbes usually occupy lower trophic levels.
 * Many live inside animals to aid digestion.
@@ -53,12 +53,12 @@ Microbial Decomposers and Nutrient Cycling
 ==========================================
 
 * Fungi and bacteria are the main decomposers.
-* They break down detritus outside their bodies.
-* Then they absorb the released nutrients.
+* Decomposers break down detritus outside their bodies.
+* Decomposers then absorb the released nutrients.
 * Decomposers process matter from every trophic level.
-* They return minerals to soil and water.
+* Decomposers return minerals to soil and water.
 * Without decomposers, organic waste would pile up.
-* This would block sunlight and air from soil.
+* Piled-up waste would block sunlight and air.
 * Plants would stop growing and ecosystems collapse.
 
 * **Key Terms:**

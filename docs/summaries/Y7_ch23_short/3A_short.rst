@@ -6,13 +6,13 @@ Ecosystems and Environmental Factors
 ==============================================
 
 * Every organism lives within an ecosystem.
-* Living and non-living elements interact there.
+* Living and non-living elements interact in ecosystems.
 * Aquatic ecosystems include freshwater and marine habitats.
 * Terrestrial ecosystems include desert, jungle, tundra, grassland.
 * Biotic factors are living parts of ecosystems.
-* Examples include animals, plants, and bacteria.
+* Biotic examples include animals, plants, and bacteria.
 * Abiotic factors are non-living physical parts.
-* Examples include sunlight, temperature, water, oxygen.
+* Abiotic examples include sunlight, temperature, water, oxygen.
 
 * **Key Terms:**
 
@@ -36,12 +36,12 @@ Energy Flow and Trophic Roles
 ==============================================
 
 * Autotrophs (producers) make food using sunlight.
-* This process is called photosynthesis.
+* Making food from sunlight is photosynthesis.
 * Heterotrophs (consumers) eat other organisms for energy.
 * Herbivores eat plants, carnivores eat meat.
 * Omnivores eat both plants and meat.
 * Scavengers, detritivores, and decomposers clean up.
-* They break down dead matter and waste.
+* Decomposers break down dead matter and waste.
 
 * **Key Terms:**
 
@@ -69,7 +69,7 @@ Ecosystem Interactions
 * Organisms compete when vital resources are limited.
 * Resources include food, water, light, space, mates.
 * Competition harms both competing individuals.
-* Both must use extra energy to compete.
+* Competitors must use extra energy.
 * Predators and prey keep populations balanced.
 * Abiotic changes affect prey survival rates.
 * Predator numbers also affect prey survival.

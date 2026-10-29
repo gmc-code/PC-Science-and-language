@@ -30,7 +30,7 @@ Seasonal Patterns and Population Fluctuations
 
 * Seasons change abiotic factors like temperature.
 * Water availability also changes with seasons.
-* These changes trigger survival behaviors in organisms.
+* Seasonal changes trigger survival behaviors in organisms.
 * Population sizes rise and fall regularly.
 * Organisms adapt through migration and dormancy.
 * Reproductive timing also helps organisms survive seasons.
@@ -77,11 +77,11 @@ Human Impacts: Deforestation and Agriculture
 ============================================
 
 * Deforestation for farming destroys animal habitats.
-* This causes population declines across trophic levels.
+* Habitat loss causes declines across trophic levels.
 * Monocultures repeatedly drain the same soil nutrients.
 * Heavy livestock compact the soil.
 * Compacted soil limits roots and water infiltration.
-* This increases runoff and soil erosion.
+* Compaction increases runoff and soil erosion.
 * Fertilizer runoff into water causes eutrophication.
 * Algal blooms block sunlight and deplete oxygen.
 

@@ -11,7 +11,7 @@ History of Classification and Microscopy
 * Linnaeus later expanded the classification system.
 * Early taxonomy only included visible organisms.
 * Microscopes were invented in the 1600s.
-* They revealed microscopic life and cells.
+* Microscopes revealed microscopic life and cells.
 * Microscopy shows the true complexity of life.
 
 * **Key Terms:**
@@ -35,7 +35,7 @@ The Animal Kingdom
 * Animals are invertebrates or vertebrates.
 * Vertebrates belong to the phylum Chordata.
 * Vertebrates form five classes of animals.
-* These are mammals, reptiles, fish, amphibians, birds.
+* Classes are mammals, reptiles, fish, amphibians, birds.
 * The egg-laying platypus is tricky to classify.
 * Genetic material reveals deeper cellular similarities.
 
@@ -86,7 +86,7 @@ The Protist Kingdom
 * Kingdom Protista was created for these organisms.
 * Protists include algae, protozoa and slime moulds.
 * *Euglena* makes energy from sunlight like plants.
-* It also moves and eats like animals.
+* *Euglena* also moves and eats like animals.
 
 * **Key Terms:**
 
@@ -106,9 +106,9 @@ The Fungi Kingdom
 ==================================
 
 * Fungi were first classified as plants.
-* This is because they grow from the ground.
+* Fungi grow from the ground like plants.
 * Fungi do not use sunlight for energy.
-* They absorb nutrients from decaying matter.
+* Fungi absorb nutrients from decaying matter.
 * Mushrooms and moulds are multicellular fungi.
 * Yeasts are tiny, single-celled fungi.
 * Some edible mushrooms resemble poisonous species.
@@ -132,13 +132,13 @@ The Monera Kingdom and Three Domains
 =====================================
 
 * Microscopes showed bacteria lack a nucleus.
-* This led to the kingdom Monera.
+* Bacteria were placed in kingdom Monera.
 * DNA showed Monera had two branches.
-* These branches are Bacteria and Archaea.
+* Monera's two branches are Bacteria and Archaea.
 * Bacteria live in soil and water.
 * Archaea thrive in extreme places like hot springs.
 * Life now has three domains.
-* These are Bacteria, Archaea, and Eukarya.
+* The domains are Bacteria, Archaea, and Eukarya.
 
 * **Key Terms:**
 

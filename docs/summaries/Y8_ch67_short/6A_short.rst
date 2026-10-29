@@ -34,9 +34,9 @@ Summary of Key Concepts 2
 * Food, fuel and batteries store chemical energy.
 * Raised objects store gravitational potential energy.
 * Stretched or squeezed materials store elastic energy.
-* Springs and rubber bands are examples.
+* Springs and rubber bands store elastic energy.
 * Sound energy travels through vibrating air particles.
-* It reaches our ears this way.
+* Sound energy travels through air to our ears.
 
 ----
 
