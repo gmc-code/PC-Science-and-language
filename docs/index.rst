@@ -102,24 +102,32 @@ PC-Science-and-language
     :caption: 🤔🌱 Y7 ch 2 Biology Summaries
 
     summaries/Y7_ch2/2A.rst
+    summaries/Y7_ch2/2B.rst
+    summaries/Y7_ch2/2C.rst
+    summaries/Y7_ch2/2D.rst
+
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🤔🌱 Y7 ch 2 Biology Quizzes
+
     quizzes/Y7_ch2/2A_jumblewords.rst
     quizzes/Y7_ch2/2A_keyterms.rst
     quizzes/Y7_ch2/2A_mcq.rst
 
-    summaries/Y7_ch2/2B.rst
     quizzes/Y7_ch2/2B_jumblewords.rst
     quizzes/Y7_ch2/2B_keyterms.rst
     quizzes/Y7_ch2/2B_mcq.rst
 
-    summaries/Y7_ch2/2C.rst
     quizzes/Y7_ch2/2C_jumblewords.rst
     quizzes/Y7_ch2/2C_keyterms.rst
     quizzes/Y7_ch2/2C_mcq.rst
 
-    summaries/Y7_ch2/2D.rst
     quizzes/Y7_ch2/2D_jumblewords.rst
     quizzes/Y7_ch2/2D_keyterms.rst
     quizzes/Y7_ch2/2D_mcq.rst
+
 
 
 .. toctree::
@@ -127,30 +135,35 @@ PC-Science-and-language
     :caption: 🤔🌱 Y7 ch 3 Biology Summaries
 
     summaries/Y7_ch3/3A.rst
+    summaries/Y7_ch3/3B.rst
+    summaries/Y7_ch3/3C.rst
+    summaries/Y7_ch3/3D.rst
+    summaries/Y7_ch3/3E.rst
+
+
+.. toctree::
+    :maxdepth: 1
+    :caption: 🤔🌱 Y7 ch 3 Biology Quizzes
+
     quizzes/Y7_ch3/3A_jumblewords.rst
     quizzes/Y7_ch3/3A_keyterms.rst
     quizzes/Y7_ch3/3A_mcq.rst
 
-    summaries/Y7_ch3/3B.rst
     quizzes/Y7_ch3/3B_jumblewords.rst
     quizzes/Y7_ch3/3B_keyterms.rst
     quizzes/Y7_ch3/3B_mcq.rst
 
-    summaries/Y7_ch3/3C.rst
     quizzes/Y7_ch3/3C_jumblewords.rst
     quizzes/Y7_ch3/3C_keyterms.rst
     quizzes/Y7_ch3/3C_mcq.rst
 
-    summaries/Y7_ch3/3D.rst
     quizzes/Y7_ch3/3D_jumblewords.rst
     quizzes/Y7_ch3/3D_keyterms.rst
     quizzes/Y7_ch3/3D_mcq.rst
 
-    summaries/Y7_ch3/3E.rst
     quizzes/Y7_ch3/3E_jumblewords.rst
     quizzes/Y7_ch3/3E_keyterms.rst
     quizzes/Y7_ch3/3E_mcq.rst
-
 
 
 
