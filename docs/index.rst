@@ -15,9 +15,6 @@ PC-Science-and-language
 
     introduction/introduction.rst
 
-    .. teacher.rst
-
-
 
 .. toctree::
     :maxdepth: 2
@@ -97,10 +94,6 @@ PC-Science-and-language
     quizzes/Y8_ch7/7C_jumblewords.rst
     quizzes/Y8_ch7/7C_keyterms.rst
     quizzes/Y8_ch7/7C_mcq.rst
-    quizzes/Y8_ch7/7D_jumblewords.rst
-    quizzes/Y8_ch7/7D_keyterms.rst
-    quizzes/Y8_ch7/7D_mcq.rst
-
 
 
 .. toctree::
@@ -115,6 +108,7 @@ PC-Science-and-language
     summaries/Y7_ch23_short/3B_short.rst
     summaries/Y7_ch23_short/3C_short.rst
     summaries/Y7_ch23_short/3D_short.rst
+    summaries/Y7_ch23_short/3E_short.rst
 
 
 
