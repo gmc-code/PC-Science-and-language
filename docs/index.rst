@@ -46,7 +46,7 @@ PC-Science-and-language
 
 
 
-    summaries/Y8_ch6/6A.rst.. toctree::
+.. toctree::
     :maxdepth: 2
     :caption: 🤔⚡ Y8 Energy Summaries
 
