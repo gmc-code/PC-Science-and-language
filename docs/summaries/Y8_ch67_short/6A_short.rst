@@ -8,7 +8,7 @@ Summary of Key Concepts 1
 * Energy is the ability to make changes.
 * Energy can also move objects or do work.
 * Potential energy is stored energy.
-* It depends on position or state.
+* Potential energy depends on position or state.
 * Kinetic energy is the energy of motion.
 
 ----
