@@ -97,6 +97,22 @@ PC-Science-and-language
     quizzes/Y8_ch7/7D_mcq.rst
 
 
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🤔🌱 Y7 ch 2&3 Biology ShortSummaries
+
+    summaries/Y7_ch23_short/2A_short.rst
+    summaries/Y7_ch23_short/2B_short.rst
+    summaries/Y7_ch23_short/2C_short.rst
+    summaries/Y7_ch23_short/2D_short.rst
+    summaries/Y7_ch23_short/3A_short.rst
+    summaries/Y7_ch23_short/3B_short.rst
+    summaries/Y7_ch23_short/3C_short.rst
+    summaries/Y7_ch23_short/3D_short.rst
+
+
+
 .. toctree::
     :maxdepth: 2
     :caption: 🤔🌱 Y7 ch 2 Biology Summaries
@@ -141,6 +157,7 @@ PC-Science-and-language
     summaries/Y7_ch3/3E.rst
 
 
+
 .. toctree::
     :maxdepth: 1
     :caption: 🤔🌱 Y7 ch 3 Biology Quizzes
@@ -179,6 +196,7 @@ PC-Science-and-language
     prac_ethics/ethics_respect_for_others.rst
     prac_ethics/ethics_avoidance_of_harm.rst
     prac_ethics/ethics_doing_good.rst
+
 
 
 .. toctree::
