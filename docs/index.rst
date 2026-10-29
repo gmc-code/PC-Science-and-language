@@ -32,18 +32,23 @@ PC-Science-and-language
     prac_physics/sis_06_conclusion_command_words_quick_check.rst
 
 
-
 .. toctree::
     :maxdepth: 2
-    :caption: ⚡ 8 Electicity
-    :numbered:
+    :caption: 🤔⚡ Y8 ch6&7 Short Summaries
 
-    Y8/physics/electricity_embedded_clauses.rst
+    summaries/Y8_ch67_short/6A_short.rst
+    summaries/Y8_ch67_short/6B_short.rst
+    summaries/Y8_ch67_short/6C_short.rst
+    summaries/Y8_ch67_short/6D_short.rst
+    summaries/Y8_ch67_short/7A_short.rst
+    summaries/Y8_ch67_short/7B_short.rst
+    summaries/Y8_ch67_short/7C_short.rst
 
 
-.. toctree::
+
+    summaries/Y8_ch6/6A.rst.. toctree::
     :maxdepth: 2
-    :caption: 🤔⚡ Year 8 Energy Summaries
+    :caption: 🤔⚡ Y8 Energy Summaries
 
     summaries/Y8_ch6/6A.rst
     summaries/Y8_ch6/6B.rst
@@ -53,7 +58,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🤔⚡ Year 8 Energy Quizzes
+    :caption: 🤔⚡ Y8 Energy Quizzes
 
     quizzes/Y8_ch6/6A_jumblewords.rst
     quizzes/Y8_ch6/6A_keyterms.rst
@@ -72,7 +77,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🤔⚡ Year 8 Electricity Summaries
+    :caption: 🤔⚡ Y8 Electricity Summaries
 
     summaries/Y8_ch7/7A.rst
     summaries/Y8_ch7/7B.rst
@@ -81,7 +86,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🤔⚡ Year 8 Electricity Quizzes
+    :caption: 🤔⚡ Y8 Electricity Quizzes
 
     quizzes/Y8_ch7/7A_jumblewords.rst
     quizzes/Y8_ch7/7A_keyterms.rst
@@ -100,7 +105,7 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
-    :caption: 🤔🌱 Y7 ch 2&3 Biology ShortSummaries
+    :caption: 🤔🌱 Y7 ch 2&3 Short Summaries
 
     summaries/Y7_ch23_short/2A_short.rst
     summaries/Y7_ch23_short/2B_short.rst
@@ -289,6 +294,13 @@ PC-Science-and-language
     Y8/energy/energy_adding_circumstances2.rst
     Y8/energy/energy_match_circumstances.rst
 
+
+.. toctree::
+    :maxdepth: 2
+    :caption: ⚡ 8 Electicity
+    :numbered:
+
+    Y8/physics/electricity_embedded_clauses.rst
 
 
 .. toctree::
