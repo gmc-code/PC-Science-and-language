@@ -16,77 +16,6 @@ PC-Science-and-language
     introduction/introduction.rst
 
 
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🤔⚡ Y8 ch6&7 Short Summaries
-
-    summaries/Y8_ch67_short/6A_short.rst
-    summaries/Y8_ch67_short/6B_short.rst
-    summaries/Y8_ch67_short/6C_short.rst
-    summaries/Y8_ch67_short/6D_short.rst
-    summaries/Y8_ch67_short/7A_short.rst
-    summaries/Y8_ch67_short/7B_short.rst
-    summaries/Y8_ch67_short/7C_short.rst
-    summaries/Y8_ch67_short/flashquiz.rst
-
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🤔⚡ Y8 Energy Summaries
-
-    summaries/Y8_ch6/6A.rst
-    summaries/Y8_ch6/6B.rst
-    summaries/Y8_ch6/6C.rst
-    summaries/Y8_ch6/6D.rst
-    summaries/Y8_ch6/flashquiz.rst
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🤔⚡ Y8 Energy Quizzes
-
-    quizzes/Y8_ch6/6A_jumblewords.rst
-    quizzes/Y8_ch6/6A_keyterms.rst
-    quizzes/Y8_ch6/6A_mcq.rst
-    quizzes/Y8_ch6/6B_jumblewords.rst
-    quizzes/Y8_ch6/6B_keyterms.rst
-    quizzes/Y8_ch6/6B_mcq.rst
-    quizzes/Y8_ch6/6C_jumblewords.rst
-    quizzes/Y8_ch6/6C_keyterms.rst
-    quizzes/Y8_ch6/6C_mcq.rst
-    quizzes/Y8_ch6/6D_jumblewords.rst
-    quizzes/Y8_ch6/6D_keyterms.rst
-    quizzes/Y8_ch6/6D_mcq.rst
-
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🤔⚡ Y8 Electricity Summaries
-
-    summaries/Y8_ch7/7A.rst
-    summaries/Y8_ch7/7B.rst
-    summaries/Y8_ch7/7C.rst
-    summaries/Y8_ch7/flashquiz.rst
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 🤔⚡ Y8 Electricity Quizzes
-
-    quizzes/Y8_ch7/7A_jumblewords.rst
-    quizzes/Y8_ch7/7A_keyterms.rst
-    quizzes/Y8_ch7/7A_mcq.rst
-    quizzes/Y8_ch7/7B_jumblewords.rst
-    quizzes/Y8_ch7/7B_keyterms.rst
-    quizzes/Y8_ch7/7B_mcq.rst
-    quizzes/Y8_ch7/7C_jumblewords.rst
-    quizzes/Y8_ch7/7C_keyterms.rst
-    quizzes/Y8_ch7/7C_mcq.rst
-
-
 .. toctree::
     :maxdepth: 2
     :caption: 🤔🌱 Y7 ch 2&3 Short Summaries
@@ -175,6 +104,77 @@ PC-Science-and-language
     quizzes/Y7_ch3/3E_keyterms.rst
     quizzes/Y7_ch3/3E_mcq.rst
 
+
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🤔⚡ Y8 ch6&7 Short Summaries
+
+    summaries/Y8_ch67_short/6A_short.rst
+    summaries/Y8_ch67_short/6B_short.rst
+    summaries/Y8_ch67_short/6C_short.rst
+    summaries/Y8_ch67_short/6D_short.rst
+    summaries/Y8_ch67_short/7A_short.rst
+    summaries/Y8_ch67_short/7B_short.rst
+    summaries/Y8_ch67_short/7C_short.rst
+    summaries/Y8_ch67_short/flashquiz.rst
+
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🤔⚡ Y8 Energy Summaries
+
+    summaries/Y8_ch6/6A.rst
+    summaries/Y8_ch6/6B.rst
+    summaries/Y8_ch6/6C.rst
+    summaries/Y8_ch6/6D.rst
+    summaries/Y8_ch6/flashquiz.rst
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🤔⚡ Y8 Energy Quizzes
+
+    quizzes/Y8_ch6/6A_jumblewords.rst
+    quizzes/Y8_ch6/6A_keyterms.rst
+    quizzes/Y8_ch6/6A_mcq.rst
+    quizzes/Y8_ch6/6B_jumblewords.rst
+    quizzes/Y8_ch6/6B_keyterms.rst
+    quizzes/Y8_ch6/6B_mcq.rst
+    quizzes/Y8_ch6/6C_jumblewords.rst
+    quizzes/Y8_ch6/6C_keyterms.rst
+    quizzes/Y8_ch6/6C_mcq.rst
+    quizzes/Y8_ch6/6D_jumblewords.rst
+    quizzes/Y8_ch6/6D_keyterms.rst
+    quizzes/Y8_ch6/6D_mcq.rst
+
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🤔⚡ Y8 Electricity Summaries
+
+    summaries/Y8_ch7/7A.rst
+    summaries/Y8_ch7/7B.rst
+    summaries/Y8_ch7/7C.rst
+    summaries/Y8_ch7/flashquiz.rst
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 🤔⚡ Y8 Electricity Quizzes
+
+    quizzes/Y8_ch7/7A_jumblewords.rst
+    quizzes/Y8_ch7/7A_keyterms.rst
+    quizzes/Y8_ch7/7A_mcq.rst
+    quizzes/Y8_ch7/7B_jumblewords.rst
+    quizzes/Y8_ch7/7B_keyterms.rst
+    quizzes/Y8_ch7/7B_mcq.rst
+    quizzes/Y8_ch7/7C_jumblewords.rst
+    quizzes/Y8_ch7/7C_keyterms.rst
+    quizzes/Y8_ch7/7C_mcq.rst
 
 
 
