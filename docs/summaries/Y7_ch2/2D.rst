@@ -5,7 +5,7 @@
 History of Classification and Microscopy
 ====================================================================
 
-* Biological classification has continuously evolved throughout history as new scientific tools and observations emerged.
+* Biological classification has changed continuously throughout history as new scientific tools and observations emerged.
 * Early taxonomy began with philosophers like Aristotle and expanded with naturalists like Linnaeus, but was initially limited to visible organisms.
 * The invention and advancement of microscopes in the 1600s allowed scientists to observe microscopic life and cellular structures.
 * Learning how microscopy contributed to taxonomy helps us understand the true complexity of living organisms and their evolutionary relationships.
@@ -27,10 +27,10 @@ History of Classification and Microscopy
 The Animal Kingdom
 ==================================
 
-* Animals obtain nutrition by consuming other organisms and can be broadly categorized as invertebrates or vertebrates.
-* Vertebrates belong to the phylum Chordata and are further divided into five distinct classes: mammals, reptiles, fish, amphibians, and birds.
-* Unique traits define each class, though some animals like the egg-laying platypus possess combinations of features that make them tricky to categorize.
-* Observing microscopic genetic material allows scientists to identify deeper cellular similarities that visible physical traits might obscure.
+* Animals obtain nutrition by consuming other organisms and can be broadly categorised as invertebrates or vertebrates.
+* Vertebrates belong to the phylum Chordata and are traditionally divided into five classes: mammals, reptiles, fish, amphibians, and birds.
+* Unique traits define each class, though some animals like the egg-laying platypus possess combinations of features that make them tricky to categorise.
+* Comparing genetic material (DNA) reveals similarities that visible physical traits might hide.
 
 * **Key Terms:**
 
@@ -50,22 +50,23 @@ The Animal Kingdom
 The Plant Kingdom
 ==================================
 
-* Plants make up a diverse kingdom of organisms that generate their own nutrition by converting sunlight into energy.
+* Plants make up a diverse kingdom of organisms that make their own food by photosynthesis, using energy from sunlight.
 * Angiosperms are flowering plants that produce seeds enclosed within protective fruit, whereas gymnosperms produce seeds on structures like cones.
+* Flowering plants rely on pollination, the transfer of pollen between flowers, to make seeds.
 * Non-flowering plants like ferns and mosses reproduce using tiny units called spores.
-* The development of microscopes enabled scientists to discover and detailedly study these microscopic spore-forming structures.
+* Microscopes enabled scientists to discover these tiny spores and study them in detail.
 
 * **Key Terms:**
 
   * **Angiosperms**: Plants that produce flowers and seeds surrounded by a protective fruit.
   * **Gymnosperms**: Non-flowering plants that produce seeds on structures such as cones.
   * **Spores**: Tiny reproductive units capable of developing into a new individual independently.
-  * **Pollination**: The transfer of pollen between plants to enable fertilization.
+  * **Pollination**: The transfer of pollen between plants to enable fertilisation.
 
 
 .. cloze::
 
-   1. Plants generate their own nutrients using energy from @@sunlight@@.
+   1. Plants make their own food using energy from @@sunlight@@.
    2. Angiosperms produce seeds surrounded by fruit, while @@gymnosperms@@ produce seeds inside cones.
    3. Microscopes helped scientists discover and study plants that reproduce using @@spores@@.
 
@@ -77,7 +78,7 @@ The Protist Kingdom
 * As microscopes improved, scientists discovered organisms displaying a puzzling mix of both plant and animal features.
 * The kingdom Protista was created as a third kingdom to house these organisms that did not fit neatly elsewhere.
 * Protists are highly diverse and include plant-like algae, animal-like protozoa such as amoebas, and fungus-like slime moulds.
-* Organisms like *Euglena* can create energy from sunlight like a plant, yet move and eat like an animal.
+* Organisms like *Euglena* can make food using sunlight like a plant, yet move and feed like an animal.
 
 * **Key Terms:**
 
@@ -97,9 +98,9 @@ The Fungi Kingdom
 ==================================
 
 * Fungi were originally classified as plants because they grow out of the ground.
-* Scientists later redefined the plant kingdom after discovering that fungi do not use sunlight for energy, but absorb nutrients from decaying matter.
+* Scientists later gave fungi their own kingdom after discovering that fungi do not use sunlight for energy but absorb nutrients from decaying matter.
 * The fungi kingdom includes multicellular filamentous structures like mushrooms and moulds, as well as single-celled yeasts.
-* Precise genus-level identification is critical for fungi because edible mushrooms can closely resemble deadly poisonous species.
+* Precise identification to species level is critical for fungi because edible mushrooms can closely resemble deadly poisonous species.
 
 * **Key Terms:**
 
@@ -109,9 +110,9 @@ The Fungi Kingdom
 
 .. cloze::
 
-   1. Fungi do not make food from sunlight, but instead absorb energy from @@decaying@@ matter.
+   1. Fungi do not make food from sunlight, but instead absorb nutrients from @@decaying@@ matter.
    2. Moulds and mushrooms grow as filaments, whereas @@yeasts@@ are single-celled fungi.
-   3. Detailed identification down to the @@genus@@ level is necessary because some mushrooms are toxic.
+   3. Detailed identification down to the @@species@@ level is necessary because some mushrooms are toxic.
 
 ----
 
@@ -120,8 +121,8 @@ The Monera Kingdom and Three Domains
 
 * High-powered microscopes revealed that bacteria lack a cell nucleus, leading to the creation of the kingdom Monera.
 * Modern DNA analysis demonstrated that the Monera group actually consists of two vastly different evolutionary branches: Bacteria and Archaea.
-* True bacteria inhabit everyday environments like soil and water, whereas ancient archaea thrive in extreme environments like hot springs.
-* Modern biological taxonomy now organizes life into three top-level domains: Bacteria, Archaea, and Eukarya.
+* Bacteria live in everyday environments like soil and water, whereas many archaea thrive in extreme environments like hot springs.
+* Modern biological taxonomy now organises life into three top-level domains: Bacteria, Archaea, and Eukarya.
 
 * **Key Terms:**
 
@@ -132,9 +133,9 @@ The Monera Kingdom and Three Domains
 
 .. cloze::
 
-   1. Bacteria were categorized into kingdom Monera because their cells lack a @@nucleus@@.
+   1. Bacteria were categorised into kingdom Monera because their cells lack a @@nucleus@@.
    2. Single-celled organisms that live in extreme environments belong to the group @@Archaea@@.
-   3. Modern taxonomy organizes all living things into three top-level @@domains@@ based on DNA evidence.
+   3. Modern taxonomy organises all living things into three top-level @@domains@@ based on DNA evidence.
 
 ----
 
@@ -143,11 +144,11 @@ Matching Section
 
 .. cloze::
 
-   1. @@Microscope@@ : An instrument used to view very small objects.
-   2. @@Invertebrates@@ : Animals that do not possess a backbone.
-   3. @@Angiosperms@@ : Plants that produce flowers and seeds surrounded by protective fruit.
-   4. @@Spores@@ : Tiny reproductive units capable of developing into a new organism on their own.
-   5. @@Gymnosperms@@ : Non-flowering plants that form seeds on cones.
-   6. @@Archaea@@ : Single-celled microorganisms often residing in extreme environments like hot springs.
-   7. @@Fungi@@ : Organisms that gain nutrition by absorbing decaying organic matter.
-   8. @@Vertebrates@@ : Animals that possess a backbone.
+   1. @@Microscope@@: An instrument used to view very small objects.
+   2. @@Invertebrates@@: Animals that do not possess a backbone.
+   3. @@Angiosperms@@: Plants that produce flowers and seeds surrounded by protective fruit.
+   4. @@Spores@@: Tiny reproductive units capable of developing into a new organism on their own.
+   5. @@Gymnosperms@@: Non-flowering plants that form seeds on cones.
+   6. @@Archaea@@: Single-celled microorganisms often residing in extreme environments like hot springs.
+   7. @@Fungi@@: Organisms that gain nutrition by absorbing decaying organic matter.
+   8. @@Vertebrates@@: Animals that possess a backbone.

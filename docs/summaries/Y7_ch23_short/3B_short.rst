@@ -32,11 +32,11 @@ Energy Transfer and Trophic Pyramids
 ====================================
 
 * Energy is lost at each trophic level.
-* Energy is used up or lost as heat.
+* Energy is used for life processes or lost as heat.
 * Waste also removes energy from the chain.
 * Only about 10% passes to the next level.
 * Trophic pyramids show this energy reduction.
-* Higher levels support fewer individual organisms.
+* Higher levels usually support fewer organisms.
 
 * **Key Terms:**
 
@@ -58,9 +58,9 @@ Food Webs and Ecosystem Dynamics
 * Food webs combine many interconnected food chains.
 * Food webs model complex feeding relationships.
 * Keystone species keep ecosystems stable.
-* Changing their populations affects all levels.
+* Changing a keystone species' population affects all levels.
 * Keystone changes can trigger a trophic cascade.
-* Predators, prey, and producers become unbalanced.
+* A trophic cascade unbalances predators, prey and producers.
 
 * **Key Terms:**
 
@@ -82,11 +82,11 @@ Matching Exercise
 
 .. cloze::
 
-    1. @@Food Chain@@: A single pathway showing energy transfer
-    2. @@Producer@@: An organism that makes food from sunlight
-    3. @@Trophic Level@@: An organism's position in a feeding pathway
-    4. @@Apex Predator@@: Top carnivore with no natural predators
-    5. @@Food Web@@: A network of overlapping food chains
-    6. @@Keystone Species@@: A species that keeps ecosystems balanced
-    7. @@Trophic Cascade@@: Disruptions across levels when key species change
-    8. @@Biodiverse@@: Having a wide variety of organisms
+    1. @@Food Chain@@: A single pathway showing energy transfer.
+    2. @@Producer@@: An organism that makes food from sunlight.
+    3. @@Trophic Level@@: An organism's position in a feeding pathway.
+    4. @@Apex Predator@@: Top carnivore with no natural predators.
+    5. @@Food Web@@: A network of overlapping food chains.
+    6. @@Keystone Species@@: A species that keeps ecosystems balanced.
+    7. @@Trophic Cascade@@: Disruptions across levels when key species change.
+    8. @@Biodiverse@@: Having a wide variety of organisms.

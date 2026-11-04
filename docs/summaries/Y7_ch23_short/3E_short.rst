@@ -5,7 +5,7 @@
 Ecological Concepts and Definitions
 ===================================================
 
-* Introduced species are taken outside their natural area.
+* Introduced species are moved by humans outside their natural area.
 * Invasive species spread quickly and cause harm.
 * Invasive species outcompete native species for resources.
 * Resources include food, water, and shelter.
@@ -15,11 +15,12 @@ Ecological Concepts and Definitions
 
 * **Key Terms:**
 
-  * **Species**: Closely related organisms capable of interbreeding.
+  * **Species**: Similar organisms that can interbreed to produce fertile offspring.
   * **Native Species**: Organisms occurring naturally in a region.
   * **Introduced Species**: Organisms moved beyond their natural range by humans.
   * **Invasive Species**: An introduced species that spreads and harms.
   * **Eradication**: Completely removing a species from an area.
+  * **Extinct**: No longer existing, either anywhere or locally.
 
 .. cloze::
 
@@ -37,7 +38,7 @@ Mechanisms of Introduction and Ecological Impact
 * Ballast water also carries species accidentally.
 * Generalist predators affect many trophic levels.
 * Generalist predators eat native prey and rival predators.
-* Cane toad tadpoles affect algae in water.
+* Cane toad tadpoles eat algae in water.
 * Adult cane toads eat native insects.
 * Cane toad skin toxins poison native predators.
 
@@ -60,7 +61,7 @@ Matching Exercise
 
 .. cloze::
 
-    1. @@Species@@: A group of closely related organisms.
+    1. @@Species@@: A group of similar organisms that can interbreed.
     2. @@Native Species@@: Organisms occurring naturally in a region.
     3. @@Introduced Species@@: Organisms taken outside their natural area.
     4. @@Invasive Species@@: An introduced species that spreads and harms.

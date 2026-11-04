@@ -5,7 +5,7 @@
 Understanding Microorganisms
 =============================
 
-* Microorganisms are too small to see unaided.
+* Microorganisms are too small to see without a microscope.
 * Microorganisms are also called microbes.
 * Microbes come from three main kingdoms.
 * The kingdoms are Monera, Fungi, and Protista.
@@ -33,13 +33,13 @@ Microbial Producers and Consumers
 * Phytoplankton form the base of aquatic pyramids.
 * Microbial consumers eat other microorganisms for energy.
 * Microbes usually occupy lower trophic levels.
-* Many live inside animals to aid digestion.
+* Many microbes live inside animals and help them digest food.
 
 * **Key Terms:**
 
   * **Producer**: An organism making its own energy by photosynthesis.
   * **Heterotroph**: An organism that eats other organisms for energy.
-  * **Phytoplankton**: Microscopic marine organisms at the food web's base.
+  * **Phytoplankton**: Microscopic aquatic producers at the base of food webs.
 
 .. cloze::
 
@@ -59,17 +59,17 @@ Microbial Decomposers and Nutrient Cycling
 * Decomposers return minerals to soil and water.
 * Without decomposers, organic waste would pile up.
 * Piled-up waste would block sunlight and air.
-* Plants would stop growing and ecosystems collapse.
+* Plants would stop growing and ecosystems would collapse.
 
 * **Key Terms:**
 
-  * **Detritus**: Waste matter, including dead organisms and feces.
+  * **Detritus**: Waste matter, including dead organisms and faeces.
   * **Decomposer**: Breaks down dead material to recycle nutrients.
   * **Nutrient Cycling**: The recycling of nutrients back into ecosystems.
 
 .. cloze::
 
-    1. Dead organisms and feces form @@detritus@@.
+    1. Dead organisms and faeces form @@detritus@@.
     2. Decomposers return nutrients to the @@soil@@.
     3. Decomposers receive energy from @@all@@ trophic levels.
 
@@ -80,11 +80,11 @@ Matching Exercise
 
 .. cloze::
 
-    1. @@Microorganism@@: An organism seen only with a microscope
-    2. @@Detritus@@: Dead organic matter and biological waste
-    3. @@Decomposer@@: An organism breaking down matter into nutrients
-    4. @@Monera@@: The kingdom of prokaryotic organisms like bacteria
-    5. @@Phytoplankton@@: Photosynthetic microbes living in aquatic environments
-    6. @@Heterotroph@@: An organism that consumes organic matter for energy
-    7. @@Protista@@: A group of microbes including algae and protozoa
-    8. @@Trophic Cascade@@: Effects rippling across levels when key species change
+    1. @@Microorganism@@: An organism seen only with a microscope.
+    2. @@Detritus@@: Dead organic matter and biological waste.
+    3. @@Decomposer@@: An organism breaking down matter into nutrients.
+    4. @@Monera@@: The kingdom of prokaryotic organisms like bacteria.
+    5. @@Phytoplankton@@: Photosynthetic microbes living in aquatic environments.
+    6. @@Heterotroph@@: An organism that consumes organic matter for energy.
+    7. @@Protista@@: A group of microbes including algae and protozoa.
+    8. @@Nutrient Cycling@@: Recycling nutrients from dead matter back into the ecosystem.

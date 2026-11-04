@@ -8,7 +8,7 @@ Ecosystems and Environmental Factors
 * Every living organism lives within an ecosystem where living and non-living elements interact.
 * Ecosystems can be aquatic (freshwater, marine/coastal) or terrestrial (desert, jungle, tundra, grassland).
 * Biotic factors are all the living components present in an ecosystem, such as animals, plants, and bacteria.
-* Abiotic factors are the non-living physical components, such as sunlight, temperature, water, oxygen, and shelter.
+* Abiotic factors are the non-living physical components, such as sunlight, temperature, water, oxygen, and soil.
 
 * **Key Terms:**
 
@@ -46,8 +46,8 @@ Energy Flow and Trophic Roles
 
 .. cloze::
 
-    1. Plants are @@autotroph@@ organisms that use @@sunlight@@ to make energy.
-    2. A lion is a @@carnivore@@ because it only eats meat, while a goat is an @@herbivore@@.
+    1. Plants are @@autotrophs@@ that use @@sunlight@@ to make their own food.
+    2. A lion is a @@carnivore@@ because it only eats meat, while a goat is a @@herbivore@@.
     3. Fungi act as a @@decomposer@@ by using external digestion to break down @@dead@@ matter.
 
 ----
@@ -56,7 +56,7 @@ Ecosystem Interactions
 =======================
 
 * Organisms compete with each other when vital resources such as food, water, light, space, or mates are limited.
-* Competition negatively affects both competing individuals because both must expend extra energy.
+* Competition harms both competitors, because both must use extra energy.
 * Predator-prey interactions keep population sizes balanced within an ecosystem over time.
 * Changes in abiotic conditions or predator numbers directly impact the survival rates of prey species.
 
@@ -73,7 +73,7 @@ Ecosystem Interactions
 
     1. When resources are limited, @@competition@@ increases and affects an organism's ability to @@survive@@.
     2. A @@predator@@ hunts and eats another organism, which is known as the @@prey@@.
-    3. An increase in prey population leads to more food for predators to @@reproduce@@ and @@grow@@.
+    3. An increase in prey means more food, helping predators @@reproduce@@ and @@grow@@.
 
 ----
 
@@ -82,12 +82,12 @@ Matching Section
 
 .. cloze::
 
-    1. @@Autotroph@@ : Organism that makes its own food using sunlight.
-    2. @@Heterotroph@@ : Organism that consumes other living or dead matter.
-    3. @@Biotic Factor@@ : Any living part of an ecosystem.
-    4. @@Abiotic Factor@@ : Any non-living part of an ecosystem.
-    5. @@Herbivore@@ : Consumer that eats only plants.
-    6. @@Decomposer@@ : Organism that breaks down dead matter externally.
-    7. @@Competition@@ : Struggle between organisms for limited resources.
-    8. @@Predator@@ : Animal that hunts and kills other animals for food.
+    1. @@Autotroph@@: Organism that makes its own food using sunlight.
+    2. @@Heterotroph@@: Organism that consumes other living or dead matter.
+    3. @@Biotic Factor@@: Any living part of an ecosystem.
+    4. @@Abiotic Factor@@: Any non-living part of an ecosystem.
+    5. @@Herbivore@@: Consumer that eats only plants.
+    6. @@Decomposer@@: Organism that breaks down dead matter externally.
+    7. @@Competition@@: Struggle between organisms for limited resources.
+    8. @@Predator@@: Animal that hunts and kills other animals for food.
 

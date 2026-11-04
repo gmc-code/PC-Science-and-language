@@ -81,7 +81,7 @@ extensions = [
     'sphinx_design',
     "sphinx_new_tab_link",
     'sphinx.ext.mathjax',
-    "sphinx.ext.imgconverter",   # for pdf build of converted svgs
+    "sphinx.ext.imgconverter",  # for pdf build of converted svgs
     "speak_role",
     "mcqgroup.mcqgroup",  # custom directive
     "clozegroup.clozegroup",  # custom directive
@@ -97,6 +97,7 @@ extensions = [
     "wordjumble.wordjumble",  # custom directive
     "labels.labels",  # custom directive
     "structuredquestion.structuredquestion",  # custom directive
+    "flashquiz.flashquiz",  # custom directive
 ]
 
 

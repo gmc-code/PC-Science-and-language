@@ -5,10 +5,17 @@
 Summary of Key Concepts 1
 ----------------------------------------
 
-* Energy star rating labels show how energy efficient an appliance is compared to other models.
-* Yearly energy consumption is measured in kilowatt-hours and shows total electricity used per year.
-* Household power is the rate of energy transformed by an electrical device and is measured in watts.
-* Running costs of appliances can be calculated by multiplying energy used by the electricity unit cost.
+* Energy Rating Labels use stars to show how energy efficient an appliance is compared to other models; more stars means more efficient.
+* Yearly electricity use is measured in kilowatt-hours (kWh).
+* Power is the rate at which an electrical device transforms energy, measured in watts (1 watt = 1 joule per second).
+* Running cost = energy used (kWh) × price per kWh; for example, 2 kWh × 30c = 60c.
+
+* **Key Terms:**
+
+  * **Energy Rating Label**: A star label comparing appliance efficiency.
+  * **Kilowatt-hour (kWh)**: The unit for measuring household electricity use.
+  * **Power**: The rate a device transforms energy, measured in watts.
+  * **Running Cost**: Money spent operating an appliance over time.
 
 ----
 
@@ -17,19 +24,26 @@ Fill-in-the-Blanks 1
 
 .. cloze::
 
-   1. Energy star rating labels show how @@energy efficient@@ an appliance is, while consumption is measured in @@kilowatt-hours@@.
-   2. Household @@power@@ is the rate of energy transformed by an electrical device and is measured in @@watts@@.
-   3. Running costs of appliances can be calculated by multiplying @@energy@@ used by the electricity unit @@cost@@.
+   1. Energy Rating Labels show how @@energy efficient@@ an appliance is, while electricity use is measured in @@kilowatt-hours@@.
+   2. @@Power@@ is the rate at which a device transforms energy, measured in @@watts@@.
+   3. Running costs of appliances can be calculated by multiplying @@energy@@ used by the @@price@@ per kWh.
 
 ----
 
 Summary of Key Concepts 2
 ----------------------------------------
 
-* Modern appliances use newer technologies and better insulation to reduce wasted energy.
-* Passive solar building design uses sunlight and natural air movement to warm and cool homes.
+* Modern appliances use efficient technology, such as LED lighting, and better insulation to reduce wasted energy.
+* Passive solar building design uses sunlight and natural air movement to warm and cool homes, with features such as north-facing windows and wide eaves.
 * Thermal mass materials like concrete and mudbrick absorb heat during the day and release it slowly.
 * Conducting a household energy audit helps identify areas where energy waste can be reduced.
+
+* **Key Terms:**
+
+  * **Insulation**: Material that traps air to reduce heat flow.
+  * **Passive Solar Design**: Using sunlight and airflow to heat and cool homes.
+  * **Thermal Mass**: Materials that absorb heat and release it slowly.
+  * **Energy Audit**: An inspection of a home's energy use.
 
 ----
 
@@ -38,9 +52,9 @@ Fill-in-the-Blanks 2
 
 .. cloze::
 
-   1. Modern appliances use @@insulation@@ to trap heat.
+   1. @@Insulation@@ reduces heat flow into or out of appliances.
    2. @@Passive solar@@ design uses natural sunlight for temperature control.
-   3. @@Thermal mass@@ materials absorb heat slowly.
+   3. @@Thermal mass@@ materials absorb heat and release it slowly.
    4. Running an @@energy audit@@ helps reduce household energy waste.
 
 ----
@@ -50,13 +64,13 @@ Matching Exercise
 
 .. cloze::
 
-   * @@Energy Audit@@ -> An official inspection of a home to check energy usage and reduce waste.
-   * @@Thermal Mass@@ -> Materials like concrete or brick that absorb, store, and release heat energy slowly.
-   * @@Passive Solar Design@@ -> Building design using natural climate and sunlight to heat/cool without power.
-   * @@Insulation@@ -> Material used to trap air and prevent unwanted heat loss or gain.
-   * @@Running Cost@@ -> The total amount of money spent to operate an electrical appliance over time.
-   * @@Power@@ -> The rate at which energy is transformed or used by a device, measured in watts.
-   * @@Kilowatt-hour (kWh)@@ -> The unit of energy used to measure home electricity consumption over time.
-   * @@Energy Star Rating@@ -> Label showing how efficient an appliance is compared to similar models.
+   1. @@Energy Audit@@: An inspection of a home's energy use to find ways to reduce waste.
+   2. @@Thermal Mass@@: Materials like concrete or brick that absorb, store, and release heat energy slowly.
+   3. @@Passive Solar Design@@: Building design using natural climate and sunlight to heat and cool without power.
+   4. @@Insulation@@: Material used to trap air and reduce unwanted heat loss or gain.
+   5. @@Running Cost@@: The total amount of money spent to operate an electrical appliance over time.
+   6. @@Power@@: The rate at which energy is transformed or used by a device, measured in watts.
+   7. @@Kilowatt-hour (kWh)@@: The unit of energy used to measure home electricity use over time.
+   8. @@Energy Rating Label@@: A star label showing how efficient an appliance is compared to similar models.
 
 

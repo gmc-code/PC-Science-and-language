@@ -5,9 +5,15 @@
 Summary of Key Concepts 1
 ----------------------------------------
 
-* The law of conservation of energy states that energy cannot be created nor destroyed.
+* The law of conservation of energy states that energy cannot be created or destroyed, only transferred or transformed.
 * During an energy transfer, energy moves from one object to another in the same form.
-* During an energy transformation, energy changes from one form to another inside an object.
+* During an energy transformation, energy changes from one form to another, often inside a device.
+
+* **Key Terms:**
+
+  * **Conservation of Energy**: Energy cannot be created or destroyed.
+  * **Energy Transfer**: Energy moving between objects in the same form.
+  * **Energy Transformation**: Energy changing from one form to another.
 
 ----
 
@@ -16,8 +22,8 @@ Fill-in-the-Blanks 1
 
 .. cloze::
 
-    1. During an energy @@transformation@@, energy @@changes@@ from one form to another inside an object.
-    2. The law of @@conservation@@ of energy states that energy cannot be @@created@@ nor destroyed.
+    1. During an energy @@transformation@@, energy @@changes@@ from one form to another, often inside a device.
+    2. The law of @@conservation@@ of energy states that energy cannot be @@created@@ or destroyed.
     3. During an energy @@transfer@@, energy @@moves@@ from one object to another in the same form.
 
 ----
@@ -26,10 +32,17 @@ Summary of Key Concepts 2
 ----------------------------------------
 
 * Flow diagrams use arrows to show input energy changing into output energy.
-* In a hairdryer, electrical energy is transformed into heat, kinetic, and sound energy.
+* In a hairdryer, electrical energy is transformed into thermal, kinetic, and sound energy.
 * In a mobile phone, chemical energy from the battery is transformed into electrical energy.
 * Sankey diagrams visually show the amount of useful energy and wasted energy in a system.
+* In a Sankey diagram, the width of each arrow shows the amount of energy.
 * Total input energy entering a system is always equal to the total output energy coming out.
+
+* **Key Terms:**
+
+  * **Flow Diagram**: A diagram using arrows to show energy changes.
+  * **Sankey Diagram**: A diagram whose arrow widths show amounts of energy.
+  * **Waste Energy**: Output energy that is not useful.
 
 ----
 
@@ -40,7 +53,7 @@ Fill-in-the-Blanks 2
 
     1. Total @@input@@ energy entering a system is always equal to the @@total@@ output energy coming out.
     2. @@Flow@@ diagrams use @@arrows@@ to show input energy changing into output energy.
-    3. In a hairdryer, electrical energy is @@transformed@@ into heat, kinetic, and sound energy.
+    3. In a hairdryer, electrical energy is @@transformed@@ into thermal, kinetic, and sound energy.
     4. In a mobile phone, chemical energy from the battery is @@transformed@@ into electrical energy.
     5. @@Sankey@@ diagrams visually show the amount of useful energy and @@wasted@@ energy in a system.
 
@@ -56,7 +69,7 @@ Matching Exercise
     2. @@Energy Transformation@@: Change of energy from one form to a different form.
     3. @@Input Energy@@: The starting energy put into a system or object.
     4. @@Output Energy@@: The energy coming out of a transfer or transformation process.
-    5. @@Waste Energy@@: Energy that is changed into unwanted forms like excess heat or sound.
+    5. @@Waste Energy@@: Energy that is changed into unwanted forms, such as thermal energy or sound.
     6. @@Sankey Diagram@@: Diagram that shows input, useful output, and wasted energy flows.
 
 

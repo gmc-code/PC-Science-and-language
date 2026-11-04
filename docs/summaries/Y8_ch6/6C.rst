@@ -5,11 +5,17 @@
 Summary of Key Concepts 1
 ----------------------------------------
 
-* Energy by-products are secondary forms of energy produced during energy transfers or transformations.
+* Energy by-products are extra, usually unwanted, forms of energy produced during energy transfers or transformations.
 * Input energy is the total amount of energy going into an energy transfer or transformation system.
 * Output energy is the total energy coming out of an energy transfer or transformation system.
 * Useful energy is output energy that is needed and used by us for a specific purpose.
-* Waste energy is output energy that is not useful to us, usually released as heat, sound, or light.
+* Waste energy is output energy that is not useful to us, usually released as thermal energy, sound, or light.
+
+* **Key Terms:**
+
+  * **By-product**: An extra, usually unwanted, form of energy.
+  * **Useful Energy**: Output energy that is useful to us.
+  * **Waste Energy**: Output energy that is not useful.
 
 
 ----
@@ -19,10 +25,10 @@ Fill-in-the-Blanks 1
 
 .. cloze::
 
-    1. Energy @@by-products@@ are secondary forms of energy produced during energy @@transfers@@ or transformations.
+    1. Energy @@by-products@@ are extra forms of energy produced during energy @@transfers@@ or transformations.
     2. @@Useful@@ energy is output energy that is needed and used by us for a specific purpose.
     3. @@Input@@ energy is the total amount of energy going in, while @@output@@ energy is the total coming out.
-    4. @@Waste energy@@ is output energy that is not useful to us, usually released as @@heat@@, sound, or light.
+    4. @@Waste energy@@ is output energy that is not useful to us, usually released as @@thermal@@ energy, sound, or light.
 
 ----
 
@@ -30,8 +36,16 @@ Summary of Key Concepts 2
 ----------------------------------------
 
 * Efficient means maximising useful output energy while creating the smallest possible amount of waste energy.
-* Conduction transfers thermal energy through direct contact between particles in a solid, liquid, or gas.
-* Convection transfers heat through the movement of liquids or gases, while radiation transfers heat via electromagnetic waves.
+* Conduction transfers thermal energy through direct contact between particles in a solid, liquid, or gas, and works best in solids.
+* Convection transfers heat through the movement of liquids or gases.
+* Radiation transfers heat via electromagnetic waves and needs no particles, so it can cross empty space.
+
+* **Key Terms:**
+
+  * **Efficient**: Turning most input energy into useful output.
+  * **Conduction**: Heat transfer through direct particle contact.
+  * **Convection**: Heat transfer through moving liquids or gases.
+  * **Radiation**: Heat transfer through electromagnetic waves.
 
 ----
 

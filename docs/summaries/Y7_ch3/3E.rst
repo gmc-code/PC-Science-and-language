@@ -6,16 +6,17 @@ Ecological Concepts and Definitions
 ===================================================
 
 * Introduced species are organisms taken outside their natural geographical area, while invasive species spread quickly and cause significant environmental or economic harm.
-* Ecosystems experience population declines or localized extinctions when invasive species outcompete native species for limited resources like food, water, and shelter.
+* Ecosystems experience population declines or localised extinctions when invasive species outcompete native species for limited resources like food, water, and shelter.
 * Introduced species enter new environments through deliberate pathways (such as agriculture, pest control, and transport) or accidental pathways (such as cargo shipping and ballast water).
 
 * **Key Terms:**
 
-  * **Species**: A group of closely related organisms capable of interbreeding.
+  * **Species**: A group of similar organisms that can interbreed to produce fertile offspring.
   * **Native Species**: Organisms that occur naturally in a specific ecological region.
   * **Introduced Species**: Organisms transported beyond their natural geographical boundary by human activity.
   * **Invasive Species**: An introduced species that spreads rapidly and causes harm to native species or ecosystems.
   * **Eradication**: The complete removal or destruction of a target species from an area.
+  * **Extinct**: No longer existing, either anywhere or in a local area.
 
 .. cloze::
 
@@ -29,8 +30,8 @@ Mechanisms of Introduction and Ecological Impact
 ===================================================
 
 * Deliberate introductions occur for farming, pest control, hunting, or transport, whereas accidental introductions occur via shipping containers and vessel ballast water.
-* Broad generalist predators alter food webs across multiple trophic levels by consuming native prey and competing directly with endemic predators.
-* Invasive species like the cane toad disrupt multiple trophic levels simultaneously, impacting algae as tadpoles, consuming native insects as adults, and poisoning native predators via skin toxins.
+* Generalist predators, which eat many kinds of prey, alter food webs across several trophic levels by eating native prey and competing with native predators.
+* Invasive species like the cane toad disrupt multiple trophic levels simultaneously, eating algae as tadpoles, eating native insects as adults, and poisoning native predators with toxins in their skin.
 
 * **Key Terms:**
 
@@ -51,7 +52,7 @@ Matching Exercise
 
 .. cloze::
 
-    1. @@Species@@: A group of organisms closely related to one another.
+    1. @@Species@@: A group of similar organisms that can interbreed.
     2. @@Native Species@@: Organisms that occur naturally in a given region.
     3. @@Introduced Species@@: Organisms taken outside of their natural geographical area.
     4. @@Invasive Species@@: An introduced species that spreads quickly and causes significant harm.

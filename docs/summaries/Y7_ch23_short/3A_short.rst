@@ -8,11 +8,11 @@ Ecosystems and Environmental Factors
 * Every organism lives within an ecosystem.
 * Living and non-living elements interact in ecosystems.
 * Aquatic ecosystems include freshwater and marine habitats.
-* Terrestrial ecosystems include desert, jungle, tundra, grassland.
+* Terrestrial ecosystems include deserts, jungles, tundra and grasslands.
 * Biotic factors are living parts of ecosystems.
 * Biotic examples include animals, plants, and bacteria.
 * Abiotic factors are non-living physical parts.
-* Abiotic examples include sunlight, temperature, water, oxygen.
+* Abiotic examples include sunlight, temperature, water and oxygen.
 
 * **Key Terms:**
 
@@ -38,9 +38,9 @@ Energy Flow and Trophic Roles
 * Autotrophs (producers) make food using sunlight.
 * Making food from sunlight is photosynthesis.
 * Heterotrophs (consumers) eat other organisms for energy.
-* Herbivores eat plants, carnivores eat meat.
+* Herbivores eat only plants; carnivores eat only meat.
 * Omnivores eat both plants and meat.
-* Scavengers, detritivores, and decomposers clean up.
+* Scavengers, detritivores and decomposers clean up dead matter.
 * Decomposers break down dead matter and waste.
 
 * **Key Terms:**
@@ -67,12 +67,10 @@ Ecosystem Interactions
 =======================
 
 * Organisms compete when vital resources are limited.
-* Resources include food, water, light, space, mates.
-* Competition harms both competing individuals.
-* Competitors must use extra energy.
+* Resources include food, water, light, space and mates.
+* Competition harms both competitors, because both use extra energy.
 * Predators and prey keep populations balanced.
-* Abiotic changes affect prey survival rates.
-* Predator numbers also affect prey survival.
+* Abiotic changes and predator numbers both affect prey survival.
 
 
 * **Key Terms:**
@@ -97,11 +95,11 @@ Matching Section
 
 .. cloze::
 
-    1. @@Autotroph@@ : Organism that makes food using sunlight.
-    2. @@Heterotroph@@ : Organism that consumes living or dead matter.
-    3. @@Biotic Factor@@ : Any living part of an ecosystem.
-    4. @@Abiotic Factor@@ : Any non-living part of an ecosystem.
-    5. @@Herbivore@@ : A consumer that eats only plants.
-    6. @@Decomposer@@ : Organism that breaks down dead matter externally.
-    7. @@Competition@@ : Struggle between organisms for limited resources.
-    8. @@Predator@@ : Animal that hunts other animals for food.
+    1. @@Autotroph@@: Organism that makes food using sunlight.
+    2. @@Heterotroph@@: Organism that consumes living or dead matter.
+    3. @@Biotic Factor@@: Any living part of an ecosystem.
+    4. @@Abiotic Factor@@: Any non-living part of an ecosystem.
+    5. @@Herbivore@@: A consumer that eats only plants.
+    6. @@Decomposer@@: Organism that breaks down dead matter externally.
+    7. @@Competition@@: Struggle between organisms for limited resources.
+    8. @@Predator@@: Animal that hunts other animals for food.

@@ -16,18 +16,6 @@ PC-Science-and-language
     introduction/introduction.rst
 
 
-.. toctree::
-    :maxdepth: 2
-    :caption: ⚡ 8 Energy SIS
-
-    prac_physics/sis_introduction.rst
-    prac_physics/sis_01_investigation_and_energy.rst
-    prac_physics/sis_02_variables_aim_hypothesis.rst
-    prac_physics/sis_03_method_safety_ethics.rst
-    prac_physics/sis_04_results_graphs_trends.rst
-    prac_physics/sis_05_accuracy_errors_improvements.rst
-    prac_physics/sis_06_conclusion_command_words_quick_check.rst
-
 
 .. toctree::
     :maxdepth: 2
@@ -40,6 +28,7 @@ PC-Science-and-language
     summaries/Y8_ch67_short/7A_short.rst
     summaries/Y8_ch67_short/7B_short.rst
     summaries/Y8_ch67_short/7C_short.rst
+    summaries/Y8_ch67_short/flashquiz.rst
 
 
 
@@ -51,6 +40,7 @@ PC-Science-and-language
     summaries/Y8_ch6/6B.rst
     summaries/Y8_ch6/6C.rst
     summaries/Y8_ch6/6D.rst
+    summaries/Y8_ch6/flashquiz.rst
 
 
 .. toctree::
@@ -79,6 +69,7 @@ PC-Science-and-language
     summaries/Y8_ch7/7A.rst
     summaries/Y8_ch7/7B.rst
     summaries/Y8_ch7/7C.rst
+    summaries/Y8_ch7/flashquiz.rst
 
 
 .. toctree::
@@ -109,6 +100,7 @@ PC-Science-and-language
     summaries/Y7_ch23_short/3C_short.rst
     summaries/Y7_ch23_short/3D_short.rst
     summaries/Y7_ch23_short/3E_short.rst
+    summaries/Y7_ch23_short/flashquiz.rst
 
 
 
@@ -120,6 +112,7 @@ PC-Science-and-language
     summaries/Y7_ch2/2B.rst
     summaries/Y7_ch2/2C.rst
     summaries/Y7_ch2/2D.rst
+    summaries/Y7_ch2/flashquiz.rst
 
 
 
@@ -154,6 +147,7 @@ PC-Science-and-language
     summaries/Y7_ch3/3C.rst
     summaries/Y7_ch3/3D.rst
     summaries/Y7_ch3/3E.rst
+    summaries/Y7_ch3/flashquiz.rst
 
 
 
@@ -252,6 +246,20 @@ PC-Science-and-language
     pracs/accuracy_and_precision.rst
     pracs/aims.rst
     pracs/aims_nominalisations.rst
+
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: ⚡ 8 Energy SIS
+
+    prac_physics/sis_introduction.rst
+    prac_physics/sis_01_investigation_and_energy.rst
+    prac_physics/sis_02_variables_aim_hypothesis.rst
+    prac_physics/sis_03_method_safety_ethics.rst
+    prac_physics/sis_04_results_graphs_trends.rst
+    prac_physics/sis_05_accuracy_errors_improvements.rst
+    prac_physics/sis_06_conclusion_command_words_quick_check.rst
 
 
 
