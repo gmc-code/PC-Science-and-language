@@ -14,7 +14,7 @@
         What does MRS GREN stand for?
 
         [x] The seven essential life processes of living things. | Correct! MRS GREN lists the seven criteria for life.
-        [ ] The seven levels of classification. | Incorrect. Classification levels run from kingdom to species.
+        [ ] The seven levels of classification. | Incorrect. Classification levels run from domain to species.
         [ ] The two parts of a binomial name. | Incorrect. A binomial name is the genus and species.
         [ ] The three domains of life. | Incorrect. MRS GREN describes life processes, not domains.
 
@@ -49,7 +49,7 @@
 
         What is the broadest level in biological classification?
 
-        [x] Kingdom | Correct! Kingdom is the broadest major level.
+        [x] Domain | Correct! Domain is the broadest major level.
         [ ] Species | Incorrect. Species is the most specific level.
         [ ] Genus | Incorrect. Genus groups closely related species.
         [ ] Binomial | Incorrect. A binomial name is a two-part scientific name, not a level.
@@ -76,7 +76,7 @@
 
         What is a genus?
 
-        [ ] The broadest level of classification. | Incorrect. That is the kingdom.
+        [ ] The broadest level of classification. | Incorrect. That is the Domain.
         [ ] A single individual organism. | Incorrect. A genus contains several related species.
         [ ] The ability to respond to changes. | Incorrect. That describes sensitivity.
         [x] A rank grouping closely related species together. | Correct! A genus groups similar species.

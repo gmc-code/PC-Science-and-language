@@ -22,7 +22,7 @@ Linnaean Classification and Naming
 
     1. @@Binomial Name@@: A unique two-part scientific name for an organism.
     2. @@Genus@@: A rank grouping closely related species together.
-    3. @@Kingdom@@: The broadest major level in biological classification.
+    3. @@Domain@@: The broadest major level in biological classification.
     4. @@Classification@@: Organizing living things into hierarchical categories.
     5. @@Species@@: The specific classification level for an individual organism.
 

@@ -23,7 +23,7 @@ Usage::
        Groups are based on shared what? | Features
 
        # 2B How Biologists Classify Organisms
-       What is the broadest classification level? | Kingdom
+       What is the broadest classification level? | Domain
 
 Content rules:
 
