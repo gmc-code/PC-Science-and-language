@@ -42,6 +42,10 @@ PC-Science-and-language
     summaries/Y7_ch2/2C.rst
     summaries/Y7_ch2/2D.rst
     summaries/Y7_ch2/flashquiz.rst
+    summaries/Y7_ch2/2A_glossary_flashquiz.rst
+    summaries/Y7_ch2/2B_glossary_flashquiz.rst
+    summaries/Y7_ch2/2C_glossary_flashquiz.rst
+    summaries/Y7_ch2/2D_glossary_flashquiz.rst
 
 
 
@@ -77,6 +81,11 @@ PC-Science-and-language
     summaries/Y7_ch3/3D.rst
     summaries/Y7_ch3/3E.rst
     summaries/Y7_ch3/flashquiz.rst
+    summaries/Y7_ch3/3A_glossary_flashquiz.rst
+    summaries/Y7_ch3/3B_glossary_flashquiz.rst
+    summaries/Y7_ch3/3C_glossary_flashquiz.rst
+    summaries/Y7_ch3/3D_glossary_flashquiz.rst
+    summaries/Y7_ch3/3E_glossary_flashquiz.rst
 
 
 
@@ -118,7 +127,7 @@ PC-Science-and-language
     summaries/Y8_ch67_short/7A_short.rst
     summaries/Y8_ch67_short/7B_short.rst
     summaries/Y8_ch67_short/7C_short.rst
-    summaries/Y8_ch67_short/flashquiz.rst
+    summaries/Y8_ch67_short/67_flashquiz.rst
 
 
 
@@ -130,7 +139,7 @@ PC-Science-and-language
     summaries/Y8_ch6/6B.rst
     summaries/Y8_ch6/6C.rst
     summaries/Y8_ch6/6D.rst
-    summaries/Y8_ch6/flashquiz.rst
+    summaries/Y8_ch6/6_flashquiz.rst
 
 
 .. toctree::
@@ -159,7 +168,7 @@ PC-Science-and-language
     summaries/Y8_ch7/7A.rst
     summaries/Y8_ch7/7B.rst
     summaries/Y8_ch7/7C.rst
-    summaries/Y8_ch7/flashquiz.rst
+    summaries/Y8_ch7/7_flashquiz.rst
 
 
 .. toctree::
