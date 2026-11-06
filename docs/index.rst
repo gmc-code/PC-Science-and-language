@@ -42,10 +42,11 @@ PC-Science-and-language
     summaries/Y7_ch2/2C.rst
     summaries/Y7_ch2/2D.rst
     summaries/Y7_ch2/flashquiz.rst
-    summaries/Y7_ch2/2A_glossary_flashquiz.rst
-    summaries/Y7_ch2/2B_glossary_flashquiz.rst
-    summaries/Y7_ch2/2C_glossary_flashquiz.rst
-    summaries/Y7_ch2/2D_glossary_flashquiz.rst
+
+    .. summaries/Y7_ch2/2A_glossary_flashquiz.rst
+    .. summaries/Y7_ch2/2B_glossary_flashquiz.rst
+    .. summaries/Y7_ch2/2C_glossary_flashquiz.rst
+    .. summaries/Y7_ch2/2D_glossary_flashquiz.rst
 
 
 
@@ -81,11 +82,12 @@ PC-Science-and-language
     summaries/Y7_ch3/3D.rst
     summaries/Y7_ch3/3E.rst
     summaries/Y7_ch3/flashquiz.rst
-    summaries/Y7_ch3/3A_glossary_flashquiz.rst
-    summaries/Y7_ch3/3B_glossary_flashquiz.rst
-    summaries/Y7_ch3/3C_glossary_flashquiz.rst
-    summaries/Y7_ch3/3D_glossary_flashquiz.rst
-    summaries/Y7_ch3/3E_glossary_flashquiz.rst
+
+    .. summaries/Y7_ch3/3A_glossary_flashquiz.rst
+    .. summaries/Y7_ch3/3B_glossary_flashquiz.rst
+    .. summaries/Y7_ch3/3C_glossary_flashquiz.rst
+    .. summaries/Y7_ch3/3D_glossary_flashquiz.rst
+    .. summaries/Y7_ch3/3E_glossary_flashquiz.rst
 
 
 
