@@ -23,7 +23,7 @@ Usage::
        Groups are based on shared what? | Features
 
        # 2B How Biologists Classify Organisms
-       What is the broadest classification level? | Domain
+       What is the broadest classification level? | Kingdom
 
 Content rules:
 
@@ -42,6 +42,11 @@ from docutils import nodes
 from docutils.parsers.rst import directives
 from sphinx.util.docutils import SphinxDirective
 from sphinx.util.fileutil import copy_asset
+
+
+# Colour themes shared by flashquiz, flashcards, crossword, wordsearch and
+# guessword.
+THEMES = ("dark", "light", "auto", "ocean", "forest", "sunset", "contrast")
 
 
 class flashquiz_node(nodes.General, nodes.Element):
@@ -113,6 +118,7 @@ def visit_flashquiz_html(self, node):
     <button type="button" class="fq-btn fq-restart" title="Restart (R)" aria-label="Restart">&#8635;</button>
     <button type="button" class="fq-btn fq-jump-toggle" title="Go to a question" aria-label="Go to a question" aria-expanded="false">#</button>
     <button type="button" class="fq-btn fq-settings-toggle" title="Settings" aria-label="Settings" aria-expanded="false">&#9881;</button>
+    <button type="button" class="fq-btn fq-print-btn" title="Print the questions and answers" aria-label="Print">&#128424;</button>
     <button type="button" class="fq-btn fq-fullscreen" title="Full screen (F)" aria-label="Full screen">&#x26F6;</button>
   </div>
   <div class="fq-jump" hidden>
@@ -120,37 +126,43 @@ def visit_flashquiz_html(self, node):
     <div class="fq-jump-grid"></div>
   </div>
   <div class="fq-settings" hidden>
-    <div class="fq-settings-grid">
-      <label><span>Question time: <span class="fq-val-q"></span> s</span>
+    <div class="fq-set-row">
+      <label title="How long each question shows"><span>Question <span class="fq-val-q"></span> s</span>
         <input type="range" class="fq-in-q" min="1" max="30" step="0.5">
       </label>
-      <label><span>Answer time: <span class="fq-val-a"></span> s</span>
+      <label title="How long each answer shows"><span>Answer <span class="fq-val-a"></span> s</span>
         <input type="range" class="fq-in-a" min="1" max="30" step="0.5">
       </label>
-      <label><span>Section title time: <span class="fq-val-s"></span> s</span>
+      <label title="How long each section title shows (0 skips them)"><span>Section title <span class="fq-val-s"></span> s</span>
         <input type="range" class="fq-in-s" min="0" max="10" step="0.5">
       </label>
-      <div class="fq-checks">
-        <label><input type="checkbox" class="fq-in-loop"> Loop</label>
-        <label><input type="checkbox" class="fq-in-shuffle"> Shuffle questions</label>
-        <label><input type="checkbox" class="fq-in-bar"> Show timer bar</label>
-        <label><input type="checkbox" class="fq-in-review"> Next loop: only tagged questions</label>
-        <label class="fq-theme-line">Theme:
-          <select class="fq-in-theme">
-            <option value="dark">Dark</option>
-            <option value="light">Light</option>
-            <option value="auto">Auto (match computer)</option>
-          </select></label>
-        <div class="fq-tag-line">&#9873; <span class="fq-tag-count">None tagged</span>
-          <button type="button" class="fq-link fq-tag-clear">Clear tags</button></div>
-      </div>
     </div>
-    <div class="fq-sections-head">
-      <strong>Sections</strong>
-      <button type="button" class="fq-link fq-all">All</button>
-      <button type="button" class="fq-link fq-none">None</button>
+    <div class="fq-set-row">
+      <label><input type="checkbox" class="fq-in-loop"> Loop</label>
+      <label title="Shuffle questions"><input type="checkbox" class="fq-in-shuffle"> Shuffle</label>
+      <label title="Show timer bar"><input type="checkbox" class="fq-in-bar"> Timer bar</label>
+      <label title="Next loop: only tagged questions"><input type="checkbox" class="fq-in-review"> Next loop: tagged only</label>
+      <label class="fq-theme-line">Theme
+        <select class="fq-in-theme">
+          <option value="dark">Dark</option>
+          <option value="light">Light</option>
+          <option value="auto" title="Match the computer's light or dark setting">Auto</option>
+          <option value="ocean">Ocean</option>
+          <option value="forest">Forest</option>
+          <option value="sunset">Sunset</option>
+          <option value="contrast">High contrast</option>
+        </select></label>
     </div>
-    <div class="fq-sections"></div>
+    <div class="fq-set-row fq-set-row3">
+      <span class="fq-tag-line">&#9873; <span class="fq-tag-count">None tagged</span>
+        <button type="button" class="fq-link fq-tag-clear">Clear tags</button></span>
+      <span class="fq-sections-head">
+        <strong>Sections</strong>
+        <button type="button" class="fq-link fq-all">All</button>
+        <button type="button" class="fq-link fq-none">None</button>
+      </span>
+      <span class="fq-sections"></span>
+    </div>
   </div>
 </div>
 """)
@@ -179,7 +191,7 @@ class FlashQuizDirective(SphinxDirective):
         "autostart": directives.flag,
         "timer-bar": lambda arg: directives.choice(arg, ("on", "off")),
         "review": lambda arg: directives.choice(arg, ("on", "off")),
-        "theme": lambda arg: directives.choice(arg, ("dark", "light", "auto")),
+        "theme": lambda arg: directives.choice(arg, THEMES),
     }
 
     def run(self):

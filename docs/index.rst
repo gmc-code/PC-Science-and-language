@@ -30,6 +30,7 @@ PC-Science-and-language
     summaries/Y7_ch23_short/3D_short.rst
     summaries/Y7_ch23_short/3E_short.rst
     summaries/Y7_ch23_short/flashquiz.rst
+    summaries/Y7_ch23_short/flashcards.rst
 
 
 
@@ -42,6 +43,7 @@ PC-Science-and-language
     summaries/Y7_ch2/2C.rst
     summaries/Y7_ch2/2D.rst
     summaries/Y7_ch2/flashquiz.rst
+    summaries/Y7_ch2/flashcards.rst
 
     .. summaries/Y7_ch2/2A_glossary_flashquiz.rst
     .. summaries/Y7_ch2/2B_glossary_flashquiz.rst
@@ -82,6 +84,7 @@ PC-Science-and-language
     summaries/Y7_ch3/3D.rst
     summaries/Y7_ch3/3E.rst
     summaries/Y7_ch3/flashquiz.rst
+    summaries/Y7_ch3/flashcards.rst
 
     .. summaries/Y7_ch3/3A_glossary_flashquiz.rst
     .. summaries/Y7_ch3/3B_glossary_flashquiz.rst
