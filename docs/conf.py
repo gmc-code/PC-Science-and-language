@@ -98,6 +98,7 @@ extensions = [
     "labels.labels",  # custom directive
     "structuredquestion.structuredquestion",  # custom directive
     "flashquiz.flashquiz",  # custom directive
+    "flashcards.flashcards",  # custom directive
 ]
 
 
