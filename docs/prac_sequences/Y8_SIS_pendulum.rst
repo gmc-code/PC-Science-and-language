@@ -2,7 +2,7 @@
 Y8 SIS pendulum prac sequence
 ===============================
 
-**Drag** a picture into a box, or **tap** a picture and then
+Use the full screen icon first. **Drag** a picture into a box, or **tap** a picture and then
 tap a box.
 
 

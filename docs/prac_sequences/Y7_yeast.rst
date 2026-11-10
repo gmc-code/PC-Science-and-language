@@ -2,9 +2,8 @@
 Y7 yeast prac sequence
 =========================
 
-**Drag** a picture into a box, or **tap** a picture and then
+Use the full screen icon first. **Drag** a picture into a box, or **tap** a picture and then
 tap a box.
-
 
 .. imagesequence:: Y7 yeast and temperature method
    :answer-key:
