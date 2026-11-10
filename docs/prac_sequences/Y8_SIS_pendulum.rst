@@ -20,34 +20,34 @@ tap a box.
    :print: cards
    :theme: sunset
 
-   .. step:: images/Y8_SIS_pendulum/pendulum_Step1.png
+   .. step:: images/Y8_SIS_pendulum/pendulum_step1.png
 
       Set up the pendulum on the retort stand
 
-   .. step:: images/Y8_SIS_pendulum/pendulum_Step2.png
+   .. step:: images/Y8_SIS_pendulum/pendulum_step2.png
 
       Make the string 30 cm to the centre of the bob and weigh the plasticine
 
-   .. step:: images/Y8_SIS_pendulum/pendulum_Step3.png
+   .. step:: images/Y8_SIS_pendulum/pendulum_step3.png
 
       Pull the bob back 10°, keeping the string tight
 
-   .. step:: images/Y8_SIS_pendulum/pendulum_Step4.png
+   .. step:: images/Y8_SIS_pendulum/pendulum_step4.png
 
       Let go and start the stopwatch
 
-   .. step:: images/Y8_SIS_pendulum/pendulum_Step5.png
+   .. step:: images/Y8_SIS_pendulum/pendulum_step5.png
 
       Count 10 full swings, then stop the stopwatch
 
-   .. step:: images/Y8_SIS_pendulum/pendulum_Step6.png
+   .. step:: images/Y8_SIS_pendulum/pendulum_step6.png
 
       Divide the time by 10 to get one period
 
-   .. step:: images/Y8_SIS_pendulum/pendulum_Step7.png
+   .. step:: images/Y8_SIS_pendulum/pendulum_step7.png
 
       Do 3 trials and work out the average
 
-   .. step:: images/Y8_SIS_pendulum/pendulum_Step8.png
+   .. step:: images/Y8_SIS_pendulum/pendulum_step8.png
 
       Repeat with more plasticine
