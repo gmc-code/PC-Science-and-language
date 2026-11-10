@@ -38,7 +38,7 @@ Adding Qualifiers to Noun Groups
 .. classifying::
    :instructions: Identify the Qualifier type (post-modifier) used in each noun group.
    :solution:
-   :shuffle:
+
 
    The crystal structure :qualifier:`in the rock sample`: Prepositional Phrase
    The copper strip :qualifier:`that dissolved in the acid`: Finite Relative Clause

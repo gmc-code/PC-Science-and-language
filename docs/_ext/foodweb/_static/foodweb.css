@@ -236,13 +236,13 @@
 /* ---------- Info line ---------- */
 
 .foodweb .fw-info {
-  min-height: 2.6em;
+  min-height: 2.7em;          /* room for two lines */
   padding: 0.5rem 1rem;
   background: var(--fw-panel-bg);
   color: var(--fw-panel-text);
   border-top: 1px solid var(--fw-frame);
-  font-size: 1.05rem;
-  line-height: 1.45;
+  font-size: 32px;
+  line-height: 1.35;
 }
 .foodweb .fw-info .fw-k-in { color: var(--fw-in); font-weight: 700; }
 .foodweb .fw-info .fw-k-out { color: var(--fw-out); font-weight: 700; }
@@ -274,19 +274,19 @@
 }
 .foodweb .fw-name {
   fill: var(--fw-card-text);
-  font-size: 17px;
+  font-size: 26px;
   font-weight: 600;
   text-anchor: middle;
 }
 .foodweb.fw-no-names .fw-name,
 .foodweb.fw-no-names .fw-nameband { display: none; }
 /* :names: overlay - the name on a see-through band over the bottom of the picture */
-.foodweb .fw-nameband { fill: #ffffff; fill-opacity: 0.82; }
-.foodweb .fw-name.fw-name-on { font-size: 15px; }
+.foodweb .fw-nameband { fill: #ffffff; fill-opacity: 0.50; }
+.foodweb .fw-name.fw-name-on { font-size: 24px; }
 .foodweb.fw-theme-contrast .fw-nameband { fill-opacity: 0.95; }
 .foodweb .fw-level-label {
   fill: var(--fw-muted);
-  font-size: 17px;
+  font-size: 22px;
   font-weight: 700;
   dominant-baseline: middle;
 }
@@ -413,7 +413,7 @@
   border-left: 5px solid var(--fw-accent);
   border-radius: 8px;
   background: var(--fw-bg);
-  font-size: 23px;
+  font-size: 32px;
   line-height: 1.35;
 }
 .foodweb.fw-placing .fw-node .fw-pic,
@@ -438,6 +438,15 @@
 .foodweb .fw-piece.fw-wrong .fw-card { stroke: var(--fw-wrong); stroke-width: 4; }
 .foodweb.fw-no-names .fw-piece .fw-name { display: none; }
 .foodweb .fw-btn-main { font-weight: 700; }
+/* Dragging a picture over a box: its arrows light up, the rest fade. */
+.foodweb.fw-dropping .fw-edge { opacity: 0.15; }
+.foodweb.fw-dropping .fw-edge.fw-drop-in,
+.foodweb.fw-dropping .fw-edge.fw-drop-out { opacity: 1; display: inline; }
+.foodweb .fw-edge.fw-drop-in { color: var(--fw-in); }
+.foodweb .fw-edge.fw-drop-out { color: var(--fw-out); }
+.foodweb .fw-edge.fw-drop-in .fw-line,
+.foodweb .fw-edge.fw-drop-out .fw-line { stroke-width: 3.5; }
+.foodweb.fw-placing .fw-node.fw-droptarget .fw-card { stroke: var(--fw-accent); stroke-width: 3.5; stroke-dasharray: none; }
 @media (prefers-reduced-motion: reduce) { .foodweb .fw-piece { transition: none; } }
 @media print {
   .foodweb .fw-piece.fw-right .fw-card,
@@ -482,4 +491,84 @@
   .foodweb .fw-clue { font-size: 8.5pt; }
   .foodweb .fw-clue img { width: 40px; }
   .foodweb .fw-clue .fw-k-in { color: #000 !important; }
+}
+
+/* ---------- Enlarge a picture (magnifier, as in imagesequence) ---------- */
+
+.foodweb .fw-zoom { cursor: zoom-in; opacity: 0; transition: opacity 0.15s; }
+.foodweb .fw-zoom rect { fill: rgba(255, 255, 255, 0.85); stroke: rgba(0, 0, 0, 0.15); stroke-width: 1; }
+.foodweb .fw-zoom text {
+  font-size: 12.8px;
+  text-anchor: middle;
+  dominant-baseline: central;
+  pointer-events: none;
+}
+.foodweb .fw-zoom:hover rect { fill: #ffffff; stroke: var(--fw-accent); }
+.foodweb .fw-node:hover .fw-zoom,
+.foodweb .fw-node:focus-visible .fw-zoom,
+.foodweb .fw-piece:hover .fw-zoom,
+.foodweb .fw-piece:focus-visible .fw-zoom,
+.foodweb .fw-piece.fw-picked .fw-zoom { opacity: 1; }
+@media (hover: none) { .foodweb .fw-zoom { opacity: 0.85; } }
+/* The same button in HTML: on the clue table pictures and in the info line.
+   Sizes copied from imagesequence's .isq-zoom. */
+.foodweb .fw-zoombtn {
+  width: 1.7rem;
+  height: 1.7rem;
+  padding: 0;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.85);
+  font-size: 0.8rem;
+  line-height: 1;
+  cursor: zoom-in;
+}
+.foodweb .fw-zoombtn:hover { background: #ffffff; border-color: var(--fw-accent); }
+.foodweb .fw-zoombtn:focus-visible { outline: 2px solid var(--fw-accent); outline-offset: 2px; }
+.foodweb .fw-thumb { position: relative; flex: none; display: inline-block; line-height: 0; }
+.foodweb .fw-thumb .fw-zoombtn {
+  position: absolute;
+  top: 0.25rem;
+  right: 0.25rem;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.foodweb .fw-clue:hover .fw-zoombtn,
+.foodweb .fw-thumb .fw-zoombtn:focus-visible { opacity: 1; }
+@media (hover: none) { .foodweb .fw-thumb .fw-zoombtn { opacity: 0.85; } }
+/* In the info line, next to the organism's name (always shown). */
+.foodweb .fw-info .fw-zoombtn { vertical-align: middle; margin: 0 0.3rem 0 0.35rem; }
+/* Empty boxes in Place mode have no picture to enlarge. */
+.foodweb.fw-placing .fw-node .fw-zoom { display: none; }
+.foodweb .fw-piece.fw-lifted .fw-zoom { display: none; }
+
+.foodweb .fw-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: rgba(10, 20, 34, 0.82);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  cursor: zoom-out;
+}
+.foodweb .fw-lb-inner {
+  background: #fff;
+  color: #0f1b2d;
+  border-radius: 10px;
+  padding: 0.8rem;
+  max-width: min(1100px, 95vw);
+  max-height: 92vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+.foodweb .fw-lb-img { max-width: 100%; max-height: 78vh; object-fit: contain; display: block; }
+.foodweb .fw-lb-cap { font-size: 1.4rem; font-weight: 700; text-align: center; }
+.foodweb .fw-lb-close { background: #eef3f9; color: #0f1b2d; border-color: #c7d3e1; }
+
+@media print {
+  .foodweb .fw-zoom, .foodweb .fw-zoombtn, .foodweb .fw-lightbox { display: none !important; }
 }

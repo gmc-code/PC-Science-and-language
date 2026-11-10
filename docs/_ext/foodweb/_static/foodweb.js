@@ -75,7 +75,7 @@
       '<button type="button" class="fw-btn fw-hintbtn" hidden title="Show what could eat the last organism">&#128161; Hint</button>' +
       '<button type="button" class="fw-btn fw-clear" hidden>&#8635; Start again</button>' +
       '<span class="fw-spacer"></span>' +
-      '<button type="button" class="fw-btn fw-resetlayout" disabled title="Put the pictures back where they started">&#8634; Reset layout</button>' +
+      '<button type="button" class="fw-btn fw-resetlayout" title="Put the pictures back where they started">&#8634; Reset layout</button>' +
       '<button type="button" class="fw-btn fw-copylayout" title="Copy the positions of the pictures, to paste into the foodweb directive">&#128203; Copy layout</button>' +
       '<button type="button" class="fw-btn fw-t-arrows" aria-pressed="true">Arrows</button>' +
       '<button type="button" class="fw-btn fw-t-names" aria-pressed="true">Names</button>' +
@@ -109,6 +109,13 @@
     this.info = el("div", "fw-info");
     this.info.setAttribute("aria-live", "polite");
 
+    // Enlarged picture (the magnifier on each card), as in imagesequence.
+    this.lightbox = el("div", "fw-lightbox");
+    this.lightbox.hidden = true;
+    this.lightbox.innerHTML =
+      '<div class="fw-lb-inner"><img class="fw-lb-img" alt=""><div class="fw-lb-cap"></div>' +
+      '<button type="button" class="fw-btn fw-lb-close" aria-label="Close">&#10005; Close</button></div>';
+
     var head = this.q(".fw-head");
     head.parentNode.insertBefore(bar, head.nextSibling);
     bar.parentNode.insertBefore(set, bar.nextSibling);
@@ -116,6 +123,7 @@
     this.cluePanel = el("div", "fw-clues");
     root.appendChild(this.cluePanel);
     root.appendChild(this.info);
+    root.appendChild(this.lightbox);
 
     this.badges = document.createElementNS(SVGNS, "g");
     this.badges.setAttribute("class", "fw-badges");
@@ -128,19 +136,95 @@
     this.setToggle(".fw-t-names", !root.classList.contains("fw-no-names"));
   };
 
+  // The picture for organism i ("" if it has none).
+  FoodWeb.prototype.picSrc = function (i) {
+    var img = this.cards[i] && this.cards[i].mv.querySelector("image");
+    return img ? (img.getAttribute("href") || img.getAttribute("xlink:href") || "") : "";
+  };
+
+  // A magnifier button (HTML) for organism i, or "" if it has no picture.
+  FoodWeb.prototype.zoomBtn = function (i) {
+    if (!this.picSrc(i)) return "";
+    return '<button type="button" class="fw-zoombtn" data-i="' + i + '" title="Enlarge" ' +
+      'aria-label="Enlarge picture of ' + esc(this.names[i]) + '">&#128269;</button>';
+  };
+
+  // Scale each magnifier in the web about its corner so it is 1.7rem on
+  // screen, however much the web has been shrunk or stretched to fit.
+  FoodWeb.prototype.sizeZooms = function () {
+    var r = this.svg.getBoundingClientRect();
+    if (!r.width || !r.height) return;
+    var vb = this.svg.viewBox.baseVal;
+    var k = Math.max(vb.width / r.width, vb.height / r.height);
+    var rem = parseFloat(getComputedStyle(document.documentElement).fontSize) || 16;
+    k *= rem / 16;
+    if (!isFinite(k) || k <= 0) return;
+    Array.prototype.forEach.call(this.svg.querySelectorAll(".fw-zoom"), function (z) {
+      var ax = z.getAttribute("data-ax"), ay = z.getAttribute("data-ay");
+      z.setAttribute("transform", "translate(" + ax + " " + ay + ") scale(" + k.toFixed(3) + ") translate(" +
+        (-ax) + " " + (-ay) + ")");
+    });
+  };
+
+  FoodWeb.prototype.zoom = function (i) {
+    var src = this.picSrc(i);
+    if (!src) return;
+    this.lastFocus = document.activeElement;
+    var img = this.lightbox.querySelector(".fw-lb-img");
+    img.src = src;
+    img.alt = this.names[i];
+    this.lightbox.querySelector(".fw-lb-cap").textContent = this.names[i];
+    this.lightbox.hidden = false;
+    this.lightbox.querySelector(".fw-lb-close").focus();
+  };
+
+  FoodWeb.prototype.closeZoom = function () {
+    this.lightbox.hidden = true;
+    if (this.lastFocus && this.lastFocus.focus) {
+      try { this.lastFocus.focus({ preventScroll: true }); } catch (e) { /* ignore */ }
+    }
+  };
+
   FoodWeb.prototype.setToggle = function (sel, on) {
     this.q(sel).setAttribute("aria-pressed", on ? "true" : "false");
   };
 
   FoodWeb.prototype.bind = function () {
     var self = this;
+    // The magnifier is caught on the way down (capture), so it never starts
+    // a drag, picks a picture or fills a box.
+    this.root.addEventListener("pointerdown", function (ev) {
+      if (ev.target.closest && ev.target.closest(".fw-zoom, .fw-zoombtn")) ev.stopPropagation();
+    }, true);
+    this.root.addEventListener("click", function (ev) {
+      var z = ev.target.closest && ev.target.closest(".fw-zoom, .fw-zoombtn");
+      if (!z) return;
+      ev.stopPropagation();
+      ev.preventDefault();
+      var i = z.hasAttribute("data-i") ? +z.getAttribute("data-i")
+        : +z.closest(".fw-node, .fw-piece").getAttribute("data-i");
+      self.zoom(i);
+    }, true);
+    // Keep the web's magnifiers the same size on screen as imagesequence's.
+    this.sizeZooms();
+    if (window.ResizeObserver) {
+      new ResizeObserver(function () { self.sizeZooms(); }).observe(this.svg);
+    }
+    document.addEventListener("fullscreenchange", function () { self.sizeZooms(); });
+    this.lightbox.addEventListener("click", function () { self.closeZoom(); });
+    this.root.addEventListener("keydown", function (ev) {
+      if (ev.key === "Escape" && !self.lightbox.hidden) { ev.stopPropagation(); self.closeZoom(); }
+    }, true);
     this.nodes.forEach(function (g) {
       var i = +g.getAttribute("data-i");
       g.addEventListener("mouseenter", function () {
         if (self.mode === "explore" && self.locked === null) self.focus(i);
+        // Place mode, picture tapped: light up this box's arrows.
+        if (self.mode === "place" && self.picked != null && !self.pdrag) self.dropTarget(i);
       });
       g.addEventListener("mouseleave", function () {
         if (self.mode === "explore" && self.locked === null) self.unfocus();
+        if (self.mode === "place" && !self.pdrag) self.dropTarget(-1);
       });
       g.addEventListener("click", function (ev) {
         ev.stopPropagation();
@@ -247,7 +331,7 @@
     var name = esc(this.names[i]);
     var food = this.names_(this.food[i]).map(esc);
     var eaters = this.names_(this.eaters[i]).map(esc);
-    var parts = ["<strong>" + name + "</strong>"];
+    var parts = ["<strong>" + name + "</strong>" + this.zoomBtn(i)];
     parts.push(food.length
       ? ' <span class="fw-k-in">eats</span> ' + listText(food) + "."
       : " is a <strong>producer</strong> here: it doesn't eat anything in this web.");
@@ -435,7 +519,7 @@
      curving through the gaps. Let go and the picture settles into the
      nearest level. */
 
-  var CLEAR = 8, HEAD_LEN = 9, HEAD_HALF = 4.5;
+  var CLEAR = 8, HEAD_LEN = 16, HEAD_HALF = 9, HEAD_GAP = 6;  // gap: tip to box
 
   function f1(v) { return (Math.round(v * 10) / 10).toString(); }
 
@@ -526,10 +610,7 @@
     dy = Math.max(-c.y0 + HEAD_LEN + 4, Math.min(this.H - c.h - 2 - c.y0, dy));
     c.dx = dx; c.dy = dy;
     c.mv.setAttribute("transform", "translate(" + f1(dx) + " " + f1(dy) + ")");
-    if (!this.moved) {
-      this.moved = true;
-      this.q(".fw-resetlayout").disabled = false;
-    }
+    this.moved = true;
   };
 
   FoodWeb.prototype.snapRow = function (i) {
@@ -566,7 +647,6 @@
       e.g.classList.toggle("fw-odd", e.odd0);
     });
     this.moved = false;
-    this.q(".fw-resetlayout").disabled = true;
     if (this.mode === "trace") this.drawChain();
     void self;
   };
@@ -684,12 +764,13 @@
         else if (bx >= ax) { sx = A.x + A.w; sy = ay; tx = B.x; ty = by; }
         else { sx = A.x; sy = ay; tx = B.x + B.w; ty = by; }
         var L = Math.hypot(tx - sx, ty - sy) || 1, ux = (tx - sx) / L, uy = (ty - sy) / L;
+        tx -= ux * HEAD_GAP; ty -= uy * HEAD_GAP;
         d = "M " + f1(sx) + " " + f1(sy) + " L " + f1(tx - ux * (HEAD_LEN - 1)) + " " + f1(ty - uy * (HEAD_LEN - 1));
         head = headAt(tx, ty, ux, uy);
         e.g.classList.add("fw-odd");
       } else {
         e.g.classList.remove("fw-odd");
-        var x0 = port[k + "o"], y0 = A.y, x1 = port[k + "i"], tip = B.y + B.h;
+        var x0 = port[k + "o"], y0 = A.y, x1 = port[k + "i"], tip = B.y + B.h + HEAD_GAP;
         var obstacles = [];
         for (var v = 0; v < n; v++) {
           if (v === e.a || v === e.b) continue;
@@ -773,7 +854,7 @@
   };
 
   FoodWeb.prototype.clueLine = function (i) {
-    var name = "<strong>" + esc(this.names[i]) + "</strong>";
+    var name = "<strong>" + esc(this.names[i]) + "</strong>" + this.zoomBtn(i);
     if (this.clues === "selected" || this.clues === "both") {
       var t = this.eatsText(i);
       return t ? name + ' <span class="fw-k-in">eats</span> ' + esc(t) + "."
@@ -793,11 +874,11 @@
     });
     var html = '<div class="fw-clues-title">What each organism eats</div><div class="fw-clues-grid">';
     order.forEach(function (i) {
-      var img = self.cards[i].mv.querySelector("image");
-      var href = img ? (img.getAttribute("href") || img.getAttribute("xlink:href")) : "";
+      var href = self.picSrc(i);
       var t = self.eatsText(i);
       html += '<div class="fw-clue">' +
-        (href ? '<img src="' + esc(href) + '" alt="" loading="lazy">' : "") +
+        (href ? '<span class="fw-thumb"><img src="' + esc(href) + '" alt="" loading="lazy">' +
+          self.zoomBtn(i) + '</span>' : "") +
         '<div><strong>' + esc(self.names[i]) + "</strong><br>" +
         (t ? '<span class="fw-k-in">eats</span> ' + esc(t)
           : '<em>makes its own food (producer)</em>') + "</div></div>";
@@ -834,7 +915,8 @@
     var nGiven = (this.cfg.given || []).length;
     var rows = Math.max(1, Math.ceil((n - nGiven) / cols));
     this.trayTop = this.H0 + 6;
-    this.trayInfoH = 86;                 // the info line sits at the top of the tray
+    this.trayInfoH = 108;                // two lines of 32px info text at the top of the tray
+    this.dropSlot = -1;
     this.trayH = this.trayInfoH + 12 + rows * (chh + gx) + 6;
 
     // Organisms that eat the same things and are eaten by the same things
@@ -928,11 +1010,13 @@
           self.clearPlaceMarks();
         }
         self.movePiece(i, d.x + p.x - d.px, d.y + p.y - d.py);
+        self.dropTarget(self.slotAt(d.x + p.x - d.px + cw / 2, d.y + p.y - d.py + chh / 2));
       });
       function end(ev) {
         var d = self.pdrag;
         if (!d || d.id !== ev.pointerId || d.i !== i) return;
         self.pdrag = null;
+        self.dropTarget(-1);
         try { g.releasePointerCapture(ev.pointerId); } catch (e) { /* ignore */ }
         if (!d.moving) { self.pieceTap(i); return; }
         g.classList.remove("fw-lifted");
@@ -950,11 +1034,18 @@
         if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); self.pieceTap(i); }
       });
       g.addEventListener("mouseenter", function () {
-        if (self.mode !== "place" || self.pdrag || self.picked != null) return;
+        if (self.mode !== "place" || self.pdrag) return;
+        // A picture is tapped and this one sits in a box: tapping here would
+        // swap them, so light up that box's arrows.
+        if (self.picked != null) {
+          if (self.picked !== i && self.pieces[i].slot >= 0) self.dropTarget(self.pieces[i].slot);
+          return;
+        }
         if (self.clues === "selected" || self.clues === "both") self.info.innerHTML = self.clueLine(i);
       });
       g.addEventListener("mouseleave", function () {
-        if (self.mode !== "place" || self.pdrag || self.picked != null) return;
+        if (self.mode !== "place" || self.pdrag) return;
+        if (self.picked != null) { self.dropTarget(-1); return; }
         if (self.clues === "selected" || self.clues === "both") self.updatePlaceInfo();
       });
     });
@@ -980,6 +1071,20 @@
     this.pieceLayer.style.display = on ? "" : "none";
     if (on) this.trayInfoHost.appendChild(this.info);
     else if (this.info.parentNode !== this.root) this.root.appendChild(this.info);
+  };
+
+  // While a picture is dragged over a box, light up that box's arrows:
+  // green for arrows coming in (its food), orange for arrows going out
+  // (what eats it). s = -1 clears the highlight.
+  FoodWeb.prototype.dropTarget = function (s) {
+    if (s === this.dropSlot) return;
+    this.dropSlot = s;
+    this.root.classList.toggle("fw-dropping", s >= 0);
+    this.edges.forEach(function (e) {
+      e.classList.toggle("fw-drop-in", s >= 0 && +e.getAttribute("data-b") === s);
+      e.classList.toggle("fw-drop-out", s >= 0 && +e.getAttribute("data-a") === s);
+    });
+    this.nodes.forEach(function (g, k) { g.classList.toggle("fw-droptarget", k === s); });
   };
 
   FoodWeb.prototype.slotAt = function (x, y) {
@@ -1035,6 +1140,7 @@
   FoodWeb.prototype.unpick = function () {
     if (this.picked != null) this.pieces[this.picked].g.classList.remove("fw-picked");
     this.picked = null;
+    this.dropTarget(-1);
   };
 
   FoodWeb.prototype.pieceTap = function (i) {

@@ -129,15 +129,16 @@ MODES = ("place", "explore", "trace")
 
 PX_PER_CM = 37.8
 PAD = 5              # padding inside a card around the picture
-NAME_FONT = 17       # px
-NAME_LINE = 20       # px per line of name
-OVER_FONT = 15       # px, names on a band over the picture (:names: overlay)
-OVER_LINE = 17
+NAME_FONT = 26       # px
+NAME_LINE = 30       # px per line of name
+OVER_FONT = 24       # px, names on a band over the picture (:names: overlay)
+OVER_LINE = 27
 LANE = 14            # width a passing arrow takes up in a level
 MIN_GAP = 22         # smallest space between things in a level
 MARGIN = 18
-HEAD_LEN = 9
-HEAD_HALF = 4.5
+HEAD_LEN = 16
+HEAD_HALF = 9
+HEAD_GAP = 6         # space between an arrow's tip and the box it points to
 
 
 # ---------------------------------------------------------------- nodes
@@ -981,7 +982,7 @@ def build_layout(web, level, loops, opts):
             d.append(f"L {_fmt(dx)} {_fmt(yt)}")
             cx_, cy_ = dx, yt
         x1 = port_x[(e, "in")]
-        tip = row_top(level[b]) + ch
+        tip = row_top(level[b]) + ch + HEAD_GAP
         if e in straight:
             # A straight arrow, with the head lined up with it.
             dx, dy = x1 - x0, tip - y0
@@ -1007,7 +1008,7 @@ def build_layout(web, level, loops, opts):
         if level[a] == level[b]:
             y = A["y"]
             lift = min(gap * 0.8, 60)
-            tip = y
+            tip = y - HEAD_GAP
             y1 = tip - HEAD_LEN + 1
             d = (f"M {_fmt(ax)} {_fmt(y)} C {_fmt(ax)} {_fmt(y - lift)} {_fmt(bx)} "
                  f"{_fmt(y - lift)} {_fmt(bx)} {_fmt(y1)}")
@@ -1015,7 +1016,7 @@ def build_layout(web, level, loops, opts):
                     f"L {_fmt(bx + HEAD_HALF)} {_fmt(tip - HEAD_LEN)} Z")
         else:   # pointing down (levels chosen by hand, or a loop)
             y0 = A["y"] + ch
-            tip = B["y"]
+            tip = B["y"] - HEAD_GAP
             y1 = tip - HEAD_LEN + 1
             k = (y1 - y0) * 0.5
             d = (f"M {_fmt(ax)} {_fmt(y0)} C {_fmt(ax)} {_fmt(y0 + k)} {_fmt(bx)} "
@@ -1075,10 +1076,10 @@ def visit_foodweb_html(self, node):
             if l < len(labels) and labels[l]:
                 y = row["y"] + row["h"] / 2
                 words = _wrap(labels[l], 11)
-                y0 = y - (len(words) - 1) * 9
+                y0 = y - (len(words) - 1) * 10.5
                 out.append(f'<text class="fw-level-label" x="{MARGIN}" y="{_fmt(y0)}">')
                 for i, wd in enumerate(words):
-                    dy = "0" if i == 0 else "18"
+                    dy = "0" if i == 0 else "21"
                     out.append(f'<tspan x="{MARGIN}" dy="{dy}">{html.escape(wd)}</tspan>')
                 out.append("</text>")
         out.append("</g>")
@@ -1111,6 +1112,22 @@ def visit_foodweb_html(self, node):
                 f'x="{_fmt(x + PAD)}" y="{_fmt(y + PAD)}" width="{cw - 2 * PAD}" height="{pic_h}" '
                 f'preserveAspectRatio="xMidYMid meet"/>'
             )
+            # Magnifier in the top right corner: shows the picture full size.
+            # Same as imagesequence's enlarge button: 1.7rem square, 0.25rem in
+            # from the top right corner, 0.8rem emoji (at 16px per rem).
+            # foodweb.js scales it about the corner (data-ax/ay) so it stays
+            # that size on screen however big the web is drawn.
+            zs, zin = 27.2, 4
+            ax, ay = x + cw, y
+            zx, zy = ax - zin - zs, ay + zin
+            out.append(
+                f'<g class="fw-zoom" role="button" aria-label="Enlarge picture" '
+                f'data-ax="{_fmt(ax)}" data-ay="{_fmt(ay)}">'
+                f'<title>Enlarge</title>'
+                f'<rect x="{_fmt(zx)}" y="{_fmt(zy)}" width="{zs}" height="{zs}" rx="6"/>'
+                f'<text x="{_fmt(zx + zs / 2)}" y="{_fmt(zy + zs / 2 + 0.5)}">&#128269;</text>'
+                f'</g>'
+            )
             if lay.get("overlay"):
                 nl = len(c["lines"])
                 band = nl * OVER_LINE + 5
@@ -1124,14 +1141,20 @@ def visit_foodweb_html(self, node):
                 ty = y + PAD + pic_h + NAME_LINE - 1
         else:
             nl = len(c["lines"])
-            ty = y + chh / 2 - (nl - 1) * NAME_LINE / 2 + 5
+            ty = y + chh / 2 - (nl - 1) * NAME_LINE / 2 + NAME_FONT * 0.35
         on_pic = lay.get("overlay") and i in uris and pic_h
         line_h = OVER_LINE if on_pic else NAME_LINE
         cls = "fw-name fw-name-on" if on_pic else "fw-name"
         out.append(f'<text class="{cls}" x="{_fmt(x + cw / 2)}" y="{_fmt(ty)}">')
+        font = OVER_FONT if on_pic else NAME_FONT
+        room = cw - 2 * PAD - 4
         for k, line in enumerate(c["lines"]):
             dy = "0" if k == 0 else str(line_h)
-            out.append(f'<tspan x="{_fmt(x + cw / 2)}" dy="{dy}">{html.escape(line)}</tspan>')
+            # A single long word that can't wrap is squeezed to fit the box.
+            fit = ""
+            if len(line) * font * 0.56 > room:
+                fit = f' textLength="{_fmt(room)}" lengthAdjust="spacingAndGlyphs"'
+            out.append(f'<tspan x="{_fmt(x + cw / 2)}" dy="{dy}"{fit}>{html.escape(line)}</tspan>')
         out.append("</text></g>")
     out.append("</g></svg>")
 
@@ -1289,7 +1312,7 @@ class FoodWebDirective(SphinxDirective):
             "max_per": max_per,
             "fixed": fixed,
             "order_hint": order_hint,
-            "label_margin": 112 if labels else 0,
+            "label_margin": 124 if labels else 0,
             "straighten": self.options.get("straighten", "yes") == "yes",
             "names_overlay": self.options.get("names") == "overlay",
             "positions": {},

@@ -107,6 +107,26 @@
 
   /* ------------------------------------------------------------ widget */
 
+  var COLUMN_KEYS = ["columns", "fullColumns", "trayColumns", "fullTrayColumns", "fullTrayWidth"];
+
+  /* <option>s for the width of the full screen strip of pictures to
+     place, as a percentage. extra: the directive's own value, added if
+     it isn't one of the steps of 5. */
+  function widthOptions(extra) {
+    var vals = [15, 20, 25, 30, 35, 40, 45, 50];
+    if (extra && vals.indexOf(extra) < 0) { vals.push(extra); vals.sort(function (a, b) { return a - b; }); }
+    return '<option value="0">Auto</option>' + vals.map(function (v) {
+      return '<option value="' + v + '">' + v + '%</option>';
+    }).join("");
+  }
+
+  /* <option>s for a number select; zeroText adds a first option worth 0. */
+  function numOptions(low, high, zeroText) {
+    var out = zeroText ? '<option value="0">' + zeroText + '</option>' : "";
+    for (var i = low; i <= high; i++) out += '<option value="' + i + '">' + i + '</option>';
+    return out;
+  }
+
   function Sequence(root) {
     this.root = root;
     this.cfg = JSON.parse(root.querySelector(".isq-data").textContent);
@@ -116,7 +136,15 @@
       theme: this.cfg.theme,
       captions: this.cfg.captions,
       arrows: this.cfg.arrows,
-      numbering: this.cfg.numbering
+      numbering: this.cfg.numbering,
+      // Boxes in a row, and pictures still to place in a row. For the
+      // last three, 0 means "same as the page" / "as many as fit".
+      columns: this.cfg.columns,
+      fullColumns: this.cfg.fullColumns || 0,
+      trayColumns: this.cfg.trayColumns || 0,
+      fullTrayColumns: this.cfg.fullTrayColumns || 0,
+      // Width of the full screen strip of pictures to place (%); 0 = 24%.
+      fullTrayWidth: this.cfg.fullTrayWidth || 0
     };
     this.readSteps();
     this.build();
@@ -332,7 +360,17 @@
       '<option value="ocean">Ocean</option>' +
       '<option value="forest">Forest</option>' +
       '<option value="sunset">Sunset</option>' +
-      '<option value="contrast">High contrast</option></select></label>';
+      '<option value="contrast">High contrast</option></select></label>' +
+      '<span class="isq-set-break"></span>' +
+      '<label>Boxes in a row: <select class="isq-in-columns">' + numOptions(1, 6) + '</select></label>' +
+      '<label>in full screen: <select class="isq-in-fullColumns" aria-label="Boxes in a row in full screen">' +
+      numOptions(1, 8, "Same") + '</select></label>' +
+      '<label>Pictures to place in a row: <select class="isq-in-trayColumns">' +
+      numOptions(1, 8, "Auto") + '</select></label>' +
+      '<label>in full screen: <select class="isq-in-fullTrayColumns" aria-label="Pictures to place in a row in full screen">' +
+      numOptions(1, 6, "Auto") + '</select></label>' +
+      '<label>Pictures to place, width in full screen: <select class="isq-in-fullTrayWidth">' +
+      widthOptions(this.cfg.fullTrayWidth) + '</select></label>';
 
     this.lightbox = el("div", "isq-lightbox");
     this.lightbox.hidden = true;
@@ -361,6 +399,9 @@
     this.q(".isq-in-arrows").value = this.settings.arrows;
     this.q(".isq-in-numbering").value = this.settings.numbering;
     this.q(".isq-in-theme").value = this.settings.theme;
+    COLUMN_KEYS.forEach(function (k) {
+      this.q(".isq-in-" + k).value = String(this.settings[k]);
+    }, this);
   };
 
   /* The boxes and picture cards for the sequence being shown. */
@@ -432,8 +473,13 @@
 
   Sequence.prototype.effectiveCols = function () {
     var w = this.board.clientWidth || 800;
-    var fit = Math.max(1, Math.floor((w + 40) / 190));
-    return Math.min(this.cfg.columns, fit);
+    // Full screen (wide enough for the side-by-side layout) can have its
+    // own number of columns (:fullscreen-columns:). Boxes may be a bit
+    // narrower there, as fitFull() sizes them to the screen anyway.
+    var full = this.isFull() && window.innerWidth >= 800;
+    var want = (full && this.settings.fullColumns) || this.settings.columns;
+    var fit = Math.max(1, Math.floor((w + 40) / (full ? 150 : 190)));
+    return Math.min(want, fit);
   };
 
   Sequence.prototype.applySettings = function () {
@@ -442,6 +488,14 @@
       .replace(/\bisq-theme-\S+/g, "")
       .replace(/\bisq-cap-\S+/g, "")
       .trim() + " isq-theme-" + s.theme + " isq-cap-" + s.captions;
+    // Size of the pictures still to place (see imagesequence.css).
+    var cfg = this.cfg;
+    root.classList.toggle("isq-tray-set", !!s.trayColumns);
+    if (s.trayColumns) root.style.setProperty("--isq-tray-cols", s.trayColumns);
+    root.classList.toggle("isq-tray-set-full", !!s.fullTrayColumns);
+    if (s.fullTrayColumns) root.style.setProperty("--isq-tray-cols-full", s.fullTrayColumns);
+    if (s.fullTrayWidth) root.style.setProperty("--isq-tray-w", s.fullTrayWidth + "%");
+    else root.style.removeProperty("--isq-tray-w");
     for (var i = 0; i < this.n; i++) {
       var lab = this.slotLabel(i, s.numbering);
       var le = this.slotEls[i].querySelector(".isq-slot-label");
@@ -867,6 +921,13 @@
     ["captions", "arrows", "numbering", "theme"].forEach(function (k) {
       self.q(".isq-in-" + k).addEventListener("change", function (e) {
         self.settings[k] = e.target.value;
+        self.applySettings();
+      });
+    });
+
+    COLUMN_KEYS.forEach(function (k) {
+      self.q(".isq-in-" + k).addEventListener("change", function (e) {
+        self.settings[k] = parseInt(e.target.value, 10) || 0;
         self.applySettings();
       });
     });

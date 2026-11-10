@@ -98,7 +98,12 @@ extensions = [
     "labels.labels",  # custom directive
     "structuredquestion.structuredquestion",  # custom directive
     "flashquiz.flashquiz",  # custom directive
+    "wordsearch.wordsearch",  # custom directive
+    "guessword.guessword",  # custom directive
+    "crossword.crossword",  # custom directive
     "flashcards.flashcards",  # custom directive
+    "imagesequence.imagesequence",  # custom directive
+    "foodweb.foodweb",  # custom directive
 ]
 
 

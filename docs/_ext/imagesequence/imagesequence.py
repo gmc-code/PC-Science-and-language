@@ -12,6 +12,10 @@ Usage::
        :numbering: numbers
        :captions: below
        :columns: 3
+       :fullscreen-columns: 5
+       :tray-columns: 4
+       :fullscreen-tray-columns: 2
+       :fullscreen-tray-width: 30
        :feedback: marks
        :fixed: 1
        :theme: light
@@ -34,6 +38,18 @@ Usage::
           Heat the tube over a Bunsen burner
 
 Write the steps in the correct order: the directive shuffles them.
+
+``:columns:`` is the number of boxes in a row on the page (1 to 6).
+``:fullscreen-columns:`` (1 to 8) is the number in a row in full screen,
+where there is more room. Without it, full screen uses ``:columns:``.
+
+The pictures still to place (the tray) normally fit as many in a row as
+there is room for. To make them bigger or smaller, set the number in a
+row: ``:tray-columns:`` (1 to 8) on the page and
+``:fullscreen-tray-columns:`` (1 to 6) in full screen, where the tray is
+a strip down the right. ``:fullscreen-tray-width:`` (15 to 50) is how
+much of the screen's width that strip takes, as a percentage (normally
+24).
 
 ``step`` options:
 
@@ -170,6 +186,29 @@ def _columns(argument):
     if not 1 <= value <= 6:
         raise ValueError("must be from 1 to 6")
     return value
+
+
+def _full_columns(argument):
+    try:
+        value = int(argument)
+    except (TypeError, ValueError):
+        raise ValueError("must be a whole number from 1 to 8")
+    if not 1 <= value <= 8:
+        raise ValueError("must be from 1 to 8")
+    return value
+
+
+def _whole(low, high):
+    """Option converter: a whole number from low to high."""
+    def convert(argument):
+        try:
+            value = int(str(argument).strip().rstrip("%"))
+        except (TypeError, ValueError):
+            raise ValueError(f"must be a whole number from {low} to {high}")
+        if not low <= value <= high:
+            raise ValueError(f"must be from {low} to {high}")
+        return value
+    return convert
 
 
 def _ordinal(k):
@@ -429,6 +468,10 @@ class ImageSequenceDirective(SphinxDirective):
         "numbering": lambda a: directives.choice(a, NUMBERING),
         "captions": lambda a: directives.choice(a, CAPTIONS),
         "columns": _columns,
+        "fullscreen-columns": _full_columns,
+        "tray-columns": _whole(1, 8),
+        "fullscreen-tray-columns": _whole(1, 6),
+        "fullscreen-tray-width": _whole(15, 50),
         "feedback": lambda a: directives.choice(a, FEEDBACK),
         "fixed": _int_list,
         "theme": lambda a: directives.choice(a, THEMES),
@@ -560,6 +603,12 @@ class ImageSequenceDirective(SphinxDirective):
             "numbering": self.options.get("numbering", "numbers"),
             "captions": self.options.get("captions", "below"),
             "columns": self.options.get("columns", 3),
+            # 0 = same as :columns: in full screen.
+            "fullColumns": self.options.get("fullscreen-columns", 0),
+            # Pictures still to place: 0 = as many in a row as fit.
+            "trayColumns": self.options.get("tray-columns", 0),
+            "fullTrayColumns": self.options.get("fullscreen-tray-columns", 0),
+            "fullTrayWidth": self.options.get("fullscreen-tray-width", 0),
             "feedback": self.options.get("feedback", "marks"),
             "fixed": sorted(set(fixed)),
             "theme": self.options.get("theme", "light"),
@@ -714,7 +763,7 @@ def setup(app):
     app.connect("build-finished", copy_static_assets)
 
     return {
-        "version": "1.1",
+        "version": "1.3",
         "parallel_read_safe": True,
         "parallel_write_safe": True,
     }

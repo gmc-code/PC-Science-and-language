@@ -191,6 +191,15 @@ PC-Science-and-language
     quizzes/Y8_ch7/7C_mcq.rst
 
 
+.. toctree::
+    :maxdepth: 2
+    :caption: 🧪 Prac Sequencing
+    :numbered:
+
+    prac_sequences/Y7_yeast.rst
+    prac_sequences/Y8_SIS_pendulum.rst
+    prac_sequences/Y8_SIS_rulerdrop.rst
+
 
 .. toctree::
     :maxdepth: 2
