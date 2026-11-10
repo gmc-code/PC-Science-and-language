@@ -289,6 +289,21 @@ PC-Science-and-language
 
 .. toctree::
     :maxdepth: 2
+    :caption: ⚡ 8 Resistance Prac
+
+    prac_resistance/resistance_introduction.rst
+    prac_resistance/resistance_01_background_materials.rst
+    prac_resistance/resistance_02_variables_aim_hypothesis.rst
+    prac_resistance/resistance_03_safety_diagram_method.rst
+    prac_resistance/resistance_04_results_graph.rst
+    prac_resistance/resistance_05_trends_theory_precision.rst
+    prac_resistance/resistance_06_errors.rst
+    prac_resistance/resistance_07_application_conclusion.rst
+
+
+
+.. toctree::
+    :maxdepth: 2
     :caption: 🧪👉 Procedures
     :numbered:
 
