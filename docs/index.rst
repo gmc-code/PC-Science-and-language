@@ -199,6 +199,7 @@ PC-Science-and-language
     prac_sequences/Y7_yeast.rst
     prac_sequences/Y8_SIS_pendulum.rst
     prac_sequences/Y8_SIS_rulerdrop.rst
+    prac_sequences/Y8_SIS_rotocopter.rst
 
 
 .. toctree::

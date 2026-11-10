@@ -12,7 +12,7 @@ tap a box.
    :fixed: 1, 8
    :feedback: count
    :arrows: right
-   :columns: 2
+   :columns: 3
    :fullscreen-columns: 4
    :tray-columns: 4
    :fullscreen-tray-columns: 2
