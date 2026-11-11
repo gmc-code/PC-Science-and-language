@@ -15,7 +15,7 @@ Part C: Analysis and Evaluation
 Question 13a: Random error
 ------------------------------------------------
 
-.. admonition:: Question 13a (2 marks)
+.. admonition:: Question 13a
     :class: important
 
     Identify one random error that may have affected your data.
@@ -43,7 +43,7 @@ Fill in the gaps
 Question 13b: Improvement
 ------------------------------------------------
 
-.. admonition:: Question 13b (1 mark)
+.. admonition:: Question 13b
     :class: important
 
     Suggest an improvement to the method or design that would reduce the effect of the random error described above.
@@ -61,7 +61,7 @@ Fill in the gaps
 Question 13c: Systematic error
 ------------------------------------------------
 
-.. admonition:: Question 13c (2 marks)
+.. admonition:: Question 13c
     :class: important
 
     Identify one systematic error that may have affected your data.

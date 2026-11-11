@@ -7,8 +7,7 @@ Part A: Practical Design
 Question 5: Safety
 ------------------------------------------------
 
-.. admonition:: Question 5 (2 marks)
-    :class: important
+.. admonition:: Question 5
 
     Outline two safety considerations for this investigation.
 
@@ -49,7 +48,7 @@ Fill in the gaps
 Question 6: Circuit diagram
 ------------------------------------------------
 
-.. admonition:: Question 6 (2 marks)
+.. admonition:: Question 6
     :class: important
 
     Provide a detailed diagram of the experiment using circuit diagram symbols and labels.
@@ -82,7 +81,7 @@ Fill in the gaps
 Question 7: Method
 ------------------------------------------------
 
-.. admonition:: Question 7 (4 marks)
+.. admonition:: Question 7
     :class: important
 
     Using your knowledge of electric circuits and the background theory provided (including the materials

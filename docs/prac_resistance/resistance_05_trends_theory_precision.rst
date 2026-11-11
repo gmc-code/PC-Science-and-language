@@ -28,7 +28,7 @@ Part C: Analysis and Evaluation
 Question 10: Trends in the graph
 ------------------------------------------------
 
-.. admonition:: Question 10 (2 marks)
+.. admonition:: Question 10
     :class: important
 
     Describe all trends in the graph. Use data to support your answer.
@@ -61,7 +61,7 @@ Fill in the gaps
 Question 11: Linking results to theory
 ------------------------------------------------
 
-.. admonition:: Question 11 (2 marks)
+.. admonition:: Question 11
     :class: important
 
     Explain how the results and observations connect to the scientific theory for electricity and the relationship of Ohm's law.
@@ -91,7 +91,7 @@ Fill in the gaps
 Question 12: Precision
 ------------------------------------------------
 
-.. admonition:: Question 12 (2 marks)
+.. admonition:: Question 12
     :class: important
 
     Using your understanding of precision, explain why it is impossible to draw any conclusions on the precision

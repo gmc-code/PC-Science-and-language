@@ -41,7 +41,7 @@ Fill in the gaps
 Question 1: Materials
 ------------------------------------------------
 
-.. admonition:: Question 1 (2 marks)
+.. admonition:: Question 1
     :class: important
 
     Identify all materials that you will need to complete this investigation.

@@ -29,7 +29,7 @@ Question 14: Callum's electric car
 Question 14a: Thin wires
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. admonition:: Question 14a (2 marks)
+.. admonition:: Question 14a
     :class: important
 
     Research how changing to thin wires to connect the battery to the motor would impact the resistance of the circuit,
@@ -47,7 +47,7 @@ Question 14a: Thin wires
 Question 14b: Another way to reduce resistance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. admonition:: Question 14b (2 marks)
+.. admonition:: Question 14b
     :class: important
 
     Investigating other factors that impact resistance, suggest another way that Callum could reduce the resistance
@@ -71,7 +71,7 @@ Question 14b: Another way to reduce resistance
 Question 15: Conclusion
 ------------------------------------------------
 
-.. admonition:: Question 15 (3 marks)
+.. admonition:: Question 15
     :class: important
 
     Write a conclusion answering the research question using the results.

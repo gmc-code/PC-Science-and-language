@@ -7,7 +7,7 @@ Part B: Collection of Data
 Question 8: Results table and resistance
 ------------------------------------------------
 
-.. admonition:: Question 8 (4 marks)
+.. admonition:: Question 8
     :class: important
 
     For the different conditions of your independent variable in the first column, enter your measured values
@@ -73,7 +73,7 @@ Fill in the gaps: reading the table
 Question 9: Graph
 ------------------------------------------------
 
-.. admonition:: Question 9 (4 marks)
+.. admonition:: Question 9
     :class: important
 
     On the grid:

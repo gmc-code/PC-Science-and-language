@@ -7,11 +7,11 @@ Part A: Practical Design
 Question 2: Variables
 ------------------------------------------------
 
-.. admonition:: Question 2 (4 marks)
+.. admonition:: Question 2
     :class: important
 
-    | a. Complete the table by providing one variable from the investigation for each classification. (3 marks)
-    | b. Using your identified controlled variable for part a, justify why it needs to be controlled. (1 mark)
+    | a. Complete the table by providing one variable from the investigation for each classification.
+    | b. Using your identified controlled variable for part a, justify why it needs to be controlled.
 
 .. admonition:: Key ideas
     :class: note
@@ -87,7 +87,7 @@ Fill in the gaps
 Question 4: Hypothesis
 ------------------------------------------------
 
-.. admonition:: Question 4 (2 marks)
+.. admonition:: Question 4
     :class: important
 
     Using the information given throughout this document, construct a hypothesis for this experiment.
