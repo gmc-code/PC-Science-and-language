@@ -63,9 +63,9 @@ Question 6: Circuit diagram
     * **Label** each component.
 
 .. image:: images/resistance_circuit_diagram.png
-    :width: 600
     :align: center
     :alt: Circuit diagram showing a power pack, an ammeter and three globes in series, with a voltmeter in parallel across the globes
+
 
 Fill in the gaps
 ~~~~~~~~~~~~~~~~~~~~~~
